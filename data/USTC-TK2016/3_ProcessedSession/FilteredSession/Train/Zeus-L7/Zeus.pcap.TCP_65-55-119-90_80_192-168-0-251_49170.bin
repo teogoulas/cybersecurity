@@ -1,0 +1,23 @@
+GET /ncsi.txt HTTP/1.1
+Connection: Close
+User-Agent: Microsoft NCSI
+Host: www.msftncsi.com
+
+GET /ncsi.txt HTTP/1.1
+Connection: Close
+User-Agent: Microsoft NCSI
+Host: www.msftncsi.com
+
+HTTP/1.1 200 OK
+Cache-Control: max-age=30,must-revalidate
+Content-Type: text/plain
+Last-Modified: Tue, 13 Jan 2009 00:37:56 GMT
+Accept-Ranges: bytes
+ETag: "4e504c2d1775c91:0"
+Server: Microsoft-IIS/7.0
+X-Powered-By: ASP.NET
+Date: Tue, 29 May 2012 04:21:39 GMT
+Connection: close
+Content-Length: 14
+
+Microsoft NCSI

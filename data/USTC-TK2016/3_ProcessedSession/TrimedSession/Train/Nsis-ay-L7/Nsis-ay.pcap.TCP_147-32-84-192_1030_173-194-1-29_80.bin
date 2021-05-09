@@ -1,0 +1,30 @@
+GET /edgedl/chrome/install/782.112_782.107/chrome_updater.exe HTTP/1.1
+User-Agent: Google Update/1.3.21.65;winhttp
+X-Last-HR: 0x0
+X-Last-HTTP-Status-Code: 0
+X-Retry-Count: 0
+Host: cache.pack.google.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Pragma: no-cache
+
+GET /edgedl/chrome/install/782.112_782.107/chrome_updater.exe HTTP/1.1
+User-Agent: Google Update/1.3.21.65;winhttp
+X-Last-HR: 0x0
+X-Last-HTTP-Status-Code: 0
+X-Retry-Count: 0
+Host: cache.pack.google.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Pragma: no-cache
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Length: 739384
+Content-Type: application/x-msdos-program
+ETag: 23cf5
+Vary: *
+Date: Thu, 18 Aug 2011 16:48:26 GMT
+Server: downloads
+X-XSS-Protection: 1; mode=block
+Last-Modified

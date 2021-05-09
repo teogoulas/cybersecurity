@@ -1,0 +1,28 @@
+Get /wp-content/themes/b-tv/cr_mss3.exe HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+Host: www.4action.tv
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 501 Method Not Implemented
+Date: Wed, 29 Apr 2015 06:58:55 GMT
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Tue, 16 Sep 2014 09:59:12 GMT
+ETag: "1328049-3fa-5032bcda25c00"
+Accept-Ranges: bytes
+Content-Length: 1018
+X-Powered-By: PleskLin
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>501 Not Implemented</TITLE>
+</HEAD>
+<BODY>
+<H1>Not Implemented</H1>
+The page you are looking for cannot be displayed because a header value in the request does not match certain configuration settings on the Web server.<P>
+<HR>
+<AD

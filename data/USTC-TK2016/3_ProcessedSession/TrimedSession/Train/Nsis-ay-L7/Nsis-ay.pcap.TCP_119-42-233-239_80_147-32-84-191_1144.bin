@@ -1,0 +1,9 @@
+GET /syncAcookie.php?cna=UxHVBv8ofmMCAb9UIJOB/aBy HTTP/1.1
+Accept: */*
+Referer: http://z.alimama.com/alimama.php?i=mm_15190792_2147655_8533566&w=950&h=3800&sz=15&re=1280x722&cah=692&caw=1280&ccd=32&ctz=3&chl=0&cja=1&cpl=0&cmm=0&cf=10.0&cg=d1a7585f35eb7026a5cb467f9daa42b7&ac=4643&prm=49245119&cas=prm&cbh=0&cbw=751&sx=0&sy=0&refpos=,a,null&t=2&tc=0000FF&dc=000000&bgc=FFFFFF&bdc=E6E6E6&lc=008000&bmc=FFFFFF&as=0&bgp=0&ic=0&pf=1&p4p_ai=1&dx=1&iss=0&u=http%3A%2F%2Fwww.wagabb.com%2Ftaob.html%3Fzuma001&k=&tt=%E6%B7%98%E5%AE%9D%E5%95%86%E5%9F%8E&r=&fu=-1
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: acookie.taobao.com
+Connection: Keep-Alive
+Cookie: cookie2=0a4772f5bfb0c7d467c5eb1cf4e99c88; t=7b

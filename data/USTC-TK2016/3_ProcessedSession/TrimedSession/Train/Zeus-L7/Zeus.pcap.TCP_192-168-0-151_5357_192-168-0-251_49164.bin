@@ -1,0 +1,19 @@
+POST /acc7fe12-3135-466d-a131-c5ba9b41ee06/ HTTP/1.1
+Cache-Control: no-cache
+Connection: Close
+Pragma: no-cache
+Content-Type: application/soap+xml
+User-Agent: WSDAPI
+Content-Length: 733
+Host: 192.168.0.151:5357
+
+POST /acc7fe12-3135-466d-a131-c5ba9b41ee06/ HTTP/1.1
+Cache-Control: no-cache
+Connection: Close
+Pragma: no-cache
+Content-Type: application/soap+xml
+User-Agent: WSDAPI
+Content-Length: 733
+Host: 192.168.0.151:5357
+
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:lms="http://schemas.microsoft.com/windows/lms/2007/08"><soap:Header><wsa:To>urn:uuid:acc7fe12-3135-466d-a131-c5ba9b41ee06</wsa:To><wsa:Action>http://schemas.xmlsoap.org/

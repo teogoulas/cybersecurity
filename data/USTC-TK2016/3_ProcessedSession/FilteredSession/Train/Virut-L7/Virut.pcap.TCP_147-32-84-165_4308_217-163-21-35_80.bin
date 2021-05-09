@@ -1,0 +1,39 @@
+GET /imp?Z=0x0&anmember=541&anprice=&y=29&s=2056437&_salt=3525910925&X=10101191,8575318,9035780,10311365&B=10&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ad.yieldmanager.com
+Connection: Keep-Alive
+Cookie: ih="b!!!!'!0vq+!!!!#=0a@K!1aY=!!!!#=0a@L!3J*R!!!!#=0a@K!3h22!!!!#=0a@L"; vuday1=!!!!'!7/9q:G-?_; BX=8u7ll2174irh1&b=4&s=oa&t=226; uid=uid=a2a74db6-c771-11e0-9430-9f6df386650a&_hmacv=1&_salt=3227003844&_keyid=k1&_hmac=f8f0f3bad620ac38dbba47e8fd353a93acd03c4f; liday1='W2E]b1q+F!7/9q]EM]=
+
+GET /imp?Z=0x0&anmember=541&anprice=&y=29&s=2056437&_salt=3525910925&X=10101191,8575318,9035780,10311365&B=10&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ad.yieldmanager.com
+Connection: Keep-Alive
+Cookie: ih="b!!!!'!0vq+!!!!#=0a@K!1aY=!!!!#=0a@L!3J*R!!!!#=0a@K!3h22!!!!#=0a@L"; vuday1=!!!!'!7/9q:G-?_; BX=8u7ll2174irh1&b=4&s=oa&t=226; uid=uid=a2a74db6-c771-11e0-9430-9f6df386650a&_hmacv=1&_salt=3227003844&_keyid=k1&_hmac=f8f0f3bad620ac38dbba47e8fd353a93acd03c4f; liday1='W2E]b1q+F!7/9q]EM]=
+
+HTTP/1.1 200 OK
+Date: Mon, 15 Aug 2011 19:06:11 GMT
+Server: YTS/1.18.4
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+X-RightMedia-Hostname: raptor0008.rm.ch1.yahoo.com
+Set-Cookie: BX=8u7ll2174irh1&b=4&s=oa&t=226; path=/; expires=Tue, 19-Jan-2038 03:14:07 GMT
+Cache-Control: no-store
+Last-Modified: Mon, 15 Aug 2011 19:06:11 GMT
+Pragma: no-cache
+Content-Length: 825
+Content-Type: application/x-javascript
+Age: 0
+Connection: close
+
+var l = (screen.width - 1500) / 2;
+var t = (screen.height - 1200) / 2;
+var pop = window.open('http://adserving.cpxinteractive.com/iframe3?AAAAAPVgHwBfso8AAAAAAPzCJQAAAAAAAgAQAAAAAAAAAP8AAAACFjSwMgAAAAAAP8kOAAAAAABPezEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD-uhIAAAAAAAICAwAAAAAAuB6F61G43j-4HoXrUbjeP5qZmZmZmek.mpmZmZmZ6T-amZmZmZnpP5qZmZmZmek.AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD.ta4Ko1KSCoq-FKRi1Be-uoAzLhe3UeN2UO1cAAAAAA==,,http%3A%2F%2Fwww.netygames.com%2Fnetgame.html,B%3D10%26X%3D10101191%2C8575318%2C9035780%2C10311365%26Z%3D0x0%26_salt%3D3525910925%26anmember%3D541%26anprice%3D%26r%3D1%26s%3D2056437%26y%3D29,a3b7364e-c771-11e0-acc0-836f9bd00241','','height=1200,width=1500,left='+l+',top='+t+',toolbar=0,status=0,menubar=0,resizable=0,scrollbars=1,location=1');
+pop.blur();
+window.focus();

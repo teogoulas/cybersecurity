@@ -1,0 +1,17 @@
+GET /getresponse.js?issp=1&ce=1&libver=6.3&art=admsm&admguid=12272_1369672872x2035819383&pvId=1425486376481&zones=a5fc560e-925f-4054-a18e-56227d0f62e3|admixer_async_478676499|0&isda=1&fv=16.0&pg=http%3A%2F%2Folx.ua%2F&dc=&srt=14&ish5v=1 HTTP/1.1
+Host: ad.admixer.net
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+Referer: http://olx.ua/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: am-uid=eee4e2d83126474185805b63a9ca19ea; admguid=12272_1369672872x2035819383
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Content-Type: application/x-javascript; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.5
+Set-Co

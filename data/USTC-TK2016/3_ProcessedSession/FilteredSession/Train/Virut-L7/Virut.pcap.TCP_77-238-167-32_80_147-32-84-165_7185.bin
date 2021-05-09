@@ -1,0 +1,34 @@
+GET /v2/cexposer/SIG=13ahi2098/*http%3A//cms.ad.yieldmanager.net/v1/cms?esig=1~ed097b82db382a1fd455fb947bcd01b57e206e42&nwid=10000040578 HTTP/1.1
+Accept: */*
+Referer: http://uac.advertising.com/wrapper/aceUACping.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: cookex.amp.yahoo.com
+
+GET /v2/cexposer/SIG=13ahi2098/*http%3A//cms.ad.yieldmanager.net/v1/cms?esig=1~ed097b82db382a1fd455fb947bcd01b57e206e42&nwid=10000040578 HTTP/1.1
+Accept: */*
+Referer: http://uac.advertising.com/wrapper/aceUACping.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: cookex.amp.yahoo.com
+
+HTTP/1.1 302 Found
+Date: Mon, 15 Aug 2011 22:36:00 GMT
+Set-Cookie: B=dgbrnkd74j7qg&b=3&s=6h; expires=Tue, 15-Aug-2013 20:00:00 GMT; path=/; domain=.yahoo.com
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Location: http://cms.ad.yieldmanager.net/v1/cms?esig=1~ed097b82db382a1fd455fb947bcd01b57e206e42&nwid=10000040578&SIG=10vgaok2c;x-cookie=qtoeaxq74w7dt&o=4&f=62
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Cache-Control: private
+
+59     
+<!-- cookex2.ads.adx.ch1.yahoo.com uncompressed/chunked Mon Aug 15 22:36:00 UTC 2011 -->
+
+0
+

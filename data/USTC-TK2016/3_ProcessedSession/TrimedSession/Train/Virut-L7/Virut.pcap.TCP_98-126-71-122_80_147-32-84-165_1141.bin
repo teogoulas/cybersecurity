@@ -1,0 +1,19 @@
+GET /gen.php HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: www.generalamuse.com
+Connection: Keep-Alive
+
+GET /gen.php HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: www.generalamuse.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Date: Mon, 15 Aug 2011 17:58:57 GMT
+Server: Apache/2.0.63 (Win32

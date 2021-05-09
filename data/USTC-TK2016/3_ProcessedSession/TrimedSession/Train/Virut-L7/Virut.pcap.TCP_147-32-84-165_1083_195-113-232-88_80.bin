@@ -1,0 +1,22 @@
+GET /ffadult/featured/external/photos/P9/CNp9SLcSPNC9u4s0WCdSLSPtnA.jpg HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: photos.pop6.com
+Connection: Keep-Alive
+
+GET /ffadult/featured/external/photos/P9/CNp9SLcSPNC9u4s0WCdSLSPtnA.jpg HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: photos.pop6.com
+Connection: Keep-Alive
+
+HTTP/1.0 200 OK
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Thu, 07 Oct 2010 20:20:29 GMT
+ETag: "17a366c2-5110-4920ca0083d40"
+Accept-Ranges: bytes
+Content-Length: 20752
+Content-Type: image/jpeg
+X-Cache-Lookup: HIT from origin.frie

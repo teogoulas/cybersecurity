@@ -1,0 +1,71 @@
+220 smtp110.mail.ne1.yahoo.com ESMTP
+EHLO slaterzfzzagjysyt
+EHLO slaterzfzzagjysyt
+250-smtp110.mail.ne1.yahoo.com
+250-AUTH LOGIN PLAIN XYMCOOKIE
+250-PIPELINING
+250 8BITMIME
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+c2xhdGVyemZ6emFnanlzeXQ=
+c2xhdGVyemZ6emFnanlzeXQ=
+334 UGFzc3dvcmQ6
+cjJxdjFia3l3
+cjJxdjFia3l3
+235 OK, go ahead
+MAIL FROM: <slaterzfzzagjysyt@yahoo.com>
+MAIL FROM: <slaterzfzzagjysyt@yahoo.com>
+250 OK , completed
+RCPT TO: <draromolaran@yahoo.com>
+RCPT TO: <draromolaran@yahoo.com>
+250 OK , completed
+RCPT TO: <dougmay28@yahoo.com>
+RCPT TO: <dougmay28@yahoo.com>
+250 OK , completed
+RCPT TO: <pjb38@yahoo.com>
+RCPT TO: <pjb38@yahoo.com>
+250 OK , completed
+RCPT TO: <meggan0571@yahoo.com>
+RCPT TO: <meggan0571@yahoo.com>
+250 OK , completed
+DATA
+DATA
+354 Start Mail. End with CRLF.CRLF
+Message-ID: <237497119$1478301639$307497231@slaterzfzzagjysyt>
+From: "Destiney Altenbaugh" <slaterzfzzagjysyt@yahoo.com>
+To: <draromolaran@yahoo.com>
+Subject: FW:Don'tWrryAboutYourSexualLifeUseSuperViagraAndBeHappy. 
+Date: Mon, 15 Aug 2011 17:02:52 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+Jo el Alrea dy http://fdrjbqwdolr1l.isCool.net?sekutilej.pufalihob SizzlingMessage-ID: <237497119$1478301639$307497231@slaterzfzzagjysyt>
+From: "Destiney Altenbaugh" <slaterzfzzagjysyt@yahoo.com>
+To: <draromolaran@yahoo.com>
+Subject: FW:Don'tWrryAboutYourSexualLifeUseSuperViagraAndBeHappy. 
+Date: Mon, 15 Aug 2011 17:02:52 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+Jo el Alrea dy http://fdrjbqwdolr1l.isCool.net?sekutilej.pufalihob Sizzling
+.
+
+.
+554 Transaction failed : Cannot send message due to possible abuse; please visit http://postmaster.yahoo.com/abuse_smtp.html for more information

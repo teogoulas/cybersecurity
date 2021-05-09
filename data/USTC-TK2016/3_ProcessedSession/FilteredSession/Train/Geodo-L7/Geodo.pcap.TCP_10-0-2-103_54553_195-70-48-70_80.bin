@@ -1,0 +1,16 @@
+Get /modules/mod_aratipas/cr_mss3.exe HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+Host: garuda.hu
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 406 Not Acceptable
+Date: Tue, 19 May 2015 19:25:11 GMT
+Server: Apache
+Content-Length: 419
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<HTML><HEAD><TITLE>Weboldalunk túlterhelt</TITLE><META HTTP-EQUIV='Content-Language' content='hu'><META HTTP-EQUIV='Content-Type' content='text/html; charset=ISO-8859-2'></HEAD><BODY BGCOLOR=#FFFFF2><I><FONT FACE='Trebuchet Ms, Arial, Verdana' Size=3><BR><B>Tisztelt Látogató!</B><BR><BR>Weboldalunk jelenleg túlterhelt, kérjük látogasson vissza később!<BR><BR>Türelmét és megértését megköszönve,<BR><BR> az üzemeltetők

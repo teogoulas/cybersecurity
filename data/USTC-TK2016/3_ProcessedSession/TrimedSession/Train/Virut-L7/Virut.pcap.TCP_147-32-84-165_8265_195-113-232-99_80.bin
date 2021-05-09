@@ -1,0 +1,17 @@
+GET /CDN/155095/HK_160x600_v1_5.25.11.jpg HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.5.3
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 25 May 2011 21:09:06 GMT
+If-None-Match: "18f2a0-8b5c-4a4201d666080"
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=YX500013134498590037; ASCID=YX500013134498590037; F1=BM4pJ5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA
+
+GET /CDN/155095/HK_160x600_v1_5.25.11.jpg HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (

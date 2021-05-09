@@ -1,0 +1,1321 @@
+Get /images/cr_mss3.exe HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+Host: mayranavarro.com.br
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 501 Method Not Implemented
+Date: Tue, 28 Apr 2015 11:27:30 GMT
+Server: Apache
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Expires: Mon, 1 Jan 2001 00:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 835fb3bf16150c3237b0453ed16306ec=39fa7529dcf65c03cfdac663aad54e26; path=/
+Last-Modified: Tue, 28 Apr 2015 11:27:32 GMT
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="MetaKeys" />
+  <meta name="description" content="MetaDesc" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Mayra Navarro</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/designwerks/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br/plugins/system/jxtc_xmenu/xmenu.css" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br/templates/designwerks/XTC/cssproc.php?file=default.css" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br/templates/designwerks/XTC/cssproc.php?group=grid&amp;file=grid" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br/templates/designwerks/XTC/cssproc.php?group=style1&amp;file=style1" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br/templates/designwerks/XTC/cssproc.php?group=typo&amp;file=typo" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br/templates/designwerks/XTC/cssproc.php?file=template.css" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br/modules/mod_jxtc_newspro/templates/designwerks_latest_blog_splash/template.css" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br/modules/mod_jxtc_newspro/css/wall.css" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br/modules/mod_jxtc_rsmonialswall/templates/designwerks_clients_comments_splash/template.css" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br/modules/mod_jxtc_rsmonialswall/css/wall.css" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br/components/com_jxtcpowertabs/powertabs.css" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br/modules/mod_jxtc_newspro/templates/designwerks_design_categories/template.css" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br/modules/mod_jxtc_rsmonialswall/templates/designwerks_clients_comments/template.css" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br//modules/mod_ccnewsletter/assets/newsletter.css" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br//modules/mod_ccnewsletter/assets/highslide.css" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br/modules/mod_jxtc_contactwall/templates/designwerks_singlecontact/template.css" type="text/css" />
+  <link rel="stylesheet" href="http://mayranavarro.com.br/modules/mod_jxtc_contactwall/css/wall.css" type="text/css" />
+  <script type="text/javascript" src="/components/com_jcomments/js/jcomments-v2.1.js?v=2"></script>
+  <script type="text/javascript" src="/components/com_jcomments/libraries/joomlatune/ajax.js"></script>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="http://mayranavarro.com.br/templates/designwerks/js/xtcMenu.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript" src="http://mayranavarro.com.br/media/JoomlaXTC/showcaseFX.js"></script>
+  <script type="text/javascript" src="http://mayranavarro.com.br/components/com_jxtcpowertabs/powertabs.js"></script>
+  <script type="text/javascript" src="http://mayranavarro.com.br/modules/mod_jxtc_mediacenter/js/jxtcswfobject.js"></script>
+  <script type="text/javascript" src="http://mayranavarro.com.br//modules/mod_ccnewsletter/assets/highslide-with-html.js"></script>
+  <script type="text/javascript">
+window.addEvent('load', function(){ xtcMenu(null, 'menu', 200,100,'h', new Fx.Transition(Fx.Transitions.Quint.easeInOut), 80, true, true); });
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+
+			$$('a.modal').each(function(el) {
+				el.addEvent('click', function(e) {
+					new Event(e).stop();
+					SqueezeBox.fromElement(el);
+				});
+			});
+		});window.addEvent('load', function(){
+var jxtc553f6ea33c715slidebox = new slidebox('jxtc553f6ea33c715','RSO',{xi:0,xo:0,yi:0,yo:0},{fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),dura:800,frames:50});
+var jxtc553f6ea33c715jxtcpops = new jxtcpops('jxtc553f6ea33c715',{opacityin:1,opacityout:1,verticalin:0,verticalout:0,horizontalin:0,horizontalout:0,durationin:550,durationout:550,pause:1000,fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),centered:'1'});
+var jxtc553f6ea33c715jxtctips = new jxtctips('jxtc553f6ea33c715',{opacityin:1,opacityout:1,verticalin:0,verticalout:0,horizontalin:0,horizontalout:0,durationin:550,durationout:550,pause:1000,fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),centered:'1'});
+var jxtc553f6ea33c715jxtchover = new jxtchover('jxtc553f6ea33c715','CECECE','FFFFFF');
+});window.addEvent('load', function(){var jxtc553f6ea33c715 = new showcaseFX('jxtc553f6ea33c715',{fxmode:'slideHor',fxflow:'LR',fxpause:4000,fxspeed:1500,fxlayer:'0',fxtype:new Fx.Transition(Fx.Transitions.linear)});});window.addEvent('load', function(){
+var jxtc553f6ea344d09slidebox = new slidebox('jxtc553f6ea344d09','RSO',{xi:0,xo:0,yi:0,yo:0},{fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),dura:800,frames:50});
+var jxtc553f6ea344d09jxtcpops = new jxtcpops('jxtc553f6ea344d09',{opacityin:1,opacityout:1,verticalin:0,verticalout:0,horizontalin:0,horizontalout:0,durationin:550,durationout:550,pause:1000,fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),centered:'1'});
+var jxtc553f6ea344d09jxtctips = new jxtctips('jxtc553f6ea344d09',{opacityin:1,opacityout:1,verticalin:0,verticalout:0,horizontalin:0,horizontalout:0,durationin:550,durationout:550,pause:1000,fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),centered:'1'});
+var jxtc553f6ea344d09jxtchover = new jxtchover('jxtc553f6ea344d09','CECECE','FFFFFF');
+});window.addEvent('load', function(){var jxtc553f6ea344d09 = new showcaseFX('jxtc553f6ea344d09',{fxmode:'slideHor',fxflow:'LR',fxpause:4000,fxspeed:1500,fxlayer:'0',fxtype:new Fx.Transition(Fx.Transitions.linear)});});var jxtc553f6ea33141ftips = new Array();
+// Element 2
+jxtc553f6ea33141ftips[0] = {
+'opacityin':1,
+'opacityout':0,
+'verticalin':0,
+'verticalout':0,
+'horizontalin':0,
+'horizontalout':0,
+'durationin':250,
+'durationout':250,
+'fadein':0.5,
+'fadeout':0.5,
+'pause':50,
+'transition':'Quad',
+'subtransition':'easeInOut'
+};
+// Element 3
+jxtc553f6ea33141ftips[1] = {
+'opacityin':1,
+'opacityout':0,
+'verticalin':0,
+'verticalout':0,
+'horizontalin':0,
+'horizontalout':0,
+'durationin':250,
+'durationout':250,
+'fadein':0.5,
+'fadeout':0.5,
+'pause':200,
+'transition':'Quad',
+'subtransition':'easeInOut'
+};
+// Element 4
+jxtc553f6ea33141ftips[2] = {
+'opacityin':1,
+'opacityout':0,
+'verticalin':0,
+'verticalout':0,
+'horizontalin':0,
+'horizontalout':0,
+'durationin':250,
+'durationout':250,
+'fadein':0.5,
+'fadeout':0.5,
+'pause':50,
+'transition':'Quad',
+'subtransition':'easeInOut'
+};
+// Element 5
+jxtc553f6ea33141ftips[3] = {
+'opacityin':1,
+'opacityout':0,
+'verticalin':0,
+'verticalout':0,
+'horizontalin':0,
+'horizontalout':0,
+'durationin':250,
+'durationout':250,
+'fadein':0.5,
+'fadeout':0.5,
+'pause':50,
+'transition':'Quad',
+'subtransition':'easeInOut'
+};
+window.addEvent('load', function(){ new powertabs({
+id:'jxtc553f6ea3d2b54',
+fx:'fade',
+orientation:'',
+fxflow:'',
+duration:850,
+pause:3000,
+autoplay:true,
+animode:new Fx.Transition(Fx.Transitions.Quart.easeInOut),
+width:1028,
+height:370,
+initialTab:0,
+tabFlow:'FL'
+}); });window.addEvent('load', function(){
+var jxtc553f6ea3d758fslidebox = new slidebox('jxtc553f6ea3d758f','RSO',{xi:0,xo:0,yi:0,yo:0},{fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),dura:800,frames:50});
+var jxtc553f6ea3d758fjxtcpops = new jxtcpops('jxtc553f6ea3d758f',{opacityin:1,opacityout:1,verticalin:0,verticalout:0,horizontalin:0,horizontalout:0,durationin:550,durationout:550,pause:1000,fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),centered:'1'});
+var jxtc553f6ea3d758fjxtctips = new jxtctips('jxtc553f6ea3d758f',{opacityin:1,opacityout:1,verticalin:0,verticalout:0,horizontalin:0,horizontalout:0,durationin:550,durationout:550,pause:1000,fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),centered:'1'});
+var jxtc553f6ea3d758fjxtchover = new jxtchover('jxtc553f6ea3d758f','CECECE','FFFFFF');
+});window.addEvent('load', function(){var jxtc553f6ea3d758f = new showcaseFX('jxtc553f6ea3d758f',{fxmode:'slideHor',fxflow:'LR',fxpause:4000,fxspeed:1500,fxlayer:'0',fxtype:new Fx.Transition(Fx.Transitions.linear)});});window.addEvent('load', function(){
+var jxtc553f6ea3e4ca8slidebox = new slidebox('jxtc553f6ea3e4ca8','RSO',{xi:0,xo:0,yi:0,yo:0},{fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),dura:800,frames:50});
+var jxtc553f6ea3e4ca8jxtcpops = new jxtcpops('jxtc553f6ea3e4ca8',{opacityin:1,opacityout:1,verticalin:0,verticalout:0,horizontalin:0,horizontalout:0,durationin:550,durationout:550,pause:1000,fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),centered:'1'});
+var jxtc553f6ea3e4ca8jxtctips = new jxtctips('jxtc553f6ea3e4ca8',{opacityin:1,opacityout:1,verticalin:0,verticalout:0,horizontalin:0,horizontalout:0,durationin:550,durationout:550,pause:1000,fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),centered:'1'});
+var jxtc553f6ea3e4ca8jxtchover = new jxtchover('jxtc553f6ea3e4ca8','CECECE','FFFFFF');
+});window.addEvent('load', function(){var jxtc553f6ea3e4ca8 = new showcaseFX('jxtc553f6ea3e4ca8',{fxmode:'slideHor',fxflow:'LR',fxpause:4000,fxspeed:1500,fxlayer:'0',fxtype:new Fx.Transition(Fx.Transitions.linear)});});window.addEvent('load', function(){
+var jxtc553f6ea3ed911slidebox = new slidebox('jxtc553f6ea3ed911','RSO',{xi:0,xo:0,yi:0,yo:0},{fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),dura:800,frames:50});
+var jxtc553f6ea3ed911jxtcpops = new jxtcpops('jxtc553f6ea3ed911',{opacityin:1,opacityout:1,verticalin:0,verticalout:0,horizontalin:0,horizontalout:0,durationin:550,durationout:550,pause:1000,fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),centered:'1'});
+var jxtc553f6ea3ed911jxtctips = new jxtctips('jxtc553f6ea3ed911',{opacityin:1,opacityout:1,verticalin:0,verticalout:0,horizontalin:0,horizontalout:0,durationin:550,durationout:550,pause:1000,fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),centered:'1'});
+var jxtc553f6ea3ed911jxtchover = new jxtchover('jxtc553f6ea3ed911','CECECE','FFFFFF');
+});window.addEvent('load', function(){var jxtc553f6ea3ed911 = new showcaseFX('jxtc553f6ea3ed911',{fxmode:'slideHor',fxflow:'LR',fxpause:4000,fxspeed:1500,fxlayer:'0',fxtype:new Fx.Transition(Fx.Transitions.linear)});});window.addEvent('load', function(){
+var jxtc553f6ea40b0e2slidebox = new slidebox('jxtc553f6ea40b0e2','RSO',{xi:0,xo:0,yi:0,yo:0},{fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),dura:800,frames:50});
+var jxtc553f6ea40b0e2jxtcpops = new jxtcpops('jxtc553f6ea40b0e2',{opacityin:1,opacityout:0,verticalin:0,verticalout:0,horizontalin:0,horizontalout:0,durationin:550,durationout:550,pause:1000,fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),centered:'1'});
+var jxtc553f6ea40b0e2jxtctips = new jxtctips('jxtc553f6ea40b0e2',{opacityin:1,opacityout:0,verticalin:0,verticalout:0,horizontalin:0,horizontalout:0,durationin:550,durationout:550,pause:1000,fxtype:new Fx.Transition(Fx.Transitions.Quad.easeIn),centered:'1'});
+var jxtc553f6ea40b0e2jxtchover = new jxtchover('jxtc553f6ea40b0e2','CECECE','FFFFFF');
+});window.addEvent('load', function(){var jxtc553f6ea40b0e2 = new showcaseFX('jxtc553f6ea40b0e2',{fxmode:'slideHor',fxflow:'LR',fxpause:4000,fxspeed:1500,fxlayer:'0',fxtype:new Fx.Transition(Fx.Transitions.linear)});});
+  </script>
+
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://mayranavarro.com.br/templates/designwerks/css/ie7.css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://mayranavarro.com.br/templates/designwerks/css/ie8.css" /><![endif]-->
+</head>
+<body>
+	<div id="iconwrap"><div id="iconpush" class="xtc-wrapperwide"><div id="icons" class="clearfix xtc-wrapper"><div id="icon2" class="singlecolumn" style="float:left; width:286px;"><div class="singlearea"><div class="module title-off ">
+    <div class="modulecontent">
+  <script language="javascript" type="text/javascript">
+/*
+  JoomlaXTC Splash Panel Pro
+
+  version 3.4.3
+  
+  Copyright (C) 2009,2010  Monev Software LLC. All Rights Reserved.
+  
+	This program is free software; you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation; either version 2 of the License, or
+	(at your option) any later version.
+	
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+	
+	You should have received a copy of the GNU General Public License
+	along with this program; if not, write to the Free Software
+	Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+	
+	THIS LICENSE IS NOT EXTENSIVE TO ACCOMPANYING FILES UNLESS NOTED.
+
+	See COPYRIGHT.php for more information.
+	See LICENSE.php for more information.
+	
+	Monev Software LLC
+	www.joomlaxtc.com
+*/
+
+window.addEvent('domready', function(){
+
+/* Function: Transition Select */  
+  if(typeof(transSel)== 'undefined'){
+    function transSel(t,s){
+      var tran;
+      switch(t){
+        case 'linear':
+            switch(s){
+              case 'easeIn':
+              tran = new Fx.Transition(Fx.Transitions.linear).easeIn;
+              return tran;
+              break;
+              
+              case 'easeOut':
+              tran = new Fx.Transition(Fx.Transitions.linear).easeOut;
+              return tran;
+              break;
+              
+              case 'easeInOut':
+              tran = new Fx.Transition(Fx.Transitions.linear).easeInOut;
+              return tran;
+              break;
+            }
+        break;
+        
+        case 'Quad':
+            switch(s){
+              case 'easeIn':
+              tran = new Fx.Transition(Fx.Transitions.Quad).easeIn;
+              return tran;
+              break;
+              
+              case 'easeOut':
+              tran = new Fx.Transition(Fx.Transitions.Quad).easeOut;
+              return tran;
+              break;
+              
+              case 'easeInOut':
+              tran = new Fx.Transition(Fx.Transitions.Quad).easeInOut;
+              return tran;
+              break;
+            }
+        break;
+        
+        case 'Cubic':
+            switch(s){
+              case 'easeIn':
+              tran = new Fx.Transition(Fx.Transitions.Cubic).easeIn;
+              return tran;
+              break;
+              
+              case 'easeOut':
+              tran = new Fx.Transition(Fx.Transitions.Cubic).easeOut;
+              return tran;
+              break;
+              
+              case 'easeInOut':
+              tran = new Fx.Transition(Fx.Transitions.Cubic).easeInOut;
+              return tran;
+              break;
+            }
+        break;
+        
+        case 'Quart':
+            switch(s){
+              case 'easeIn':
+              tran = new Fx.Transition(Fx.Transitions.Quart).easeIn;
+              return tran;
+              break;
+              
+              case 'easeOut':
+              tran = new Fx.Transition(Fx.Transitions.Quart).easeOut;
+              return tran;
+              break;
+              
+              case 'easeInOut':
+              tran = new Fx.Transition(Fx.Transitions.Quart).easeInOut;
+              return tran;
+              break;
+            }
+        break;
+        
+        case 'Quint':
+            switch(s){
+              case 'easeIn':
+              tran = new Fx.Transition(Fx.Transitions.Quint).easeIn;
+              return tran;
+              break;
+              
+              case 'easeOut':
+              tran = new Fx.Transition(Fx.Transitions.Quint).easeOut;
+              return tran;
+              break;
+              
+              case 'easeInOut':
+              tran = new Fx.Transition(Fx.Transitions.Quint).easeInOut;
+              return tran;
+              break;
+            }
+        break;
+        
+        case 'Pow':
+            switch(s){
+              case 'easeIn':
+              tran = new Fx.Transition(Fx.Transitions.Pow).easeIn;
+              return tran;
+              break;
+              
+              case 'easeOut':
+              tran = new Fx.Transition(Fx.Transitions.Pow).easeOut;
+              return tran;
+              break;
+              
+              case 'easeInOut':
+              tran = new Fx.Transition(Fx.Transitions.Pow).easeInOut;
+              return tran;
+              break;
+            }
+        break;
+        
+        case 'Expo':
+            switch(s){
+              case 'easeIn':
+              tran = new Fx.Transition(Fx.Transitions.Expo).easeIn;
+              return tran;
+              break;
+              
+              case 'easeOut':
+              tran = new Fx.Transition(Fx.Transitions.Expo).easeOut;
+              return tran;
+              break;
+              
+              case 'easeInOut':
+              tran = new Fx.Transition(Fx.Transitions.Expo).easeInOut;
+              return tran;
+              break;
+            }
+        break;
+        
+        case 'Circ':
+            switch(s){
+              case 'easeIn':
+              tran = new Fx.Transition(Fx.Transitions.Circ).easeIn;
+              return tran;
+              break;
+              
+              case 'easeOut':
+              tran = new Fx.Transition(Fx.Transitions.Circ).easeOut;
+              return tran;
+              break;
+              
+              case 'easeInOut':
+              tran = new Fx.Transition(Fx.Transitions.Circ).easeInOut;
+              return tran;
+              break;
+            }
+        break;
+        
+        case 'Sine':
+            switch(s){
+              case 'easeIn':
+              tran = new Fx.Transition(Fx.Transitions.Sine).easeIn;
+              return tran;
+              break;
+              
+              case 'easeOut':
+              tran = new Fx.Transition(Fx.Transitions.Sine).easeOut;
+              return tran;
+              break;
+              
+              case 'easeInOut':
+              tran = new Fx.Transition(Fx.Transitions.Sine).easeInOut;
+              return tran;
+              break;
+            }
+        break;
+        
+        case 'Back':
+            switch(s){
+              case 'easeIn':
+              tran = new Fx.Transition(Fx.Transitions.Back).easeIn;
+              return tran;
+              break;
+              
+              case 'easeOut':
+              tran = new Fx.Transition(Fx.Transitions.Back).easeOut;
+              return tran;
+              break;
+              
+              case 'easeInOut':
+              tran = new Fx.Transition(Fx.Transitions.Back).easeInOut;
+              return tran;
+              break;
+            }
+        break;
+        
+        case 'Bounce':
+            switch(s){
+              case 'easeIn':
+              tran = new Fx.Transition(Fx.Transitions.Bounce).easeIn;
+              return tran;
+              break;
+              
+              case 'easeOut':
+              tran = new Fx.Transition(Fx.Transitions.Bounce).easeOut;
+              return tran;
+              break;
+              
+              case 'easeInOut':
+              tran = new Fx.Transition(Fx.Transitions.Bounce).easeInOut;
+              return tran;
+              break;
+            }
+        break;
+        
+        case 'Elastic':
+            switch(s){
+              case 'easeIn':
+              tran = new Fx.Transition(Fx.Transitions.Elastic).easeIn;
+              return tran;
+              break;
+              
+              case 'easeOut':
+              tran = new Fx.Transition(Fx.Transitions.Elastic).easeOut;
+              return tran;
+              break;
+              
+              case 'easeInOut':
+              tran = new Fx.Transition(Fx.Transitions.Elastic).easeInOut;
+              return tran;
+              break;
+            }
+        break;
+        
+        default:
+            switch(s){
+              case 'easeIn':
+              tran = new Fx.Transition(Fx.Transitions.Quad).easeIn;
+              return tran;
+              break;
+              
+              case 'easeOut':
+              tran = new Fx.Transition(Fx.Transitions.Quad).easeOut;
+              return tran;
+              break;
+              
+              case 'easeInOut':
+              tran = new Fx.Transition(Fx.Transitions.Quad).easeInOut;
+              return tran;
+              break;
+            }
+        break;
+      }/* End of Switch */
+      
+    } /* End of transSel */
+  }/* End of Typeof */
+
+// PNG Mootools Transition Hack
+$extend(window, {
+  fixPNG: function(el) {
+    if (window.ie){
+      var w = el.getStyle('width');
+      var h = el.getStyle('height');
+      var imgURL = el.getStyle('background');
+
+      if (imgURL.test(/\((.+)\)/)){
+        el.setStyle('background', '');
+        var subEl = new Element('div');
+        subEl.setStyles({
+          'width': w,
+          'height': h
+        });
+        subEl.setStyles({
+          "filter": "progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true', sizingMethod='crop', src='" + imgURL.match(/\((.+)\)/)[1] + "')"              
+        });
+        subEl.innerHTML = el.innerHTML;
+        el.innerHTML = '';
+        el.adopt(subEl);              
+      }
+    }
+  }
+});
+
+  /* Add PNG Fix to the divs with class='pngfix' */
+  var fixy = $$('.pngfix');
+  fixy.each(function(f){
+    var imgn = f.getStyle('background');
+    if(imgn){
+      f.setStyle('position', 'relative');
+      imgn = imgn.split('.');
+      var ext= (imgn[imgn.length-1]).substring(0,3);
+      if(ext== 'png' || ext == 'PNG'){ window.fixPNG(f); }
+    }
+  });
+
+  var myPages = $$('#jxtc553f6ea33141fspop .tigg');
+  var myBubbles = $$('#jxtc553f6ea33141fspop .bubble');
+  myBubbles.each(function(b,i){
+    b.setStyles({
+      'display':'none',
+      'overflow':'hidden',
+      'z-index':999999,
+      'opacity':0
+    });
+  });
+
+  myBubbles.each(function(b,i){
+    b.setStyle('position', 'absolute');
+    var imgn = b.getStyle('background');
+    imgn = imgn.split('.');
+    var ext= (imgn[imgn.length-1]).substring(0,3);
+    if(ext== 'png' || ext == 'PNG'){ window.fixPNG(b); }
+  });
+
+  myPages.each(function(el, i) {
+    
+    var b = myBubbles[i];
+    var tt = transSel(jxtc553f6ea33141ftips[i].transition,jxtc553f6ea33141ftips[i].subtransition);
+    var fxi = new Fx.Styles(b, {duration:jxtc553f6ea33141ftips[i].durationin, fps: 100, wait:false, transition: tt});
+    var fxo = new Fx.Styles(b, {duration:jxtc553f6ea33141ftips[i].durationout, fps: 100,wait:false, transition: tt});
+    var fxp = new Fx.Styles(b, {duration:jxtc553f6ea33141ftips[i].pause, wait:false, transition: tt});
+    
+    el.addEvent('mouseenter', function(){
+      myBubbles.setStyles({'display':'none'});
+      b.setStyles({'display':'block'});
+      fxi.start({
+        'opacity' : jxtc553f6ea33141ftips[i].opacityin,
+        'margin-top' : jxtc553f6ea33141ftips[i].verticalin + 'px',
+        'margin-left' : jxtc553f6ea33141ftips[i].horizontalin + 'px'
+      });    
+    });
+
+    el.addEvent('mouseleave', function(){
+      fxp.start({}).chain(function(){
+        fxo.start({
+          'opacity' : jxtc553f6ea33141ftips[i].opacityout,
+          'margin-top' : jxtc553f6ea33141ftips[i].verticalout + 'px',
+          'margin-left' : jxtc553f6ea33141ftips[i].horizontalout + 'px'
+        }).chain(function(){
+          b.setStyles({'display':'none'});
+        });
+      });
+    });
+    
+    b.addEvent('mouseenter', function(){
+      fxp.stop();
+        fxi.start({
+          'opacity' : jxtc553f6ea33141ftips[i].opacityin,
+          'margin-top' : jxtc553f6ea33141ftips[i].verticalin + 'px',
+          'margin-left' : jxtc553f6ea33141ftips[i].horizontalin + 'px'
+        });
+      });
+      
+      b.addEvent('mouseleave', function(){
+      fxp.start({}).chain(function(){
+          fxo.start({
+            'opacity' : jxtc553f6ea33141ftips[i].opacityout,
+            'margin-top' : jxtc553f6ea33141ftips[i].verticalout + 'px',
+            'margin-left' : jxtc553f6ea33141ftips[i].horizontalout + 'px'
+          });
+        });
+      });
+
+  });
+
+
+    /* Splash Pop Up */
+    var splash = $('jxtc553f6ea33141fspop');
+    var sw = splash.getStyle('width').toInt();
+  
+    var popper = splash.getElements('.popper');
+    var closex = splash.getElements('.closer');
+    var light = splash.getElements('.light');
+
+    light.setStyles({
+      display: 'none',
+      opacity: 0,
+      position: 'absolute',
+      overflow: 'auto',
+      padding: '5px',
+      border: '5px solid #000',
+      cursor: 'pointer'
+    });
+    light.each(function(l){
+      l.makeDraggable();
+    });
+  
+    var container = new Element('div',{
+        'styles': {
+        'display': 'none',
+        'position': 'absolute',
+        'top': '0px',
+        'left': '0px',
+        'width': '100%',
+        'height': '100%',
+        'background': 'none'
+        }
+    });
+    container.injectInside(splash);
+
+    popper.each(function(p,i){
+  
+      p.addEvent('click', function(){
+        container.innerHTML ='';
+        container.setStyle('display', 'block');
+        light[i].injectInside(container);
+        light[i].setStyle('display', 'block');
+        light[i].setStyle('z-index', 999999);
+        light[i].effect('opacity', {duration: 200}).start(0,1);       
+      });
+  
+    closex[i].addEvent('click', function(){
+      light[i].effect('opacity', {duration: 200}).start(1,0).chain(function(){
+        container.innerHTML = '';
+        container.setStyle('display','none');
+      });
+    });
+
+  });
+  
+});
+
+
+window.addEvent('load', function(){
+  
+  /* Add JXTCAudio to the tooltips */
+  var jxtcaudio = $('jxtc553f6ea33141faudio');
+  if(jxtcaudio){
+    var audios = $$('.jxtcaudio');
+    audios.each(function(a,i){
+      var audiofile = a.getProperty('rel');
+      var audioset = audiofile.split('|')
+      if (audioset[0].charAt(audioset[0].length-1)!='1') { 
+        a.addEvent('mouseenter', function(){
+          jxtcaudio.loadFx(audioset[0]);
+        })
+        if (audioset[1] == 1) {
+          a.addEvent('mouseleave', function(){
+            jxtcaudio.stopFx();
+          });
+        }
+      }
+    });
+  }
+  
+});
+
+/* IE Flash Unload fix */
+if(window.ie){
+  window.attachEvent("onbeforeunload",xtcSWFRemove);
+    function xtcSWFRemove() {
+    var swfArr = document.all.tags("object");
+    if (swfArr && swfArr.length) {
+      for (var i = swfArr.length-1; 0<=i; i--) {
+        swfArr[i].removeNode(true);
+      }
+    }
+  }
+}
+  
+</script><div id="jxtc553f6ea33141f" style="clear:both;position:relative"><div id="jxtc553f6ea33141fspop" style="width:158px; height:20px"><div style="z-index:7;position:absolute; left:0px; top:0px; width:21px; height:20px;background:url(http://mayranavarro.com.br/images/splashassets/home.png) no-repeat">
+				
+			</div>		
+			<div class=" jxtcaudio" rel="http://mayranavarro.com.br/images/splashassets/-1|0" rev="jxtc553f6ea33141f" style="z-index:99;position:absolute;left:0px; top:0px; width:21px; height:20px;">
+				<a href="javascript:void(0);">
+					<img src="http://mayranavarro.com.br/modules/mod_jxtc_splash/images/blank.gif" width="21" height="20"/>
+				</a>
+			</div>
+		  <div style="z-index:7;position:absolute;left:34px; top:0px; width:21px; height:20px;background:url(http://mayranavarro.com.br/images/splashassets/contact.png) no-repeat">
+				
+			</div>
+			<div style="z-index:13;position:absolute;left:-58px; top:24px;" class="container">
+				<div class="bubble tooltipstyle2" style="float:left;width:210px;height:350px;padding:5px;background: url(http://mayranavarro.com.br/images/splashassets/) no-repeat bottom left;display:none;">
+					<div><div style="width:208px;" class="splshadow">
+
+<div style="padding:11px 0 13px 15px; margin:12px 0 0 0; font-weight:bold; font-size:22px; letter-spacing:-1px; color:#f2f2f2;
+  -moz-border-radius: 5px 5px 0 0; /* For FireFox */
+   	/* For Safari/Chrome */
+  -webkit-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;"   class="splashtop"> contato </div>
+
+<div style="background:#434343; font-family:Arial, Helvetica, sans-serif; color:#777777; padding:14px 0 15px 15px; border-bottom:1px solid #4c4c4c;"> 
+<p style="font-size:11px !important;">Escritorio:</p> 
+<p style="font-size:11px !important;">Fone: (11) 9953.4223</p> 
+<p style="font-size:11px !important;">Phone: 55 (11) 9953.4223</p>
+
+</div>
+
+<div style="background:#434343; padding:13px 0 18px 15px; margin:0; font-size:17px; font-weight:bold; letter-spacing:-1px; color:#777777;
+  -moz-border-radius: 0 0 5px 5px; /* For FireFox */
+   	/* For Safari/Chrome */
+  -webkit-border-top-left-radius: 0px;
+  -webkit-border-top-right-radius: 0px;
+  -webkit-border-bottom-right-radius: 5px;
+  -webkit-border-bottom-left-radius: 5px;"> <a href="/index.php?option=com_jxtcappbook&amp;view=book&amp;pid=5" title="Agende uma Visita" style="color:#777777"> Agende uma Visita </a></div>
+
+
+</div>
+					</div>
+				</div>
+			</div>
+			<div class="tigg tigStyle jxtcaudio" rel="http://mayranavarro.com.br/images/splashassets/-1|0" style="z-index:99;position:absolute;left:34px; top:0px; width:21px; height:20px;">
+				<a href="http://www.mayranavarro.com.br">
+					<img src="http://mayranavarro.com.br/modules/mod_jxtc_splash/images/blank.gif" width="21" height="20"/>
+				</a>
+			</div>	
+
+		  <div style="z-index:7;position:absolute;left:68px; top:0px; width:21px; height:20px;background:url(http://mayranavarro.com.br/images/splashassets/login.png) no-repeat">
+				
+			</div>
+			<div style="z-index:13;position:absolute;left:-24px; top:24px;" class="container">
+				<div class="bubble tooltipstyle2" style="float:left;width:210px;height:350px;padding:5px;background: url(http://mayranavarro.com.br/images/splashassets/) no-repeat bottom left;display:none;">
+					<div><div style="width:208px;" class="splshadow" >
+
+<div style="padding:11px 0 13px 15px; margin:12px 0 0 0; font-weight:bold; font-size:22px; letter-spacing:-1px; color:#f2f2f2;
+  -moz-border-radius: 5px 5px 0 0; /* For FireFox */
+   	/* For Safari/Chrome */
+  -webkit-border-top-left-radius: 5px;
+  -webkit-border-top-right-radius: 5px;
+  -webkit-border-bottom-right-radius: 0px;
+  -webkit-border-bottom-left-radius: 0px;" class="splashtop"> noticias do blog</div>
+
+<div style="float:left; width:193px; background:#434343; padding:13px 0 18px 15px; margin:0;   -moz-border-radius: 0 0 5px 5px; /* For FireFox */
+   	/* For Safari/Chrome */
+  -webkit-border-top-left-radius: 0px;
+  -webkit-border-top-right-radius: 0px;
+  -webkit-border-bottom-right-radius: 5px;
+  -webkit-border-bottom-left-radius: 5px;"> 
+
+<div id="jxtc553f6ea33c715"><div style="margin-bottom: -12px;"><div class="showcasejxtc553f6ea33c715"><div class="sframejxtc553f6ea33c715"><table class="tablejxtc553f6ea33c715 singlepage" width="100%" cellpadding="0" cellspacing="0"><tr class="firstrow"><td class="singlecol" style="width:100%" ><div style="width:92%; margin-bottom:10px; padding-bottom:10px; border-bottom:1px solid #4a4a4a;">
+
+
+<a  href="/index.php?option=com_content&amp;view=article&amp;id=79:aldi-flosi&amp;catid=31:blog" style="color:#aaaaaa !important; line-spacing:120%; font-size:11px; font-weight:bold; padding-bottom:0px;"> Fragmentos por Aldi Flosi... </a>
+
+<p style="font-size:10px; line-height:130%; color:#888888 !important;">
+Uma seleção de delicados objetos selecionados com muito crité...</p>
+
+
+</div></td></tr><tr class="centerrow"><td class="singlecol" style="width:100%" ><div style="width:92%; margin-bottom:10px; padding-bottom:10px; border-bottom:1px solid #4a4a4a;">
+
+
+<a  href="/index.php?option=com_content&amp;view=article&amp;id=80:rico-mendonca&amp;catid=31:blog" style="color:#aaaaaa !important; line-spacing:120%; font-size:11px; font-weight:bold; padding-bottom:0px;"> Estúdio de Rico Mendonça... </a>
+
+<p style="font-size:10px; line-height:130%; color:#888888 !important;">
+O arquiteto catarinense trabalha na deliciosa cidade de Flori...</p>
+
+
+</div></td></tr><tr class="centerrow"><td class="singlecol" style="width:100%" ><div style="width:92%; margin-bottom:10px; padding-bottom:10px; border-bottom:1px solid #4a4a4a;">
+
+
+<a  href="/index.php?option=com_content&amp;view=article&amp;id=81:futuras-publicacoes&amp;catid=31:blog" style="color:#aaaaaa !important; line-spacing:120%; font-size:11px; font-weight:bold; padding-bottom:0px;"> Novas Notícias... </a>
+
+<p style="font-size:10px; line-height:130%; color:#888888 !important;">
+Em breve mais ideias especiais para deixar a casa bacana, his...</p>
+
+
+</div></td></tr></table></div></div> </div></div><div style="display:none"><a href="http://www.joomlaxtc.com">Deluxe News Pro - Copyright 2009,2010 Monev Software LLC</a></div>
+
+</div>
+
+
+</div>
+					</div>
+				</div>
+			</div>
+			<div class="tigg tigStyle jxtcaudio" rel="http://mayranavarro.com.br/images/splashassets/-1|0" style="z-index:99;position:absolute;left:68px; top:0px; width:21px; height:20px;">
+				<a href="http://www.mayranavarro.com.br/index.php?option=com_jxtcappbook&view=book&Itemid=252">
+					<img src="http://mayranavarro.com.br/modules/mod_jxtc_splash/images/blank.gif" width="21" height="20"/>
+				</a>
+			</div>
+		  <div style="z-index:7;position:absolute;left:102px; top:0px; width:21px; height:20px;background:url(http://mayranavarro.com.br/images/splashassets/about.png) no-repeat">
+				
+			</div>
+			<div style="z-index:13;position:absolute;left:10px; top:24px;" class="container">
+				<div class="bubble tooltipstyle2" style="float:left;width:210px;height:350px;padding:5px;background: url(http://mayranavarro.com.br/images/splashassets/) no-repeat bottom left;display:none;">
+					<div><div style="width:208px;" class="splshadow" >
+
+<div style="padding:11px 0 13px 15px; margin:12px 0 0 0; font-weight:bold; font-size:22px; letter-spacing:-1px; color:#f2f2f2;
+  -moz-border-radius: 5px 5px 0 0; /* For FireFox */
+   	/* For Safari/Chrome */
+  -webkit-border-top-left-radius: 5px;
+  -webkit-border-top-right-radius: 5px;
+  -webkit-border-bottom-right-radius: 0px;
+  -webkit-border-bottom-left-radius: 0px;" class="splashtop"> sobre mim</div>
+
+<div style="background:#434343; padding:13px 0 18px 15px; margin:0; font-size:11px; color:#777777;
+  -moz-border-radius: 0 0 5px 5px; /* For FireFox */
+   	/* For Safari/Chrome */
+  -webkit-border-top-left-radius: 0px;
+  -webkit-border-top-right-radius: 0px;
+  -webkit-border-bottom-right-radius: 5px;
+  -webkit-border-bottom-left-radius: 5px;"> 
+<p style="width:183px; font-size:11px !important;">
+Há 10 anos atua no mercado editorial e publicitário na área de produção fotográfica especializada em decoração e design.
+<a href="#" style="margin-top:9px; color:#999999; font-size:10px !important;">{leia mais}</a></p>
+
+</div>
+
+
+</div>
+					</div>
+				</div>
+			</div>
+			<div class="tigg tigStyle jxtcaudio" rel="http://mayranavarro.com.br/images/splashassets/-1|0" style="z-index:99;position:absolute;left:102px; top:0px; width:21px; height:20px;">
+				<a href="http://www.mayranavarro.com.br/index.php?option=com_content&view=article&id=79:aldi-flosi&catid=31:blog">
+					<img src="http://mayranavarro.com.br/modules/mod_jxtc_splash/images/blank.gif" width="21" height="20"/>
+				</a>
+			</div>
+		  <div style="z-index:7;position:absolute;left:136px; top:0px; width:21px; height:20px;background:url(http://mayranavarro.com.br/images/splashassets/news.png) no-repeat">
+				
+			</div>
+			<div style="z-index:13;position:absolute;left:0px; top:24px;" class="container">
+				<div class="bubble tooltipstyle2" style="float:left;width:278px;height:350px;padding:5px;background: url(http://mayranavarro.com.br/images/splashassets/) no-repeat bottom left;display:none;">
+					<div><div style="width:275px; overflow:visible;" class="splshadow" >
+
+<div style="padding:11px 0 13px 15px; margin:12px 0 0 0; font-weight:bold; font-size:22px; letter-spacing:-1px; color:#f2f2f2;
+  -moz-border-radius: 5px 5px 0 0; /* For FireFox */
+   	/* For Safari/Chrome */
+  -webkit-border-top-left-radius: 5px;
+  -webkit-border-top-right-radius: 5px;
+  -webkit-border-bottom-right-radius: 0px;
+  -webkit-border-bottom-left-radius: 0px;" class="splashtop"> depoimentos </div>
+
+<div style="background:#434343;  padding:13px 16px 7px 15px; margin:0; font-size:11px; color:#777777;
+  -moz-border-radius: 0 0 5px 5px; /* For FireFox */
+   	/* For Safari/Chrome */
+  -webkit-border-top-left-radius: 0px;
+  -webkit-border-top-right-radius: 0px;
+  -webkit-border-bottom-right-radius: 5px;
+  -webkit-border-bottom-left-radius: 5px;"> 
+
+<div id="jxtc553f6ea344d09"><div style="margin-bottom:-15px;"><div class="showcasejxtc553f6ea344d09"><div class="sframejxtc553f6ea344d09"><table class="tablejxtc553f6ea344d09 singlepage" width="100%" cellpadding="0" cellspacing="0"><tr class="firstrow"><td class="singlecol" style="width:100%" ><a href="http://mayranavarro.com.br/index.php?option=com_rsmonials"><ul class="featured">
+<li style="border-bottom-color:#5a5a5a !important; pagdding-bottom:8px !important; margin-bottom:8px !important;"><span style="color:#999999; font-size:11px;">Denise Delalamo </span> <span style="font-weight:normal; color:#999999; font-size:11px;"> - </span> <span style="color:#999999; font-size:11px; padding-left:12px; font-weight:normal;"> www.pbdcomunicacao.com.br </span><br/>  
+<p style="color:#757575; font-size:10px;">A mistura de competência, bom gosto, criatividade e comprometimento,...</p></li>
+</ul></a>
+
+
+</td></tr><tr class="centerrow"><td class="singlecol" style="width:100%" ><a href="http://mayranavarro.com.br/index.php?option=com_rsmonials"><ul class="featured">
+<li style="border-bottom-color:#5a5a5a !important; pagdding-bottom:8px !important; margin-bottom:8px !important;"><span style="color:#999999; font-size:11px;">Suzilei Bitar  </span> <span style="font-weight:normal; color:#999999; font-size:11px;"> - </span> <span style="color:#999999; font-size:11px; padding-left:12px; font-weight:normal;"> www.fotomundi.com </span><br/>  
+<p style="color:#757575; font-size:10px;">“Quando fiz os primeiros trabalhos de produção com a Mayra, logo...</p></li>
+</ul></a>
+
+
+</td></tr><tr class="lastrow"><td class="singlecol" style="width:100%" ><a href="http://mayranavarro.com.br/index.php?option=com_rsmonials"><ul class="featured">
+<li style="border-bottom-color:#5a5a5a !important; pagdding-bottom:8px !important; margin-bottom:8px !important;"><span style="color:#999999; font-size:11px;">Marianne Wenzel  </span> <span style="font-weight:normal; color:#999999; font-size:11px;"> - </span> <span style="color:#999999; font-size:11px; padding-left:12px; font-weight:normal;"> www.pro.casa.abril.com.br </span><br/>  
+<p style="color:#757575; font-size:10px;">"Dei carta branca para a Mayra montar uma composição na parede principal...</p></li>
+</ul></a>
+
+
+</td></tr></table></div></div></div></div><div style="display:none"><a href="http://www.joomlaxtc.com">JoomlaXTC RSMonials Wall - Copyright 2010 Monev Software LLC</a></div>
+
+</div>
+
+
+</div>
+					</div>
+				</div>
+			</div>
+			<div class="tigg tigStyle jxtcaudio" rel="http://mayranavarro.com.br/images/splashassets/-1|0" style="z-index:99;position:absolute;left:136px; top:0px; width:21px; height:20px;">
+				<a href="http://www.mayranavarro.com.br/index.php?option=com_content&view=article&id=105&Itemid=346">
+					<img src="http://mayranavarro.com.br/modules/mod_jxtc_splash/images/blank.gif" width="21" height="20"/>
+				</a>
+			</div><div style="position:fixed;z-index:2">
+	<object id="jxtc553f6ea33141faudio" type="application/x-shockwave-flash" data="http://mayranavarro.com.br/modules/mod_jxtc_splash/jxtcaudio/jxtcaudio.swf" width="0" height="0">
+		<param name="allowScriptAccess" value="all" />
+		<param name="movie" value="http://mayranavarro.com.br/modules/mod_jxtc_splash/jxtcaudio/jxtcaudio.swf" />
+	<EMBED TYPE="application/x-shockwave-flash"
+	src="http://mayranavarro.com.br/modules/mod_jxtc_splash/jxtcaudio/jxtcaudio.swf"
+	width="0"
+	height="0"
+	allowscriptaccess="all"
+	WMODE="transparent"
+	</EMBED>
+	</object>
+	</div></div></div><div style="display:none"><a href="http://www.joomlaxtc.com">JoomlaXTC Splash Panel Pro - Copyright 2009,2010 Monev Software LLC</a></div>  </div>
+</div>
+</div></div></div></div></div>	<div class="mainouter">
+		<div id="region1wrap" class="r1xtc-spacer">
+  <div id="region1" class="xtc-wrapper">
+   <div class="clearfix head-pad">
+      <div id="logowrap"> <a id="logo" class="hideTxt" href="http://mayranavarro.com.br/">Logo</a> 
+    </div>
+          <div id="menu">
+        <ul class="menu dualfish"><li id="current" class=" first order1 active item1"><a href="http://mayranavarro.com.br/"><span>Home</span></a></li><li class="parent center order2 item18"><a href="/index.php?option=com_content&amp;view=article&amp;id=105&amp;Itemid=18"><span>Mayra Navarro</span></a><ul><li class=" first order1 item252"><a href="/index.php?option=com_jxtcappbook&amp;view=book&amp;Itemid=252"><span>Agende uma Visita</span></a></li><li class=" last order2 item346"><a href="/index.php?option=com_content&amp;view=article&amp;id=105&amp;Itemid=346"><span>sobre mim</span></a></li></ul></li><li class="parent center order3 item14"><a href="/index.php?option=com_content&amp;view=article&amp;id=109&amp;Itemid=14"><span>Decoração</span></a><ul><li class=" first order1 item341"><a href="/index.php?option=com_content&amp;view=article&amp;id=109&amp;Itemid=341"><span>Ideias de Decor</span></a></li><li class=" center order2 item347"><a href="/index.php?option=com_content&amp;view=article&amp;id=110&amp;Itemid=347"><span>paredes decoradas</span></a></li><li class=" center order3 item342"><a href="/index.php?option=com_content&amp;view=article&amp;id=106&amp;Itemid=342"><span>Casa Cor Trio 2010</span></a></li><li class=" center order4 item345"><a href="/index.php?option=com_content&amp;view=article&amp;id=107&amp;Itemid=345"><span>Casa Cor 2010</span></a></li><li class=" last order5 item211"><a href="/index.php?option=com_content&amp;view=article&amp;id=108&amp;Itemid=211"><span>Sobrado Tamboré</span></a></li></ul></li><li class="parent center order4 item11"><a href="/index.php?option=com_content&amp;view=article&amp;id=71&amp;Itemid=11"><span>Produção Fotográfica</span></a><ul><li class=" first order1 item316"><a href="/index.php?option=com_content&amp;view=article&amp;id=71&amp;Itemid=316"><span>Revista Casa Claudia</span></a></li><li class=" center order2 item334"><a href="/index.php?option=com_content&amp;view=article&amp;id=72&amp;Itemid=334"><span>Casa Claudia Luxo</span></a></li><li class=" last order3 item335"><a href="/index.php?option=com_content&amp;view=article&amp;id=73&amp;Itemid=335"><span>Revista Casa Vogue</span></a></li></ul></li><li class="parent center order5 item15"><a href="/index.php?option=com_content&amp;view=article&amp;id=104&amp;Itemid=15"><span>Cenografia</span></a><ul><li class=" first order1 item338"><a href="/index.php?option=com_content&amp;view=article&amp;id=104&amp;Itemid=338"><span>Deca 2011</span></a></li><li class=" center order2 item348"><a href="/index.php?option=com_content&amp;view=article&amp;id=111&amp;Itemid=348"><span>Deca 2012</span></a></li><li class=" last order3 item339"><a href="/index.php?option=com_content&amp;view=article&amp;id=103&amp;Itemid=339"><span>Gyotoku</span></a></li></ul></li><li class="parent center order6 item332"><a href="/index.php?option=com_flippingbook&amp;view=book&amp;id=1&amp;page=1&amp;Itemid=332"><span>Publicidade</span></a><ul><li class=" first order1 item343"><a href="/index.php?option=com_flippingbook&amp;view=book&amp;id=2&amp;page=1&amp;Itemid=343"><span>Agência JWT Thompson</span></a></li><li class=" last order2 item344"><a href="/index.php?option=com_flippingbook&amp;view=book&amp;id=1&amp;page=1&amp;Itemid=344"><span>Agência Lew Lara TBWA</span></a></li></ul></li><li class=" last order7 item322"><a href="/index.php?option=com_contact&amp;view=contact&amp;id=6&amp;Itemid=322"><span>Contato</span></a></li></ul>
+      </div>
+        </div>
+</div></div>
+
+<div style="padding-bottom: 0px;"></div> 
+<div id="region2wrap" class="r2xtc-spacer"><div id="region2" class="xtc-wrapper"><div class="clearfix"><div id="inset" class="singlecolumn" style="float:left; width:1028px;"><div class="singlearea"><div class="module title-off ">
+    <div class="modulecontent">
+  <div id="jxtc553f6ea3d2b54" class="powertabs">
+	<table>
+<tr>
+<td colspan="4"><div class="jxtc553f6ea3d2b54_slideshow slideshow" style="width:1028px;height:370px"><div class="jxtc553f6ea3d2b54_strip strip" style="left:0px"><div class="jxtc553f6ea3d2b54_slide slide" style="display:block;width:1028px;height:370px"><a href="http://mayranavarro.com.br/index.php?option=com_content&view=article&id=109&Itemid=341" target="_self"><img style="border:0;padding:0;margin:0" src="http://mayranavarro.com.br/images/homeslide1.jpg" /></a></div><div class="jxtc553f6ea3d2b54_slide slide" style="display:none;width:1028px;height:370px"><a href="http://mayranavarro.com.br/index.php?option=com_content&view=article&id=73&Itemid=335" target="_self"><img style="border:0;padding:0;margin:0" src="http://mayranavarro.com.br/images/homeslide3.jpg" /></a></div><div class="jxtc553f6ea3d2b54_slide slide" style="display:none;width:1028px;height:370px"><a href="http://mayranavarro.com.br/index.php?option=com_content&view=article&id=104&Itemid=338" target="_self"><img style="border:0;padding:0;margin:0" src="http://mayranavarro.com.br/images/homeslide2.jpg" /></a></div><div class="jxtc553f6ea3d2b54_slide slide" style="display:none;width:1028px;height:370px"><a href="http://mayranavarro.com.br/index.php?option=com_flippingbook&view=book&id=1&page=1&Itemid=344" target="_self"><img style="border:0;padding:0;margin:0" src="http://mayranavarro.com.br/images/homeslide4.jpg" /></a></div></div><img id="jxtc553f6ea3d2b54_prev" class="button" src="http://mayranavarro.com.br/components/com_jxtcpowertabs/buttons/round_glossy_horizontal/prev.png" style="float:left;position:absolute;top:161px;left:0px;" /><img id="jxtc553f6ea3d2b54_next" class="button" src="http://mayranavarro.com.br/components/com_jxtcpowertabs/buttons/round_glossy_horizontal/next.png" style="float:left;position:absolute;top:161px;right:0px;" /></div></td>
+</tr>
+</table>
+
+<div id="tabwrap">
+<table>
+<tr>
+<td><div class="jxtc553f6ea3d2b54_tab tab current" style="width:257px;height:122px"><div class="tab_off" style="width:257px;height:122px"><div style="height:100%; border-right:1px solid #f7f7f7;">
+
+<img src="/images/1-off.png" class="tabicon" />
+
+<div style="float:left; width:142px; margin:25px 0 0 13px;">
+<p class="tabtitle_off"> Decoração</p>
+<p class="tabtext1_off"> Ideias contemporâneas e felizes para vestir sua casa</p>
+</div>
+
+</div></div><div class="tab_on" style="width:257px;height:122px"><div style="height:100%; border-right:1px solid #f7f7f7;" class="tabactive_left">
+
+
+<img src="/images/1-on.png" class="tabicon" />
+
+<div style="float:left; width:142px; margin:25px 0 0 13px;">
+<a href="http://mayranavarro.com.br/index.php?option=com_content&view=article&id=109&Itemid=341" target="_self" class="tabtext1_on">
+<p class="tabtitle_on"> Decoração</p>
+
+<p class="tabtext1_on"> Ideias contemporâneas e felizes para vestir sua casa</p>
+</div>
+
+</div></div></div></td><td><div class="jxtc553f6ea3d2b54_tab tab " style="width:257px;height:122px"><div class="tab_off" style="width:257px;height:122px"><div style="height:100%; border-right:1px solid #f7f7f7;">
+
+<img src="/images/2-off.png" class="tabicon" />
+
+<div style="float:left; width:142px; margin:25px 0 0 13px;">
+<p class="tabtitle_off"> Styling</p>
+<p class="tabtext1_off"> Reportagem, produção de objetos e direção fotográfica</p>
+</div>
+
+</div></div><div class="tab_on" style="width:257px;height:122px"><div style="height:100%; border-right:1px solid #f7f7f7;" class="tabactive_left">
+
+
+<img src="/images/2-on.png" class="tabicon" />
+
+<div style="float:left; width:142px; margin:25px 0 0 13px;">
+<a href="http://mayranavarro.com.br/index.php?option=com_content&view=article&id=73&Itemid=335" target="_self" class="tabtext1_on">
+<p class="tabtitle_on"> Styling</p>
+
+<p class="tabtext1_on"> Reportagem, produção de objetos e direção fotográfica</p>
+</div>
+
+</div></div></div></td><td><div class="jxtc553f6ea3d2b54_tab tab " style="width:257px;height:122px"><div class="tab_off" style="width:257px;height:122px"><div style="height:100%; border-right:1px solid #f7f7f7;">
+
+<img src="/images/3-off.png" class="tabicon" />
+
+<div style="float:left; width:142px; margin:25px 0 0 13px;">
+<p class="tabtitle_off"> Cenografia</p>
+<p class="tabtext1_off"> Programação visual de stands, montagem de ambientes cenográficos</p>
+</div>
+
+</div></div><div class="tab_on" style="width:257px;height:122px"><div style="height:100%; border-right:1px solid #f7f7f7;" class="tabactive_left">
+
+
+<img src="/images/3-on.png" class="tabicon" />
+
+<div style="float:left; width:142px; margin:25px 0 0 13px;">
+<a href="http://mayranavarro.com.br/index.php?option=com_content&view=article&id=104&Itemid=338" target="_self" class="tabtext1_on">
+<p class="tabtitle_on"> Cenografia</p>
+
+<p class="tabtext1_on"> Programação visual de stands, montagem de ambientes cenográficos</p>
+</div>
+
+</div></div></div></td><td><div class="jxtc553f6ea3d2b54_tab tab " style="width:257px;height:122px"><div class="tab_off" style="width:257px;height:122px"><div style="height:100%; border-right:1px solid #f7f7f7;">
+
+<img src="/images/4-off.png" class="tabicon" />
+
+<div style="float:left; width:142px; margin:25px 0 0 13px;">
+<p class="tabtitle_off"> Publicidade</p>
+<p class="tabtext1_off"> Produção fotográfica para catálogos de design, casa e decoração</p>
+</div>
+
+</div></div><div class="tab_on" style="width:257px;height:122px"><div style="height:100%; border-right:1px solid #f7f7f7;" class="tabactive_left">
+
+
+<img src="/images/4-on.png" class="tabicon" />
+
+<div style="float:left; width:142px; margin:25px 0 0 13px;">
+<a href="http://mayranavarro.com.br/index.php?option=com_flippingbook&view=book&id=1&page=1&Itemid=344" target="_self" class="tabtext1_on">
+<p class="tabtitle_on"> Publicidade</p>
+
+<p class="tabtext1_on"> Produção fotográfica para catálogos de design, casa e decoração</p>
+</div>
+
+</div></div></div></td>
+</tr>
+</table>
+</div></div>
+<div style="display:none"><a href="http://www.joomlaxtc.com">JoomlaXTC Power Tabs - Copyright (c) 2011 Monev Software LLC</a></div>
+  </div>
+</div>
+</div></div></div></div></div><div id="region3wrap" class="r3xtc-spacer" style=""><div id="region3" class="xtc-wrapper"><div class="clearfix xtc-pad"><div id="user1" class="singlecolumn" style="float:left;"><div class="singlearea"><div class="module title-off designwall">
+    <div class="modulecontent">
+  <div id="jxtc553f6ea3d758f"><div class="showcasejxtc553f6ea3d758f"><div class="sframejxtc553f6ea3d758f"><table class="tablejxtc553f6ea3d758f singlepage" width="100%" cellpadding="0" cellspacing="0"><tr class="singlerow"><td class="firstcol" style="width:33%" ><div style="width:286px; margin-right:42px !important;">
+
+<a href="/index.php?option=com_content&amp;view=article&amp;id=71:casaclaudia&amp;catid=29:design-categories&amp;Itemid=11" title="link"><img src="/images/3.jpg" style="" alt="introimage" /></a>
+
+<a href="/index.php?option=com_content&amp;view=article&amp;id=71:casaclaudia&amp;catid=29:design-categories&amp;Itemid=11">
+<h4 style="font-family: Verdana, Arial, Helvetica, sans-serif; font-weight:bold !important; margin:0;padding:16px 0 12px 0; font-size:23px; letter-spacing:-1px;line-height:23px;">Revista Casa Claudia</h4></a>
+<p style="color:#666; font-size:12px;">
+Uma seleção de reportagens especiais, ao longo de 10 anos de colaboração com edição visual, produção de objeto.
+...
+
+
+<a href="/index.php?option=com_content&amp;view=article&amp;id=71:casaclaudia&amp;catid=29:design-categories&amp;Itemid=11" title="leia mais" style="font-weight:bold;">leia mais</a>
+
+</p>
+
+
+</div></td><td class="centercol" style="width:33%" ><div style="width:286px; margin-right:42px !important;">
+
+<a href="/index.php?option=com_content&amp;view=article&amp;id=72:hospitality-a-corporate&amp;catid=29:design-categories&amp;Itemid=334" title="link"><img src="/images/1.jpg" style="" alt="introimage" /></a>
+
+<a href="/index.php?option=com_content&amp;view=article&amp;id=72:hospitality-a-corporate&amp;catid=29:design-categories&amp;Itemid=334">
+<h4 style="font-family: Verdana, Arial, Helvetica, sans-serif; font-weight:bold !important; margin:0;padding:16px 0 12px 0; font-size:23px; letter-spacing:-1px;line-height:23px;">Casa Claudia Luxo</h4></a>
+<p style="color:#666; font-size:12px;">
+Coberturas internacionais, reportagem visual e texto sobre designer de produtos e um olhar diferenciado sobre a semana...
+
+
+<a href="/index.php?option=com_content&amp;view=article&amp;id=72:hospitality-a-corporate&amp;catid=29:design-categories&amp;Itemid=334" title="leia mais" style="font-weight:bold;">leia mais</a>
+
+</p>
+
+
+</div></td><td class="lastcol" style="width:33%" ><div style="width:286px; margin-right:42px !important;">
+
+<a href="/index.php?option=com_content&amp;view=article&amp;id=73:retail-a-commercial&amp;catid=29:design-categories&amp;Itemid=335" title="link"><img src="/images/2.jpg" style="" alt="introimage" /></a>
+
+<a href="/index.php?option=com_content&amp;view=article&amp;id=73:retail-a-commercial&amp;catid=29:design-categories&amp;Itemid=335">
+<h4 style="font-family: Verdana, Arial, Helvetica, sans-serif; font-weight:bold !important; margin:0;padding:16px 0 12px 0; font-size:23px; letter-spacing:-1px;line-height:23px;">Revista Casa Vogue</h4></a>
+<p style="color:#666; font-size:12px;">
+Colaboração como editora visual e stylist para os Giros da Decoração e Especiais, das últimas edições.
+...
+
+
+<a href="/index.php?option=com_content&amp;view=article&amp;id=73:retail-a-commercial&amp;catid=29:design-categories&amp;Itemid=335" title="leia mais" style="font-weight:bold;">leia mais</a>
+
+</p>
+
+
+</div></td></tr></table></div></div></div><div style="display:none"><a href="http://www.joomlaxtc.com">Deluxe News Pro - Copyright 2009,2010 Monev Software LLC</a></div>  </div>
+</div>
+</div></div></div></div></div><div id="region4wrap" class="r4xtc-spacer" style=""><div id="region4" class="xtc-wrapper"><div class="clearfix xtc-pad"><div id="newsflash" class="singlecolumn" style="float:left;"><div class="singlearea"><div class="module title-off ">
+    <div class="modulecontent">
+  <div class="clearfix" style="width: 100%;">
+<div style="float:left; margin:-20px 0 -25px -16px;"><a href="/index.php?option=com_jxtcappbook&amp;view=book&amp;Itemid=252" style="border-image: initial; color: #71b7c8; font-family: Arial; padding: 0px; margin: 0px; border: 0px none initial;"><img src="/images/botaoagende.jpg" border="0" width="888" height="83" style="border-color: initial; border-style: initial; vertical-align: middle; padding: 0px; margin: 0px;" /></a></div>
+<span style="font-family: Verdana, Arial, Helvetica, sans-serif; color: #666666;"><span style="font-size: 25px; letter-spacing: -1px;"><strong><br /></strong></span></span></div>  </div>
+</div>
+</div></div></div></div></div><div id="region5wrap" class="r5xtc-spacer" style=""><div id="region5" class="xtc-wrapper clearfix"><div id="center" class="xtc-pad" style="float:left; width:942px;"><div id="userMods6-8" class="clearfix"><div id="user6" class="firstcolumn" style="float:left; width:286px; margin-right:42px;"><div class="singlearea"><div class="module title-on ">
+      
+								<h3>	  	
+					<span class="first_word">
+					Comentários 
+					</span><span class="rest">dos Clientes</span> </h3>
+    <div class="modulecontent">
+  <div id="jxtc553f6ea3e4ca8"><div style="margin-bottom:-17px;"><div class="showcasejxtc553f6ea3e4ca8"><div class="sframejxtc553f6ea3e4ca8"><table class="tablejxtc553f6ea3e4ca8 singlepage" width="100%" cellpadding="0" cellspacing="0"><tr class="firstrow"><td class="singlecol" style="width:100%" ><a href="http://mayranavarro.com.br/index.php?option=com_rsmonials"><ul class="featured">
+<li class="basecolor_1"><span>Denise Delalamo </span> <span style="font-weight:normal;"> - </span> <span style="color:#777777; padding-left:12px; font-weight:normal;"> www.pbdcomunicacao.com.br </span><br/>  
+<p>A mistura de competência, bom gosto, criatividade e comprometimento, aliada a uma pitada de bom humor fazem de Mayra Navarro uma profissional diferenciada na criação...</p></li>
+</ul></a></td></tr><tr class="centerrow"><td class="singlecol" style="width:100%" ><a href="http://mayranavarro.com.br/index.php?option=com_rsmonials"><ul class="featured">
+<li class="basecolor_1"><span>Suzilei Bitar  </span> <span style="font-weight:normal;"> - </span> <span style="color:#777777; padding-left:12px; font-weight:normal;"> www.fotomundi.com </span><br/>  
+<p>“Quando fiz os primeiros trabalhos de produção com a Mayra, logo percebi que ela tinha muito potencial criativo e organizacional. Uma proposta de emprego acabou...</p></li>
+</ul></a></td></tr><tr class="centerrow"><td class="singlecol" style="width:100%" ><a href="http://mayranavarro.com.br/index.php?option=com_rsmonials"><ul class="featured">
+<li class="basecolor_1"><span>Marianne Wenzel  </span> <span style="font-weight:normal;"> - </span> <span style="color:#777777; padding-left:12px; font-weight:normal;"> www.pro.casa.abril.com.br </span><br/>  
+<p>"Dei carta branca para a Mayra montar uma composição na parede principal da minha sala. Amostras de pastilhas cerâmicas assinadas por Marcelo Rosenbaum e Adriana...</p></li>
+</ul></a></td></tr><tr class="centerrow"><td class="singlecol" style="width:100%" ><a href="http://mayranavarro.com.br/index.php?option=com_rsmonials"><ul class="featured">
+<li class="basecolor_1"><span>Décio Navarro </span> <span style="font-weight:normal;"> - </span> <span style="color:#777777; padding-left:12px; font-weight:normal;"> www.decionavarro.com </span><br/>  
+<p>"Na minha vida de arquiteto e designer fiz parcerias que renderam bons frutos.
+Mas da parceria que fiz com minha mulher obtive frutos especiais, como minha amada filha...</p></li>
+</ul></a></td></tr><tr class="centerrow"><td class="singlecol" style="width:100%" ><a href="http://mayranavarro.com.br/index.php?option=com_rsmonials"><ul class="featured">
+<li class="basecolor_1"><span>Cacá Bratke </span> <span style="font-weight:normal;"> - </span> <span style="color:#777777; padding-left:12px; font-weight:normal;"> www.cacabratke.com </span><br/>  
+<p>"Conheço a Mayra desde 2003, quando iniciamos nossa parceria. 
+Admirava-me a forma como ela trabalhava e, com apenas 22 anos, se virava tão bem! Começamos a...</p></li>
+</ul></a></td></tr></table></div></div></div></div><div style="display:none"><a href="http://www.joomlaxtc.com">JoomlaXTC RSMonials Wall - Copyright 2010 Monev Software LLC</a></div>  </div>
+</div>
+</div></div><div id="user7" class="centercolumn" style="float:left; width:286px; margin-right:42px;"><div class="singlearea"><div class="module title-on ">
+      
+								<h3>	  	
+					<span class="first_word">
+					Blog 
+					</span><span class="rest">da Mayra</span> </h3>
+    <div class="modulecontent">
+  <div id="jxtc553f6ea3ed911"><div style="padding-top:2px;"><div class="showcasejxtc553f6ea3ed911"><div class="sframejxtc553f6ea3ed911"><table class="tablejxtc553f6ea3ed911 singlepage" width="100%" cellpadding="0" cellspacing="0"><tr class="firstrow"><td class="singlecol" style="width:100%" ><div style="margin-bottom:20px; padding-bottom:20px; border-bottom:1px solid #ebebeb; overflow:auto;">
+	<a href="/index.php?option=com_content&amp;view=article&amp;id=79:aldi-flosi&amp;catid=31:blog" style="float:left;width:71px; height:71px; background: #eeeeee; padding:3px; border:1px solid #ccc; margin-right:15px;"><img src="/images/z.jpg" width="71" height="71"/></a>
+	<div style="float:left;width:190px;">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=79:aldi-flosi&amp;catid=31:blog" class="basecolor_1" style="line-height:16px; font-size:12px; font-weight:bold;"> Fragmentos por Aldi Flosi </a>
+		<p style="font-size:11px; line-height:14px; margin-top:5px;">
+Uma seleção de delicados objetos selecionados com muito critério para fazer parte da coleção do arquiteto.
+...</p>
+		<p style="margin-top:10px;">
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=79:aldi-flosi&amp;catid=31:blog" style=""><img align="left" src="/images/articleicon.png"/></a>
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=79:aldi-flosi&amp;catid=31:blog" style="margin-left:10px; font-size:8px; letter-spacing:1px; text-transform:uppercase; text-decoration:underline;">leia mais</a>
+		</p>
+	</div>
+</div></td></tr><tr class="centerrow"><td class="singlecol" style="width:100%" ><div style="margin-bottom:20px; padding-bottom:20px; border-bottom:1px solid #ebebeb; overflow:auto;">
+	<a href="/index.php?option=com_content&amp;view=article&amp;id=80:rico-mendonca&amp;catid=31:blog" style="float:left;width:71px; height:71px; background: #eeeeee; padding:3px; border:1px solid #ccc; margin-right:15px;"><img src="/images/y.jpg" width="71" height="71"/></a>
+	<div style="float:left;width:190px;">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=80:rico-mendonca&amp;catid=31:blog" class="basecolor_1" style="line-height:16px; font-size:12px; font-weight:bold;"> Estúdio de Rico Mendonça </a>
+		<p style="font-size:11px; line-height:14px; margin-top:5px;">
+O arquiteto catarinense trabalha na deliciosa cidade de Florianópolis. Na praia dos Ingleses cria seus projetos e participações nas principais mostr...</p>
+		<p style="margin-top:10px;">
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=80:rico-mendonca&amp;catid=31:blog" style=""><img align="left" src="/images/articleicon.png"/></a>
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=80:rico-mendonca&amp;catid=31:blog" style="margin-left:10px; font-size:8px; letter-spacing:1px; text-transform:uppercase; text-decoration:underline;">leia mais</a>
+		</p>
+	</div>
+</div></td></tr><tr class="lastrow"><td class="singlecol" style="width:100%" ><div style="margin-bottom:20px; padding-bottom:20px; border-bottom:1px solid #ebebeb; overflow:auto;">
+	<a href="/index.php?option=com_content&amp;view=article&amp;id=81:futuras-publicacoes&amp;catid=31:blog" style="float:left;width:71px; height:71px; background: #eeeeee; padding:3px; border:1px solid #ccc; margin-right:15px;"><img src="/images/x.jpg" width="71" height="71"/></a>
+	<div style="float:left;width:190px;">
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=81:futuras-publicacoes&amp;catid=31:blog" class="basecolor_1" style="line-height:16px; font-size:12px; font-weight:bold;"> Novas Notícias </a>
+		<p style="font-size:11px; line-height:14px; margin-top:5px;">
+Em breve mais ideias especiais para deixar a casa bacana, histórias e perfis de pessoas interessantes da cena do design....</p>
+		<p style="margin-top:10px;">
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=81:futuras-publicacoes&amp;catid=31:blog" style=""><img align="left" src="/images/articleicon.png"/></a>
+			<a href="/index.php?option=com_content&amp;view=article&amp;id=81:futuras-publicacoes&amp;catid=31:blog" style="margin-left:10px; font-size:8px; letter-spacing:1px; text-transform:uppercase; text-decoration:underline;">leia mais</a>
+		</p>
+	</div>
+</div></td></tr></table></div></div></div></div><div style="display:none"><a href="http://www.joomlaxtc.com">Deluxe News Pro - Copyright 2009,2010 Monev Software LLC</a></div>  </div>
+</div>
+</div></div><div id="user8" class="lastcolumn" style="float:left; width:286px;"><div class="singlearea"><div class="module title-on ">
+      
+								<h3>	  	
+					<span class="first_word">
+					Videos 
+					</span><span class="rest">da Designer</span> </h3>
+    <div class="modulecontent">
+  <script type="text/javascript">swfobject.embedSWF("http://mayranavarro.com.br/modules/mod_jxtc_mediacenter/flash/jxtc_video.swf?cacheBuster=553f6ea40812d", "jxtc553f6ea408bcf", "286", "460", "9", null, {"flashvars":"&data=http://mayranavarro.com.br/images/stories/videos/cursonatal.flv,http://mayranavarro.com.br/images/natal.jpg,http://mayranavarro.com.br/images/natal.png,Curso de Decoraçao de Natal,Mayra Navarro,http://mayranavarro.com.br/images/natal.jpg,http://mayranavarro.com.br|http://mayranavarro.com.br/images/stories/videos/medoarte.flv,http://mayranavarro.com.br/images/medoarte.jpg,http://mayranavarro.com.br/images/medoarte.jpg,Visitando uma Galeria de Arte,Mayra Navarro,http://mayranavarro.com.br/images/medoarte.jpg,http://mayranavarro.com.br|http://mayranavarro.com.br/images/stories/videos/mayrainternauta.flv,http://mayranavarro.com.br/images/mediastart.jpg,http://mayranavarro.com.br/images/mediastart.jpg,Dicas para Decorar sua Casa,Mayra Navarro,http://mayranavarro.com.br/images/mediastart.jpg,http://mayranavarro.com.br|http://mayranavarro.com.br/images/stories/videos/mesaspopulares.flv,http://mayranavarro.com.br/images/mesa.jpg,http://mayranavarro.com.br/images/mesa.png,Acerte na Escolha de Móveis,Mayra Navarro,http://mayranavarro.com.br/images/mesa.jpg,http://mayranavarro.com.br&skin=http%3A%2F%2Fmayranavarro.com.br%2Fmodules%2Fmod_jxtc_mediacenter%2Fflash%2FxtcPlayerLib.swf&logo-position=br&autoplay=0&text-line-timeout=5&show-playlist=1&rounded-corners-content=1&transition-effect=fade&stretch-playlist=1&stretch-content=1&slideshow-timeout=8&controls-always-show=0&playlist-active-color=#95b5c4&playlist-inactive-color=#C2C2C2&playlist-hover-color=#363636&background-color=#CCCCCC&text-line=1&show-playlist-scroller=0&rounded-corners-playlist=1&policy-file=http%3A%2F%2Fmayranavarro.com.br%2Fmodules%2Fmod_jxtc_mediacenter%2Felements%2Fcrossdomain.xml&effect-direction=top&link-target=new&type=vertical&php-folder=http%3A%2F%2Fmayranavarro.com.br%2Fmodules%2Fmod_jxtc_mediacenter%2F&player-width=286&player-height=214&left-hover=1&right-hover=0"}, {"wmode":"transparent","allowFullscreen":"true"});</script>
+	<div id="jxtc553f6ea408bcf">
+		<a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" /></a>
+	</div><div style="display:none"><a href="http://www.joomlaxtc.com">JoomlaXTC VAI Mediacenter - Copyright 2009,2010 Monev Software LLC</a></div>
+  </div>
+</div>
+</div></div></div></div></div></div>
+
+<div id="region6wrap" class="r6xtc-spacer"><div id="region6" class="xtc-wrapper"><div id="userModsbread-search"><div class="clearfix xtc-pad"><div id="breadcrumb" class="firstcolumn" style="float:left; width:598px; margin-right:42px;"><div class="singlearea"><div class="module title-off ">
+    <div class="modulecontent">
+  <div class="breadtext" style="width: 598px;">
+<p>Assine nossa newsletter e mantenha-se atualizado de novas idéias.</p>
+</div>  </div>
+</div>
+</div></div><div id="search" class="lastcolumn" style="float:left; width:340px;"><div class="singlearea"><div class="module title-off ">
+    <div class="modulecontent">
+  	<script type="text/javascript">
+	function formsubmit(task)
+	{
+		var form = document.subscribeFormModule;
+		if(task == "addSubscriber")
+		{
+			if(form.name.value== "")
+			{
+				alert('Digite seu nome!');
+			}
+			else if(form.email.value == "")
+			{
+				alert('Digite seu email.');
+			}
+			else if(( form.email.value.search("@") == -1) || ( form.email.value.search("[.*]" ) == -1 ))
+			{
+				alert('Digite seu email.');
+			}
+
+			
+			else
+			{
+				form.task.value = "addSubscriber";
+				form.submit();
+			}
+		}
+		else if(task == "removeSubscriberByEmail")
+		{
+			if(form.email.value == "")
+			{
+				alert('Digite seu email.');
+			}
+			else if(( form.email.value.search("@") == -1) || ( form.email.value.search("[.*]" ) == -1 ))
+			{
+				alert('Digite seu email.');
+			}
+			else
+			{
+				form.task.value = "removeSubscriberByEmail";
+				form.submit();
+			}
+		}
+	}
+	</script>
+
+		<script type="text/javascript">
+		    hs.graphicsDir = 'http://mayranavarro.com.br//modules/mod_ccnewsletter/assets/graphics/';
+		    hs.outlineType = 'rounded-white';
+		    hs.outlineWhileAnimating = true;
+		</script>
+		<div class="mainnewsletter">
+		<p></p>
+		<div class="newsletterbutton_highslide">
+			<p><a href="#" onclick="return hs.htmlExpand(this, { contentId: 'highslide-html' } )" class="highslide"><img src="/templates/designwerks/images/signup.png" /></a></p>
+		</div>
+		<br/>
+		<div class="highslide-html-content" id="highslide-html">
+			<div class="highslide-header">
+		  	<table border="0" width="100%">
+			<tr>
+			<td width="50%"></td>
+			  <td width="20%">
+				<div class="highslide-move" >
+				  <a href="#" onclick="return false">Mover</a>
+				</div>
+			  </td>
+			  <td width="28%">
+				<div class="highslide-close" style="float:left;" >
+				 <a href="#" onclick="return hs.close(this)">Fechar</a>
+				</div>
+			  </td>
+            </tr>
+           </table>
+			</div>
+			<div class="highslide-body">
+			<form action="/index.php?option=com_ccnewsletter&amp;view=ccnewsletter" method="post" name="subscribeFormModule" id="subscribeFormModule">
+				<p><div>
+					Nome:
+				<input type="text" name="name" id="name"  size="35" maxlength="35" value="" />
+				</div>
+				</p>
+				<p>
+				<div>
+					Email:
+				<input type="text" name="email" id="email"  size="35" maxlength="60" value="" />
+				</div>
+				</p>
+									<P>
+					<center><input class="button" type="button" id="addSubscriber" name="addSubscriber" value="Inscrever"  onclick="formsubmit('addSubscriber');"/></center>
+					</p>
+								<input type="hidden" name="option" value="com_ccnewsletter" />
+				<!--<input type="hidden" name="task" value="addSubscriber" />-->
+				<input type="hidden" name="task" value="" />
+				</form>
+		</div>
+	    <div class="highslide-footer">
+	        <div>
+	            <span class="highslide-resize" title="Resize">
+	                <span></span>
+	            </span>
+	        </div>
+	    </div>
+	</div>
+	</div>
+  </div>
+</div>
+</div></div></div></div><div id="userMods9-10"><div class="clearfix xtc-pad"><div id="user9" class="firstcolumn" style="float:left; width:450px; margin-right:42px;"><div class="singlearea"><div class="module title-off ">
+    <div class="modulecontent">
+  <div style="width: 700px !important;">
+<div style="color:#bbb; font-size:11px; line-height:120%; margin:-25px 0 0 -20px !important;">
+<div style="float: left; width: 95px; height: 100px; margin-right: 12px; text-align: center;"><img src="/images/rss.png" border="0" />
+<p>Good news!</p>
+</div>
+<div style="float: left; width: 95px; height: 100px; margin-right: 12px; text-align: center;"><img src="/images/linkedin.png" border="0" /><br />
+<p><a href="http://www.linkedin.com/pub/mayra-navarro/47/444/ab" target="_blank">Perfil<br />no LinkedIn!</a></p>
+</div>
+<div style="float: left; width: 95px; height: 100px; margin-right: 12px; text-align: center;"><a href="http://www.facebook.com/profile.php?id=100001169810143" target="_blank"><img src="/images/facebook.png" border="0" /></a>
+<p><a href="http://www.facebook.com/profile.php?id=100001169810143" target="_blank">Fale comigo <br />no Facebook!</a></p>
+</div>
+<div style="float: left; width: 95px; height: 100px; margin-right: 12px; text-align: center;"><img src="/images/twitter.png" border="0" />
+<p>Siga-me<br />no Twitter!</p>
+</div>
+<div style="float: left; width: 95px; height: 100px; text-align: center;"><img src="/images/stumble.png" border="0" /><br />
+<p style="text-align: center;">StumbleUpon!</p>
+</div>
+</div>
+</div>  </div>
+</div>
+</div></div><div id="user10" class="lastcolumn" style="float:left; width:450px;"><div class="singlearea"><div class="module title-off ">
+    <div class="modulecontent">
+  <div id="jxtc553f6ea40b0e2"><div style="margin:-17px 0;"><div class="showcasejxtc553f6ea40b0e2"><div class="sframejxtc553f6ea40b0e2"><table class="tablejxtc553f6ea40b0e2 singlepage" width="100%" cellpadding="0" cellspacing="0"><tr class="singlerow"><td class="singlecol" style="width:100%" ><div style="padding-left:40px; margin-left:43px; border-left:1px solid #cccccc;">
+
+<h5 style=" font-size:9px;  text-transform:uppercase; margin-top:-2px;">Fale Comigo</h5>
+
+<p style="font-size:16px; font-weight:bold; color:#777; margin:5px 0;"> Estou aguardando voc&ecirc;!</p>
+
+<p style="line-height:140%;"> Envie sua mensagem atrav&eacute;s da <a href="/index.php?option=com_contact&amp;view=contact&amp;id=6:contato-mayra-navarro&amp;catid=7:full-services-contacts" style="text-decoration:underline"> P&aacute;gina de contato. </a> <br>Se preferir informe seu telefone que entraremos em contato.  </p>
+
+
+<h5 style="font-size:9px; text-transform:uppercase; margin-top:10px;">Endere&ccedil;o</h5>
+
+<p>  São Paulo / SP,  Brasil 04049-000 </p> 
+
+</div></td></tr></table></div></div></div></div><div style="clear:both"></div>
+<div style="display:none"><a href="http://www.joomlaxtc.com">JoomlaXTC Contact Wall - Copyright 2010, 2011 Monev Software LLC</a></div>
+  </div>
+</div>
+</div></div></div></div></div></div></div>
+<div id="footerwrap" class="xtc-pushtop"><div id="footerpush" class="xtc-wrapperwide xtc-spacer"><div id="footer" class="clearfix xtc-wrapper"><div id="footer" class="firstcolumn" style="float:left; width:450px; margin-right:42px;"><div class="singlearea"><div class="module title-off clear">
+    <div class="modulecontent">
+  <img style="margin-top:-5px;"><img src="/images/bottomlogos.png" border="0" />  </div>
+</div>
+</div></div><div id="legals" class="lastcolumn" style="float:left; width:450px;"><div class="singlearea"><div class="module title-off clear">
+    <div class="modulecontent">
+  <p style="text-align:right; color:#666666; font-size:10px;">© 2012 MayraNavarro.com.br / Todos direitos reservados.<br />desenvolvimento CriarLoja.com</p>  </div>
+</div>
+</div></div></div></div></div></body>

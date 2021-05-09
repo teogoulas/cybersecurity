@@ -1,0 +1,59 @@
+220-mtaout-db04.r1000.mx.aol.com ESMTP MUA/Third Party Client Interface
+220-AOL and its affiliated companies do not
+220-authorize the use of its proprietary computers and computer
+220-networks to accept, transmit, or distribute unsolicited bulk
+220-e-mail sent from the internet.
+220-Effective immediately:
+220-AOL may no longer accept connections from IP addresses
+220 which no reverse-DNS (PTR record) assigned.
+EHLO billy_wilson15
+250-mtaout-db04.r1000.mx.aol.com
+250-PIPELINING
+250-SIZE 36700160
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN XAOL-UAS-MB LOGIN
+250-AUTH=PLAIN XAOL-UAS-MB LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+YmlsbHlfd2lsc29uMTU=
+334 UGFzc3dvcmQ6
+c2F0b3Fvdg==
+235 2.7.0 Authentication successful
+MAIL FROM: <billy_wilson15@aol.com>
+250 2.1.0 Ok
+RCPT TO: <reno1340@hotmail.com>
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+Message-ID: <421502247$2064641196$2049642194@billy_wilson15>
+From: "Edmon Urarro" <billy_wilson15@aol.com>
+To: <reno1340@hotmail.com>
+Subject: FW:SaveBig BucksBy Takin gAdva ntag eOfOurOn line Pharmac y
+Date: Thu, 11 Aug 2011 11:35:34 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<br>u9nselfish enougqh i*n bi!g on5es, sdaid th\at hae agreeed wCith mVe atnd thoughyt  <br>"NoTt afteHr eleven,v" DavTis sa^id. "YI wasJn't well)-I haven'Ct beeBn, ydou know.V.. Da7mn!" hUe asdded, shaKking hMis</BODY></HTML>
+.
+250 2.0.0 Ok: queued as 4A28CE00025B
+421 4.4.2 mtaout-db04.r1000.mx.aol.com Error: timeout exceeded
+421 4.4.2 mtaout-db04.r1000.mx.aol.com Error: timeout exceeded

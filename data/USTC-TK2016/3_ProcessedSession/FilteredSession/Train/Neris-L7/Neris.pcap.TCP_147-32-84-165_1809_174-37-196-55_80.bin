@@ -1,0 +1,6 @@
+GET / HTTP/1.0
+Host: 174.37.196.55
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Opera/9.00 (Wii; U; ; 1038-58; Wii Shop Channel/1.0; en)
+

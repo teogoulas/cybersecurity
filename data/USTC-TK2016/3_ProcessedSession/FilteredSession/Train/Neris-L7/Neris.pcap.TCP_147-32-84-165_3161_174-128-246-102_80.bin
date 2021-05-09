@@ -1,0 +1,6 @@
+GET / HTTP/1.0
+Host: 174.128.246.102
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.1.9) Gecko/20071025 Firefox/2.0.0.9
+

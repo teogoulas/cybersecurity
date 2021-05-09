@@ -1,0 +1,21 @@
+GET /p6.asp?MAC=08-00-27-B5-B7-19&Publicer=dc99 HTTP/1.1
+Host: 1.95622.com
+User-Agent: ClickAdsByIE 0.9.10
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.5
+Referer: http://1.95622.com/p6.asp
+Content-Type: application/x-www-form-urlencoded
+Connection: Close
+
+GET /p6.asp?MAC=08-00-27-B5-B7-19&Publicer=dc99 HTTP/1.1
+Host: 1.95622.com
+User-Agent: ClickAdsByIE 0.9.10
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.5
+Referer: http://1.95622.com/p6.asp
+Content-Type: application/x-www-form-urlencoded
+Connection: Close
+
+HTTP/1.1 200 OK
+Connection: close
+Date: Wed, 10 Aug 2011 11:19:38 

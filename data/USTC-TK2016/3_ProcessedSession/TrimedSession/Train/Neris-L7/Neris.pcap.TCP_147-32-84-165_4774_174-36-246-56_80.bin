@@ -1,0 +1,11 @@
+GET /www/delivery/ajs.php?zoneid=19154&block=1&blockcampaign=1&cb=58450113294&exclude=,bannerid:5797,campaignid:1080,&charset=windows-1252&loc=http%3A//www.funglad.com/fung.html&context=Yjo1Nzk3I2M6MTA4MHw%3D&mmm_fo=1 HTTP/1.1
+Accept: */*
+Referer: http://www.funglad.com/fung.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/526.9 (KHTML, like Gecko) Version/4.0dp1 Safari/526.8
+Accept-Encoding: gzip, deflate
+Host: ads.ad4game.com
+Connection: Keep-Alive
+Cookie: OAID=7b02a659881330150f357baae5eed171; OAGEO=CZ%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C; _OASCAP[5797]=1; _OABLOCK[5797]=1312981699
+
+GET /www/delivery/ajs.php?zoneid=19154&block=1&blockcampaign=1&cb=58450113294&exclude=,bannerid:5797,campaignid:1080,&charset=windows-1252&l

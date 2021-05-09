@@ -1,0 +1,21 @@
+GET /v2/ip_query_country.php?key=a9df22c8f8a377ac9a5e32a49cfa90a81baff6855766206fc7285a371f8b5b47&timezone=off HTTP/1.1
+Host: api.ipinfodb.com
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1) Gecko/20090612 Firefox/3.5
+Connection: closed
+
+GET /v2/ip_query_country.php?key=a9df22c8f8a377ac9a5e32a49cfa90a81baff6855766206fc7285a371f8b5b47&timezone=off HTTP/1.1
+Host: api.ipinfodb.com
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1) Gecko/20090612 Firefox/3.5
+Connection: closed
+
+HTTP/1.1 200 OK
+Date: Tue, 29 May 2012 08:27:24 GMT
+Server: Apache/2.2.14 (Ubuntu)
+X-Powered-By: PHP/5.3.2-1ubuntu4.15
+Vary: Accept-Encoding
+Content-Length: 177
+Content-Type: text/xml
+
+<?xml versi

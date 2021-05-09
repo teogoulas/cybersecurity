@@ -1,0 +1,18 @@
+GET /ak/q.gif HTTP/1.1
+Accept: */*
+Referer: http://ads.creafi-online-media.com/st?ad_type=iframe&ad_size=468x60&section=1921331
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 18 Oct 2006 18:25:22 GMT
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: content.yieldmanager.com
+Connection: Keep-Alive
+Cookie: RMAK=2-2-69559C4E946A6E01FE45852DA6643F3351FD61141DB60A46214B0B38E571DA00-10198EE0A932862BAD8458755C61DD7D629FEA3B6B48367F13A332FE24C36651; AK1=1
+
+HTTP/1.1 304 Not Modified
+Content-Type: image/gif
+Last-Modified: Wed, 18 Oct 2006 18:25:22 GMT
+Cache-Control: max-age=3600
+Date: Thu, 11 Aug 2011 10:55:30 GMT
+Connection: keep-alive
+P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA

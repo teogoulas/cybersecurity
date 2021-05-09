@@ -1,0 +1,5 @@
+GET /www/delivery_dev/afr.php?zoneid=1086&cb=421940675&ct0=http://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DC9EbNwDH3VLqwKMK_yAOr-4CQAp7o9YQG3s-B_7QBpszNvoIDEAEgAGDM4e2B_C6CARdjYS1wdWItNDg4ODg3ODExODMwMzA1OaAB6s7I2gPIAQmpAomlRp6hP1E-qAMBmAQAqgRxT9CbjbxiT5GR4My_MpRgYJnYgDZUnf34t9_2e-dq1qke-_uHZo7SyvDhBQxZT7nt-1ou_geR1tPx_QK46pAmZyFD2dwM9DiQoAfIgqAmrlN8k3NK4vdHahUtmd3g0z2BjBha1DXT03ffc1H0S3NqtfagBiHYBwA%26num%3D1%26sig%3DAOD64_0zRTJtwllmOW3ayejjeDJ2Pc-yTg%26client%3Dca-pub-4888878118303059%26adurl%3D HTTP/1.1
+Host: ads.adelement.com
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+Referer: http://googleads.g.doubl

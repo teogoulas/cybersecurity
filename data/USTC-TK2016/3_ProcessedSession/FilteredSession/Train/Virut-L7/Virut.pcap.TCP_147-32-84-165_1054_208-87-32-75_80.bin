@@ -1,0 +1,77 @@
+GET /t.php?uid=thevinylsidinginstallation4e497015c5f179.53375592&src=&cat=general&kw=&sc=general HTTP/1.0
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://thevinylsidinginstallation.com/
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: thevinylsidinginstallation.com
+Connection: Keep-Alive
+Cookie: uid=thevinylsidinginstallation4e497015c5f179.53375592
+
+GET /t.php?uid=thevinylsidinginstallation4e497015c5f179.53375592&src=&cat=general&kw=&sc=general HTTP/1.0
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://thevinylsidinginstallation.com/
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: thevinylsidinginstallation.com
+Connection: Keep-Alive
+Cookie: uid=thevinylsidinginstallation4e497015c5f179.53375592
+
+HTTP/1.1 200 OK
+Date: Mon, 15 Aug 2011 19:14:30 GMT
+Server: Apache/2.2.17 (Ubuntu)
+X-Powered-By: PHP/5.3.5-1ubuntu7.2
+Vary: Accept-Encoding
+Content-Length: 1087
+Connection: close
+Content-Type: text/html
+
+<html>
+<head>
+
+<style type="text/css">
+
+BODY { text-align: center; background: #666; margin: 0px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; min-width: 770;}
+A { color: #00f }
+A:hover { color: #f00 }
+
+/* ------------------ DOMAIN AD STYLES ---------------- */
+div.dns_header_ad {
+	background-color: #fea012;
+	padding: 4px 0;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	color: #000;
+}
+
+div.dns_header_ad a:hover {
+	color: #03c;
+}
+
+/* Styles for advertisement inner container - holds and centers ad contents */
+.AdCentralContainer {
+	margin: 12px auto 12px auto;
+	text-align: center;
+	border: 0px;
+	padding: 0px;
+}
+
+/* ------------------ END OF DOMAIN AD STYLES --------- */
+
+
+</style>
+
+</head>
+<body>
+
+
+<script language="javascript">
+//var uid=new Number(Math.floor(99999999 * Math.random())+1);
+var sr='unk';
+if(screen) {
+  sr = screen.width + 'x' + screen.height;
+}
+document.write('<im'+'g src="/track.php?uid=thevinylsidinginstallation4e497015c5f179.53375592&d=thevinylsidinginstallation.com&sr='+sr+'" width=1 height=1>');
+</script>
+
+</body>
+
+</html>

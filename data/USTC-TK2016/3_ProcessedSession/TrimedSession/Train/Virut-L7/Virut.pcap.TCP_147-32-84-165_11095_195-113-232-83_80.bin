@@ -1,0 +1,9 @@
+GET /bannerfarm/178745/160x600.swf?clickTag=http://r1-ads.ace.advertising.com/click/site=0000796405/mnum=0001058590/cstr=8062624=_4e49bdc8,4274844118,796404^961175^-20^0!796405^1058590^-91^0,1_/xsxdata=$xsxdata/bnum=8062624&siteValue=0000796405 HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=pM070013134555600036; ASCID=pM070013134555600036; F1=BgcvJ5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA
+
+GET /bannerfarm/178745/160x600.swf?clickTag=http://r1-ads.ace.advertising.com/click/site=0000796405/mnum=0001058590/cstr=8062624=_4e49bdc8,4274844118,796404^961175^-20^0!796405^1058590^-91^0,1_/xsxdata=$xsxdata/bnum=8062624&siteValue=0000796405

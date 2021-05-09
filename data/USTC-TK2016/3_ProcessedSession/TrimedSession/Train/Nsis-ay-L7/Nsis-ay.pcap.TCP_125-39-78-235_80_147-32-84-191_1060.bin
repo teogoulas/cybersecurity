@@ -1,0 +1,29 @@
+GET /sobar/sobar_top_total.html?t=1313743675&sr=BDBAREX_D_E7F9FD7B36708D11-A171172A674BCCE1&suc=0 HTTP/1.1
+User-Agent: bar-get
+Host: sobartop.baidu.com
+
+GET /sobar/sobar_top_total.html?t=1313743675&sr=BDBAREX_D_E7F9FD7B36708D11-A171172A674BCCE1&suc=0 HTTP/1.1
+User-Agent: bar-get
+Host: sobartop.baidu.com
+
+HTTP/1.1 200 OK
+Date: Fri, 19 Aug 2011 08:48:02 GMT
+Server: Apache
+Last-Modified: Mon, 23 Aug 2010 00:48:00 GMT
+Accept-Ranges: bytes
+Content-Length: 48795
+Cache-Control: max-age=604800
+Expires: Fri, 26 Aug 2011 08:48:02 GMT
+Vary: Accept-Encoding
+Connection: Keep-Alive
+Content-Type: text/html
+
+[MAIN]
+Count=81
+Name_1=…œ…˝◊ÓøÏTop10
+Name_2=»»√≈À—À˜Top10
+Name_3= Æ¥Û√¿≈Æ∑Á‘∆∞Ò
+Name_4= Æ¥ÛµÁ ”æÁ∑Á‘∆∞Ò
+Name_5= Æ¥Û¡˜––Ω«˙∑Á‘∆∞Ò
+Name_6= Æ¥Û–°Àµ∑Á‘∆∞Ò
+Name_7= Æ¥Û»

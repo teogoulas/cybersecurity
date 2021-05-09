@@ -1,0 +1,34 @@
+GET /v2/cexposer/SIG=16d0n5830/*http%3A//ad.yieldmanager.com/imp?Z=300x250&anmember=541&anprice=&referrer=http%3a%2f%2fwww.netygames.com%2fnetgame.html&s=2056437&_salt=1052490469&B=10&u=http%3A%2F%2Fwww.netygames.com%2Fnetgame.html&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: cookex.amp.yahoo.com
+
+GET /v2/cexposer/SIG=16d0n5830/*http%3A//ad.yieldmanager.com/imp?Z=300x250&anmember=541&anprice=&referrer=http%3a%2f%2fwww.netygames.com%2fnetgame.html&s=2056437&_salt=1052490469&B=10&u=http%3A%2F%2Fwww.netygames.com%2Fnetgame.html&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: cookex.amp.yahoo.com
+
+HTTP/1.1 302 Found
+Date: Wed, 10 Aug 2011 10:18:20 GMT
+Set-Cookie: B=7sjpgq9744mnc&b=3&s=vf; expires=Tue, 10-Aug-2013 20:00:00 GMT; path=/; domain=.yahoo.com
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Location: http://ad.yieldmanager.com/imp?Z=300x250&anmember=541&anprice=&referrer=http%3a%2f%2fwww.netygames.com%2fnetgame.html&s=2056437&_salt=1052490469&B=10&u=http%3A%2F%2Fwww.netygames.com%2Fnetgame.html&r=1&SIG=10vqr7kec;x-cookie=7fwctd9744zap&o=4&f=qt
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Cache-Control: private
+
+59     
+<!-- cookex3.ads.adx.ch1.yahoo.com uncompressed/chunked Wed Aug 10 03:18:20 PDT 2011 -->
+
+0
+

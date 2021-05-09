@@ -1,0 +1,24 @@
+GET /ki.js/8183/2YW.js HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: s3.amazonaws.com
+Connection: Keep-Alive
+
+GET /ki.js/8183/2YW.js HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: s3.amazonaws.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+x-amz-id-2: Oa/MscBhX6V6nD8cviMWO6B4CwyVABls0Wc4wvU9uJNbEvjvARSTtO/+CBFPypKq
+x-amz-request-id: 0D5C18BEFDE0C3D3
+Date: Mon, 15 Aug 2011 19:14:43 GMT
+Cache-Control: max-age=3600
+Content-Encoding: gzip
+Last-Modified: Wed, 16 Mar 2011 18:59:15 GMT
+ETag: "54da3ed561ad588624f5b6af90092725"
+Accept-Ranges: bytes
+Con

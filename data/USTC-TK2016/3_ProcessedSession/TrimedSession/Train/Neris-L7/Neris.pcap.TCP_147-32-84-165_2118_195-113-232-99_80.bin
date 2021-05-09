@@ -1,0 +1,18 @@
+GET /CDN/178743/160x600_1.14.11.jpg HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=yo730013129771000005; ASCID=yo730013129771000005; F1=B4McC5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA
+
+GET /CDN/178743/160x600_1.14.11.jpg HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: bannerfarm.ace.advertising.com
+Connection:

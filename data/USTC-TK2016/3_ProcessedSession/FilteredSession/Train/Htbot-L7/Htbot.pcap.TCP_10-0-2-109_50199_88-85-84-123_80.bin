@@ -1,0 +1,36 @@
+GET /8edzrkj400u93a2hvg0ro89bi6jsdes0m6veh554s3to7hjhwi8fvo97xnwfyqpkym596w2t46q0w5ebxu83le6t7eycxehal1u63r4y2ph64k63sc1cjyivc7rx95vv5rm9534n765igim8bddrvpx2yw73zztum55p37br392gg11p8gzi2r0ie5a96sannj943u6f03jzqx2de961w2ti1ufg6n3a8uj2m2z8urd8zkio76614r3gbgqh66vnhdzusa2y7blyju9gfm97uyrvhsnmrt736t02puyvb6mm0afoz2o09eer53dcl577ea6kb5mo7u6176mb8fj858e3gqccmtrn712ebobq6nj5uvg6htsxgx5utj8xkd26q5348ukvqgb68us6zvlodg063280x877cw5h8hw0ixava6usmjofyg4o79a7h7ucu2w6jsn8plj40q56p5d6tgrpf7e9jzll0xss HTTP/1.1
+Host: news-317964-latest.igrafum.ru
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+Referer: http://objava-oglasa.bolha.com/oglas_upsell.php?id=1297575235
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Connection: keep-alive
+
+HTTP/1.1 302 Moved Temporarily
+Server: nginx/1.6.2
+Date: Wed, 04 Mar 2015 16:31:07 GMT
+Content-Type: text/html; charset="UTF-8"
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.38
+Accept-Charset: UTF-8
+Set-Cookie: lang=0; path=/
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Wed, 04 Mar 2015 16:31:07 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+P3P: policyref="/w3c/p3p.xml", CP="UNI"
+Set-Cookie: ppdr_action_cid=317964; expires=Wed, 04-Mar-2015 17:01:07 GMT; path=/
+Set-Cookie: ppdr_action_sid=619710; expires=Wed, 04-Mar-2015 17:01:07 GMT; path=/
+Set-Cookie: ppdr_action_topic=0; expires=Wed, 04-Mar-2015 17:01:07 GMT; path=/
+Set-Cookie: ppdr_action_vk=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: ppdr_action_kw=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: ppdr_action_top=0; expires=Wed, 04-Mar-2015 17:01:07 GMT; path=/
+Location: http://www.servingspot.com/ts/514B7032794967745F324255455F3344?utm_source=317964_619710&utm_content=178508
+
+1
+ 
+0
+

@@ -1,0 +1,24 @@
+GET /getjson?4pq7f6YvrMrH6OYUFq1AZpw31KpOjecsbHnCmU5CoMXW HTTP/1.1
+Accept: */*
+Referer: http://gamevid.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: splashpops.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 11 Aug 2011 09:38:09 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Expires: Thu Aug 11 08:38:09 2011
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+VTag: 3883fac638122858f30a6debdbf4137a
+
+88
+document.write('<script language="javascript" src="http://ad-cdn.technoratimedia.com/00/23/39/uat_13923.js?ad_size=300x250"></script>');
+0
+

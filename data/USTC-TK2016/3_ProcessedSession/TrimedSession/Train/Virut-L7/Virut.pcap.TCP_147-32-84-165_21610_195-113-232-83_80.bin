@@ -1,0 +1,21 @@
+GET /CDN/155095/HK_160x600_v1_5.25.11.jpg HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 25 May 2011 21:09:06 GMT
+If-None-Match: "18f2a0-8b5c-4a4201d666080"
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=jb210013134771710011; F1=BYjEK5kAAAAA0bCDAIAAgEABAAAABAAAAIAAgEA
+
+GET /CDN/155095/HK_160x600_v1_5.25.11.jpg HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 25 May 2011 21:09:06 GMT
+If-None-Match: "18f2a0-8b5c-4a4201d666080"
+H

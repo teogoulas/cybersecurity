@@ -1,0 +1,173 @@
+GET /fung.html HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.funglad.com
+Connection: Keep-Alive
+
+GET /fung.html HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.funglad.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Date: Wed, 10 Aug 2011 09:27:18 GMT
+Server: Apache/2.2.19 (Unix) mod_ssl/2.2.19 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+Last-Modified: Tue, 09 Aug 2011 03:25:17 GMT
+ETag: "2f0026e-1780-4aa0a1cd5a140"
+Accept-Ranges: bytes
+Content-Length: 6016
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+Get the latest entertainment news headlines from Funglad.com. Find breaking entertainment news, 
+including analysis and opinion on top entertainment stories.Entertainment news and information 
+includes movie, theater, music and nightlife, books,TV, reviews, celebrity gossip, photo galleries.
+
+Blogs,Books,Celebrity,Humanities,Movies,Music,People,Photography,Restaurants,Television
+
+
+
+
+
+
+
+
+
+<!--/* Ad4Game Javascript Tag */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.ad4game.com/www/delivery/ajs.php':'http://ads.ad4game.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=19153&amp;block=1&amp;blockcampaign=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ads.ad4game.com/www/delivery/ck.php?n=aa03ac60&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.ad4game.com/www/delivery/avw.php?zoneid=19153&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aa03ac60' border='0' alt='' /></a></noscript>
+
+
+
+
+
+
+
+<!--/* Ad4Game Javascript Tag */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.ad4game.com/www/delivery/ajs.php':'http://ads.ad4game.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=19154&amp;block=1&amp;blockcampaign=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ads.ad4game.com/www/delivery/ck.php?n=ab24d9c0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.ad4game.com/www/delivery/avw.php?zoneid=19154&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ab24d9c0' border='0' alt='' /></a></noscript>
+
+
+
+
+
+
+
+
+<!--/* Ad4Game Javascript Tag */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.ad4game.com/www/delivery/ajs.php':'http://ads.ad4game.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=19155&amp;block=1&amp;blockcampaign=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ads.ad4game.com/www/delivery/ck.php?n=a1fc5050&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.ad4game.com/www/delivery/avw.php?zoneid=19155&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a1fc5050' border='0' alt='' /></a></noscript>
+
+
+
+
+
+
+
+
+
+<!--/* Ad4Game Interstitial or Floating DHTML Tag */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var ox_u = 'http://ads.ad4game.com/www/delivery/al.php?zoneid=19156&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;layerstyle=footer&amp;position=bottom&amp;speed=3&amp;slide=0&amp;delay=-&amp;transparent=0';
+   if (document.context) ox_u += '&context=' + escape(document.context);
+   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
+//]]>--></script>
+
+
+
+
+
+
+
+
+
+
+
+
+<!--/* Ad4Game Popup Tag */-->
+
+<script type='text/javascript' src='http://ads.ad4game.com/www/delivery/apu.php?n=&zoneid=19158&popunder=1&direct=1&resizable=1&scrollbars=1'></script>
+
+
+
+
+
+
+
+
+<!--/* Ad4Game Site-Skin Tag */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+
+var ad4game_siteskin = {
+    'contentWidth' : '800px', // size of the regular content in pixel
+    'leftOffset'   : '0px',   // left ad position adjustment -/+ pixel left/right
+    'topOffset'    : '0px',   // top position of the ads
+    'rightOffset'  : '0px',   // right ad adjustment
+    'zIndex'       : '0',     // css style z-index for the ads
+    'fixed'        : '1',     // 0=>ads scroll with content, 1=>ads stay fixed
+    'hide'         : 'none',  // hide a banner: one of 'none', 'left', 'right'
+    'random'       : Math.floor(Math.random() * 99999999999)
+};
+document.write('\x3cscript type="text/javascript" src="http://ads.ad4game.com/www/delivery/siteskin.php?zoneid=19157&cb='+ad4game_siteskin.random+'"\x3e\x3c/script\x3e');
+
+//]]>--></script>
+
+
+
+
+
+
+
+
+
+

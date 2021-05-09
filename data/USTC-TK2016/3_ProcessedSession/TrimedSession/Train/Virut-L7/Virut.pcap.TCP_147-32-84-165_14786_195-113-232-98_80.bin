@@ -1,0 +1,14 @@
+GET /site=796404/size=160600/u=2/bnum=69741700/hr=6/hl=0/c=2/scres=1/swh=1280x722/tile=1/f=0/r=1/optn=1/fv=6/aolexp=1/dref=http%253A%252F%252Fwww.generalamuse.com%252Fgen.php HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: r1-ads.ace.advertising.com
+Connection: Keep-Alive
+
+GET /site=796404/size=160600/u=2/bnum=69741700/hr=6/hl=0/c=2/scres=1/swh=1280x722/tile=1/f=0/r=1/optn=1/fv=6/aolexp=1/dref=http%253A%252F%252Fwww.generalamuse.com%252Fgen.php HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Li

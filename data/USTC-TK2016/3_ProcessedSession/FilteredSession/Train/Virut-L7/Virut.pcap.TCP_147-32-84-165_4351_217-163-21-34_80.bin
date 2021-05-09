@@ -1,0 +1,39 @@
+GET /imp?Z=0x0&anmember=541&anprice=&y=29&s=2056437&_salt=916476034&X=10070125,7404350,10271409,10311358&B=10&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ad.yieldmanager.com
+Connection: Keep-Alive
+Cookie: ih="b!!!!'!/'k!!!!!#=0b=N!3Eh(!!!!#=0b=N!3b[,!!!!#=0b=N!3h2+!!!!#=0b=O"; vuday1=!!!!'!7/9q:G-?_; BX=7fjj0md74j2at&b=4&s=f8&t=226; uid=uid=de9b80a2-c781-11e0-af73-1cc1de045436&_hmacv=1&_salt=2816593488&_keyid=k1&_hmac=c758f06cebf46ca2d12fc3570639e0d815bae99a; liday1='W2E[B25qtb1q+F!7/9qA(o^j; bh="b!!!!#!#]7+!!!!#=0b=N"
+
+GET /imp?Z=0x0&anmember=541&anprice=&y=29&s=2056437&_salt=916476034&X=10070125,7404350,10271409,10311358&B=10&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ad.yieldmanager.com
+Connection: Keep-Alive
+Cookie: ih="b!!!!'!/'k!!!!!#=0b=N!3Eh(!!!!#=0b=N!3b[,!!!!#=0b=N!3h2+!!!!#=0b=O"; vuday1=!!!!'!7/9q:G-?_; BX=7fjj0md74j2at&b=4&s=f8&t=226; uid=uid=de9b80a2-c781-11e0-af73-1cc1de045436&_hmacv=1&_salt=2816593488&_keyid=k1&_hmac=c758f06cebf46ca2d12fc3570639e0d815bae99a; liday1='W2E[B25qtb1q+F!7/9qA(o^j; bh="b!!!!#!#]7+!!!!#=0b=N"
+
+HTTP/1.1 200 OK
+Date: Mon, 15 Aug 2011 21:02:23 GMT
+Server: YTS/1.18.4
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+X-RightMedia-Hostname: raptor0456.rm.ch1
+Set-Cookie: BX=7fjj0md74j2at&b=4&s=f8&t=226; path=/; expires=Tue, 19-Jan-2038 03:14:07 GMT
+Cache-Control: no-store
+Last-Modified: Mon, 15 Aug 2011 21:02:23 GMT
+Pragma: no-cache
+Content-Length: 916
+Content-Type: application/x-javascript
+Age: 0
+Connection: close
+
+var l = (screen.width - 720) / 2;
+var t = (screen.height - 300) / 2;
+var pop = window.open('http://adserving.cpxinteractive.com/rw?title=&qs=iframe3%3FAAAAAPVgHwBGCXMAAAAAANhQHQAAAAAAAwAQAAAAAAAAAP8AAAACGDSwMgAAAAAAvLomAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD%2DuhIAAAAAAAICAgAAAAAAAAAAAAAAAAAAAACoEQ0uPwAAAAAAAAAAAAAADOQKOT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAULvDQ322SCgQChvm7nr%2DPBIzyrb28fhEyVeWpAAAAAA%3D%3D%2C%2Chttp%253A%252F%252Fwww%2Enetygames%2Ecom%252Fnetgame%2Ehtml%2CB%253D10%2526X%253D10070125%252C7404350%252C10271409%252C10311358%2526Z%253D0x0%2526%5Fsalt%253D916476034%2526anmember%253D541%2526anprice%253D%2526r%253D1%2526s%253D2056437%2526y%253D29%2Cdf9e8058%2Dc781%2D11e0%2D856e%2D33569a88993e','','height=300,width=720,left='+l+',top='+t+',toolbar=0,status=0,menubar=0,resizable=0,scrollbars=0,location=0');
+pop.blur();
+window.focus();

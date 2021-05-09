@@ -1,0 +1,26 @@
+GET /getresponse.js?issp=1&ce=1&libver=6.3&art=admsm&admguid=12272_1369672872x2035819383&pvId=1425486376481&zones=a5fc560e-925f-4054-a18e-56227d0f62e3|admixer_async_478676499|0&isda=1&fv=16.0&pg=http%3A%2F%2Folx.ua%2F&dc=&srt=14&ish5v=1 HTTP/1.1
+Host: ad.admixer.net
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+Referer: http://olx.ua/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: am-uid=eee4e2d83126474185805b63a9ca19ea; admguid=12272_1369672872x2035819383
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Content-Type: application/x-javascript; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.5
+Set-Cookie: admguid=12272_1369672872x2035819383; domain=.admixer.net; expires=Sat, 04-Mar-2017 16:26:21 GMT; path=/
+P3P: CP="NID DSP ALL COR"
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Access-Control-Allow-Headers: Content-Type, x-xsrf-token, X-Requested-With, Authorization, Content-Length, Cookie
+Date: Wed, 04 Mar 2015 16:26:20 GMT
+Content-Length: 638
+
+(function(){var admresponse={"pvId":1425486376481,"mPath":"http://ua3cdn.admixer.net/creatives/","admguid":"12272_1369672872x2035819383","geo":{"country":"CZ"},"useSd":true,"slots":[{"requestId":"8eb2056a-e2ed-402f-93aa-4d460444bc54","zId":"a5fc560e-925f-4054-a18e-56227d0f62e3","zWidth":3000,"zHeight":120,"zone":{"id":"a5fc560e-925f-4054-a18e-56227d0f62e3","type":0,"w":3000,"h":120,"LogViewsOnScroll":false,"site":{"id":"f4f10be6-ce7b-42be-8428-bb218f8e06a3"}},"phId":"admixer_async_478676499","ts":"635610831811435791","sg":"0","cnt":"CZ","iType":0,"items":[]}],"srvbetime":31};
+admixerSm.processSinglePageResponse(admresponse);})();

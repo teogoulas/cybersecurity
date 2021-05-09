@@ -1,0 +1,30 @@
+220 smtp208.mail.gq1.yahoo.com ESMTP
+EHLO chrissieshoshannazvlj
+EHLO chrissieshoshannazvlj
+250-smtp208.mail.gq1.yahoo.com
+250-AUTH LOGIN PLAIN XYMCOOKIE
+250-PIPELINING
+250 8BITMIME
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+Y2hyaXNzaWVzaG9zaGFubmF6dmxq
+Y2hyaXNzaWVzaG9zaGFubmF6dmxq
+334 UGFzc3dvcmQ6
+NTQ5MjRjeDNkeTI=
+NTQ5MjRjeDNkeTI=
+235 OK, go ahead
+MAIL FROM: <chrissieshoshannazvlj@yahoo.com>
+MAIL FROM: <chrissieshoshannazvlj@yahoo.com>
+250 OK , completed
+RCPT TO: <jamiegourley@yahoo.com>
+RCPT TO: <jamiegourley@yahoo.com>
+250 OK , completed
+RCPT TO: <enoc21flaco@yahoo.com>
+RCPT TO: <enoc21flaco@yahoo.com>
+250 OK , completed
+DATA
+DATA
+354 Start Mail. End with CRLF.CRLF
+Message-ID: <964930255$396848169$1868934259@chrissieshoshannazvlj>
+From: "Malaki An

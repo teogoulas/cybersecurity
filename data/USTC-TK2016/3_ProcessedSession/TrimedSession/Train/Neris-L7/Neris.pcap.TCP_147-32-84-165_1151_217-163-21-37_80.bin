@@ -1,0 +1,16 @@
+GET /imp?Z=728x90&s=1921379&_salt=2638358692&B=10&u=http%3A%2F%2Fads.creafi-online-media.com%2F&r=0 HTTP/1.1
+Accept: */*
+Referer: http://ads.creafi-online-media.com/st?ad_type=iframe&ad_size=728x90&section=1921379
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: ads.creafi-online-media.com
+Connection: Keep-Alive
+
+HTTP/1.1 302 Found
+Date: Thu, 11 Aug 2011 08:38:27 GMT
+Server: YTS/1.18.4
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+Location: http://ad.yieldmanager.com/imp?Z=728x90&s=1921379&_salt=2638358692&B=10&u=http%3A%2F%2Fads.creafi-online-media.com%2F&r=0
+Cache-Control: no-store
+Last-Modified: Thu, 11 Aug 2011 08:38:27

@@ -1,0 +1,62 @@
+POST /getjson HTTP/1.1
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+Host: podviajar.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+Content-Length: 453
+Connection: close
+Cache-Control: no-cache
+
+data=e/e6r8VdRlJajwxXJgogFVa9gSXExozmaI7cOYwrAvLDx2T2KL4nXdZonsue0ZZR73lEXxz8TzdT6x30edcsdwMJOdAF/VjRoSTJ0US0wiFL8/NlPwLI3JXr9XIYp6RNBxapIKcqjBgoGXcBiaW6wSv8Rnb5QCS/terGummbzVpNU6VGgL2gdR9Mdon8lZc+mjQwDIkkbJ61VkgdxcKfPweyBfZglQF8VlLxETbfO7VR4GlVmkpeGDa3Ur4R6xcFHNL6kYMFeEfjBlVVp7Tc6wW+h06AN1D2I+gJX0JuXoxW5Om65mxSrVHeIbS2CCR8ukQeyiMFeTFAKkYWN/D2tWlWzFPeBwWeQhQC2o214SfzTU8crGWcDwDBuXH9lSTmb61ZiO3ucwFDZPDxtH/6rdDUjsKnUDuah044pf0+H2wchPjqxzqD5aRX+qcyiA==HTTP/1.1 302 Moved Temporarily
+Server: nginx/1.0.0
+Date: Thu, 11 Aug 2011 10:19:57 GMT
+Content-Type: text/html
+Content-Length: 160
+Connection: close
+Expires: Thu Aug 11 09:19:57 2011
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: session=Zuqq4stGXQVYyBQEbFh2Qlqojy6Yl4fhcNWJaod/G6KVmg==
+Set-Cookie: id=YPGw9w==
+Set-Cookie: counter=8
+Set-Cookie: stime=ff2s+4Ed
+Location: http://creditskin.com/getjson?4pq7f6cprsrH6OYUFq1AZpw31KpOjecsbHnCmU5CoMXW
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx/1.0.0</center>
+</body>
+</html>
+POST /getjson HTTP/1.1
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+Host: podviajar.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+Content-Length: 449
+Connection: close
+Cache-Control: no-cache
+
+data=e/e6r8VdRlJajwxXJgogFVa9gSXExozmaI7cOYwrAvLDx2T2KL4nXdZonsue0ZZR73lEXxz8TzdT6x30edcsdwMJOdAF/VjYsWHF0Ey7zDJW9/s9JErJ0pfr82QY6b8HCgSuNaUqig4oVzoegrelySD3VSq0TCbovu/GsGGNh1dfVLBEgLu2dV5DOJ/+lYE1jzB1BohnNcLoXV1fkYWeOQ6uE/Mz01h5QxWiVjfZMqlH5TUdxExbDW7gB6YR+xcNEMiuyN4Be1KhVAFQq6nBv1n23hjEJlKpOOBaVAthWMlS9/6z93ZZuV7eMei0AzRsp08eymACazNXJVVOFOuxkWpAxBCGSBqKREdNn567+D7wVUNF4E30ZgiyxhrtmCqBPeNqjvT5PDhkZIuLpXH0z73F9LL1HSC4lhRZ8KI+DWQNh+TpxiyD4aRU9w==HTTP/1.1 302 Moved Temporarily
+Server: nginx/1.0.0
+Date: Thu, 11 Aug 2011 10:20:57 GMT
+Content-Type: text/html
+Content-Length: 160
+Connection: close
+Expires: Thu Aug 11 09:20:57 2011
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: session=Zuqq4stGXQVYyBQEbFh2Qlqojy6Yl4fhcNWJaod/G6KVmg==
+Set-Cookie: id=YPGw9w==
+Set-Cookie: counter=8
+Set-Cookie: stime=ff2s+4Ed
+Location: http://superbaw.com/getjson?4pq7f6cpoMrH6OYUFq1AZpw31KpOjecsbHnCmU5CoMXW
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx/1.0.0</center>
+</body>
+</html>

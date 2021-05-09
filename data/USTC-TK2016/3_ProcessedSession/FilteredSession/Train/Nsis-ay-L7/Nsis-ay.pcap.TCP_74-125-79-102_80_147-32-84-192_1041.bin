@@ -1,0 +1,37 @@
+POST /service/update2 HTTP/1.1
+User-Agent: Google Update/1.3.21.65;winhttp
+X-Last-HR: 0x0
+X-Last-HTTP-Status-Code: 0
+X-Retry-Count: 0
+Host: tools.google.com
+Content-Length: 790
+Connection: Keep-Alive
+Cache-Control: no-cache
+Pragma: no-cache
+
+POST /service/update2 HTTP/1.1
+User-Agent: Google Update/1.3.21.65;winhttp
+X-Last-HR: 0x0
+X-Last-HTTP-Status-Code: 0
+X-Retry-Count: 0
+Host: tools.google.com
+Content-Length: 790
+Connection: Keep-Alive
+Cache-Control: no-cache
+Pragma: no-cache
+
+<?xml version="1.0" encoding="UTF-8"?><request protocol="3.0" version="1.3.21.65" ismachine="0" sessionid="{298C8141-EDD4-4DD1-A468-E3D49783FAB1}" installsource="core" requestid="{9AB7C624-79FD-4295-9A47-8DAF4CB0B439}"><os platform="win" version="5.1" sp="Service Pack 2" arch="x86"/><app appid="{8A69D345-D564-463C-AFF1-A69D9E530F96}" version="13.0.782.107" nextversion="13.0.782.112" lang="cs" brand="GGLS" client="" installage="14"><event eventtype="12" eventresult="1" errorcode="0" extracode1="0"/><event eventtype="13" eventresult="1" errorcode="0" extracode1="0"/><event eventtype="14" eventresult="1" errorcode="0" extracode1="0"/><event eventtype="15" eventresult="1" errorcode="0" extracode1="0"/><event eventtype="3" eventresult="1" errorcode="0" extracode1="0"/></app></request><?xml version="1.0" encoding="UTF-8"?><request protocol="3.0" version="1.3.21.65" ismachine="0" sessionid="{298C8141-EDD4-4DD1-A468-E3D49783FAB1}" installsource="core" requestid="{9AB7C624-79FD-4295-9A47-8DAF4CB0B439}"><os platform="win" version="5.1" sp="Service Pack 2" arch="x86"/><app appid="{8A69D345-D564-463C-AFF1-A69D9E530F96}" version="13.0.782.107" nextversion="13.0.782.112" lang="cs" brand="GGLS" client="" installage="14"><event eventtype="12" eventresult="1" errorcode="0" extracode1="0"/><event eventtype="13" eventresult="1" errorcode="0" extracode1="0"/><event eventtype="14" eventresult="1" errorcode="0" extracode1="0"/><event eventtype="15" eventresult="1" errorcode="0" extracode1="0"/><event eventtype="3" eventresult="1" errorcode="0" extracode1="0"/></app></request>HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Date: Fri, 19 Aug 2011 08:50:24 GMT
+Content-Type: text/xml; charset=UTF-8
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Transfer-Encoding: chunked
+
+124
+<?xml version="1.0" encoding="UTF-8"?><response protocol="3.0" server="prod"><daystart elapsed_seconds="6624"/><app appid="{8A69D345-D564-463C-AFF1-A69D9E530F96}" status="ok"><event status="ok"/><event status="ok"/><event status="ok"/><event status="ok"/><event status="ok"/></app></response>
+0
+

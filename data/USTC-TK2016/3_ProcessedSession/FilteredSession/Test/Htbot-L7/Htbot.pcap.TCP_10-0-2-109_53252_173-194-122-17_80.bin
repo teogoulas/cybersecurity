@@ -1,0 +1,28 @@
+GET /ads/user-lists/1017289712/?fmt=3&num=1&cv=7&frm=0&url=http%3A//www.russiancupid.com/en/home/showMenu%3Flogin%26registration%3D1&random=1309267801 HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:18.0) Gecko/20100101 Firefox/18.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.russiancupid.com/en/home/showMenu?login&registration=1
+Cookie: PREF=ID=4280e9ad3b78cd9f:TM=1425715694:LM=1425715694:S=vnqb5vZO9L9JxxjE; NID=67=RX4oTQmXcMEjj_29GXwOgvdDWpvg17YEBDnkurtaPhDOZojZef3Mb3dzyiRNQ1GDyipfTEuQA6kk_Z1w0LvLQV550jixXecSKodx3ewdRq0SRYN3zM7wfWoOWgn2JmW2
+Connection: 
+
+HTTP/1.1 302 Found
+Location: http://www.google.cz/ads/user-lists/1017289712/?fmt=3&num=1&cv=7&frm=0&url=http%3A//www.russiancupid.com/en/home/showMenu%3Flogin%26registration%3D1&random=1309267801&ipr=y
+Cache-Control: private, max-age=43200
+Date: Sat, 07 Mar 2015 08:28:08 GMT
+Expires: Sat, 07 Mar 2015 08:28:08 GMT
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Server: adclick_server
+Content-Length: 393
+X-XSS-Protection: 1; mode=block
+Alternate-Protocol: 80:quic,p=0.08
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="http://www.google.cz/ads/user-lists/1017289712/?fmt=3&amp;num=1&amp;cv=7&amp;frm=0&amp;url=http%3A//www.russiancupid.com/en/home/showMenu%3Flogin%26registration%3D1&amp;random=1309267801&amp;ipr=y">here</A>.
+</BODY></HTML>

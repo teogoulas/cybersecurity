@@ -1,0 +1,19 @@
+GET /www/delivery/ajs.php?zoneid=19153&block=1&blockcampaign=1&cb=92774487071&charset=windows-1252&loc=http%3A//www.funglad.com/fung.html HTTP/1.1
+Accept: */*
+Referer: http://www.funglad.com/fung.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9a3pre) Gecko/20070330
+Accept-Encoding: gzip, deflate
+Host: ads.ad4game.com
+Connection: Keep-Alive
+
+GET /www/delivery/ajs.php?zoneid=19153&block=1&blockcampaign=1&cb=92774487071&charset=windows-1252&loc=http%3A//www.funglad.com/fung.html HTTP/1.1
+Accept: */*
+Referer: http://www.funglad.com/fung.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9a3pre) Gecko/20070330
+Accept-Encoding: gzip, deflate
+Host: ads.ad4game.com
+Connection: Keep-Alive
+
+HTTP

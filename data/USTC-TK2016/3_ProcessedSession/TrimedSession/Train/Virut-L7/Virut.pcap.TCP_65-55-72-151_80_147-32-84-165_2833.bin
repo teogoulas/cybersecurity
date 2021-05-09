@@ -1,0 +1,10 @@
+GET /mail/InboxLight.aspx?n=62163511506 HTTP/1.1
+Host: sn132w.snt132.mail.live.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Charset: utf-8;q=0.7,*;q=0.7
+Accept-Encoding: gzip, identity, *;q=0
+Connection: Close
+Referer: http://sn132w.snt132.mail.live.com/mail/SaveSentMessages.aspx?n=62163511506
+Cookie: PPLState=1; RPSTAuth=EwDoARAnAAAUWkziSC7RbDJKS1VkhugDegv7L0eAAEs9zTj2q/ZJdE2kvOZD5CvFjj7UNa83o5e2lZ9CVeH3DYpkSeW1GiHqPtQIuaSy+tOQvyFMhG+SL7NXdbg+4PTEyBVLf74RjXJ/zdOmsoFIQoeN1uPIfDCMUSJ9HcUZORqrIWcsJzGriqN67Z/J9GQsyb4I3jyl98Zcx4Hn4qsmA2YAAAj0x9Dpk2FfaTgBtjwhgC6DIlGfzhMVeIjd6EN+88eNdxxDmcv4M8dz19l0r

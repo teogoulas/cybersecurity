@@ -1,0 +1,1526 @@
+GET /koristno/pomoc-in-varnost/piskotki-na-bolhacom HTTP/1.1
+Host: www.bolha.com
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: _btcid=e07db2115d3c44e9b48d5637a6ab9e27f713a2eb; xtvrn=$413864$; bolha:allow_cookies=all; bolha:user_dedicated=2015-03-03T18%3A08%3A00Z; fale=1; cs942=1; __utmt=1; cP506=1; ecounter[time]=50565; BOLHA_SSID=u2qf35583228pscjonqme25ml5; xtan413864=-; xtant413864=1; __utma=55484472.1732593393.1424736125.1425472905.1425485476.12; __utmb=55484472.6.10.1425485476; __utmc=55484472; __utmz=55484472.1425406116.10.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+Connection: keep-alive
+
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Wed, 04 Mar 2015 16:25:20 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: BOLHA_SSID=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.bolha.com; httponly
+Location: /koristno/pomoc-in-varnost/piskotki-na-bolhacom
+Connection: keep-alive
+
+e190
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="sl"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="sl"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="sl"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="sl"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="sl"><!--<![endif]-->
+<!-- the "no-js" class is for Modernizr. -->
+<head id="bolha-com" data-template-set="html5-reset">
+	<meta charset="utf-8">
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<link rel="stylesheet" type="text/css" href="/css/koristno.css?v=2.02" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css?v=2.02" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/css/print.css?v=2.02" media="print" />
+<link rel="stylesheet" type="text/css" href="/css/main.css?v=2.02" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/css/backgrounds.css?v=2.02" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/css/element.header.css?v=2.02" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/footer.css?v=2.02" media="all" />
+<script type="text/javascript" src="/koristno/assets/4b99faa/jquery.min.js"></script>
+<script type="text/javascript" src="/js/modernizr-1.7.min.js?v=2.13"></script>
+<script type="text/javascript" src="/js/CommonFunctions.js?v=2.13"></script>
+<script type="text/javascript" src="/js/gemius_.js?v=2.13"></script>
+<script type="text/javascript" src="/js/header.js?v=2.13"></script>
+<script type="text/javascript" src="/js/autoComplete.js?v=2.13"></script>
+<script type="text/javascript" src="/js/searchBox.js?v=2.13"></script>
+<script type="text/javascript" src="/js/obj.cookiesPolicy.js?v=2.13"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-9594536-1']);
+		_gaq.push(['_setDomainName', 'bolha.com']);
+		_gaq.push(['_setCampaignCookieTimeout', 0]);
+		_gaq.push(['_trackPageview','/koristno/pomoc-in-varnost/piskotki-na-bolhacom/']);
+		(function() {
+			var ga = document.createElement('script');
+			ga.type = 'text/javascript';
+			ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+		
+/*]]>*/
+</script>
+<title>bolha.com :: Koristno - Piškotki na bolha.com</title>
+	<meta name="keywords" content="bolha, pomoč, koristno">
+	<meta name="description" content="bolha.com je največji spletni oglasnik v Sloveniji. Naš posel so mali oglasi.">
+
+	<link href="/favicon.ico" type="image/x-icon" rel="icon"/>
+
+	<!-- Speaking of Google, don't forget to set your site up: http://google.com/webmasters -->
+	<meta name="author" content="bolha.com">
+	<meta http-equiv="refresh" content="1200" />
+	
+	<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie8.css?v=2.02" media="screen, projection" />
+	<![endif]-->
+
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="/css/ie7.css?v=2.02" media="screen, projection" />
+	<![endif]-->
+
+	<!--[if IE 6]>
+	<meta http-equiv="Refresh" content="0;url=/ie6.php">
+	<![endif]-->
+
+	
+	<!-- Start Visual Website Optimizer Asynchronous Code -->
+	<script type='text/javascript'>
+		var _vwo_code=(function(){
+		var account_id=57959,
+		settings_tolerance=2000,
+		library_tolerance=2500,
+		use_existing_jquery=false,
+		// DO NOT EDIT BELOW THIS LINE
+		f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+	</script>
+	<!-- End Visual Website Optimizer Asynchronous Code -->
+
+</head>
+
+<body>
+	<!-- top bar element  -->
+	<div class="top-bar">
+	<div class="wrapper">
+		<nav id="topMenu">
+			<ul>
+<li><script type="text/javascript">$('.itemVisibility').css('display','none');</script><a href="https://login.bolha.com/?Ref=PUJoZUPNTx2kTSSOvY-4DfQ34DYYkt7CjA5V68D1E4p10TYLV6zTlX-KH9kayGkEwBXYsDTU4MhHPnB8CpfGDjbuTjmxYDUnmDCAu2g." id="loginBoxOpen" class="_loginActionTrigger" action="https://login.bolha.com/auth.php" credentials="/api/topmenu.json" rel="nofollow">Prijava</a></li>
+<li><script type="text/javascript">$('.itemVisibility').css('display','none');</script><a href="https://login.bolha.com/registracija_izbor.php" rel="nofollow">Registracija</a></li>
+<li><script type="text/javascript">$('.itemVisibility').css('display','none');</script><a href="/koristno/pomoc-in-varnost" rel="nofollow">Pomoč</a></li>
+<li class="last"><script type="text/javascript">$('.itemVisibility').css('display','none');</script><a href="javascript:void(0);" rel="nofollow" class="liveChat" id="islpronto_link1" onClick="startChat();">Pogovor v živo</a></li>
+</ul>
+		</nav>
+		<a href="http://vreme.zurnal24.si/slovenija/" target="_blank" title="vreme.net">vreme.net</a>
+		<a href="http://jazkuham.si/" target="_blank" title="jazkuham.si">jazkuham.si</a>
+		<a href="http://www.mojedelo.com/" target="_blank" title="MojeDelo.com">MojeDelo.com</a>
+	</div>
+</div>	<div class="wrapper">
+
+		<!-- header element  -->
+		<header>
+	<div class="coloumn span-7 logoHolder">
+		<a class="site-logo" title="Vstopna stran bolha.com" href="/koristno/..">bolha.com</a>		&nbsp;
+	</div>
+
+	<div class="coloumn span-10">
+		<div id="mainSearchBox">
+	<form id="search" onSubmit="_gaq.push([&#039;_trackEvent&#039;, &#039;Search Box&#039;, &#039;Search - Header&#039;, &#039;http://www.bolha.com/koristno/pomoc-in-varnost/piskotki-na-bolhacom&#039;]);" action="/koristno/../iskanje" method="get">		<div class="searchInput">
+			<input placeholder="Kaj iščete danes?" class="input-mainSearch" autocomplete="off" type="text" value="" name="q" id="q" /><input class="mainSearchSubmit buttonYellow" action="http://www.bolha.com/koristno/ac?q=" rel="nofollow" name="" type="submit" value="Iskanje" />
+		</div><span id="calcElement"></span>
+	</form></div>
+
+
+
+
+	</div>
+	<div class="coloumn span-3">
+		<a href="http://objava-oglasa.bolha.com/"
+			title=""
+			rel="nofollow"
+			class="publishAdd roundedBox-10"
+			onClick="_gaq.push(['_trackEvent', 'Publish Ad', 'Click - Header', 'http://www.bolha.com/koristno/pomoc-in-varnost/piskotki-na-bolhacom']);"><span class="publishSmall bgDottes">Objava oglasa</span></a>
+	</div>
+	<div class="clear"></div>
+</header>
+		<div class="container">
+	<div id="content">
+		
+<div id="breadcrumbs">
+	<nav>
+		<a class="home" href="/koristno/..">Domov</a><span>/</span><a href="/koristno/..">Koristno</a><span>/</span><a href="/koristno/pomoc-in-varnost">Pomoč in varnost</a><span>/</span>Piškotki na bolha.com	</nav>
+</div>
+<!-- left coloumn -->
+<div class="coloumn span-5">
+	<section id="corpoMenu">
+	<h3 class="title">Koristno</h3>
+	<div class="box facet">
+		<ul id="yw0">
+<li><a href="/koristno/o-nas">O nas</a></li>
+<li><a href="/koristno/oglasevanje">Oglaševanje</a></li>
+<li><a class="active" href="/koristno/pomoc-in-varnost">Pomoč in varnost</a>
+<ul>
+<li><a href="/koristno/pomoc-in-varnost/kako-postanem-uporabnik-bolhacom">Kako postanem uporabnik bolha.com?</a></li>
+<li><a href="/koristno/pomoc-in-varnost/kako-kupujem-na-bolhacom">Kako kupujem na bolha.com?</a></li>
+<li><a href="/koristno/pomoc-in-varnost/kako-prodajam-na-bolhacom">Kako prodajam na bolha.com?</a></li>
+<li><a href="/koristno/pomoc-in-varnost/pogosta-vprasanja">Pogosta vprašanja</a></li>
+<li class="active"><a class="active" href="/koristno/pomoc-in-varnost/piskotki-na-bolhacom">Piškotki na bolha.com</a></li>
+<li><a href="/koristno/pomoc-in-varnost/galerija-bolhacom">Galerija bolha.com</a></li>
+<li><a href="/koristno/pomoc-in-varnost/preverjeni-uporabnik">Preverjeni uporabnik</a></li>
+</ul>
+</li>
+<li><a href="/koristno/pravila-in-pogoji-uporabe-bolhacom">Pravila in pogoji uporabe bolha.com</a></li>
+<li><a href="/koristno/novice">Novice</a></li>
+<li><a href="/koristno/kontakt">Kontakt</a></li>
+<li><a href="/koristno/dogodki">Dogodki</a></li>
+</ul>					
+	</div>
+</section></div>
+<!-- end left coloumn -->
+
+<!-- right coloumn -->
+<div class="coloumn span-15">
+
+	<section id="corpoContent">
+	
+		<h3 class="title">Piškotki na bolha.com</h3>
+		<div class="box">
+			<p>
+	<strong>O pi&scaron;kotkih</strong></p>
+<p>
+	Pi&scaron;kotki niso nič novega, vsi obiskovalci spletnih strani imamo na svojih računalnikih, tablicah, mobitelih shranjenih že veliko pi&scaron;kotkov z različnih spletnih strani. Novo je zgolj to, da z novo zakonodajo (ZEKom-1) prihaja do sprememb glede obve&scaron;čanja oz. sogla&scaron;anja obiskovalcev z njihovo uporabo.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Kaj so pi&scaron;kotki?</strong></p>
+<p>
+	So male besedilne datoteke, ki jih večina spletnih mest shrani v naprave, s katerimi uporabniki dostopajo do interneta. Njihov namen je prepoznavanje posameznih naprav, ki so jih uporabniki uporabili pri dostopu. Shranjevanje pi&scaron;kotkov je pod nadzorom brskalnika, s katerim uporabnik obiskuje spletna mesta - zato lahko shranjevanje pi&scaron;kotkov po želji omejimo ali onemogočimo že s pomočjo nastavitev brskalniku.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Zakaj so pi&scaron;kotki potrebni?</strong></p>
+<p>
+	So temeljnega pomena za zagotavljanje uporabniku prijaznih spletnih storitev. Interakcija med spletnim uporabnikom in spletnim mestom je s pomočjo pi&scaron;kotkov hitrej&scaron;a in enostavnej&scaron;a. Z njihovo pomočjo si spletno mesto zapomni posameznikove preference in izku&scaron;nje, s tem je prihranjen čas, brskanje po spletnih mestih pa bolj učinkovito in prijazno.&nbsp;Nekaj konkretnih primerov uporabe pi&scaron;kotkov:</p>
+<ul>
+	<li>
+		za bolj&scaron;o uporabni&scaron;ko izku&scaron;njo spletne strani obiskovalcem prilagodimo prikaz vsebine glede na pretekle obiske</li>
+	<li>
+		na delih spletnih mestih, kjer je potrebna prijava, vas ohranimo prijavljene</li>
+	<li>
+		za prepoznavanje va&scaron;e naprave (računalnik, tablica, mobitel), ki omogoča prilagajanje prikaza vsebine va&scaron;i napravi</li>
+	<li>
+		za spremljanje obiska, kar omogoča preverjanje učinkovitosti prikaza vsebin in ustreznosti oglasov ter stalno izbolj&scaron;avo spletnih strani</li>
+	<li>
+		za delovanje določenih storitev so nujni (npr. spletne banke, spletne trgovine in druge oblike e-poslovanja&hellip;)</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Zakaj spletne strani uporabljajo pi&scaron;kotke?</strong></p>
+<p>
+	Pi&scaron;kotke uporablja večina spletnih strani, so priročno sredstvo za ohranjanje sveže in primerne vsebine, ki je v skladu z interesi in preferencami posameznega spletnega uporabnika. Razlogov za uporabo pi&scaron;kotkov je tako več, kot prvo gotovo njihova lastnost shranjevanja podatkov o stanju posamezne spletne strani (podrobnosti o prilagoditvah posamezne spletne strani), pomagajo pri izvajanju raznih spletnih storitev (spletne trgovine), pomagajo pri zbiranju raznih statistik, o navadah spletnega uporabnika &ndash; saj se le z njimi lahko spremlja pogostost obiskovanja določene spletne strani. Podjetja lahko s pomočjo pi&scaron;kotkov ocenijo učinkovitost zasnove svojih spletnih strani, kot tudi ustreznost vrste in &scaron;tevila oglasov, ki jih ponujajo uporabnikom na svojih spletnih straneh.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Kaj smo pripravili na bolha.com?</strong></p>
+<div>
+	Na bolha.com smo pripravili prilagojene re&scaron;itve za prijavljene in neprijavljene uporabnike. Vsem neprijavljenim uporabnikom se ob prvem prikazu strani bolha.com na dnu pojavi obvestilo o pi&scaron;kotkih. V obvestilu lahko izberete, s katerimi pi&scaron;kotki se strinjate. Na voljo so vam naslednji pi&scaron;kotki:</div>
+<ul>
+	<li>
+		obvezni pi&scaron;kotki: so nujno potrebni za delovanje bolha.com. Gre za t. i. first party pi&scaron;kotke, brez katerih uporaba spletnega mesta ni mogoča.</li>
+	<li>
+		ogla&scaron;evalski in analitični pi&scaron;kotki: so potrebni za dostop do vsebine, ki je namenjena samo prijavljenim uporabnikom bolha.com, saj prijava na bolha.com brez uporabe pi&scaron;kotkov ni možna. Nestrinjanje s temi pi&scaron;kotki pomeni, da npr. ne boste mogli objaviti oglasa, dostopati do uporabni&scaron;kega orodja Moja bolha.com, poslati sporočila prodajalcu preko bolha.com, natisniti oglasa ipd.</li>
+	<li>
+		pi&scaron;kotki za socialne vključke: so potrebni za uporabo storitev, ki jih ponujajo vtičniki za socialna omrežja (npr. možnost, da v procesu objave oglasa, svoj oglas objavite tudi na svojem Facebook profilu, možnost, da mali oglas v&scaron;ečkate ali ga po&scaron;ljete prijateljem na Facebooku ipd.). Nestrinjanje s temi pi&scaron;kotki pomeni, da vam omenjene storitve ne bodo na voljo.&nbsp;</li>
+</ul>
+<div>
+	Izbrane nastavitve pi&scaron;kotkov, ki jo potrdite s klikom na gumb &raquo;V redu&laquo; se bodo shranile na posamezni napravi, na kateri ste izbiro uredili. Ob prijavi na bolha.com z druge naprave, bo spletno mesto va&scaron;e nastavitve pi&scaron;kotkov samodejno prepoznalo. &nbsp;</div>
+<div>
+	&nbsp;</div>
+<p style="text-align: center;">
+	<img alt="" src="/media/images/Piskotki.png" style="width: 650px; height: 143px; border-width: 1px; border-style: solid;" /></p>
+<div>
+	&nbsp;</div>
+<div>
+	V kolikor po prikazu obvestila ne boste izbrali želene nastavitve pi&scaron;kotkov in boste zgolj nadaljevali z uporabo bolha.com, bo spletno mesto za naslednjih 30 minut smatralo, da se z uporabo pi&scaron;kotkov strinjate, saj ste to nakazali s svojim dejanjem. Po preteku 30 minut ali ob ponovnem obisku bolha.com &nbsp;se vam bo obvestilo pojavilo ponovno.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	Če bolha.com obiskujete kot vnaprej prijavljeni uporabnik in nastavitev pi&scaron;kotkov &scaron;e niste uredili, vas bo spletno mesto ob prvi naslednji prijavi pozvalo, da se strinjate z uporabo ogla&scaron;evalskih in analitičnih pi&scaron;kotkov, sicer bolha.com in njenih storitev ne boste mogli uporabljati. To velja tudi za vse na novo registrirane uporabnike bolha.com.</div>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Katere pi&scaron;kotke vsebuje spletni oglasnik bolha.com in zakaj jih uporabljamo?</strong></p>
+<p>
+	Pi&scaron;kotki, ki jih uporabljamo so namenjeni za:</p>
+<ul>
+	<li>
+		pregledovanje malih oglasov,</li>
+	<li>
+		registracijo, prijavo in objavo malega oglasa,</li>
+	<li>
+		dostop do vsebine, ki je namenjena samo registriranim in prijavljenim uporabnikom bolha.com,</li>
+	<li>
+		pi&scaron;kotki, ki si zapomnijo va&scaron;e nastavitve in odločitve med ogledovanjem in obiskovanjem so zelo pomembni, saj nam omogočajo izbolj&scaron;ave bolha.com in prilagoditev va&scaron;im potrebam,</li>
+	<li>
+		da izbolj&scaron;amo varnost in hitrost nalaganja bolha.com,</li>
+	<li>
+		pi&scaron;kotke uporabljamo tudi v svojih storitvah ogla&scaron;evanja, namreč prihodki, ki jih dobimo iz naslova ogla&scaron;evanja omogočajo, da lahko bolha.com &scaron;e naprej uporabljate brezplačno.</li>
+</ul>
+<p>
+	&nbsp;</p>
+<table border="1" cellpadding="0" cellspacing="0" font-size="10" height="2284" width="645">
+	<tbody>
+		<tr>
+			<td nowrap="nowrap" style="height:21px">
+				<p>
+					<strong>Izdajatelj</strong></p>
+			</td>
+			<td nowrap="nowrap" style="height:21px">
+				<p style="text-align: center;">
+					<strong>Oznaka pi&scaron;kotka</strong></p>
+			</td>
+			<td nowrap="nowrap" style="height:21px">
+				<p style="text-align: center;">
+					<strong>Veljavnost</strong></p>
+			</td>
+			<td nowrap="nowrap" style="height:21px">
+				<p>
+					<strong>Namen</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					iPROM, d.o.o.</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					_iAdT</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					Poteče ob koncu seje</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za statistiko</p>
+				<p>
+					ogledov oglasov</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					bolha.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					BolhA[name]</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					31 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za funkcijo<br />
+					&quot;zapomni si me&quot; na bolha.com</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				bolha.com</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				<span style="text-align: -webkit-center;">BolhA[settings]</span></td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				31&nbsp;dni</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za prilagajanje<br />
+					uporabni&scaron;ke izku&scaron;nje na bolha.com</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				bolha.com</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				bolha:allow_cookies</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				Poteče ob koncu seje<br />
+				ali po 30 minutah<br />
+				ali po 90 dneh</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za shranjevanje&nbsp;<br />
+					strinjanja s pi&scaron;kotki na bolha.com</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				bolha.com</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				BolhA[user_temp]</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				Poteče ob koncu seje</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				Parameter za začasno prilagajanje&nbsp;<br />
+				uporabni&scaron;ke izku&scaron;nje na bolha.com</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					bolha.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					BOLHA_SSID</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					Poteče ob koncu seje</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za funkcijo<br />
+					prijave na bolha.com</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					bolha.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					bolha:view_type</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					90 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Izbira načina prikaza v seznamih<br />
+					(mrežni ali vrstični prikaz)</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					doubleclick.net</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					id</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					730 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za statistiko</p>
+				<p>
+					ogledov oglasov</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					doubleclick.net</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					test_cookie</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					Poteče ob koncu seje</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za statistiko</p>
+				<p>
+					ogledov oglasov</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					doubleclick.net</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					_drt_</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					Poteče ob&nbsp;koncu seje</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za statistiko&nbsp;</p>
+				<p>
+					ogledov oglasov</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					facebook.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					act</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					Poteče ob koncu seje</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					Facebook vtičnika</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					facebook.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					c_user</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					30 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					Facebook vtičnika</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					facebook.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					csm</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					30 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					Facebook vtičnika</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					facebook.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					datr</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					730 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					Facebook vtičnika</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					facebook.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					datr</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					730 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					Facebook vtičnika</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					facebook.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					fr</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					30 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					Facebook vtičnika</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					facebook.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					highContrastMode</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					Poteče ob koncu seje</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					Facebook vtičnika</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					facebook.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					lu</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					730 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					Facebook vtičnika</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					facebook.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					reg_fb_gate</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					Poteče ob koncu seje</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					Facebook vtičnika</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					facebook.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					reg_fb_ref</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					Poteče ob koncu seje</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					Facebook vtičnika</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					facebook.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					s</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					30 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					Facebook vtičnika</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					facebook.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					wd</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					Poteče ob koncu seje</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					Facebook vtičnika</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					facebook.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					xs</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					30 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					Facebook vtičnika</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					facebook.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					_e_0EPi_0</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					7 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					Facebook vtičnika</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					facebook.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					_e_0EPi_1</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					7 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					Facebook vtičnika</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Google Analytics</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					__utma</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					730 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za vodenje</p>
+				<p>
+					statistik ogleda strani na bolha.com</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Google Analytics</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					__utmb</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					Poteče ob koncu seje</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za vodenje</p>
+				<p>
+					statistik ogleda strani na bolha.com</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Google Analytics</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					__utmc</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					Ob zaprtju brskalnika</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za vodenje</p>
+				<p>
+					statistik ogleda strani na bolha.com</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Google Analytics</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					__utmv</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					Poteče ob koncu seje</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za vodenje</p>
+				<p>
+					statistik ogleda strani na bolha.com</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Google Analytics</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					__utmz</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					182 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za vodenje</p>
+				<p>
+					statistik ogleda strani na bolha.com</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					google.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					NID</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					183 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za statistiko</p>
+				<p>
+					ogledov oglasov</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					hit.gemius.pl</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					Gdyn</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					1546 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za izvajanje</p>
+				<p>
+					tehničnega dela meritve MOSS</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					hit.gemius.pl</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					Gtest</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					1546 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za izvajanje</p>
+				<p>
+					tehničnega dela meritve MOSS</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					iProm d.o.o.</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					UID</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					2576 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za razločevanje<br />
+					med napravami</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					islonline.net</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					islprontoemail</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					366 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					Pogovora v živo</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					islonline.net</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					islprontonick</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					366 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					Pogovora v živo</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					najdi.si</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					_ns_zemljevid_map_type</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					5 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter namenjen pravilnemu</p>
+				<p>
+					delovanju strani zemljevida</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					plista.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					Pookie</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					365 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za statistiko</p>
+				<p>
+					ogledov oglasov</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					plus.google.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					OTZ</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					30 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za delovanje</p>
+				<p>
+					google+ vtičnika</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="eight:21px;font-size:10px">
+				<p>
+					sigde.adocean.pl</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					GAD</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					1546 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za izvajanje</p>
+				<p>
+					tehničnega dela meritve MOSS</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="eight:21px;font-size:10px">
+				visualwebsiteoptimizer.com</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				_vis_opt_exp_EXPERIMENT<br />
+				_ID_goal_GOAL_ID</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				100 dni</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za testiranje<br />
+					uporabni&scaron;ke izku&scaron;nje</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="eight:21px;font-size:10px">
+				visualwebsiteoptimizer.com</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				_vis_opt_test_cookie</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				Poteče ob koncu seje</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za testiranje<br />
+					uporabni&scaron;ke izku&scaron;nje</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="eight:21px;font-size:10px">
+				visualwebsiteoptimizer.com</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				_vis_opt_exp_EXPERIMENT<br />
+				_ID_combi</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				100 dni</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za testiranje<br />
+					uporabni&scaron;ke izku&scaron;nje</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="eight:21px;font-size:10px">
+				visualwebsiteoptimizer.com</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				_vis_opt_exp_EXPERIMENT<br />
+				_ID_exclude</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				100 dni</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za testiranje<br />
+					uporabni&scaron;ke izku&scaron;nje</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="eight:21px;font-size:10px">
+				visualwebsiteoptimizer.com</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				_vis_opt_exp_EXPERIMENT<br />
+				_ID_split</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				100 dni</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za testiranje<br />
+					uporabni&scaron;ke izku&scaron;nje</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="eight:21px;font-size:10px">
+				visualwebsiteoptimizer.com</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				_vis_opt_s</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				100 dni</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za testiranje<br />
+					uporabni&scaron;ke izku&scaron;nje</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="eight:21px;font-size:10px">
+				visualwebsiteoptimizer.com</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				_vis_opt_out</td>
+			<td nowrap="nowrap" style="height: 21px; font-size: 10px; text-align: center;">
+				100 dni</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za testiranje<br />
+					uporabni&scaron;ke izku&scaron;nje</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					xiti.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					xtan413864</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					3650 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za vodenje</p>
+				<p>
+					statistik ogleda strani na bolha.com</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					xiti.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					xtant413864</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					3650 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za vodenje</p>
+				<p>
+					statistik ogleda strani na bolha.com</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					xiti.com</p>
+			</td>
+			<td nowrap="nowrap" style="eight:21px;font-size:10px">
+				<p align="center">
+					xtord</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p align="center">
+					Poteče ob koncu seje</p>
+			</td>
+			<td nowrap="nowrap" style="height:21px;font-size:10px">
+				<p>
+					Parameter za vodenje</p>
+				<p>
+					statistik ogleda strani na bolha.com</p>
+			</td>
+		</tr>
+		<tr>
+			<td nowrap="nowrap" style="height:20px;font-size:10px">
+				<p>
+					xiti.com</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;font-size:10px">
+				<p align="center">
+					idrxvr</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;font-size:10px">
+				<p align="center">
+					3650 dni</p>
+			</td>
+			<td nowrap="nowrap" style="height:20px;font-size:10px">
+				<p>
+					Parameter za vodenje</p>
+				<p>
+					statistik ogleda strani na bolha.com</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Onemogočanje pi&scaron;kotkov</strong></p>
+<p>
+	Vi odločite, ali boste dovolili shranjevanje pi&scaron;kotkov na va&scaron;i napravi. Nastavitve za pi&scaron;kotke lahko nadzirate in spreminjate v va&scaron;em spletnem brskalniku. Za informacije o nastavitvah za pi&scaron;kotke izberite spletni brskalnik, ki ga uporabljate:</p>
+<p>
+	&nbsp;</p>
+<ul>
+	<li>
+		<a href="http://windows.microsoft.com/sl-si/windows7/how-to-manage-cookies-in-internet-explorer-9" rel="nofollow" target="_blank">Internet Explorer 9</a></li>
+	<li>
+		<a href="http://windows.microsoft.com/sl-si/windows-vista/block-or-allow-cookies" rel="nofollow" target="_blank">Internet Explorer 7 in 8</a></li>
+	<li>
+		<a href="http://support.mozilla.org/sl/kb/Kako%20aktivirate%20in%20deaktivirate%20pi%C5%A1kote" rel="nofollow" target="_blank">Mozzila Firefox</a></li>
+	<li>
+		<a href="https://support.google.com/chrome/answer/95647?hl=sl-sl&amp;p=cpn_cookies" rel="nofollow" target="_blank">Chrome</a></li>
+	<li>
+		<a href="http://support.apple.com/kb/PH11913" rel="nofollow" target="_blank">Safari</a> (stran v angle&scaron;kem jeziku)</li>
+	<li>
+		<a href="http://www.opera.com/help/tutorials/security/cookies/" rel="nofollow" target="_blank">Opera</a> (stran v angle&scaron;kem jeziku)</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	Če pi&scaron;kotke izklopite, bolha.com ne bo delovala optimalno oz. bodo nekatere funkcionalnosti onemogočene. Tudi pri izklopu vseh pi&scaron;kotkov bo brskalnik &scaron;e vedno pridobival določene informacije, ki so potrebne za osnovno delovanje spletnega oglasnika bolha.com.</p>
+				
+					
+		</div>
+		
+	</section>
+	
+</div>
+<!-- end right coloumn -->
+
+<div class="clearfix">&nbsp;</div>
+<script type="text/javascript">
+					<!--
+					xtnv = document;														//parent.document or top.document or document
+					xtsd = "http://logc173";
+					xtsite = "413864";
+					xtn2 = "38";									// level 2 site ID
+					xtpage = "koristno::pomoc-in-varnost::piskotki-na-bolhacom::home";									//page name (with the use of :: to create chapters)
+					xtdi = "";																//implication degree
+					xt_multc = "";															//all the xi indicators (like "&x1=...&x2=....&x3=...")
+					xt_an = "";																//user ID
+					xt_ac = "";																//category ID
+					//do not modify below
+					if (window.xtparam!=null) {window.xtparam+="&ac="+xt_ac+"&an="+xt_an+xt_multc;}
+					else{window.xtparam="&ac="+xt_ac+"&an="+xt_an+xt_multc;};
+					//-->
+					</script>
+				<script type="text/javascript" src="/koristno/../js/xtc.js"></script>
+				<noscript>
+					<img width="1" height="1" alt="" src="http://logc173.xiti.com/hit.xiti?s=413864&s2=38&p=koristno::pomoc-in-varnost::piskotki-na-bolhacom::home&di=&an=&ac=">
+				</noscript>	</div><!-- content -->
+</div>
+
+		<!-- footer element  -->
+		<div class="container">
+	<div class="coloumn span-20">
+
+		<!-- widget googleAds 5*ads  -->
+		
+		<section id="tagcloud">
+			<ul>
+									<li><a href="/koristno/../avdio-in-video/" title="Avdio, video">Avdio, video</a></li>
+										<li><a href="/koristno/../avto-moto/" title="Avto-moto">Avto-moto</a></li>
+										<li><a href="/koristno/../darila/" title="Darila">Darila</a></li>
+										<li><a href="/koristno/../dom/" title="Dom">Dom</a></li>
+										<li><a href="/koristno/../erotika/" title="Erotika">Erotika</a></li>
+										<li><a href="/koristno/../fotografija-in-optika/" title="Fotografija, optika">Fotografija, optika</a></li>
+					</ul><ul>					<li><a href="/koristno/../glasba-film/" title="Glasba, film">Glasba, film</a></li>
+										<li><a href="/koristno/../glasbila-glasbena-oprema/" title="Glasbila">Glasbila</a></li>
+										<li><a href="/koristno/../gradnja/" title="Gradnja">Gradnja</a></li>
+										<li><a href="/koristno/../hobi-zbirateljstvo/" title="Hobi, zbirateljstvo">Hobi, zbirateljstvo</a></li>
+										<li><a href="/koristno/../kmetijstvo-gozdarstvo/" title="Kmetijstvo">Kmetijstvo</a></li>
+										<li><a href="/koristno/../knjige-revije-stripi/" title="Knjige, revije, stripi">Knjige, revije, stripi</a></li>
+					</ul><ul>					<li><a href="/koristno/../lepota-in-zdravje/" title="Lepota, zdravje">Lepota, zdravje</a></li>
+										<li><a href="/koristno/../navtika/" title="Navtika">Navtika</a></li>
+										<li><a href="/koristno/../nepremicnine/" title="Nepremičnine">Nepremičnine</a></li>
+										<li><a href="/koristno/../oblacila-obutev-modni-dodatki/" title="Oblačila, obutev...">Oblačila, obutev...</a></li>
+										<li><a href="/koristno/../podarim/" title="Podarim">Podarim</a></li>
+										<li><a href="/koristno/../poslovna-oprema/" title="Poslovna oprema">Poslovna oprema</a></li>
+					</ul><ul>					<li><a href="/koristno/../prehrana/" title="Prehrana">Prehrana</a></li>
+										<li><a href="/koristno/../rastline/" title="Rastline">Rastline</a></li>
+										<li><a href="/koristno/../racunalnistvo/" title="Računalništvo">Računalništvo</a></li>
+										<li><a href="/koristno/../rekreacija-sport/" title="Rekreacija, šport">Rekreacija, šport</a></li>
+										<li><a href="/koristno/../storitve/" title="Storitve">Storitve</a></li>
+										<li><a href="/koristno/../stroji-orodja/" title="Stroji, orodja">Stroji, orodja</a></li>
+					</ul><ul>					<li><a href="/koristno/../telefonija-gsm-aparati/" title="Telefonija, GSM">Telefonija, GSM</a></li>
+										<li><a href="/koristno/../turizem/" title="Turizem">Turizem</a></li>
+										<li><a href="/koristno/../umetnine-starine/" title="Umetnine, starine">Umetnine, starine</a></li>
+										<li><a href="/koristno/../igrace-otroska-oprema/" title="Vse za otroka">Vse za otroka</a></li>
+										<li><a href="/koristno/../vstopnice/" title="Vstopnice">Vstopnice</a></li>
+										<li><a href="/koristno/../zaposlitve-in-izobrazevanja/" title="Zaposlitve, izobraževanja">Zaposlitve, izobraževanja</a></li>
+					</ul><ul>					<li><a href="/koristno/../zivali/" title="Živali">Živali</a></li>
+										<li><a href="/koristno/../pasemske-zivali/" title="Živali z rodovnikom">Živali z rodovnikom</a></li>
+										<li><a href="/koristno/../zadnji-oddani/" title="Zadnji objavljeni oglasi">Zadnji objavljeni oglasi</a></li>
+								</ul>
+			<div class="clear"></div>
+		</section>
+
+		<div class="footer-links">
+			<ul>
+				<li class="first"><a href="/koristno/.." title="">Domov</a></li>
+				<li><a rel="nofollow" href="/koristno/o-nas/kdo-smo" title="">O nas</a></li>
+				<li><a rel="nofollow" href="/koristno/pomoc-in-varnost/kako-postanem-uporabnik-bolhacom" title="">Pomoč</a></li>
+				<li><a href="/koristno/" title="">Zemljevid strani</a></li>
+				<li><a rel="nofollow" href="/koristno/oglasevanje" title="">Oglaševanje</a></li>
+				<li><a rel="nofollow" href="/koristno/novice" title="">Novice</a></li>
+				<li><a rel="nofollow" href="/koristno/pravila-in-pogoji-uporabe-bolhacom" title="">Pravila in pogoji uporabe</a></li>
+				<li><a rel="nofollow" href="/koristno/kontakt" title="">Kontakt</a></li>
+			</ul>
+			<div class="clear"></div>
+		</div>
+
+		<div class="socialAndApps">
+		<!-- widget social media -->
+		<div id="socialNetworks">
+	<h3 class="left">Družite se z bolha.com</h3>
+	<div class="links left">
+		<a target="blank" class="fb" title="bolha.com na Facebooku" rel="external nofollow" href="http://www.facebook.com/Bolhacom"></a><a target="blank" class="twitter" title="bolha.com na Twitterju" rel="external nofollow" href="https://twitter.com/bolhacom"></a>			<a target="blank" href="//plus.google.com/113650998611688510656?prsrc=3" class="google" title="bolha.com na Google+" rel="publisher"></a>
+		<a target="blank" class="youtube" title="bolha.com na YouTube" rel="external nofollow" href="https://www.youtube.com/user/bolhacom"></a>		<div class="clear"></div>
+	</div>
+</div>
+		<!-- widget apps media -->
+		
+<div id="footerAppsMedia">
+	<h3 class="title">Naložite si mobilno aplikacijo</h3>
+	<div class="links">
+		<a target="blank" class="ios" title="bolha.com na Ios platformi" rel="external nofollow" href="https://itunes.apple.com/si/app/bolha.com/id929743068?mt=8"><img src="/koristno/images/appstore.png" alt="" /></a><a target="blank" class="android" title="bolha.com na Android platformi" rel="external nofollow" href="https://play.google.com/store/apps/details?id=com.undabot.android.bolha&amp;hl=en"><img src="/koristno/images/googleplay.png" alt="" /></a>		<div class="clear"></div>
+	</div>
+</div>		</div>
+
+		<footer class="clear">
+			<p class="span-6 left">© 2002 - 2015 Bolha d.o.o. Vse pravice pridržane.</p>
+			<p class="span-10 left">PODPORA: T: 01 420 16 40, E: <a href="mailto:info@bolha.com">info@bolha.com</a>, delovni čas: pon.-pet.: 8h-21h</p>
+			<!-- <p class="span-10 left">PODPORA: T: 01 420 16 40, <a href="mailto:info@bolha.com">info@bolha.com</a>, pon.-pet.: 8h-21h (24. 12. in 31. 12.: 8h-16h)</p> -->
+			<p class="span-3 left"><a id="islpronto_link3" rel="nofollow" onclick="startChat();" href="javascript:void(0)" class="liveChatFooter"><b>Pogovor v živo</b></a></p>
+			<div class="clear"></div>
+		</footer>
+	</div>
+
+</div>
+
+		<!-- popover login box  -->
+		<div id="loginBox" class="span-5">
+	<form name="loginBoxForm" method="post" action="#">
+
+		<div class="formField">
+						<input type="text" name="username" id="username" tabindex="1" class="textField" value="" />
+		</div>
+
+		<div class="formField">
+						<input type="password" name="password" tabindex="2" id="password" autocomplete="off" class="textField" value="" />
+		</div>
+
+		<div class="formField checkbox">
+			<a id="rememberMe" style="float:left;width:1px;height:1px;color:transparent;" tabindex="3" href="JavaScript:void(0);"></a><label id="rememberLabel" for="rememberLogin">Zapomni si me</label>
+			<input id="rememberLogin" type="checkbox" name="rememberLogin" value="">
+		</div>
+
+		<div class="formField spacer">
+			<input type="button" name="login" id="bolhaLogin" tabindex="4" class="buttonYellow" value="Prijava" />
+			<div id="authenticating" style="float:right;display:none;">
+				<img style="position:absolute;top:0;right:0;margin-top:5px;" src="/koristno/../images/authenticating.gif" />
+			</div>
+		</div>
+
+		<a href="https://moja.bolha.com/auth/" tabindex="5">Pozabil sem geslo</a><br />
+		<a href="https://login.bolha.com/pozabljeno_uporabnisko_ime.php" tabindex="6">Pozabil sem uporabniško ime</a>
+
+		<div class="fbConnect">
+			Enostavno! Prijavite se na bolha.com preko vašega Facebook profila.
+			<a id="fb_login" callback="do_fb_login" action="http://www.bolha.com/facebook/connect" href="JavaScript:void(0);" tabindex="6" title="Poveži se preko Facebook profila"></a>
+					</div>
+				<a href="JavaScript:void(0);" id="loginBoxClose" tabindex="7">Zapri</a>
+		<div class="clear"></div>
+	</form>
+</div>
+	</div>
+	
+			<div id="cookiesWarning" rel="hidden">
+	<div class="cookieContent">
+		<p class="left">
+			Spletni oglasnik bolha.com uporablja piškotke z namenom zagotavljanja spletne storitve, oglasnih sistemov in funkcionalnosti, ki jih brez piškotkov ne bi mogli nuditi. Z obiskom in uporabo spletnega mesta soglašate s piškotki.
+			<a href="/koristno/pomoc-in-varnost/piskotki-na-bolhacom" target="_blank">Več o piškotkih ...</a>
+		</p>
+		<ul id="cookieSelectors">
+			<li><input type="checkbox" name="firstparty" value="firstparty" checked readonly disabled> Obvezni piškotki</li>
+			<li><input type="checkbox" id="cookieTrack" name="track" value="track"> <label for="cookieTrack">Oglaševalski in analitični piškotki</label></li>
+			<li><input type="checkbox" id="cookieSocial" name="social" value="social"> <label for="cookieSocial">Piškotki za socialne vključke</label></li>
+		</ul>
+		<a id="cookieFloaterSettings" href="javascript:void(0);" rel="nofollow">Nastavitve piškotkov</a>
+		<input id="floaterAgree" class="iAgree buttonYellow cookieAgree" action="JavaScript:void(0);" rel="nofollow" type="submit" name="yt0" value="V redu">
+	</div>
+</div>
+<div id="cookiesShowFloaterFlat">
+	<p>O zasebnosti in piškotkih</p>
+</div>
+	<div id="cookiesWarningLoginPopUp">
+	<a id="warningDisagree" href="JavaScript:void(0);"><img border="0" src="/images/x.jpg" /></a>
+	<p>
+		<b>Uporaba piškotkov</b>
+		<br><br>
+		Spletni oglasnik bolha.com uporablja piškotke z namenom zagotavljanja spletne storitve,
+		oglasnih sistemov in funkcionalnosti, ki jih brez piškotkov ne bi mogli nuditi.<br><br>
+		Za nadaljevanje uporabe spletnega oglasnika bolha.com in dostop do vašega osebnega profila ter Moja bolha.com
+		izberite, da se strinjate z oglaševalskimi in analitičnimi piškotki, in kliknite na "V redu".
+
+		<a href="/koristno/pomoc-in-varnost/piskotki-na-bolhacom" target="_blank">Več o piškotkih ...</a>
+	</p>
+
+	<ul id="cookieSelectorsLogin">
+		<li><input type="checkbox" name="firstparty" value="firstparty" checked readonly disabled> <label class="checked disabled">Obvezni piškotki</label></li>
+		<li><input type="checkbox" id="cookieTrackLogin" name="track" value="track"> <label for="cookieTrackLogin">Oglaševalski in analitični piškotki</label></li>
+		<li><input type="checkbox" id="cookieSocialLogin" name="social" value="social"> <label for="cookieSocialLogin">Piškotki za socialne vključke</label></li>
+	</ul>
+
+	<input id="warningAgree" class="iAgree buttonYellow cookieAgree right" action="JavaScript:void(0);" rel="nofollow" type="button" value="V redu">
+		<div class="clear"></div>
+</div><div id="errorLoginPopUp">
+	<a id="errorLoginPopUpClose" href="JavaScript:void(0);"><img border="0" src="/images/x.jpg" /></a>
+	<p>
+		<b>Prijava žal ni bila uspešna!</b>
+		<br><br>
+		Spletni oglasnik bolha.com uporablja piškotke z namenom zagotavljanja spletne storitve,
+		oglasnih sistemov in funkcionalnosti, ki jih brez piškotkov ne bi mogli nuditi.
+		<br><br>
+		V kolikor se ne strinjate z uporabo obveznih, oglaševalskih in analitičnih piškotkov,
+		lahko še naprej brskate po bolha.com. Ne moremo pa vam ponuditi storitev in zagotoviti dostopa do vsebine,
+		ki je namenjena samo prijavljenim uporabnikom bolha.com, saj prijava na bolha.com brez uporabe piškotkov ni možna.
+
+		<a href="/koristno/pomoc-in-varnost/piskotki-na-bolhacom" target="_blank">Več o piškotkih ...</a>
+	</p>
+
+	<input id="errorLoginPopUpOk" class="iAgree buttonYellow right" action="JavaScript:void(0);" rel="nofollow" type="button" value="V redu">
+	<div class="clear"></div>
+</div><script type="text/javascript" src="/js/islOnline.js?v=2.13"></script>
+<script type="text/javascript" src="/js/fb.login.js?v=2.13"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+			$(document).ready(function() {
+				checkCredentials('/api/topmenu.json');
+			});
+			
+jQuery(function($) {
+
+			var cookiePolicy = new cookie();
+			cookiePolicy.domain					= '.bolha.com';
+			cookiePolicy.path					= '/';
+			cookiePolicy.name					= 'bolha:allow_cookies';
+			cookiePolicy.expire					= 7776000;
+			cookiePolicy.expireSessionTime		= 1800;
+			cookiePolicy.secure					= false;
+
+			cookiePolicy.cookie.undecided		= 'undecided';
+			cookiePolicy.cookie.allowAll		= 'all';
+			cookiePolicy.cookie.allowAction		= 'action';
+			cookiePolicy.cookie.allowSocial		= 'social';
+			cookiePolicy.cookie.allowTracking	= 'track';
+			cookiePolicy.cookie.firstPartyOnly	= 'firstparty';
+			cookiePolicy.cookie.unknown			= 'null';
+
+			cookiePolicy.init(cookiePolicy);
+			
+					$('#cookieTrack').attr('checked',true);
+					$('#cookieSocial').attr('checked',true);
+				
+});
+/*]]>*/
+</script>
+</body>
+
+7
+</html>
+0
+

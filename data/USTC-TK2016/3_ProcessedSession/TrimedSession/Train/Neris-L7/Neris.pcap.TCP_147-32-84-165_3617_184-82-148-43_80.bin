@@ -1,0 +1,13 @@
+POST /getjson HTTP/1.1
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+Host: podviajar.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+Content-Length: 445
+Connection: close
+Cache-Control: no-cache
+
+data=e/e6r8VdRlJajwxXJgogFVa9gSXExozmaI7cOYwrAvLDx2T2KL4nXdZonsue0ZZR73lEXxz8TzdT6x30edcsdwMJOdAF/VjYsWHF0Ey7zDJW9/s9JErJ0pfr82QY6b8HCgSuNaUqig4oVzoegrelySD3VSq0TCbovunDu2iNh1dfVLBEgLu2dV5DOJ/+lYE1jzB1BohnNcTpVEwKh4GNKAWoCOtj3VlxQxWiVjfZMqlH5TUdwkhFR2PyALMT7AoLEZuky94eOBGlQhpMrPucpA612AjBblv7OOoSUE5jXtpD6+ux8W1fq1qEMbv8GGo/oRoOy2QXbzpGdmwcI+2nlGcDkRGCRgLJA0lSk5qz7jv3AgYzk0niD3u8wA/99GO4MOJ5kqPESFYFao+etBmCrcLSvvCrOGiew1NB8KguDmUQhPjhxCKL5Kc=HTTP/1.1 302 Moved Temporarily
+Server: nginx/1.0.0
+Date: Thu, 11 Aug 2011 08:46:50 GMT
+Content-Typ

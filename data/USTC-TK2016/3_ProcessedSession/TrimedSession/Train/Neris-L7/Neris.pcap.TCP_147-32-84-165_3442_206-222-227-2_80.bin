@@ -1,0 +1,11 @@
+GET /_cqr/login/login.psp?sitedomain=sns.webmail.aol.com&lang=en&locale=us&authLev=0&siteState=ver%3a4%7crt%3aSTANDARD%7cat%3aSNS%7cld%3amail.aol.com%7cuv%3aAOL%7clc%3aen-us%7cmt%3aANGELIA%7csnt%3aScreenName%7csid%3a7f1a5702-7ac4-4db7-9075-aa279639ab47&offerId=newmail-testc-en-us&seamless=novl HTTP/1.1
+Host: my.screenname.aol.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Charset: utf-8;q=0.7,*;q=0.7
+Accept-Encoding: gzip, identity, *;q=0
+Connection: Close
+Referer: http://mail.aol.com/?offerId=newmail-testc-en-us
+
+GET /_cqr/login/login.psp?sitedomain=sns.webmail.aol.com&lang=en&locale=us&authLev

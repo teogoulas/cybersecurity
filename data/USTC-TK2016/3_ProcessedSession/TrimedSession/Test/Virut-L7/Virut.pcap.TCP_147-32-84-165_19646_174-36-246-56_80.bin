@@ -1,0 +1,11 @@
+GET /www/delivery/al.php?zoneid=19156&cb=INSERT_RANDOM_NUMBER_HERE&layerstyle=footer&position=bottom&speed=3&slide=0&delay=-&transparent=0&context=Yjo0MjQ1MSNjOjI5MzEjYjo0MjQ1MSNjOjI5MzEjYjo0MTY0MiNjOjI4ODcjYjo0MjQ1MSNjOjI5MzEjYjo0MTY0MiNjOjI4ODcjYjozMjM1OCNjOjMzMXw%3D HTTP/1.1
+Accept: */*
+Referer: http://www.funglad.com/fung.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: ads.ad4game.com
+Connection: Keep-Alive
+Cookie: OAID=5579cf807a12dda1aee2fd1e337c6073; OAGEO=CZ%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C; OABLOCK=42451.1313473344_41642.1313473344; OASCAP=42451.1_41642.1; _OASCAP[32358]=1; _OABLOCK[32358]=1313473344
+
+GET /www/delivery/al.php?zoneid=19156&cb=INSERT_RANDOM_NUMBER_HERE&layerstyle=footer

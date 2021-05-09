@@ -1,0 +1,26 @@
+GET /cached/flashadv11.js HTTP/1.1
+Accept: */*
+Referer: http://www.funglad.com/fung.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Fri, 22 Jul 2011 16:51:55 GMT
+If-None-Match: "fa24baa98f48cc1:0"
+Host: cdn.cpmstar.com
+Connection: Keep-Alive
+
+GET /cached/flashadv11.js HTTP/1.1
+Accept: */*
+Referer: http://www.funglad.com/fung.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Fri, 22 Jul 2011 16:51:55 GMT
+If-None-Match: "fa24baa98f48cc1:0"
+Host: cdn.cpmstar.com
+Connection: Keep-Alive
+
+HTTP/1.1 304 Not Modified
+Content-Type: application/x-javascript
+Age: 1282
+Date: Tue, 16 Aug 2011

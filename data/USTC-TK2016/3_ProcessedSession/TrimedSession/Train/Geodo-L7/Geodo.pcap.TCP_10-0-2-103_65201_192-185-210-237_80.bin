@@ -1,0 +1,21 @@
+Get /images/cr_mss3.exe HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+Host: mayranavarro.com.br
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 501 Method Not Implemented
+Date: Tue, 28 Apr 2015 10:27:20 GMT
+Server: Apache
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Expires: Mon, 1 Jan 2001 00:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: 835fb3bf16150c3237b0453ed16306ec=717d95b858c64edd2f1ba96b0db75c60; path=/
+Last-Modified: Tue, 28 Apr 2015 10:27:22 GMT
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/x

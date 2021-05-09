@@ -1,0 +1,20 @@
+GET / HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.5.3
+Accept-Encoding: gzip, deflate
+Host: riskslot.com
+Connection: Keep-Alive
+
+HTTP/1.0 200 (OK)
+Cache-Control: private, no-cache, must-revalidate
+Connection: Keep-Alive
+Pragma: no-cache
+Server: Oversee Turing v1.0.0
+Content-Encoding: gzip
+Content-Length: 588
+Content-Type: text/html
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Keep-Alive: timeout=3, max=99
+P3P: policyref="http://www.dsnextgen.com/w3c/p3p.xml", CP="NOI DSP COR ADMa OUR NOR STA"
+Set-Cookie: parkinglot=1; domain=.riskslot.com; path=/; expires=Fri, 12-Aug

@@ -1,0 +1,17 @@
+GET /ycms.ashx?xid=fFyLohuLspSjK3LzqicX8p6S HTTP/1.1
+Accept: */*
+Referer: http://uac.advertising.com/wrapper/aceUACping.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Cookie: ACID=Xx940013134414580060; ASCID=Xx940013134414580060; F1=BMrhJ5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA; BASE=b1g1YuqPWjdkdGG!; ROLL=JhwejoI7N385QTB!
+Connection: Keep-Alive
+Host: cmap.rm.ace.advertising.com
+
+GET /ycms.ashx?xid=fFyLohuLspSjK3LzqicX8p6S HTTP/1.1
+Accept: */*
+Referer: http://uac.advertising.com/wrapper/aceUACping.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Cookie: ACID=Xx940013134414580060; ASCID=Xx940013134414580060; F1=

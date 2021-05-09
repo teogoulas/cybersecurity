@@ -1,0 +1,98 @@
+220-mtaout-ma04.r1000.mx.aol.com ESMTP MUA/Third Party Client Interface
+220-AOL and its affiliated companies do not
+220-authorize the use of its proprietary computers and computer
+220-networks to accept, transmit, or distribute unsolicited bulk
+220-e-mail sent from the internet.
+220-Effective immediately:
+220-AOL may no longer accept connections from IP addresses
+220 which no reverse-DNS (PTR record) assigned.
+EHLO louis_gomez11
+EHLO louis_gomez11
+250-mtaout-ma04.r1000.mx.aol.com
+250-PIPELINING
+250-SIZE 36700160
+250-ETRN
+250-STARTTLS
+250-AUTH XAOL-UAS-MB PLAIN LOGIN
+250-AUTH=XAOL-UAS-MB PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+bG91aXNfZ29tZXoxMQ==
+bG91aXNfZ29tZXoxMQ==
+334 UGFzc3dvcmQ6
+bk5LNW1uNEM=
+bk5LNW1uNEM=
+235 2.7.0 Authentication successful
+MAIL FROM: <louis_gomez11@aol.com>
+MAIL FROM: <louis_gomez11@aol.com>
+250 2.1.0 Ok
+RCPT TO: <carltonbauer@bellsouth.net>
+RCPT TO: <carltonbauer@bellsouth.net>
+250 2.1.5 Ok
+RCPT TO: <kurtk@agilesign.com>
+RCPT TO: <kurtk@agilesign.com>
+250 2.1.5 Ok
+RCPT TO: <jww717@yahoo.com>
+RCPT TO: <jww717@yahoo.com>
+250 2.1.5 Ok
+RCPT TO: <donham21@aol.com>
+RCPT TO: <donham21@aol.com>
+250 2.1.5 Ok
+DATA
+DATA
+354 End data with <CR><LF>.<CR><LF>
+Message-ID: <1852745057$1192327966$1776743237@louis_gomez11>
+From: "Bellis Uldrick" <louis_gomez11@aol.com>
+To: <carltonbauer@bellsouth.net>
+Subject: RE:Ge tPharmac e uticals ForRea llyChe ap Prices
+Date: Mon, 15 Aug 2011 20:50:29 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<a href="http://AudKVHP6B64RaAGMM90I.wowepills.com?RuyvkyPimMfDrrpJbwiSJjg">http://RuyvkyPimMfDrrpJbwiSJjg.wowep7817130ills.com?fyVyZFWOQnj</a> ThatTher e AreANum berOf Que stionsA ndProb lems StillUna n swer ed ThatI W oul d<br></BODMessage-ID: <1852745057$1192327966$1776743237@louis_gomez11>
+From: "Bellis Uldrick" <louis_gomez11@aol.com>
+To: <carltonbauer@bellsouth.net>
+Subject: RE:Ge tPharmac e uticals ForRea llyChe ap Prices
+Date: Mon, 15 Aug 2011 20:50:29 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<a href="http://AudKVHP6B64RaAGMM90I.wowepills.com?RuyvkyPimMfDrrpJbwiSJjg">http://RuyvkyPimMfDrrpJbwiSJjg.wowep7817130ills.com?fyVyZFWOQnj</a> ThatTher e AreANum berOf Que stionsA ndProb lems StillUna n swer ed ThatI W oul d<br></BODY></HTML>
+.
+Y></HTML>
+.
+554 5.2.1   554 AOL will not accept delivery of this message 

@@ -1,0 +1,6 @@
+GET /www/delivery_dev/afr.php?zoneid=1086&cb=479392072&ct0=http://adclick.g.doubleclick.net/aclk%3Fsa%3Dl%26ai%3DCJsxJXTH3VJqmOLLHyAP_tIHIC57o9YQG3s-B_7QBpszNvoIDEAEgAGDM4e2B_C6CARdjYS1wdWItNDg4ODg3ODExODMwMzA1OaAB6s7I2gPIAQmpAmRKEnTQRlE-qAMBmAQAqgRxT9A8sO2NP_FtU8fVFrXqMw6s5ohiS0fGoYfrMoOhM47RzzsedwKkOv0y14OvNUX5-8QryP5ncqlYw2Blgn23H2a13vhXRi1lp1x7QoxdsWTvXc0aZzbXNeKUff_OpE9hhSxIqRQNcLxnRSUsF9gfpl6gBiHYBwA%26num%3D1%26sig%3DAOD64_0SPrEZjPhFNTZznnINVAnSI7gkHA%26client%3Dca-pub-4888878118303059%26adurl%3D HTTP/1.1
+Host: ads.adelement.com
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+Referer

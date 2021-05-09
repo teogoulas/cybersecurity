@@ -1,0 +1,35 @@
+GET /imp?Z=120x600&s=1921377&_salt=470037887&B=10&u=http%3A%2F%2Fads.creafi-online-media.com%2F&r=0 HTTP/1.1
+Accept: */*
+Referer: http://ads.creafi-online-media.com/st?ad_type=iframe&ad_size=120x600&section=1921377
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Cookie: BX=fpqnuq5747b5k&b=4&s=m4&t=222; uid=uid=67fcaf4c-c403-11e0-b8fb-5fe412543eef&_hmacv=1&_salt=4103611426&_keyid=k1&_hmac=7a64944fa64411465c60f0af616474e6aee86c77; bh="b!!!!$!#eu?!!!!#=0+-q!$(7j!!!!#=0+.,"; ih="b!!!!%!2b03!!!!#=0+.A!3HCj!!!!#=0+.,!41rf!!!!#=0+-q"; vuday1=3IvP]o(iq>!/^/!arK8G; liday1=FnLgjZq?FS!<=73!/^/!fc?/r; pv1="b!!!!#!$6YB#A,e<!%-sv!3HCj!'(rB!!!!$!?5%!'2^c5!Zd<(!'X>^!(?vT~~~~~~=0+.,~M.jTN"
+Connection: Keep-Alive
+Host: ad.yieldmanager.com
+
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2011 10:20:36 GMT
+Server: YTS/1.18.4
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+X-RightMedia-Hostname: raptor0251.rm.ch1
+Set-Cookie: ih="b!!!!%!2b03!!!!#=0+.A!3HCj!!!!$=0+.W!41rf!!!!#=0+-q"; path=/; expires=Sat, 10-Aug-2013 10:20:36 GMT
+Set-Cookie: bh="b!!!!%!#eu?!!!!#=0+-q!$(7j!!!!#=0+.,!$(7n!!!!#=0+.W"; path=/; expires=Sat, 10-Aug-2013 10:20:36 GMT
+Set-Cookie: vuday1=3IvP]o(iq>o(iq>!/^/!2F%/a; path=/; expires=Fri, 12-Aug-2011 00:00:00 GMT
+Set-Cookie: pv1="b!!!!#!$6YB#A,e<!%-tI!3HCj!'(rB~!!5/$'2^c6!Zd<(!(LcD!(?vT~~~~~~=0+.W~M.jTN"; path=/; expires=Sat, 10-Aug-2013 10:20:36 GMT
+Set-Cookie: BX=fpqnuq5747b5k&b=4&s=m4&t=222; path=/; expires=Tue, 19-Jan-2038 03:14:07 GMT
+Set-Cookie: liday1=FnLgjZq?FS8CObF!<=73!/^/!c]1)F; path=/; expires=Fri, 12-Aug-2011 00:00:00 GMT
+Cache-Control: no-store
+Last-Modified: Thu, 11 Aug 2011 10:20:36 GMT
+Pragma: no-cache
+Content-Length: 704
+Content-Type: application/x-javascript
+Age: 0
+Connection: close
+
+document.write('<a target=\"_blank\" href=\"http://ads.creafi-online-media.com/clk?3,eAGdj0sLwjAQhP9QtYlpaWPwkBrjAxdRImpvaRPb2vpAK4q.XrCinp3D8s2y7DCYME013loTGC8wQao9hglOQj-hVGsHMcZIQAmltIOw4-GsjoZyMZpHZRiX.KUxLyZZg80cvM2Y8zmXQtEN3JrV1Yb338v.uQ.L.Cfnnb.2q-QqBtHnr8jLmcoI7Bb5dAUIBNSgZAV95MdqiaZK7jYPWcaKo5mYVPDt0XOcvK5PXdfV5tJOz1Zvi9bxUBUH29pbU-h2ety7T.BUW3s=,\"><img border=\"0\" alt=\"\" height=\"600\" width=\"120\" src=\"http://content.yieldmanager.edgesuite.net/atoms/8e/e1/8c/68/8ee18c685c31e644b2ddc74cc24ec14c.gif\"></img></a>');
+var rm_data = new Object();
+rm_data.creative_id = 10088804;
+rm_data.offer_type = 10;
+rm_data.entity_id = 369950;
+if (window.rm_crex_data) {rm_crex_data.push(10088804);}

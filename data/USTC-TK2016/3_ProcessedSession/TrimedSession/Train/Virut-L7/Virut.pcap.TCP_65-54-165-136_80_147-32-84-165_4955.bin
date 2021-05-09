@@ -1,0 +1,24 @@
+GET / HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: login.live.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; FREE; .NET CLR 1.1.4322)
+
+GET / HTTP/1.1
+TE: deflate,gzip;q=0.3
+Connection: TE, close
+Host: login.live.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; FREE; .NET CLR 1.1.4322)
+
+HTTP/1.1 200 OK
+Cache-Control: max-age=0
+Content-Length: 12596
+Content-Type: text/html; charset=utf-8
+Expires: Mon, 15 Aug 2011 15:58:51 GMT
+Server: Microsoft-IIS/7.5
+P3P: CP="DSP CUR OTPi IND OTRi ONL FIN"
+X-XSS-Protection: 0
+Set-Cookie: MSPRequ=lt=1313423991&co=1&id=N; path=/;version=1
+Set-Cookie: MSPOK=$uuid-9f3ec5ea-f7b3-4bc5-b579-681f65093d44; path=/;version=1
+X-Frame-Options: deny
+PPServer: PPV: 30 H: BAYIDSLGN1

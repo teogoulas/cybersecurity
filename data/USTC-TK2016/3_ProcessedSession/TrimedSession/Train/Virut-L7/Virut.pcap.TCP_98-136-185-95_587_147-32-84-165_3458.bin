@@ -1,0 +1,32 @@
+220 smtp218.mail.gq1.yahoo.com ESMTP
+EHLO oreleecarlynnejkcx
+EHLO oreleecarlynnejkcx
+250-smtp218.mail.gq1.yahoo.com
+250-AUTH LOGIN PLAIN XYMCOOKIE
+250-PIPELINING
+250 8BITMIME
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+b3JlbGVlY2FybHlubmVqa2N4
+b3JlbGVlY2FybHlubmVqa2N4
+334 UGFzc3dvcmQ6
+dGpqczRwOWgxcW4=
+dGpqczRwOWgxcW4=
+235 OK, go ahead
+MAIL FROM: <oreleecarlynnejkcx@yahoo.com>
+MAIL FROM: <oreleecarlynnejkcx@yahoo.com>
+250 OK , completed
+RCPT TO: <batforevert@yahoo.com>
+RCPT TO: <batforevert@yahoo.com>
+250 OK , completed
+RCPT TO: <max5747@yahoo.com>
+RCPT TO: <max5747@yahoo.com>
+250 OK , completed
+RCPT TO: <andrew_rogowski@yahoo.com>
+RCPT TO: <andrew_rogowski@yahoo.com>
+250 OK , completed
+DATA
+DATA
+354 Start Mail. End with CRLF.CRLF
+Message-ID: <13677

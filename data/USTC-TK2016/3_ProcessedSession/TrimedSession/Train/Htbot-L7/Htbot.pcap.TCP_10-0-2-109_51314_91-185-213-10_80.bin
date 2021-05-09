@@ -1,0 +1,12 @@
+POST /oddaj.php?katid=8 HTTP/1.1
+Host: objava-oglasa.bolha.com
+Content-Length: 3617
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Origin: http://objava-oglasa.bolha.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundarycipZk7BCntdhSTMT
+Referer: http://objava-oglasa.bolha.com/oddaj.php?katid=8
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+Cookie: _btcid=e07db2115d3c44e9b48d5637a6ab9e27f713a2eb; xtvrn=$413864$; bolha:user_dedicated=2015-03-03T18%3A08%3A00Z; BOLHA_SSID=jjb44d5op5lq7beo3hkmi8pg85; fale=1; bolha:allow_cookies=all; __utma=55484472.17325933

@@ -1,0 +1,18 @@
+Get /wp-content/themes/twentyfifteen/cr_mss3.exe HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+Host: www.allcameras.tk
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 07 May 2015 18:39:56 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.34
+X-Pingback: http://www.allcameras.tk/xmlrpc.php
+Location: http://www.allcameras.tk/wp-content/themes/twentyfifteen/cr_mss3.exe/
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

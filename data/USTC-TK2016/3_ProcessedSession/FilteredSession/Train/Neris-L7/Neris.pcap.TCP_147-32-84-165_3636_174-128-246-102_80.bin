@@ -1,0 +1,6 @@
+GET / HTTP/1.0
+Host: 174.128.246.102
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 6.0)
+

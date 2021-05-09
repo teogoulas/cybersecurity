@@ -1,0 +1,19 @@
+GET /set_partner_uid?partnerID=15&partnerUID=004003002220000397769&sscs_active=1 HTTP/1.1
+Accept: */*
+Referer: http://gamevid.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: segment-pixel.invitemedia.com
+Connection: Keep-Alive
+Cookie: partnerUID=eyIxNSI6IFsiMDA0MDAzMDAyMjIwMDAwMzk3NzY5IiwgdHJ1ZV19; uid=5499047f-484c-4467-a72b-be03181c0a6d
+
+HTTP/1.0 200 OK
+Server: IM BidManager
+Date: Thu, 11 Aug 2011 11:46:29 GMT
+P3P: policyref="/w3c/p3p.xml", CP="OTI DSP COR ADMo TAIo PSAo PSDo CONo OUR SAMo OTRo STP UNI PUR COM NAV INT DEM STA PRE LOC"
+Expires: Thu, 11-Aug-2011 11:46:09 GMT
+Content-Type: image/gif
+Pragma: no-cache
+Cache-Control: no-cache
+Set-Cookie: partnerUID=eyIxNSI6IFs

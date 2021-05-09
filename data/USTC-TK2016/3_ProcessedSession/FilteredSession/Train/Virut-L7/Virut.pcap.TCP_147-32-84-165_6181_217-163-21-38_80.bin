@@ -1,0 +1,43 @@
+GET /imp?Z=728x90&anmember=541&anprice=&referrer=http%3a%2f%2fwww.netygames.com%2fnetgame.html&s=2056437&_salt=2949467745&X=10070579,9912118&B=10&u=http%3A%2F%2Fwww.netygames.com%2Fnetgame.html&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: ad.yieldmanager.com
+Connection: Keep-Alive
+Cookie: ih="b!!!!$!3.s0!!!!#=0bhw!3EmF!!!!#=0bhv"; vuday1=!!!!$!7/9q$jaL<; BX=27tv4ph74j5rn&b=4&s=dn&t=226; uid=uid=4614d960-c78a-11e0-9dbc-6f7b25014402&_hmacv=1&_salt=1305677968&_keyid=k1&_hmac=32ccadc80bd1a570298d8ef91048187889c5afb8; liday1='W2EZb1q+F!7/9qlaH2I; bh="b!!!!#!!28Y!!!!#=0bhv"
+
+GET /imp?Z=728x90&anmember=541&anprice=&referrer=http%3a%2f%2fwww.netygames.com%2fnetgame.html&s=2056437&_salt=2949467745&X=10070579,9912118&B=10&u=http%3A%2F%2Fwww.netygames.com%2Fnetgame.html&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: ad.yieldmanager.com
+Connection: Keep-Alive
+Cookie: ih="b!!!!$!3.s0!!!!#=0bhw!3EmF!!!!#=0bhv"; vuday1=!!!!$!7/9q$jaL<; BX=27tv4ph74j5rn&b=4&s=dn&t=226; uid=uid=4614d960-c78a-11e0-9dbc-6f7b25014402&_hmacv=1&_salt=1305677968&_keyid=k1&_hmac=32ccadc80bd1a570298d8ef91048187889c5afb8; liday1='W2EZb1q+F!7/9qlaH2I; bh="b!!!!#!!28Y!!!!#=0bhv"
+
+HTTP/1.1 200 OK
+Date: Mon, 15 Aug 2011 22:02:32 GMT
+Server: YTS/1.18.4
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+X-RightMedia-Hostname: raptor0067.rm.ch1
+Set-Cookie: ih="b!!!!%!0vpw!!!!#=0bhw!3.s0!!!!#=0bhw!3EmF!!!!#=0bhv"; path=/; expires=Wed, 14-Aug-2013 22:02:32 GMT
+Set-Cookie: vuday1=!!!!%!7/9q-6?*a; path=/; expires=Tue, 16-Aug-2011 00:00:00 GMT
+Set-Cookie: BX=27tv4ph74j5rn&b=4&s=dn&t=226; path=/; expires=Tue, 19-Jan-2038 03:14:07 GMT
+Set-Cookie: liday1='W2E[b1q+F!7/9q%d*?a; path=/; expires=Tue, 16-Aug-2011 00:00:00 GMT
+Cache-Control: no-store
+Last-Modified: Mon, 15 Aug 2011 22:02:32 GMT
+Pragma: no-cache
+Content-Length: 839
+Content-Type: application/x-javascript
+Age: 0
+Connection: close
+
+document.write('<a target=\"_blank\" href=\"http://adserving.cpxinteractive.com/clk?3,eAGdjtsOgjAQRH8IgVIQtfGhWq-h4IVo6hupQDWgJtZU-XqLoB.gvsycSXZnAURp1z9m3OG-w123f-QIQMAz30.SzDVshFC3D6Dds23PwPWsdvlcjQKHLT6IMX0uVWtzrEPWwKpXK8HxVtG8icqLO24cjraEtvYfIZ2H-PZrbfuLxINVNRn9LpK1E8Wb4rAPRbCnMJpNJI2nBR2DEztzL4hZFWk-kJ0ICQNh-6feHxqGkPI2sCyllHlJ5StPyvRu8mtpaarBFLIs3q8FXUQ=,\"><img border=\"0\" alt=\"\" height=\"90\" width=\"728\" src=\"http://content.yieldmanager.edgesuite.net/atoms/3d/4c/af/49/3d4caf494062b6c0e8aa336cf751f68e.gif\"></img></a><img src=\"http://ts.amxdt.com/px/?id=522&url=http%3A%2F%2Fwww%2Enetygames%2Ecom%2Fnetgame%2Ehtml\" height=\"1\" width=\"1\" alt=\"\">');
+var rm_data = new Object();
+rm_data.creative_id = 8575307;
+rm_data.offer_type = 18;
+rm_data.entity_id = 62229;
+if (window.rm_crex_data) {rm_crex_data.push(8575307);}

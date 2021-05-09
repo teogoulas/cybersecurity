@@ -1,0 +1,19 @@
+GET /hk/images/css.css HTTP/1.1
+Accept: */*
+Referer: http://www.bj-hjw.net/hk/dd8.asp
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.bj-hjw.net
+Connection: Keep-Alive
+Cookie: cnzz_a2472838=0; sin2472838=; rtime=0; ltime=1313743699229; cnzz_eid=12247034-1313740342-; ASPSESSIONIDAQDRSTST=HLKJEBFCEHEAKHOMIBDFFOHN
+
+GET /hk/images/css.css HTTP/1.1
+Accept: */*
+Referer: http://www.bj-hjw.net/hk/dd8.asp
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.bj-hjw.net
+Connection: Keep-Alive
+Cookie: cnzz_a2472838=0; sin2472838=; rtime=0; ltime=1313743699229; cnzz_eid=12247034-1313740342-; ASPSESSIONIDAQDRS

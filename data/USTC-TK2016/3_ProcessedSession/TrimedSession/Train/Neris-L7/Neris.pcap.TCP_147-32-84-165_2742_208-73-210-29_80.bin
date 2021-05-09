@@ -1,0 +1,25 @@
+GET / HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: riskslot.com
+Connection: Keep-Alive
+
+GET / HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: riskslot.com
+Connection: Keep-Alive
+
+HTTP/1.0 200 (OK)
+Cache-Control: private, no-cache, must-revalidate
+Connection: Keep-Alive
+Pragma: no-cache
+Server: Oversee Turing v1.0.0
+Content-Encoding: gzip
+Content-Length: 588
+Content-Type: text/html
+Expires: Mon, 26 Jul 19

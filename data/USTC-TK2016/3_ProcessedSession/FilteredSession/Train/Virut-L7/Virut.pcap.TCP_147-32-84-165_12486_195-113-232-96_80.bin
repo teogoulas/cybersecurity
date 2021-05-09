@@ -1,0 +1,29 @@
+GET /is/r1-ads.ace.advertising.com?U=/ctst=1/site=796404/size=160600/u=2/bnum=54986840/hr=4/hl=0/c=2/scres=1/swh=1280x722/tile=1/f=0/r=1/optn=1/fv=6/aolexp=1/dref=http%253A%252F%252Fwww.generalamuse.com%252Fgen.php&V=3-sPkxWr+F6CA+PEHWG0z%2fSFXPDkWQF38rjrFLa3JLnCaiNqbkXNtLnV2vSRSCZU%2fjcLkF9G6xXPo%3d&I=DF14EC5770D49B8&D=r1.ace.advertising.com&01AD=1& HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: ak1.abmr.net
+Connection: Keep-Alive
+
+GET /is/r1-ads.ace.advertising.com?U=/ctst=1/site=796404/size=160600/u=2/bnum=54986840/hr=4/hl=0/c=2/scres=1/swh=1280x722/tile=1/f=0/r=1/optn=1/fv=6/aolexp=1/dref=http%253A%252F%252Fwww.generalamuse.com%252Fgen.php&V=3-sPkxWr+F6CA+PEHWG0z%2fSFXPDkWQF38rjrFLa3JLnCaiNqbkXNtLnV2vSRSCZU%2fjcLkF9G6xXPo%3d&I=DF14EC5770D49B8&D=r1.ace.advertising.com&01AD=1& HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: ak1.abmr.net
+Connection: Keep-Alive
+
+HTTP/1.1 302 Moved Temporarily
+Content-Length: 0
+Location: http://r1-ads.ace.advertising.com/ctst=1/site=796404/size=160600/u=2/bnum=54986840/hr=4/hl=0/c=2/scres=1/swh=1280x722/tile=1/f=0/r=1/optn=1/fv=6/aolexp=1/dref=http%253A%252F%252Fwww.generalamuse.com%252Fgen.php?01AD=3zG-LMy3R9SuoMBebcesoIyn_wsvxiTepA5qSW4QGuIhgOiWLIXGzEQ&01RI=DF14EC5770D49B8&01NA=na
+Expires: Tue, 16 Aug 2011 01:46:01 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 16 Aug 2011 01:46:01 GMT
+Connection: keep-alive
+Set-Cookie: 01AI=2-2-4B1C9B738B46D301E74F0F293D24A112A4B18C0A997DD61048D3DB435E323A71-0A565E3472BB41F5C5419E72F227EED8030493F556A520727DB09B05E50D428F; expires=Wed, 15-Aug-2012 01:46:01 GMT; path=/; domain=.abmr.net
+P3P: policyref="http://www.abmr.net/w3c/policy.xml", CP="NON DSP COR CURa ADMa DEVa OUR SAMa IND"
+

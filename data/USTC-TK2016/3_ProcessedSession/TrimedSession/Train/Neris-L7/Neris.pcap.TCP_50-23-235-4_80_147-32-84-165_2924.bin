@@ -1,0 +1,19 @@
+GET /view.aspx?poolid=23831&script=1&rnd=140769 HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: server.cpmstar.com
+Connection: Keep-Alive
+
+HTTP/1.1 302 Found
+Cache-Control: private,no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Location: /view.aspx?poolid=23831&script=1&rnd=140769&test=1
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 2.0.50727
+Set-Cookie: i=147.32.84.165; domain=.server.cpmstar.com; expires=Sat, 10-Sep-2011 09:08:37 GMT; path=/
+Set-Cookie: is=0DA12910D667812A69C6ADF7A2A20E49CD5FF043; domain=.server.cpmstar.com; expires

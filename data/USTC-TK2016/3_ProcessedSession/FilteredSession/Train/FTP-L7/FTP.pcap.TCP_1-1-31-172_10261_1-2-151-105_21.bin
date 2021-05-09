@@ -1,0 +1,5 @@
+PASS jobs@server.com
+230 User anonymous logged in.
+EPSV
+229 Extended Passive Mode OK (|||51273|)
+LIST

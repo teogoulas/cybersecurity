@@ -1,0 +1,24 @@
+GET /scott5/offer-exit.php HTTP/1.0
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.honestquickcash.net
+Connection: Keep-Alive
+
+GET /scott5/offer-exit.php HTTP/1.0
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.honestquickcash.net
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Date: Mon, 15 Aug 2011 19:16:36 GMT
+Server: Apache/2.2.3 (Red Hat)
+X-Powered-By: PHP/5.3.6
+Content-Length: 732
+Connection: close
+Content-Type: text/html
+
+<html>
+<head>
+<script type="text/javascript" src="source.js"></script>
+<meta http-equi

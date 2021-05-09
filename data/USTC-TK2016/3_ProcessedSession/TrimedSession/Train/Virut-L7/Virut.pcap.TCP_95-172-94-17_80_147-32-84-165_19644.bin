@@ -1,0 +1,14 @@
+GET /pixel;r=1940127169;fpan=1;fpa=P0-1839742500-1313473340168;ns=0;url=http%3A%2F%2Fwww.funglad.com%2Ffung.html;ref=;ce=1;je=1;sr=1280x722x32;enc=n;ogl=;dst=1;et=1313473340168;tzo=-180;a=p-83POQfOeGbhRY HTTP/1.1
+Accept: */*
+Referer: http://www.funglad.com/fung.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: pixel.quantserve.com
+Connection: Keep-Alive
+
+GET /pixel;r=1940127169;fpan=1;fpa=P0-1839742500-1313473340168;ns=0;url=http%3A%2F%2Fwww.funglad.com%2Ffung.html;ref=;ce=1;je=1;sr=1280x722x32;enc=n;ogl=;dst=1;et=1313473340168;tzo=-180;a=p-83POQfOeGbhRY HTTP/1.1
+Accept: */*
+Referer: http://www.funglad.com/fung.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto

@@ -1,0 +1,32 @@
+GET /t/acookie/acbeacon2.html HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://www.taobao.com/go/act/mmbd/pd011.php?pid=mm_15190792_2147655_8533566&refpos=,a,null
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cdn.tanx.com
+Connection: Keep-Alive
+
+GET /t/acookie/acbeacon2.html HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://www.taobao.com/go/act/mmbd/pd011.php?pid=mm_15190792_2147655_8533566&refpos=,a,null
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cdn.tanx.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=GBK
+Content-Length: 4300
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+Server: nginx
+Date: Fri, 19 Aug 2011 08:22:20 GMT
+Last-Modified: Tue, 12 Apr 2011 09:57:48 GMT
+Expires: Fri, 19 Aug 2011 10:22:20 GMT
+Cache-Control: max-age=7200
+Age: 1265
+
+<!doctype html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=gbk"></head><body><input type="hidden" id="ieudp"><script>var sSrc=location.search.split("?")[1],aSw=(typeof sSrc==="undefined"?"":sSrc).toLowerCase().split("&"),i=0,oSw={},tmp,udp={},_ca_qs_={acs:function(){return}},_f=Math.floor(Math.random()*999),_r=encodeURIComponent(document.referrer),requrl={create:["http://acookie.tanx.com/1.gif?cache="+_f+"&pre="+_r],other:["http://acookie.taobao.com/1.gif?cache="+_f+"&pre="+_r,"http://acookie.alimama.com/1.gif?cache="+_f+"&pre="+_r],syn:["http://hz.mmstat.com/syncAcookie.php?cna=","http://acookie.alimama.com/syncAcookie.php?cna=","http://acookie.tanx.com/syncAcookie.php?cna=","http://acookie.taobao.com/syncAcookie.php?cna="]},cc,ls,loop=6,looptime=500;window.onload=function(){oSw.ls=true;oSw.ud=true;oSw.gs=true;for(;i<aSw.length;i++){tmp=aSw[i].split("=");oSw[tmp[0]]=tmp[1]=="1"?true:false}udp.debug=Boolean(oSw.debug);udp.log=function(m,l,n){if(!udp.debug){return}if(!n){n="JS"}if(!l){l="info"}m=n+" Loggger ["+new Date().getTime()+"] ["+l+"] ::: "+m;if(window.console&&console.log){console.log(m)}if(udp.logger){udp.logger.innerHTML+=m+"<br/>"}};var h=location.pathname.split("/");h[h.length-1]="";udp.path=h.join("/");if(!!(window.attachEvent&&!window.opera)&&Boolean(oSw.ud)){udp.ud=true;udp.udObj=document.getElementById("ieudp");udp.udObj.addBehavior("#default#userData");udp.udPath=encodeURIComponent(udp.path)}udp.lsObj=Boolean(oSw.ls)?window.localStorage:false;udp.gsObj=Boolean(oSw.gs)?window.globalStorage:false;udp.udSet=function(m,l,p){if(Boolean(udp.ud)){var n=a(l,p);udp.udObj.setAttribute(m,n);try{udp.udObj.save(udp.udPath)}catch(o){return false}return true}};udp.udGet=function(l){if(Boolean(udp.ud)){try{udp.udObj.load(udp.udPath)}catch(m){return}return k(l,udp.udObj.getAttribute(l))}return};udp.lsSet=function(m,l,p){if(Boolean(udp.lsObj)){var n=a(l,p);try{udp.lsObj.setItem(m,n)}catch(o){return false}return true}return false};udp.lsGet=function(l){if(Boolean(udp.lsObj)){try{return k(l,udp.lsObj.getItem(l))}catch(m){return}}return};udp.gsSet=function(m,l,p){if(Boolean(udp.gsObj)){var n=a(l,p);try{udp.gsObj[location.hostname][m]=n}catch(o){return false}return true}return false};udp.gsGet=function(l){if(Boolean(udp.gsObj)){try{return k(l,upp.gsObj[l])}catch(m){return}}return};function j(m,p,l){var o=udp.udSet(m,p,l);var n=udp.lsSet(m,p,l);var q=udp.gsSet(m,p,l);return o||n||q}function b(m){var l=udp.lsGet(m);if(l==undefined){l=udp.udGet(m);if(l==undefined){l=udp.gsGet(m)}}return l}function d(l){if(Boolean(udp.udObj)){udp.udObj.removeAttribute(l);udp.udObj.save(udp.udPath)}if(Boolean(udp.lsObj)){udp.lsObj.removeItem(l)}if(Boolean(udp.gsObj)){delete udp.gsObj[location.hostname][l]}return true}function a(m,l){return encodeURIComponent(m)+":"+(new Date().getTime()+(l==null?365*10:l)*24*60*60*1000)+":"+(new Date().getTime())}function k(m,l){if(l){if(parseInt(l.split(":")[1])>new Date().getTime()){return decodeURIComponent(l.split(":")[0])}else{d(m);return}}else{return}}function g(p){var n=document.cookie.split("; "),o=0,m="",l="",q="";for(;o<n.length;o++){q=n[o].split("=");if(q[0]===p){return q[1].toString();break}}}function c(n,o){if(o.length<24){udp.log("length error:"+o);return}var m,l=0;for(;l<n.length;l++){m=document.createElement("script");m.src=n[l]+o.toString();document.getElementsByTagName("head")[0].appendChild(m);udp.log("syn acookie to "+m.src)}}function f(l){for(tmp=0;tmp<l.length;tmp++){document.write("<img src='"+l[tmp].toString()+"' width=0 height=0 />");udp.log("get acookie from "+l[tmp])}}cc=g("cna");ls=b("cna");if(Boolean(cc)){udp.log("acookie:"+cc);if(Boolean(ls)){udp.log("localStorage:"+ls);if(ls!=cc){udp.log("ls != acookie");c(requrl.syn,ls)}}else{udp.log("ls = undefined");j("cna",cc,null);udp.log("set ls = "+cc)}}else{udp.log("cna = undefined");if(Boolean(ls)){udp.log("ls = "+ls);c(requrl.syn,ls)}else{udp.log("ls = undefined");f(requrl.create);tmp=1;var e=setInterval((function(){udp.log("start loop :"+tmp);cc=g("cna");tmp+=1;if(tmp==loop||Boolean(cc)){clearInterval(e);j("cna",cc,null);udp.log("loop endl ,set ls = "+cc);f(requrl.other);udp.log("cna="+g("cna")+";localStorage="+b("cna"))}}),looptime)}udp.log("cna="+g("cna")+";localStorage="+b("cna"))}};</script></body></html>

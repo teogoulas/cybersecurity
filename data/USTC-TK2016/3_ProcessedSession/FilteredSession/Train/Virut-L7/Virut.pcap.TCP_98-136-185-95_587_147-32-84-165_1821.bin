@@ -1,0 +1,65 @@
+220 smtp220.mail.gq1.yahoo.com ESMTP
+EHLO marlowerangellapb
+EHLO marlowerangellapb
+250-smtp220.mail.gq1.yahoo.com
+250-AUTH LOGIN PLAIN XYMCOOKIE
+250-PIPELINING
+250 8BITMIME
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+bWFybG93ZXJhbmdlbGxhcGI=
+bWFybG93ZXJhbmdlbGxhcGI=
+334 UGFzc3dvcmQ6
+dmIzNjVwOXF0bg==
+dmIzNjVwOXF0bg==
+235 OK, go ahead
+MAIL FROM: <marlowerangellapb@yahoo.com>
+MAIL FROM: <marlowerangellapb@yahoo.com>
+250 OK , completed
+RCPT TO: <philipsleyon@yahoo.com>
+RCPT TO: <philipsleyon@yahoo.com>
+250 OK , completed
+RCPT TO: <viktorasa2003@yahoo.com>
+RCPT TO: <viktorasa2003@yahoo.com>
+250 OK , completed
+DATA
+DATA
+354 Start Mail. End with CRLF.CRLF
+Message-ID: <2094582158$1528468356$37136250@marlowerangellapb>
+From: "Opal scalise" <marlowerangellapb@yahoo.com>
+To: <philipsleyon@yahoo.com>
+Subject: Sav eAVis itToTh eDoctor UsingTh isOnline Dru g st ore
+Date: Mon, 15 Aug 2011 19:17:36 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+kkDGHcfPQPkkDGHcfPQPUKNZwp Mart y http://zyewcqsygbs1l.isCool.net?rawedikis.gyvubykuvec wDshivwvOSUNKBiMessage-ID: <2094582158$1528468356$37136250@marlowerangellapb>
+From: "Opal scalise" <marlowerangellapb@yahoo.com>
+To: <philipsleyon@yahoo.com>
+Subject: Sav eAVis itToTh eDoctor UsingTh isOnline Dru g st ore
+Date: Mon, 15 Aug 2011 19:17:36 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+kkDGHcfPQPkkDGHcfPQPUKNZwp Mart y http://zyewcqsygbs1l.isCool.net?rawedikis.gyvubykuvec wDshivwvOSUNKBi
+.
+
+.
+554 Transaction failed : Cannot send message due to possible abuse; please visit http://postmaster.yahoo.com/abuse_smtp.html for more information

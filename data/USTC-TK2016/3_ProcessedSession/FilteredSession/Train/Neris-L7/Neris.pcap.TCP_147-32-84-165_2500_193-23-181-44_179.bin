@@ -1,0 +1,6 @@
+GET / HTTP/1.0
+Host: 193.23.181.44:179
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.2.15 Version/10.00
+

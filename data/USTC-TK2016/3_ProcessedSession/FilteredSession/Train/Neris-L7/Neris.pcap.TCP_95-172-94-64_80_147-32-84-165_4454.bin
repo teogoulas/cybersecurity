@@ -1,0 +1,19 @@
+GET /pixel;r=2129528426;fpan=1;fpa=P0-766865545-1313060157528;ns=0;url=http%3A%2F%2Fgamevid.com%2Fvideo%2F57;ref=;ce=1;je=1;sr=1280x722x32;enc=n;ogl=;dst=1;et=1313060157528;tzo=-180;a=p-6cp0NSw2i2sSA;labels=Entertainment%2CGaming%2CPhoto%2FVideo HTTP/1.1
+Accept: */*
+Referer: http://gamevid.com/video/57
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: pixel.quantserve.com
+Connection: Keep-Alive
+
+HTTP/1.1 204 No Content
+Connection: close
+Set-Cookie: mc=4e43b54c-78bda-7d917-b5c27; expires=Thu, 11-Aug-2016 10:56:12 GMT; path=/; domain=.quantserve.com
+P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAo PSDo OUR SAMa IND COM NAV"
+Cache-Control: private, no-cache, no-store, proxy-revalidate
+Pragma: no-cache
+Expires: Fri, 04 Aug 1978 12:00:00 GMT
+Date: Thu, 11 Aug 2011 10:56:12 GMT
+Server: QS
+

@@ -1,0 +1,19 @@
+GET /view/js/?strat=107011&cr=103157&supply=99&random=1313053603&rfr=http%3A%2F%2Fpremiere%2Ecom%2F&rfid=291055&ymct=http%3A%2F%2Fad%2Eyieldmanager%2Ecom%2Fclk%3F3%2CeAGdTcsOgjAQ%2ECGU1gVbbDwsAoqhPiJG4ShBFESJYlC%2DXiLqBziH2cns7A4FQXgcGUTXwIBIM4ALCnTHKdvre64QIUSPAWOcgw4KA7RxbhcTNG9nPcM3JIvcqpUNL7GJtGj2S3SsMd94Sevc8uDRKrNvrfgn988wk%2Drx7XERP%2E2dxXp7t2zz99GSRKbJU%2DbTk7eRdZhmpfSdkxzRQ1Bn1POdNKidLPSRzHy3mv0Ocagoh7IsBqpaXOP8GF%2EjbnTJ1ReubFYq%2C HTTP/1.1
+Accept: */*
+Referer: http://ad.yieldmanager.com/iframe3?73AEAOEpHABsn5kAAAAAAM7cIwAAAAAAAAAQAAEAAAAAAAkAAQAFDG8WLgAAAAAAsmYxAAAAAAB6DS8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgwxEAAAAAAAIAAwAAAAAAAAAAAAAAAAAAAENMFg6APwAAAAAAAAAAAADFKSXCij8AAAAAAAAAAACAeU10TJY.AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVmXMzF4CMCrJFxCcEGp-hakHU285yuNECEBCdAAAAAA==,,http%3A%2F%2Fpremiere.com%2F,B%3D10%26Z%3D120x600%26_salt%3D1406420192%26r%3D0%26s%3D1845729,342822be-c3f9-11e0-ac95-1cc1de045204
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: tags.mathtag.com
+Connection: Keep-Alive
+Cookie: uuid=4e43959c-840e-4f9c-80bc-a436ea1cba50; ts=1313052060
+
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2011 09:06:59 GMT
+Server: MMBD/3.5.13.2
+Content-Type: application/x-javascript
+Content-Length: 1577
+x-mm-host: pao-bidder-x2
+Connection: keep-alive
+
+document.write("<SCRIPT language='JavaScript1.1' SRC=\"http://ad.doubleclick.net/adj/N6010.133090.MEDIAMATH/B4632508.4;sz=120x600;click1=http://pixel.mathtag.com/click/img?mt_aid=73006623484174515&mt_id=103157&mt_adid=76&mt_uuid=4e43959c-840e-4f9c-80bc-a436ea1cba50&redirect=;ord=73006623484174515?\"><\/SCRIPT><NOSCRIPT><A HREF=\"http://pixel.mathtag.com/click/img?mt_aid=73006623484174515&mt_id=103157&mt_adid=76&mt_uuid=4e43959c-840e-4f9c-80bc-a436ea1cba50&redirect=http://ad.doubleclick.net/jump/N6010.133090.MEDIAMATH/B4632508.4;sz=120x600;ord=73006623484174515?\" target=\"_blank\"><IMG SRC=\"http://ad.doubleclick.net/ad/N6010.133090.MEDIAMATH/B4632508.4;sz=120x600;ord=73006623484174515?\" BORDER=0 WIDTH=120 HEIGHT=600 ALT=\"Click Here\"><\/A><\/NOSCRIPT><script language=\"JavaScript\">var el = document.createElement('img');el.src = 'http://action.mathtag.com/mm/rtb/LOYD/1006A0_RTBXX/imp?ci=&li=&pe=&pt=&pi=&sc=&ct=&vi=&px=&su=';<\/script>\r\n<script language=\"JavaScript\">\r\nvar theSupply = \"\";\r\nvar supplySource = theSupply.toLowercase();\r\nif( (supplySource == \"adm\") || (supplySource == \"pub\") || (supplySource == \"opx\") || (supplySource == \"ecn\") || (supplySource == \"rmx\") || (supplySource == \"rmp\") || (supplySource == \"ruc\") || (supplySource == \"ctw\") || (supplySource == \"cas\") )\r\n{\r\n\tdocument.write(\"<div width='1' height='1' style='visibility:hidden; overflow:hidden'><img style='margin-left:-10px; margin-top:-10px' src='http://pixel.mathtag.com/event/img?autosync' height='1' width='1'><\/div>\");\r\n}\r\n<\/script>");

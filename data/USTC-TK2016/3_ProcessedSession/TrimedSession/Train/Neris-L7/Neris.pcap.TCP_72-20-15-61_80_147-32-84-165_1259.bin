@@ -1,0 +1,24 @@
+GET / HTTP/1.0
+Host: 72.20.15.61
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; MSN 2.5; Windows 98)
+
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2011 09:18:25 GMT
+Server: Apache/1.3.41 (Unix) PHP/5.3.6 with Suhosin-Patch
+Connection: close
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+ <HEAD>
+  <TITLE>Index of /</TITLE>
+ </HEAD>
+ <BODY>
+<H1>Index of /</H1>
+<PRE><IMG SRC="/icons/blank.gif" ALT="     "> <A HREF="?N=D">Name</A>                    <A HREF="?M=A">Last modified</A>       <A HREF="?S=A">Size</A>  <A HREF="?D=A">Description</A>
+<HR>
+<IMG SRC="/icons/back.gif" ALT="[DIR]"> <A HREF="/">Parent Directory</A>        22-Jun-2011 11:48      -  
+</PRE><HR>
+<ADDRESS>Apache/1.3.41 Server at de

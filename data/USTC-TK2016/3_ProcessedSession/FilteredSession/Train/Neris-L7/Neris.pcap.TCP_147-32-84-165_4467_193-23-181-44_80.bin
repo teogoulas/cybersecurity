@@ -1,0 +1,16 @@
+GET / HTTP/1.0
+Host: 193.23.181.44
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3 (.NET CLR 3.5.30729)
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 11 Aug 2011 11:20:18 GMT
+Content-Type: text/html
+Content-Length: 8
+Last-Modified: Thu, 18 Mar 2010 11:48:18 GMT
+Connection: close
+Accept-Ranges: bytes
+
+BLOCKED

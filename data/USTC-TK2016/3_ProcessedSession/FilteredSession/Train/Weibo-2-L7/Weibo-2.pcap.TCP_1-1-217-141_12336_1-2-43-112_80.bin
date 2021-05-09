@@ -1,0 +1,9 @@
+GET /bmiddle/tCwGhXUSlUHJkTpWZfcRR8Q0t6e07peg.jpg HTTP/1.1
+Host: ww4.sinaimg.cn
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/537.13 (KHTML, like Gecko) Chrome/24.0.1290.1 Safari/537.13
+Referer: http://www.weibo.com/u/7679781206/home?wvr=5
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+

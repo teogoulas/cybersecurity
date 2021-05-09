@@ -1,0 +1,54 @@
+Get /modules/mod_aratipas/cr_mss3.exe HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+Host: f3x.pl
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 403 Forbidden
+Date: Wed, 13 May 2015 08:02:46 GMT
+Server: iBOSS
+Last-Modified: Wed, 09 Apr 2014 20:48:17 GMT
+Accept-Ranges: bytes
+Content-Length: 2356
+Keep-Alive: timeout=10, max=120
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<META http-equiv=content-type content="text/html; charset=ISO-8859-2">
+<title>DOSTĘP ZABRONIONY 403</title>
+<style type="text/css">
+	* { font-family: verdana; font-size: 10pt; COLOR: gray; }
+	b { font-weight: bold; }
+	table { height: 50%; border: 1px solid gray;}
+	td { text-align: center;}
+
+	</style>
+</head>
+<body>
+<center>
+<br><br>
+	<table  width="650" border="0" align="center" cellpadding="0" cellspacing="0">
+	<tr height="50px"><td style="font-size: 22px; font-weight: bold;" height="50px">DOSTĘP ZABRONIONY 403</td></tr>
+                <tr ><td style="font-size: 12px"><b></b>Wystąpił wewnętrzny błąd zapytania:<br><b><!--#echo var="REQUEST_URI" --></b><br></td></tr>
+                <tr height="30px"><td height="30px"><b>***** ***** *****</b></td></tr>
+<tr ><td>Możliwe przyczyny wystąpienia błędu:
+<br><br>1. Brak pliku startowego dla strony www: index.html, index.htm lub index.php itp.
+<br>2. Katalog domowy public_html nie istnieje lub ma złe prawa własności.
+<br>3. Serwer zrozumiał zapytanie lecz konfiguracja bezpieczeństwa zablokowała dostęp.
+<br></td></tr>
+	<tr height="30px"><td height="30px"><b>***** ***** *****</b></td></tr>
+	<tr><td>Strona utrzymywana jest na serwerach: <br><a href="http://nets.pl/" alt='Serwer WWW, Serwery wirtualne, Serwery www, Rejestracja Domen, tanie domeny' title='Serwer WWW, Serwery wirtualne, Serwery www, Rejestracja Domen, tanie domeny.' >NETS.PL</a> - <a href="http://nets.pl/" alt='Serwer WWW, Serwery wirtualne, Serwery www, Rejestracja Domen, tanie domeny' title='Serwer WWW, Serwery wirtualne, Serwery www, Rejestracja Domen, tanie domeny.' >SERWERY WWW</a></td></tr>
+<tr height="140px"><td height="150px"><a href="http://nets.pl" alt='Serwer WWW, Serwery wirtualne, Serwery WWW, Rejestracja Domen, tanie domeny' title='Serwer WWW, Serwery wirtualne, Serwery WWW, Rejestracja Domen, tanie domeny.' ><img style="border: 1px solid gray;" src="http://www.nets.pl/images/eboss5.png" alt='Serwer WWW, Serwery wirtualne, Serwery WWW, Rejestracja Domen, tanie domeny' title='Serwer WWW, Serwery wirtualne, Serwery WWW, Rejestracja Domen, tanie domeny.'></a></td></tr>	
+<tr height="30px"><td height="30px"><b>***** ***** *****</b></td></tr>
+  </table>
+<br><br>
+</center>
+</body>
+
+</html>

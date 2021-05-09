@@ -1,0 +1,35 @@
+GET /afr.php?zoneid=812&cb=1313052579 HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://ad.yieldmanager.com/iframe3?41gtBGVRHQA3JY0AAAAAAD2VIwAAAAAAAAAAAAQAAAAAAAUABwAFC.o.KwAAAAAAtK4uAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACMUhEAAAAAAAIAAgAAAAAA..-.PiYc2T7..78-JhzZPgAAAAAAAAAA..-ficrsBD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbMEjlEHyMCp05p9aMgb6Bu4WFqBCmiPYATWsyAAAAAA==,,http%3A%2F%2Fads.creafi-online-media.com%2F,B%3D10%26Z%3D468x60%26_salt%3D1585316950%26r%3D0%26s%3D1921381,cda795c6-c3f6-11e0-9710-1cc1de6da862
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: ads.creafi.com
+Connection: Keep-Alive
+Cookie: OAID=0cd2d7f27736659fcc3d726c742bac2b
+
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2011 08:49:50 GMT
+Server: Apache
+X-Powered-By: PHP/5.2.11
+Pragma: no-cache
+Cache-Control: private, max-age=0, no-cache
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+P3P: CP="CUR ADM OUR NOR STA NID"
+Set-Cookie: OAID=0cd2d7f27736659fcc3d726c742bac2b; expires=Fri, 10-Aug-2012 08:49:50 GMT; path=/
+Content-Length: 382
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+<head>
+<title>Advertisement</title>
+<style type='text/css'>
+body {margin:0; height:100%; background-color:transparent; width:100%; text-align:center;}
+</style>
+</head>
+<body>
+
+</body>
+</html>

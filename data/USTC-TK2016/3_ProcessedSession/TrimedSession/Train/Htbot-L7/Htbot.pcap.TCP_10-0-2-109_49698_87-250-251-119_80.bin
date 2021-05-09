@@ -1,0 +1,19 @@
+GET /metrika/watch.js HTTP/1.1
+Host: mc.yandex.ru
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+Referer: http://olx.ua/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: yandexuid=2669789841421620714; yabs-sid=2438841361425400574
+If-Modified-Since: Wed, 25 Feb 2015 12:00:45 GMT
+Connection: keep-alive
+
+HTTP/1.1 304 Not Modified
+Date: Wed, 04 Mar 2015 16:26:24 GMT
+Server: Phantom/0.0.0
+P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+Expires: Wed, 04 Mar 2015 17:26:24 GMT
+Content-Length: 0
+
+GET http://mc.yandex.ru/watch/15553948?wmode=5&callback=_ymjsp428368861&page-url=http%3A%2F%2Folx.ua%2F&browser-info=j%3A1%3As%3A1366x768x24%3Ask%3A1.25%3Af%3A16.0.0%

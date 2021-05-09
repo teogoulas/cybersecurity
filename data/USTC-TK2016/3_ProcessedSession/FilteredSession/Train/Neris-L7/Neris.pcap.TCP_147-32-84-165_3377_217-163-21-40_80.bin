@@ -1,0 +1,30 @@
+GET /iframe3?41gtBFtRHQAAJY0AAAAAAD2VIwAAAAAAAgAAAAEAAAAAAP8AAAAFDfo.KwAAAAAAtK4uAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACMUhEAAAAAAAIAAgAAAAAAAADAmyiA2T4AAMCbKIDZPgAAAAAAAAAAAAAg1yFABT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD9-DiVApeMCpLLVgE17Dybn2B9qW3Wr.gcrIVUAAAAAA==,,http%3A%2F%2Fads.creafi-online-media.com%2F,B%3D10%26Z%3D120x600%26_salt%3D89943010%26r%3D0%26s%3D1921371,dd23e800-c406-11e0-9730-0b0accb60e33 HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://ads.creafi-online-media.com/st?ad_type=iframe&ad_size=120x600&section=1921371
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Cookie: bh="b!!!!'!#dA)!!!!#=0+<R!#eOU!!!!$=0+<i!$(7l!!!!$=0+@$!$(7n!!!!#=0+7j"; ih="b!!!!(!2(<D!!!!#=0+@$!2(<d!!!!#=0+<R!2aWh!!!!#=0+7j!3HCj!!!!$=0+7)!3HD?!!!!#=0+<i"; vuday1=o(iq>o(iq>!/^/!-__hL; pv1="b!!!!$!$6YB#A,e<!%-st!3HD?!'(rB!!!!$!?5%!'2^c5![`s1!'X>^!(?vT~~~~~~=0+<i~M.jTN!$*GB#A,e<!%-tH!2(<D!%hep!!!!$!?5%!'2^c5![`s1!'X>3!'xIa~~~~~~=0+@$~M.jTN"; BX=djti46p747btj&b=4&s=cv&t=222; uid=uid=30cfff36-c405-11e0-af24-bb8590063524&_hmacv=1&_salt=1212542350&_keyid=k1&_hmac=f24fcac88bcb8abd9552de5b0964e3d5315274ca; liday1=bQP=d8CObF!/^/!@BU%_
+Connection: Keep-Alive
+Host: ad.yieldmanager.com
+
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2011 10:44:34 GMT
+Server: YTS/1.18.4
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+X-RightMedia-Hostname: raptor0088.rm.ch1
+Set-Cookie: ih="b!!!!)!2(<+!!!!#=0+@P!2(<D!!!!#=0+@$!2(<d!!!!#=0+<R!2aWh!!!!#=0+7j!3HCj!!!!$=0+7)!3HD?!!!!#=0+<i"; path=/; expires=Sat, 10-Aug-2013 10:44:34 GMT
+Set-Cookie: bh="b!!!!(!#dA)!!!!#=0+<R!#eOU!!!!$=0+<i!$(7i!!!!#=0+@P!$(7l!!!!$=0+@$!$(7n!!!!#=0+7j"; path=/; expires=Sat, 10-Aug-2013 10:44:34 GMT
+Set-Cookie: vuday1=o(iq>o(iq>!/^/!-__hL; path=/; expires=Fri, 12-Aug-2011 00:00:00 GMT
+Set-Cookie: pv1="b!!!!$!$6YB#A,e<!%-st!3HD?!'(rB!!!!$!?5%!'2^c5![`s1!'X>^!(?vT~~~~~~=0+<i~M.jTN!$*GB#A,e<!%-tC!2(<+!%hep!!!!$!?5%!'2^c5!Zd<(!'X>3!'xIa~~~~~~=0+@P~M.jTN"; path=/; expires=Sat, 10-Aug-2013 10:44:34 GMT
+Set-Cookie: BX=djti46p747btj&b=4&s=cv&t=222; path=/; expires=Tue, 19-Jan-2038 03:14:07 GMT
+Cache-Control: no-store
+Last-Modified: Thu, 11 Aug 2011 10:44:34 GMT
+Pragma: no-cache
+Content-Length: 839
+Content-Type: text/html
+Age: 0
+Connection: close
+
+<html><body style="margin-left: 0%; margin-right: 0%; margin-top: 0%; margin-bottom: 0%"><script type="text/javascript">if (window.rm_crex_data) {rm_crex_data.push(9250048);}
+</script><iframe id='a864547b' name='a864547b' src='http://ads.creafi.com/afr.php?zoneid=767&amp;cb=1313059474' frameborder='0' scrolling='no' width='120' height='600'><a href='http://ads.creafi.com/ck.php?n=a087127c&amp;cb=1313059474' target='_blank'><img src='http://ads.creafi.com/avw.php?zoneid=767&amp;cb=1313059474&amp;n=a087127c' border='0' alt='' /></a></iframe><iframe width="0" height="0" frameborder="0" src="http://manager.creafi.com/web/adtracker/load.php?d=418022|http%3A%2F%2Fads%2Ecreafi%2Donline%2Dmedia%2Ecom%2F|9250048|RM - HouseAds - 0.35 - 120x600 [CTA]|2331965|3059380|2834426"></iframe><script type="text/Javascript"></script></body></html>

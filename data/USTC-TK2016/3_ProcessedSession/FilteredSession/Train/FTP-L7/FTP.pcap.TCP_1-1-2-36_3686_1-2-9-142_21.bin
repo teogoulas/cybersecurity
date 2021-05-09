@@ -1,0 +1,5 @@
+226 Transfer complete.
+EPSV
+229 Extended Passive Mode OK (|||51825|)
+STOR README.txt
+125 Data connection already open; Transfer starting.

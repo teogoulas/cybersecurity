@@ -1,0 +1,56 @@
+Get /wp-content/themes/lettera7/cr_mss3.exe HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+Host: www.bav-con.org
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.0 501 Method Not Implemented
+Date: Wed, 06 May 2015 16:08:21 GMT
+Server: Apache/2.2.29 (FreeBSD) DAV/2 mod_ssl/2.2.29 OpenSSL/1.0.2a mod_hcgi/0.9.5
+Vary: accept-language,accept-charset
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+Content-Language: en
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Cannot process request!</title>
+<link rev="made" href="mailto:webmaster@bav-con.org" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Cannot process request!</h1>
+<p>
+
+
+    The server does not support the action requested by the browser.
+   
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:webmaster@bav-con.org">webmaster</a>.
+
+</p>
+
+<h2>Error 501</h2>
+<address>
+  <a href="/">www.bav-con.org</a><br />
+  
+  <span>Wed May  6 18:08:21 2015<br />
+  Apache/2.2.29 (FreeBSD) DAV/2 mod_ssl/2.2.29 OpenSSL/1.0.2a mod_hcgi/0.9.5</span>
+</address>
+</body>
+</html>
+

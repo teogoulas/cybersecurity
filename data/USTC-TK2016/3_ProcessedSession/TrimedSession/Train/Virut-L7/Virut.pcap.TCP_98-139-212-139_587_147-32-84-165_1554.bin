@@ -1,0 +1,32 @@
+220 smtp108.mail.bf1.yahoo.com ESMTP
+EHLO doyleelaodr
+EHLO doyleelaodr
+250-smtp108.mail.bf1.yahoo.com
+250-AUTH LOGIN PLAIN XYMCOOKIE
+250-PIPELINING
+250 8BITMIME
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+ZG95bGVlbGFvZHI=
+ZG95bGVlbGFvZHI=
+334 UGFzc3dvcmQ6
+Zjh4NHZxbWg=
+Zjh4NHZxbWg=
+235 OK, go ahead
+MAIL FROM: <doyleelaodr@yahoo.com>
+MAIL FROM: <doyleelaodr@yahoo.com>
+250 OK , completed
+RCPT TO: <jacob.klein@yahoo.de>
+RCPT TO: <jacob.klein@yahoo.de>
+250 OK , completed
+RCPT TO: <avigon2002@yahoo.com.mx>
+RCPT TO: <avigon2002@yahoo.com.mx>
+250 OK , completed
+DATA
+DATA
+354 Start Mail. End with CRLF.CRLF
+Message-ID: <1932383753$408777298$413763474@doyleelaodr>
+From: "Haleigh Uidel" <doyleelaodr@yahoo.com>
+To: <jacob.klein@yahoo.de>
+Subject: FW:Sto pWaitin

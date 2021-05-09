@@ -1,0 +1,33 @@
+GET /rubcm.ashx HTTP/1.1
+Accept: */*
+Referer: http://uac.advertising.com/wrapper/aceUACping.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cmap.rub.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=pp190013134323590042; ASCID=pp190013134323590042; F1=BcyYJ5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA
+
+GET /rubcm.ashx HTTP/1.1
+Accept: */*
+Referer: http://uac.advertising.com/wrapper/aceUACping.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cmap.rub.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=pp190013134323590042; ASCID=pp190013134323590042; F1=BcyYJ5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA
+
+HTTP/1.1 302 Found
+Connection: close
+Date: Mon, 15 Aug 2011 18:19:25 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+P3P: CP=NOI DSP COR LAW CURa DEVa TAIa PSAa PSDa OUR BUS UNI COM NAV
+Pragma: no-cache
+Location: http://pixel.rubiconproject.com/tap.php?v=7249&nid=2146&put=bwc34opqcabfauixpk1askn4iiqw7fky&expires=30
+Cache-Control: private, no-cache, max-age=0
+Expires: Mon, 15 Aug 2011 18:19:25 GMT
+Content-Length: 0
+

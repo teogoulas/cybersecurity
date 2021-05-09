@@ -1,0 +1,36 @@
+GET /?offerId=newmail-testc-en-us HTTP/1.1
+Host: mail.aol.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; ch; rv:1.8) Gecko/20051111 Firefox/1.5
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Charset: utf-8;q=0.7,*;q=0.7
+Accept-Encoding: gzip, identity, *;q=0
+Connection: Close
+
+GET /?offerId=newmail-testc-en-us HTTP/1.1
+Host: mail.aol.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; ch; rv:1.8) Gecko/20051111 Firefox/1.5
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Charset: utf-8;q=0.7,*;q=0.7
+Accept-Encoding: gzip, identity, *;q=0
+Connection: Close
+
+HTTP/1.1 302 Found
+Date: Wed, 10 Aug 2011 11:40:18 GMT
+Server: Microsoft-IIS/7.0
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Location: http://my.screenname.aol.com/_cqr/login/login.psp?sitedomain=sns.webmail.aol.com&lang=en&locale=us&authLev=0&siteState=ver%3a4%7crt%3aSTANDARD%7cat%3aSNS%7cld%3amail.aol.com%7cuv%3aAOL%7clc%3aen-us%7cmt%3aANGELIA%7csnt%3aScreenName%7csid%3aa7cb549a-acbb-4ea6-9300-a0077f1408c4&offerId=newmail-testc-en-us&seamless=novl
+P3P: CP="CURo TAIo IVAo IVDo ONL UNI COM NAV INT DEM STA OUR"
+X-Powered-By: ASP.NET
+Content-Length: 459
+Set-Cookie: L7Id=10439; domain=.mail.aol.com; path=/
+Set-Cookie: L7Id=10439; domain=.mail.aol.com; path=/
+Set-Cookie: Context=ver:3&sid:a7cb549a-acbb-4ea6-9300-a0077f1408c4&rt:STANDARD&ckd:.mail.aol.com&ckp:%2f&ha:sKfeDNOUqAVmll%2fRcHlhiKHemZs%3d&; domain=.mail.aol.com; path=/
+Keep-Alive: timeout=120
+Connection: Keep-Alive
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="http://my.screenname.aol.com/_cqr/login/login.psp?sitedomain=sns.webmail.aol.com&amp;lang=en&amp;locale=us&amp;authLev=0&amp;siteState=ver%3a4%7crt%3aSTANDARD%7cat%3aSNS%7cld%3amail.aol.com%7cuv%3aAOL%7clc%3aen-us%7cmt%3aANGELIA%7csnt%3aScreenName%7csid%3aa7cb549a-acbb-4ea6-9300-a0077f1408c4&amp;offerId=newmail-testc-en-us&amp;seamless=novl">here</a>.</h2>
+</body></html>

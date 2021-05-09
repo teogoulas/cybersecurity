@@ -1,0 +1,12 @@
+GET / HTTP/1.0
+Host: 174.128.246.102
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/532.9 (KHTML, like Gecko) Chrome/5.0.307.9 Safari/532.9
+
+GET / HTTP/1.0
+Host: 174.128.246.102
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+

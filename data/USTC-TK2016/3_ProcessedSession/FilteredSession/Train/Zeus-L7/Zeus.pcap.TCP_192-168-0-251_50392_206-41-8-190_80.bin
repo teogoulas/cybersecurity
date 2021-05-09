@@ -1,0 +1,67 @@
+GET /plugin/apps/4995/manifest/1_18_149_149/ie8/manifest.xml?ver=0 HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Host: cotssl.crossrider.com
+Connection: Keep-Alive
+
+GET /plugin/apps/4995/manifest/1_18_149_149/ie8/manifest.xml?ver=0 HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Host: cotssl.crossrider.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Date: Tue, 29 May 2012 09:03:30 GMT
+Server: Apache/2.2.14 (Ubuntu)
+Last-Modified: Tue, 29 May 2012 08:10:29 GMT
+ETag: "536073b-5e1-4c1285e224740"
+Accept-Ranges: bytes
+Content-Length: 1505
+Content-Type: application/xml
+Cache-Control: private, max-age=1800
+Age: 0
+Expires: Tue, 29 May 2012 09:33:30 GMT
+x-cdn: Served by WebAcceleration
+Connection: Keep-Alive
+
+<?xml version="1.0" encoding="UTF-8"?>
+<CrAppInfo>
+  <Ver>50</Ver>
+  <ShortName>Ad-Killer Pro</ShortName>
+  <Description>Ad Blocking Browser Technology.</Description>
+  <PublisherName>Alex Ortiz</PublisherName>
+  <HomePageLink>NA</HomePageLink>
+  <JSLink>https://crossrider.cotssl.net/plugin/apps/4995/js/1_18_149_149/ie8/app_code.js</JSLink>
+  <GroupID>0</GroupID>
+  <Domain></Domain>
+  <RunInIframe>false</RunInIframe>
+  <ThanksURL>NA</ThanksURL>
+  <EmailSignature>NA</EmailSignature>
+  <SettingsURL>NA</SettingsURL>
+  <CertifiedInstall>NA</CertifiedInstall>
+  <ExposeSites>NA</ExposeSites>
+  <RemoteFBApiURL>NA</RemoteFBApiURL>
+  <DisableIE>true</DisableIE>
+  <DisableFF>true</DisableFF>
+  <EnableSearchIE>false</EnableSearchIE>
+  <EnableSearchFF>false</EnableSearchFF>
+  <AddressbarIE>NA</AddressbarIE>
+  <AddressbarFF>NA</AddressbarFF>
+  <AddressbarCR>NA</AddressbarCR>
+  <NewTabURL>NA</NewTabURL>
+  <NewTabEmbed>NA</NewTabEmbed>
+  <OpenSearchURL>NA</OpenSearchURL>
+  <BackgroundJS>https://crossrider.cotssl.net/plugin/apps/4995/bg/1_18_149_149/ie8/bg_code.js</BackgroundJS>
+  <BackgroundVer>6</BackgroundVer>
+  <Manifest>NA</Manifest>
+  <ChangePrevious>false</ChangePrevious>
+  <UpdateInterval>360</UpdateInterval>
+  <SetNewTabFF>false</SetNewTabFF>
+  <SetNewTabIE>false</SetNewTabIE>
+  <PluginsUrl>http://app-static.crossrider.com/plugin/apps/4995/plugins/1_18_149_149/ie8/plugins.json</PluginsUrl>
+  <PluginsVer>1</PluginsVer>
+  <PublisherId>5440</PublisherId>
+  <FbAppId>NA</FbAppId>
+</CrAppInfo>

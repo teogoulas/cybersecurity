@@ -1,0 +1,19 @@
+GET /html/admin/A243t324f234f.exe HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Host: glassandlock.co.uk
+Connection: Keep-Alive
+Cookie: X-Mapping-kjicghkc=9EE581364B4168E55AD95955DBE039A8
+
+GET /html/admin/A243t324f234f.exe HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Host: glassandlock.co.uk
+Connection: Keep-Alive
+Cookie: X-Mapping-kjicghkc=9EE581364B4168E55AD95955DBE039A8
+
+HTTP/1.1 200 OK
+Server: Zeus/4.3
+Date: Tue, 29 M

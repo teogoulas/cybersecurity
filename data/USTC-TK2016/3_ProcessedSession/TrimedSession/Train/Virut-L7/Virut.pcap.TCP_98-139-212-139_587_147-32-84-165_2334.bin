@@ -1,0 +1,30 @@
+220 smtp216.mail.bf1.yahoo.com ESMTP
+EHLO stefabetteannobf
+EHLO stefabetteannobf
+250-smtp216.mail.bf1.yahoo.com
+250-AUTH LOGIN PLAIN XYMCOOKIE
+250-PIPELINING
+250 8BITMIME
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+c3RlZmFiZXR0ZWFubm9iZg==
+c3RlZmFiZXR0ZWFubm9iZg==
+334 UGFzc3dvcmQ6
+czB5d3Y1dzAzZnA=
+czB5d3Y1dzAzZnA=
+235 OK, go ahead
+MAIL FROM: <stefabetteannobf@yahoo.com>
+MAIL FROM: <stefabetteannobf@yahoo.com>
+250 OK , completed
+RCPT TO: <ty74oldsman@yahoo.com>
+RCPT TO: <ty74oldsman@yahoo.com>
+250 OK , completed
+RCPT TO: <northerner222@yahoo.com>
+RCPT TO: <northerner222@yahoo.com>
+250 OK , completed
+DATA
+DATA
+354 Start Mail. End with CRLF.CRLF
+Message-ID: <656017521$310100115$1995121402@stefabetteannobf>
+From: "Danny Stear" <stefabetteannobf@yahoo.com

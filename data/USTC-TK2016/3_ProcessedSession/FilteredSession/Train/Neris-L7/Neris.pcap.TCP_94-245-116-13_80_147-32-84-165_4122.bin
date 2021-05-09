@@ -1,0 +1,40 @@
+GET /default.aspx HTTP/1.1
+Host: mail.live.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Charset: utf-8;q=0.7,*;q=0.7
+Accept-Encoding: gzip, identity, *;q=0
+Connection: Close
+Referer: https://login.live.com/ppsecure/post.srf?wa=wsignin1.0&rpsnv=11&ct=1312980526&rver=6.1.6206.0&wp=MBI&wreply=http:%2F%2Fmail.live.com%2Fdefault.aspx&lc=1049&mkt=ru-ru&cbcxt=mai&snsc=1&id=62355&bk=1312980527
+Cookie: PPLState=1; RPSTAuth=EwDoARAnAAAUWkziSC7RbDJKS1VkhugDegv7L0eAAOtw75kX5hKgEQSjulVFWi3Gb6qKZSZNZRJxip2wWHRfrR1hwKR0bArru4gAaqdeNg+NX2ZWh779WntiiUD4u6gz++3G0GcwNwUH7/B9rAOzL5khr4L9tZWKrRt5LXihL1VK+EUhdgoe3diAilHnVfPcIC2dZfM7LBpuHYvfduuaA2YAAAimM75F/SXfuDgBPk+MrTEg5hvPUqf7dR6jom9jH+nl04c80C4ax+SEuZ9MkkBkaCk2Dh4tjVhE/o/fo4xeGpyiQqedmAqWw3MerjEsNTLyHi/wdKD2HUpnN0pdOQj4rpYWJOdL7oL7s7BcgJu0jaALzZfD3QJYRGLVEqvftKbInLMBNv7fgxqdQeEAnaJA0yYCzqUV+CE30YDGET /default.aspx HTTP/1.1
+Host: mail.live.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Charset: utf-8;q=0.7,*;q=0.7
+Accept-Encoding: gzip, identity, *;q=0
+Connection: Close
+Referer: https://login.live.com/ppsecure/post.srf?wa=wsignin1.0&rpsnv=11&ct=1312980526&rver=6.1.6206.0&wp=MBI&wreply=http:%2F%2Fmail.live.com%2Fdefault.aspx&lc=1049&mkt=ru-ru&cbcxt=mai&snsc=1&id=62355&bk=1312980527
+Cookie: PPLState=1; RPSTAuth=EwDoARAnAAAUWkziSC7RbDJKS1VkhugDegv7L0eAAOtw75kX5hKgEQSjulVFWi3Gb6qKZSZNZRJxip2wWHRfrR1hwKR0bArru4gAaqdeNg+NX2ZWh779WntiiUD4u6gz++3G0GcwNwUH7/B9rAOzL5khr4L9tZWKrRt5LXihL1VK+EUhdgoe3diAilHnVfPcIC2dZfM7LBpuHYvfduuaA2YAAAimM75F/SXfuDgBPk+MrTEg5hvPUqf7dR6jom9jH+nl04c80C4ax+SEuZ9MkkBkaCk2Dh4tjVhE/o/fo4xeGpyiQqedmAqWw3MerjEsNTLyHi/wdKD2HUpnN0pdOQj4rpYWJOdL7oL7s7BcgJu0jaALzZfD3QJYRGLVEqvftKbInLMBNv7fgxqdQeEAnaJA0yYCzqUV+CE30YDylx+cLhMC7DuNOynxbGEvGlijgbSQN0c1+eHkrMB6uwM6TPHVOwYr5g0FGYcV29rFZIcPfw3fKG8t0/EniiD9c2dgXW+Pgfq4BuE5UdDIWFCEnZZ9cr7GiY7hUDkTuiCbnWQFnmpQyhPlGyVDFuAt+HzRDkWfVQvIucDDdHkde9g5JKylI01gbamXEZhpB9R4/ElV2LVGx8QsrTdg/RxtTQkoVq/tr00LZgE=
+
+ylx+cLhMC7DuNOynxbGEvGlijgbSQN0c1+eHkrMB6uwM6TPHVOwYr5g0FGYcV29rFZIcPfw3fKG8t0/EniiD9c2dgXW+Pgfq4BuE5UdDIWFCEnZZ9cr7GiY7hUDkTuiCbnWQFnmpQyhPlGyVDFuAt+HzRDkWfVQvIucDDdHkde9g5JKylI01gbamXEZhpB9R4/ElV2LVGx8QsrTdg/RxtTQkoVq/tr00LZgE=
+
+HTTP/1.1 302 Found
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Expires: -1
+Location: http://bl151w.blu151.mail.live.com/default.aspx
+Server: Microsoft-IIS/7.5
+X-UA-Compatible: IE=7, IE=9, IE=10
+MSNSERVER: H: DUB104-W54 V: 16.0.1702.709 D: 2011-07-09T21:13:07
+Set-Cookie: UIC=tyckO0HDIIw2fi7Uk+rl7+XXlNev6nVTNQeed0sq49Q/hlAnO1CwfYIWozmM75cRDlWMEflt/Z1OA7x6bHb3V56zSNf1q6M59+OE/Ixbo/dAcw7DYHqXb8775qjrsIJ3; domain=.mail.live.com; path=/
+xxn: 54
+P3P: CP="BUS CUR CONo FIN IVDo ONL OUR PHY SAMo TELo"
+Date: Wed, 10 Aug 2011 12:49:20 GMT
+Content-Length: 164
+Connection: close
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="http://bl151w.blu151.mail.live.com/default.aspx">here</a>.</h2>
+</body></html>

@@ -1,0 +1,17 @@
+GET /pixel?id=110213&t=2 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Cookie: ih="b!!!!#!3EmF!!!!#=0bhv"; vuday1=!!!!#!7/9qUsPNZ; BX=27tv4ph74j5rn&b=4&s=dn&t=226; uid=uid=4614d960-c78a-11e0-9dbc-6f7b25014402&_hmacv=1&_salt=1305677968&_keyid=k1&_hmac=32ccadc80bd1a570298d8ef91048187889c5afb8; liday1=b1q+F!7/9qfzedr
+Connection: Keep-Alive
+Host: ad.yieldmanager.com
+
+GET /pixel?id=110213&t=2 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Cookie: ih="b!!!!#!3EmF!!!!#=0bhv"; vuday1=

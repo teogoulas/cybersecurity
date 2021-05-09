@@ -1,0 +1,51 @@
+GET /pixel?google_nid=admeld&google_cm&google_sc&admeld_user_id=a57c5a70-de7b-4568-b637-8cf45ec479ae&admeld_adprovider_id=832&admeld_call_type=redirect&admeld_callback=http://tag.admeld.com/match HTTP/1.1
+Accept: */*
+Referer: http://m1.mediasrv.net/www/delivery/afr.php?zoneid=1361&ad_size=160x600&section=116990
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cm.g.doubleclick.net
+Connection: Keep-Alive
+
+HTTP/1.1 302 Found
+Location: http://cm.g.doubleclick.net/pixel?google_nid=admeld&google_cm=&google_sc=&admeld_user_id=a57c5a70-de7b-4568-b637-8cf45ec479ae&admeld_adprovider_id=832&admeld_call_type=redirect&admeld_callback=http://tag.admeld.com/match&google_tc=
+Set-Cookie: test_cookie=CheckForPermission; expires=Thu, 11-Aug-2011 12:06:34 GMT; path=/; domain=.doubleclick.net
+Cache-Control: no-store, no-cache
+Pragma: no-cache
+Date: Thu, 11 Aug 2011 11:51:34 GMT
+Content-Type: text/html; charset=UTF-8
+Server: Cookie Matcher
+Content-Length: 456
+X-XSS-Protection: 1; mode=block
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="http://cm.g.doubleclick.net/pixel?google_nid=admeld&amp;google_cm=&amp;google_sc=&amp;admeld_user_id=a57c5a70-de7b-4568-b637-8cf45ec479ae&amp;admeld_adprovider_id=832&amp;admeld_call_type=redirect&amp;admeld_callback=http://tag.admeld.com/match&amp;google_tc=">here</A>.
+</BODY></HTML>
+GET /pixel?google_nid=admeld&google_cm=&google_sc=&admeld_user_id=a57c5a70-de7b-4568-b637-8cf45ec479ae&admeld_adprovider_id=832&admeld_call_type=redirect&admeld_callback=http://tag.admeld.com/match&google_tc= HTTP/1.1
+Accept: */*
+Referer: http://m1.mediasrv.net/www/delivery/afr.php?zoneid=1361&ad_size=160x600&section=116990
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cm.g.doubleclick.net
+Connection: Keep-Alive
+
+HTTP/1.1 302 Found
+Location: http://tag.admeld.com/match?admeld_user_id=a57c5a70-de7b-4568-b637-8cf45ec479ae&admeld_adprovider_id=832&admeld_call_type=redirect&google_error=0
+Cache-Control: no-store, no-cache
+Pragma: no-cache
+Date: Thu, 11 Aug 2011 11:51:34 GMT
+Content-Type: text/html; charset=UTF-8
+Server: Cookie Matcher
+Content-Length: 354
+X-XSS-Protection: 1; mode=block
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="http://tag.admeld.com/match?admeld_user_id=a57c5a70-de7b-4568-b637-8cf45ec479ae&amp;admeld_adprovider_id=832&amp;admeld_call_type=redirect&amp;google_error=0">here</A>.
+</BODY></HTML>

@@ -1,0 +1,68 @@
+220 smtp218.mail.gq1.yahoo.com ESMTP
+EHLO oreleecarlynnejkcx
+EHLO oreleecarlynnejkcx
+250-smtp218.mail.gq1.yahoo.com
+250-AUTH LOGIN PLAIN XYMCOOKIE
+250-PIPELINING
+250 8BITMIME
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+b3JlbGVlY2FybHlubmVqa2N4
+b3JlbGVlY2FybHlubmVqa2N4
+334 UGFzc3dvcmQ6
+dGpqczRwOWgxcW4=
+dGpqczRwOWgxcW4=
+235 OK, go ahead
+MAIL FROM: <oreleecarlynnejkcx@yahoo.com>
+MAIL FROM: <oreleecarlynnejkcx@yahoo.com>
+250 OK , completed
+RCPT TO: <batforevert@yahoo.com>
+RCPT TO: <batforevert@yahoo.com>
+250 OK , completed
+RCPT TO: <max5747@yahoo.com>
+RCPT TO: <max5747@yahoo.com>
+250 OK , completed
+RCPT TO: <andrew_rogowski@yahoo.com>
+RCPT TO: <andrew_rogowski@yahoo.com>
+250 OK , completed
+DATA
+DATA
+354 Start Mail. End with CRLF.CRLF
+Message-ID: <1367759943$716855243$756739702@oreleecarlynnejkcx>
+From: "Jacquelyn Amudel" <oreleecarlynnejkcx@yahoo.com>
+To: <batforevert@yahoo.com>
+Subject: FW:LevitraSIsSTheSBestSWaySToSGetSYourSFullSErectionsSBack
+Date: Mon, 15 Aug 2011 19:54:57 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+Thorn BKRtWFzNXDNRDPuUR http://NhabNhagirl.tux.nu?x0atpjozouiteffk BaiMessage-ID: <1367759943$716855243$756739702@oreleecarlynnejkcx>
+From: "Jacquelyn Amudel" <oreleecarlynnejkcx@yahoo.com>
+To: <batforevert@yahoo.com>
+Subject: FW:LevitraSIsSTheSBestSWaySToSGetSYourSFullSErectionsSBack
+Date: Mon, 15 Aug 2011 19:54:57 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+Thorn BKRtWFzNXDNRDPuUR http://NhabNhagirl.tux.nu?x0atpjozouiteffk Bai
+.
+
+.
+554 Transaction failed : Cannot send message due to possible abuse; please visit http://postmaster.yahoo.com/abuse_smtp.html for more information

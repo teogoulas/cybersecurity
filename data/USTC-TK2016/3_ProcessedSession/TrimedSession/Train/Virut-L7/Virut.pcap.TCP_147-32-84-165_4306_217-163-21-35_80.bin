@@ -1,0 +1,11 @@
+GET /st?anmember=541&anprice=&ad_type=pop&ad_size=0x0&section=2056437&banned_pop_types=29&pop_times=1&pop_frequency=86400 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ad.yieldmanager.com
+Connection: Keep-Alive
+Cookie: ih="b!!!!'!0vq+!!!!#=0a@K!1aY=!!!!#=0a@L!3J*R!!!!#=0a@K!3h22!!!!#=0a@L"; vuday1=!!!!'!7/9q:G-?_; BX=8u7ll2174irh1&b=4&s=oa&t=226; uid=uid=a2a74db6-c771-11e0-9430-9f6df386650a&_hmacv=1&_salt=3227003844&_keyid=k1&_hmac=f8f0f3bad620ac38dbba47e8fd353a93acd03c4f; liday1='W2E]b1q+F!7/9q]EM]=
+
+GET /st?anmember=541&anprice=&ad_type=pop&ad_size=0x0&section=205

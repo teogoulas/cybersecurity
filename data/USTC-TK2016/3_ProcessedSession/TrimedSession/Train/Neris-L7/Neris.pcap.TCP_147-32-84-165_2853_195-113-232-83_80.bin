@@ -1,0 +1,20 @@
+GET /CDN/178757/dailyfinance_160_600_0410.gif HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=WF480013130536710004; ASCID=WF480013130536710004; F1=Bc+mD5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA; BASE=1UAfXdOdRIKdrvF!; ROLL=nuQB/ScPzuM+83O!
+
+HTTP/1.1 200 OK
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Wed, 27 Apr 2011 20:14:42 GMT
+ETag: "46d4c1-508e-4a1ec174b3080"
+Accept-Ranges: bytes
+Content-Length: 20622
+Content-Type: image/gif
+X-Pad: avoid browser bug
+Date: Thu, 11 Aug 2011 09:07:57 GMT
+Connection: k

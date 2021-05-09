@@ -1,0 +1,18 @@
+GET /plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Frussiancupid&send=false&layout=button_count&width=90&show_faces=false&action=like&colorscheme=light&font=arial&height=21 HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:18.0) Gecko/20100101 Firefox/18.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.russiancupid.com/
+Connection: 
+
+HTTP/1.1 302 Found
+Location: https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Frussiancupid&send=false&layout=button_count&width=90&show_faces=false&action=like&colorscheme=light&font=arial&height=21
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: pNSXl4Fs4tEypCouLSiawo9GDZwoM0nYLcUO6JKAj2pyRI2OKDl2BGgUEZI5vPYnlPqzr4XwYdB9RlJp94eSGA==
+Date: Sat, 07 Mar 2015 08:11:24 GMT
+Connection: keep-alive
+Content-Length: 0
+

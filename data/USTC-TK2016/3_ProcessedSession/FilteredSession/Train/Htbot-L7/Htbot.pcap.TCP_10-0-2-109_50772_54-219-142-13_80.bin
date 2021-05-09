@@ -1,0 +1,26 @@
+GET /ts/514B7032794967745F324255455F3344?utm_source=317964_619710&utm_content=178508 HTTP/1.1
+Host: www.servingspot.com
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+Referer: http://objava-oglasa.bolha.com/oglas_upsell.php?id=1297575367
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Cache-control: no-cache="set-cookie"
+Content-Type: text/html; charset=utf-8
+Date: Wed, 04 Mar 2015 16:38:09 GMT
+p3p: CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Server: Microsoft-IIS/8.5
+Set-Cookie: jdha8jd=e173a941b4543790eebcf21da6ae21e255a95243a33b5702ee; expires=Sat, 27-Feb-2016 16:38:09 GMT; path=/
+Set-Cookie: dksd92=d7af4febc28c11e4b157b39526141ca6; expires=Tue, 02-Jun-2015 16:38:09 GMT; path=/
+Set-Cookie: AWSELB=477723E512C9FC2F2AE7A7A3EC20CF74299C7FB91C9577F3B38C94EE408E3B05F6EA1F317195C7AD921A27BC0592488E4731C1E8223845B03FDDA33ECFE3F4CF0A243003CD;PATH=/;MAX-AGE=60
+X-AspNet-Version: 4.0.30319
+X-AspNetMvc-Version: 4.0
+X-Powered-By: ASP.NET
+Content-Length: 168
+Connection: keep-alive
+
+<meta http-equiv="refresh" content="0;url=http://www.euromillionairesystem.tv/lp/stcz/h1?RefCode=d7af4febc28c11e4b157b39526141ca6&rfx=d7af4febc28c11e4b157b39526141ca6">

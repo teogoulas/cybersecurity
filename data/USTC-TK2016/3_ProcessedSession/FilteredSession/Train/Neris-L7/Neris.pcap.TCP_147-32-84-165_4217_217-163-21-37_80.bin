@@ -1,0 +1,76 @@
+GET /st?ad_type=iframe&ad_size=728x90&section=1921334 HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://ads.creafi-online-media.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: ads.creafi-online-media.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2011 09:30:17 GMT
+Server: YTS/1.18.4
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+Cache-Control: no-store
+Last-Modified: Thu, 11 Aug 2011 09:30:17 GMT
+Pragma: no-cache
+Content-Length: 4607
+Age: 0
+Connection: close
+
+<html><head></head><body><script type="text/javascript">/* All portions of this software are copyright (c) 2003-2006 Right Media*/var rm_ban_flash=0;var rm_url="";var rm_pop_frequency=0;var rm_pop_id=0;var rm_pop_times=0;var rm_pop_nofreqcap=0;var rm_passback=0;var rm_tag_type="";rm_tag_type = "iframe"; rm_url = "http://ads.creafi-online-media.com/imp?Z=728x90&s=1921334&_salt=712280013";var RM_POP_COOKIE_NAME='ym_pop_freq';var RM_INT_COOKIE_NAME='ym_int_freq';if(!window.rm_crex_data){rm_crex_data=new Array();}if(rm_passback==0){rm_pb_data=new Array();if(rm_crex_data.length>0){rm_url+="&X=";for(var i=0;i<rm_crex_data.length;i++){rm_url+=rm_crex_data[i];if(i!=rm_crex_data.length-1){rm_url+=",";}}}}else{rm_pb_data.push(rm_crex_data.pop());rm_url+="&X=";for(var i=0;i<rm_pb_data.length;i++){rm_url+=rm_pb_data[i];if(i!=rm_pb_data.length-1){rm_url+=",";}}rm_url+="&Y=pb";}var flash=new Object();flash=flashDetection();if(cookiesEnabled()){rm_url+=(flash.installed?"&B=10":"&B=12");}else{rm_url+=(flash.installed?"&B=11":"&B=13");}if(!flash.installed||rm_ban_flash==1){rm_url+="&m=2";}var url='';try{if(rm_tag_type=="ad"){if(top==self){url=encodeURIComponent(top.location.href);url=url.substr(0,256);rm_url+="&u="+url;}}else if(rm_tag_type=="iframe"){url=encodeURIComponent(document.referrer);url=url.substr(0,256);rm_url+="&u="+url;}}catch(e){}if(top==self){rm_url+="&r=1";}else{rm_url+="&r=0";}var rm_tag_src='<SCRIPT TYPE="text/javascript" SRC="'+rm_url+'"><\/SCRIPT>';if(rm_pop_frequency){if(rmCanShowPop(rm_pop_id,rm_pop_times,rm_pop_frequency)||rm_pop_nofreqcap){document.write(rm_tag_src);}}else{document.write(rm_tag_src);}function cookiesEnabled(){var cookieEnabled=(navigator.cookieEnabled)?true:false;if(typeof navigator.cookieEnabled=="undefined"&&!cookieEnabled){document.cookie="testcookie";cookieEnabled=(document.cookie.indexOf("testcookie")!=-1)?true:false;}return cookieEnabled;}function rmGetCookie(Name){var search=Name+"=";var CookieString=document.cookie;var result=null;if(CookieString.length>0){offset=CookieString.indexOf(search);if(offset!=-1){offset+=search.length;end=CookieString.indexOf(";",offset);if(end==-1){end=CookieString.length;}result=unescape(CookieString.substring(offset,end));}}return result;}function flashDetection(){var flash=new Object();flash.installed=false;flash.version='0.0';if(navigator.plugins&&navigator.plugins.length){for(x=0;x<navigator.plugins.length;x++){if(navigator.plugins[x].name.indexOf('Shockwave Flash')!=-1){flash.version=navigator.plugins[x].description.split('Shockwave Flash ')[1];flash.installed=true;break;}}}else if(window.ActiveXObject){for(x=2;x<10;x++){try{oFlash=eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+x+"');");if(oFlash){flash.installed=true;flash.version=x+'.0';}}catch(e){}}}return flash;}function rmReplace(myString,toReplace,replaceBy){return(myString.replace(new RegExp(toReplace,'gi'),replaceBy));}function writeCookie(ckName,ckVal){var numdays=14;var today=new Date();var expires=new Date();expires.setTime(today.getTime()+(1000*60*60*24*numdays));var cookieText=ckName+"="+ckVal+";expires="+expires.toGMTString()+";path=/;";document.cookie=cookieText;return null;}function rmCanShowPop(rm_pop_id,pop_times,pop_frequency){var countCookieName=RM_POP_COOKIE_NAME+rm_pop_id;var expireCookieName=RM_POP_COOKIE_NAME+"_expiration"+rm_pop_id;var shownTimes=rmGetCookie(countCookieName);if(shownTimes==null){rmWriteExpirationCookie(expireCookieName,pop_frequency);shownTimes=0;}else{shownTimes=Number(shownTimes);}if(shownTimes<pop_times){shownTimes=1+shownTimes;var expiration=rmGetCookie(expireCookieName);rmWritePopFrequencyCookie(rm_pop_id,shownTimes,expiration);return_value=true;}else{return_value=false;}return return_value;}function rmWritePopFrequencyCookie(rm_pop_id,shownTimes,expiration){var cookieName=RM_POP_COOKIE_NAME+rm_pop_id;var cookieText=cookieName+"="+shownTimes+";"+"expires="+expiration+";path=/;";document.cookie=cookieText;}function rmWriteExpirationCookie(cookieName,frequency){var today=new Date();var expires=new Date();expires.setTime(today.getTime()+(1000*frequency));var cookieText=cookieName+"="+expires.toGMTString()+";"+"expires="+expires.toGMTString()+";path=/;";document.cookie=cookieText;}</script><noscript><a href="http://ads.creafi-online-media.com/imageclick?Z=728x90&s=1921334&_salt=712280013&t=2" target="_parent"><img border="0" src="http://ads.creafi-online-media.com/imp?Z=728x90&s=1921334&_salt=712280013&t=2"></img></a></noscript><img src="http://content.yieldmanager.com/ak/q.gif" style="display:none" width="1" height="1" border="0" alt="" /></body></html>
+GET /imp?Z=300x250&s=1921377&_salt=1079404918&B=10&u=http%3A%2F%2Fads.creafi-online-media.com%2F&r=0 HTTP/1.1
+Accept: */*
+Referer: http://ads.creafi-online-media.com/st?ad_type=iframe&ad_size=300x250&section=1921377
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: ads.creafi-online-media.com
+Connection: Keep-Alive
+
+HTTP/1.1 302 Found
+Date: Thu, 11 Aug 2011 09:51:43 GMT
+Server: YTS/1.18.4
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+Location: http://ad.yieldmanager.com/imp?Z=300x250&s=1921377&_salt=1079404918&B=10&u=http%3A%2F%2Fads.creafi-online-media.com%2F&r=0
+Cache-Control: no-store
+Last-Modified: Thu, 11 Aug 2011 09:51:43 GMT
+Pragma: no-cache
+Content-Length: 0
+Age: 0
+Connection: close
+
+GET /imp?Z=728x90&s=1921338&_salt=878483508&B=10&u=http%3A%2F%2Fads.creafi-online-media.com%2F&r=0 HTTP/1.1
+Accept: */*
+Referer: http://ads.creafi-online-media.com/st?ad_type=iframe&ad_size=728x90&section=1921338
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Cookie: BX=cn9i1ih74757k&b=4&s=oq&t=222; uid=uid=3f91c0a0-c3f5-11e0-a9d4-e79782f4b120&_hmacv=1&_salt=2056837655&_keyid=k1&_hmac=3a94e5a46225bd4c8c48743ed955a5aedb674f31; bh="b!!!!.!#/a/!!!!$=0*jD!#bA]!!!!1=0*tS!#dA)!!!!0=0*mH!#dNf!!!!/=0*sH!#eOU!!!!9=0*v#!#eu?!!!!A=0*tR!$(7i!!!!<=0*qx!$(7j!!!!==0*u<!$(7l!!!!<=0*ug!$(7n!!!!-=0*t=!$(7y!!!!5=0*q["; ih="b!!!!H!$`u>!!!!$=0*PS!)9aI!!!!#=0*@P!)9ac!!!!%=0*YH!.DXy!!!!#=0*=G!/0H`!!!!#=0*kH!0E)=!!!!#=0*@j!13)A!!!!#=0*pX!1>9=!!!!#=0*j0!1V$X!!!!$=0*F!!1u4u!!!!#=0*Z:!2(<+!!!!4=0*ug!2(<D!!!!5=0*rg!2(<J!!!!4=0*v#!2(<d!!!!A=0*t=!2(<n!!!!5=0*qx!26Zk!!!!#=0*<G!26Zp!!!!$=0*Ep!2aWu!!!!#=0*=r!2b03!!!!'=0*FE!32j?!!!!'=0*st!34B2!!!!#=0*],!34Ea!!!!%=0*_+!3EKu!!!!#=0*>=!3HCj!!!!6=0*u%!3HD?!!!!2=0*o[!3HDW!!!!-=0*o.!3HEC!!!!.=0*tS!3HEl!!!!/=0*u<!3X<X!!!!#=0*Ke!3eLo!!!!'=0*nt!3ppO!!!!#=0*A$!3sO/!!!!$=0*bv!4#w>!!!!'=0*n/!4#x*!!!!#=0*?u!41qR!!!!#=0*<G!41rf!!!!$=0*<O"; vuday1=k=G`frw2G:r/DD=enp:'Q)+i$3IvP_%sjYgo(iq>H%84i*9IpM/.]2eo(iq>#Xj_/!/^/!%.AG4; liday1=oCyc)FnLgl1SUyUbQP=d3ijc[0N)iP5l%s_fK4L4fRg^*L7?Q1h0D40D?1K!/)BVC2sLS91Q[c#3gpL+u:]$AZq?FURP5>!%#opSgP20L8CObFY8*C':SOyrm=s'_KbppH!<=75*@r)g%^3vT!/^/!BuI+!; pv1="b!!!!,!$6YB#A,e<!%-sv!3HEl!'(rB~!!?5%%nBY=![:Z-!'X>^!(?vT~~~~~~=0*u<~M.jTN!!qU/#r*C<!$rD5!$`u>!#S/$!!!!$!?5%!%R%P3!w1K*!'d[+!$1vR!$362~~~~~=0*A-=4>+7M.jTN!!qU4#r*C<!$rD5!$`u>!#S/$!!!!$!?5%!%R%P3!w1K*!'d[+!$1vR!$362~~~~~=0*A-=4>+7M.jTN!$*GB#A,e<!%-t@!2(<J!%hep~!!ZH)%nBY>!ZmB)!'X>3!'xIa~~~~~~=0*v#~M.jTN!#-@e!!!)*!%!KK!3EKu!%k=H!#:m/!#1g.%nBY5!w(E)!'s',!(:+o!(#i/~~~~~=0*jD=0Cc?!!!#G!#-@f!!!)*!%!KK!3EKu!%k=H!#:m/!#1g.%nBY5!w(E)!'s',!(:+o!(#i/~~~~~=0*jD=0Cc?!!!#G!#6g?!!!)*!%!KK!3EKu!%k=H!#:m/!#1g.%nBY5!w(E)!'s',!(:+o!(#i/~~~~~=0*jD=0O_h!!!#G!!3uN!02iF!$f69!$`u>!!SXx!!H<'!!vZ,%nBY5!w1K*!(@Kp!$,]o!!kee~~~~~=0*PS=4>:^M.jTN!$*he#A,e<!%-t>!/0H`!%(0#!!!%%!?5%!%nBY4!Zd<(!'X>3!'%sl~~~~~~=0*kH~M.jTN"; lifb=t!SVuo,`]7vqHS'_qQY_HC`2X
+Connection: Keep-Alive
+Host: ad.yieldmanager.com
+
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2011 09:58:59 GMT
+Server: YTS/1.18.4
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+X-RightMedia-Hostname: raptor0232.rm.ch1
+Set-Cookie: ih="b!!!!H!$`u>!!!!$=0*PS!)9aI!!!!#=0*@P!)9ac!!!!%=0*YH!.DXy!!!!#=0*=G!/0H`!!!!#=0*kH!0E)=!!!!#=0*@j!13)A!!!!#=0*pX!1>9=!!!!#=0*j0!1V$X!!!!$=0*F!!1u4u!!!!#=0*Z:!2(<+!!!!4=0*ug!2(<D!!!!5=0*rg!2(<J!!!!4=0*v#!2(<d!!!!A=0*t=!2(<n!!!!5=0*qx!26Zk!!!!#=0*<G!26Zp!!!!$=0*Ep!2aWu!!!!#=0*=r!2b03!!!!'=0*FE!32j?!!!!'=0*st!34B2!!!!#=0*],!34Ea!!!!%=0*_+!3EKu!!!!#=0*>=!3HCj!!!!6=0*u%!3HD?!!!!2=0*o[!3HDW!!!!-=0*o.!3HEC!!!!.=0*tS!3HEl!!!!0=0*vA!3X<X!!!!#=0*Ke!3eLo!!!!'=0*nt!3ppO!!!!#=0*A$!3sO/!!!!$=0*bv!4#w>!!!!'=0*n/!4#x*!!!!#=0*?u!41qR!!!!#=0*<G!41rf!!!!$=0*<O"; path=/; expires=Sat, 10-Aug-2013 09:58:59 GMT
+Set-Cookie: bh="b!!!!.!#/a/!!!!$=0*jD!#bA]!!!!1=0*tS!#dA)!!!!0=0*mH!#dNf!!!!/=0*sH!#eOU!!!!9=0*v#!#eu?!!!!A=0*tR!$(7i!!!!<=0*qx!$(7j!!!!==0*u<!$(7l!!!!==0*vA!$(7n!!!!-=0*t=!$(7y!!!!5=0*q["; path=/; expires=Sat, 10-Aug-2013 09:58:59 GMT
+Set-Cookie: vuday1=k=G`frw2G:r/DD=enp:'Q)+i$3IvP_%sjYgo(iq>H%84i/.]2e*9IpMo(iq>#Xj_/!/^/!GNy^+; path=/; expires=Fri, 12-Aug-2011 00:00:00 GMT
+Set-Cookie: pv1="b!!!!,!$6YB#A,e<!%-sx!3HEl!'(rB~!!?5%%nBY=![:Z-!'X>^!(?vT~~~~~~=0*vA~M.jTN!!qU/#r*C<!$rD5!$`u>!#S/$!!!!$!?5%!%R%P3!w1K*!'d[+!$1vR!$362~~~~~=0*A-=4>+7M.jTN!!qU4#r*C<!$rD5!$`u>!#S/$!!!!$!?5%!%R%P3!w1K*!'d[+!$1vR!$362~~~~~=0*A-=4>+7M.jTN!$*GB#A,e<!%-t@!2(<J!%hep~!!ZH)%nBY>!ZmB)!'X>3!'xIa~~~~~~=0*v#~M.jTN!#-@e!!!)*!%!KK!3EKu!%k=H!#:m/!#1g.%nBY5!w(E)!'s',!(:+o!(#i/~~~~~=0*jD=0Cc?!!!#G!#-@f!!!)*!%!KK!3EKu!%k=H!#:m/!#1g.%nBY5!w(E)!'s',!(:+o!(#i/~~~~~=0*jD=0Cc?!!!#G!#6g?!!!)*!%!KK!3EKu!%k=H!#:m/!#1g.%nBY5!w(E)!'s',!(:+o!(#i/~~~~~=0*jD=0O_h!!!#G!!3uN!02iF!$f69!$`u>!!SXx!!H<'!!vZ,%nBY5!w1K*!(@Kp!$,]o!!kee~~~~~=0*PS=4>:^M.jTN!$*he#A,e<!%-t>!/0H`!%(0#!!!%%!?5%!%nBY4!Zd<(!'X>3!'%sl~~~~~~=0*kH~M.jTN"; path=/; expires=Sat, 10-Aug-2013 09:58:59 GMT
+Set-Cookie: BX=cn9i1ih74757k&b=4&s=oq&t=222; path=/; expires=Tue, 19-Jan-2038 03:14:07 GMT
+Cache-Control: no-store
+Last-Modified: Thu, 11 Aug 2011 09:58:59 GMT
+Pragma: no-cache
+Content-Length: 711
+Content-Type: application/x-javascript
+Age: 0
+Connection: close
+
+document.write('<a target=\"_blank\" href=\"http://ads.creafi-online-media.com/clk?3,eAGdTl2PgjAQ.EMoLQUpNj6s1MavXqIpueAb2grlQ4li7uKv9yLkcs-3D5uZyczOYsKiYxBEgedNoohMsnPAMMFH6ocaG-ogxhjxQhSGFBHP8XHezXm7X-5gR9sK3rMCu8572O90IBJiAMHjD9h89dLD0O-.zv.jWCXFYoivAIb-Qovlgy.mv3d57h9UbSXX5fZTIsmhk0rUMsZWNgnaKlGmT1EdFKC0XFfp8OdPfuY4Rde1U9fN9H18upnsbEfXS20vZtQYbbPx6dq4L5ucWsg=,\"><img border=\"0\" alt=\"\" height=\"90\" width=\"728\" src=\"http://content.yieldmanager.edgesuite.net/atoms/de/45/01/2c/de45012cad9b9f86800fc8252b2ee2fe.gif\"></img></a>');
+var rm_data = new Object();
+rm_data.creative_id = 10088976;
+rm_data.offer_type = 10;
+rm_data.entity_id = 369950;
+if (window.rm_crex_data) {rm_crex_data.push(10088976);}

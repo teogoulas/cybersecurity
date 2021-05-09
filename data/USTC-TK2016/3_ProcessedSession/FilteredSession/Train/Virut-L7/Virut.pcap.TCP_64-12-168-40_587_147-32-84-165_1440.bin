@@ -1,0 +1,99 @@
+220-mtaout-ma03.r1000.mx.aol.com ESMTP MUA/Third Party Client Interface
+220-AOL and its affiliated companies do not
+220-authorize the use of its proprietary computers and computer
+220-networks to accept, transmit, or distribute unsolicited bulk
+220-e-mail sent from the internet.
+220-Effective immediately:
+220-AOL may no longer accept connections from IP addresses
+220 which no reverse-DNS (PTR record) assigned.
+EHLO richard_hughes17
+EHLO richard_hughes17
+250-mtaout-ma03.r1000.mx.aol.com
+250-PIPELINING
+250-SIZE 36700160
+250-ETRN
+250-STARTTLS
+250-AUTH LOGIN XAOL-UAS-MB PLAIN
+250-AUTH=LOGIN XAOL-UAS-MB PLAIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+cmljaGFyZF9odWdoZXMxNw==
+cmljaGFyZF9odWdoZXMxNw==
+334 UGFzc3dvcmQ6
+bnlydW1vc2Vn
+bnlydW1vc2Vn
+235 2.7.0 Authentication successful
+MAIL FROM: <richard_hughes17@aol.com>
+MAIL FROM: <richard_hughes17@aol.com>
+250 2.1.0 Ok
+RCPT TO: <kcover@gmail.com>
+RCPT TO: <kcover@gmail.com>
+250 2.1.5 Ok
+RCPT TO: <kswanted47@gmail.com>
+RCPT TO: <kswanted47@gmail.com>
+250 2.1.5 Ok
+RCPT TO: <weberben@msu.edu>
+RCPT TO: <weberben@msu.edu>
+250 2.1.5 Ok
+RCPT TO: <ntguru77@gmail.com>
+RCPT TO: <ntguru77@gmail.com>
+250 2.1.5 Ok
+DATA
+DATA
+354 End data with <CR><LF>.<CR><LF>
+Message-ID: <848523270$1152339920$215597629@richard_hughes17>
+From: "Rodriguez Studdard" <richard_hughes17@aol.com>
+To: <kcover@gmail.com>
+Subject: RE:SexyB runett eInPin kT o pS tripsAt Po o lToShowO ff
+Date: Mon, 15 Aug 2011 19:05:58 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<br>Dorian A Bottle .TheCham berla i nD rankGr e e dily,Wa ter <a href="http://nsz2dpw5FsgNf5aS9u.fuckingcloit.com?eUeMORgktDqUWrDJTitxrmI">http://eUeMORgktDqUWrDJTitxrmI.fuckingcloi83743877t.com?gbgHOtnOpeiTiqWMIFgUx</a> <br>"ShMessage-ID: <848523270$1152339920$215597629@richard_hughes17>
+From: "Rodriguez Studdard" <richard_hughes17@aol.com>
+To: <kcover@gmail.com>
+Subject: RE:SexyB runett eInPin kT o pS tripsAt Po o lToShowO ff
+Date: Mon, 15 Aug 2011 19:05:58 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<br>Dorian A Bottle .TheCham berla i nD rankGr e e dily,Wa ter <a href="http://nsz2dpw5FsgNf5aS9u.fuckingcloit.com?eUeMORgktDqUWrDJTitxrmI">http://eUeMORgktDqUWrDJTitxrmI.fuckingcloi83743877t.com?gbgHOtnOpeiTiqWMIFgUx</a> <br>"Sh eWi llBeThe re,"Se r AxellSai d."SheI sNeverFa rF r omTheK ing.B utItIsHi sGra c eHims elfWhoA ske dForYou. "</BODY></HTML>
+.
+ eWi llBeThe re,"Se r AxellSai d."SheI sNeverFa rF r omTheK ing.B utItIsHi sGra c eHims elfWhoA ske dForYou. "</BODY></HTML>
+.
+250 2.0.0 Ok: queued as 9ADE5E0000C3
+421 4.4.2 mtaout-ma03.r1000.mx.aol.com Error: timeout exceeded

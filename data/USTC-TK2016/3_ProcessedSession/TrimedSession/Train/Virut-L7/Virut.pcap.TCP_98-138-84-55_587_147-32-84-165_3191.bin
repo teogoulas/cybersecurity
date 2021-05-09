@@ -1,0 +1,31 @@
+220 smtp214.mail.ne1.yahoo.com ESMTP
+EHLO jamesonalonzowwna
+EHLO jamesonalonzowwna
+250-smtp214.mail.ne1.yahoo.com
+250-AUTH LOGIN PLAIN XYMCOOKIE
+250-PIPELINING
+250 8BITMIME
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+amFtZXNvbmFsb256b3d3bmE=
+amFtZXNvbmFsb256b3d3bmE=
+334 UGFzc3dvcmQ6
+YnMybWZyeGdtZHM2
+YnMybWZyeGdtZHM2
+235 OK, go ahead
+MAIL FROM: <jamesonalonzowwna@yahoo.com>
+MAIL FROM: <jamesonalonzowwna@yahoo.com>
+250 OK , completed
+RCPT TO: <mrdamnitt@yahoo.com>
+RCPT TO: <mrdamnitt@yahoo.com>
+250 OK , completed
+RCPT TO: <vincent_stoll@yahoo.fr>
+RCPT TO: <vincent_stoll@yahoo.fr>
+250 OK , completed
+RCPT TO: <alexragia@yahoo.com>
+RCPT TO: <alexragia@yahoo.com>
+250 OK , completed
+RCPT TO: <qbabiegirl83@yahoo.com>
+RCPT TO: <qbabiegirl83@yahoo.com>
+250 OK

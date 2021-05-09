@@ -1,0 +1,20 @@
+GET /st?anmember=541&anprice=&ad_type=ad&ad_size=300x250&section=2056437&referrer=http://www.netygames.com/netgame.html HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: ad.yieldmanager.com
+
+GET /st?anmember=541&anprice=&ad_type=ad&ad_size=300x250&section=2056437&referrer=http://www.netygames.com/netgame.html HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: ad.yieldmanager.com
+
+HTTP/1.1 200 OK
+Date: Wed, 10 Aug 2011 13:15:

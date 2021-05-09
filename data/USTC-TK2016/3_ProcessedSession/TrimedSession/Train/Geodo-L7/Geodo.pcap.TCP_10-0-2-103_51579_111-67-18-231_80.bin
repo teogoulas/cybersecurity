@@ -1,0 +1,27 @@
+Get /wp-content/uploads/cr_mss3.exe HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+Host: holyspirit.wa.edu.au
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 503 Service Temporarily Unavailable
+Date: Tue, 12 May 2015 05:32:09 GMT
+Server: Apache
+Last-Modified: Sat, 07 Feb 2015 07:22:08 GMT
+ETag: "186c0d-40f-50e7a6517a081"
+Accept-Ranges: bytes
+Content-Length: 1039
+X-Powered-By: PleskLin
+Connection: close
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>503 Service Temporarily Unavailable</TITLE>
+</HEAD>
+<BODY>
+<H1>Service Temporarily Unavailable</H1>
+The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later.<P>
+<H

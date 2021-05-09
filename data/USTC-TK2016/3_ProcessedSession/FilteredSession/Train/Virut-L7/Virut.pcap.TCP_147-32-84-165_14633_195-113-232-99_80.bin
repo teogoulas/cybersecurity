@@ -1,0 +1,31 @@
+GET /CDN/184578/IWill-38216_160x600_B1.gif HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Tue, 09 Aug 2011 20:31:55 GMT
+If-None-Match: "48736e-a7a1-4aa18745c84c0"
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=bZ680013134633610023; ASCID=bZ680013134633610023; F1=BEE3J5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA; BASE=DUwNMBJeNa35IrE!; ROLL=X7QRXUXi39poKlI!
+
+GET /CDN/184578/IWill-38216_160x600_B1.gif HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Tue, 09 Aug 2011 20:31:55 GMT
+If-None-Match: "48736e-a7a1-4aa18745c84c0"
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=bZ680013134633610023; ASCID=bZ680013134633610023; F1=BEE3J5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA; BASE=DUwNMBJeNa35IrE!; ROLL=X7QRXUXi39poKlI!
+
+HTTP/1.1 304 Not Modified
+Content-Type: image/gif
+Last-Modified: Tue, 09 Aug 2011 20:31:55 GMT
+ETag: "48736e-a7a1-4aa18745c84c0"
+Date: Tue, 16 Aug 2011 02:56:01 GMT
+Connection: keep-alive
+

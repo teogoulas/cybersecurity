@@ -1,0 +1,21 @@
+GET /safeframe/1-0-2/html/container.html?n=1 HTTP/1.1
+Host: tpc.googlesyndication.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:18.0) Gecko/20100101 Firefox/18.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.russiancupid.com/en/profilemanagement/editprofilephotosregistrationmodal?registration=1
+Connection: 
+
+HTTP/1.1 200 OK
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Type: text/html
+Last-Modified: Fri, 16 Jan 2015 15:36:52 GMT
+Date: Wed, 04 Mar 2015 19:49:19 GMT
+Expires: Thu, 03 Mar 2016 19:49:19 GMT
+X-Content-Type-Options: nosniff
+Server: sffe
+Content-Length: 1877
+X-XSS-Protection: 1; mode=block
+Cache-Control: public, max-age=31536000

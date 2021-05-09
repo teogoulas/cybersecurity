@@ -1,0 +1,19 @@
+GET /CDN/186258/hp_blackvoices-160x600.gif HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Mon, 08 Aug 2011 14:52:59 GMT
+If-None-Match: "5b83f7-1e15-4a9ff9a6668c0"
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=Gz680013130618050021; ASCID=Gz680013130618050021; F1=B06uD5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA
+
+HTTP/1.1 304 Not Modified
+Content-Type: image/gif
+Last-Modified: Mon, 08 Aug 2011 14:52:59 GMT
+ETag: "5b83f7-1e15-4a9ff9a6668c0"
+Date: Thu, 11 Aug 2011 11:23:26 GMT
+Connection: keep-alive
+

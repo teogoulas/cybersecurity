@@ -1,0 +1,10 @@
+GET /default.aspx HTTP/1.1
+Host: by167w.bay167.mail.live.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ch)
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Charset: utf-8;q=0.7,*;q=0.7
+Accept-Encoding: gzip, identity, *;q=0
+Connection: Close
+Referer: http://mail.live.com/default.aspx
+Cookie: PPLState=1; RPSTAuth=EwDoARAnAAAUWkziSC7RbDJKS1VkhugDegv7L0eAAJ0coMlEmCzxDc8Wrovfz3IXb+uasKMnvGZu/MEC4oxpMEvVJlRLheQQKwPEFmjwk7LgAVssW75oSvCoyhUzaGJNLpB670bcOcxcCYhYi8j6d3JRwA26HOztI0p6JD2HQcPH828dTJt/ud2GyLGFAzHtl0I2Z04HKXMkrmb8uxIoA2YAAAhk4EXm4iiBZzgBpHGsoT4SW0tH7a1utdevq1SOiBMEfSWVLsWWcqJaXLT+Wy2HNxZn/53Kaz4TaPZlyyCZS0MJ8124y+nHFBjIqUP47ONnERjyvnnUMEw5RKvfGg

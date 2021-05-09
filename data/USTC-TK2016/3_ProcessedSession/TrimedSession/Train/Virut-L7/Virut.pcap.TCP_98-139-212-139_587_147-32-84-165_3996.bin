@@ -1,0 +1,30 @@
+220 smtp215.mail.bf1.yahoo.com ESMTP
+EHLO marijoarlinaajzm
+EHLO marijoarlinaajzm
+250-smtp215.mail.bf1.yahoo.com
+250-AUTH LOGIN PLAIN XYMCOOKIE
+250-PIPELINING
+250 8BITMIME
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+bWFyaWpvYXJsaW5hYWp6bQ==
+bWFyaWpvYXJsaW5hYWp6bQ==
+334 UGFzc3dvcmQ6
+Mmg5d3E2bnRoMXE=
+Mmg5d3E2bnRoMXE=
+235 OK, go ahead
+MAIL FROM: <marijoarlinaajzm@yahoo.com>
+MAIL FROM: <marijoarlinaajzm@yahoo.com>
+250 OK , completed
+RCPT TO: <ayorindesolomon@yahoo.co.uk>
+RCPT TO: <ayorindesolomon@yahoo.co.uk>
+250 OK , completed
+RCPT TO: <jbaze@yahoo.com>
+RCPT TO: <jbaze@yahoo.com>
+250 OK , completed
+DATA
+DATA
+354 Start Mail. End with CRLF.CRLF
+Message-ID: <1510707980$1797324114$1957959071@marijoarlinaajzm>
+From: "Franz-josef reaves" <marijoarlinaajzm@yaho

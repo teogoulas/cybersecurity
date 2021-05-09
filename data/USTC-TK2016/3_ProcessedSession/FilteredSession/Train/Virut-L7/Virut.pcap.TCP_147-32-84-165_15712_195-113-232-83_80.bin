@@ -1,0 +1,31 @@
+GET /CDN/178742/MQ_GasPrices160x600-v2_3.22.11.gif HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 27 Apr 2011 19:39:19 GMT
+If-None-Match: "15cf43-3f6f-4a1eb98c0c7c0"
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=gC230013134654620000; ASCID=gC230013134654620000; F1=BYH5J5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA
+
+GET /CDN/178742/MQ_GasPrices160x600-v2_3.22.11.gif HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 27 Apr 2011 19:39:19 GMT
+If-None-Match: "15cf43-3f6f-4a1eb98c0c7c0"
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=gC230013134654620000; ASCID=gC230013134654620000; F1=BYH5J5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA
+
+HTTP/1.1 304 Not Modified
+Content-Type: image/gif
+Last-Modified: Wed, 27 Apr 2011 19:39:19 GMT
+ETag: "15cf43-3f6f-4a1eb98c0c7c0"
+Date: Tue, 16 Aug 2011 03:31:02 GMT
+Connection: keep-alive
+

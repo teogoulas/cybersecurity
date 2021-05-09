@@ -1,0 +1,100 @@
+GET /www/delivery/ajs.php?zoneid=18802&block=1&blockcampaign=1&cb=68360347304&exclude=,bannerid:32360,campaignid:331,bannerid:42815,campaignid:2956,&charset=windows-1252&loc=http%3A//www.newcarus.com/aadd.html&context=YjozMjM2MCNjOjMzMSNiOjMyMzYwI2M6MzMxI2I6NDI4MTUjYzoyOTU2fA%3D%3D&mmm_fo=1 HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: ads.ad4game.com
+Connection: Keep-Alive
+Cookie: OAID=5d209a3e208eab92605bdd924dc100ae; OAGEO=CZ%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C; _OASCAP[42815]=1; _OABLOCK[42815]=1313473779; OABLOCK=32360.1313473779; OASCAP=32360.1
+
+GET /www/delivery/ajs.php?zoneid=18802&block=1&blockcampaign=1&cb=68360347304&exclude=,bannerid:32360,campaignid:331,bannerid:42815,campaignid:2956,&charset=windows-1252&loc=http%3A//www.newcarus.com/aadd.html&context=YjozMjM2MCNjOjMzMSNiOjMyMzYwI2M6MzMxI2I6NDI4MTUjYzoyOTU2fA%3D%3D&mmm_fo=1 HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: ads.ad4game.com
+Connection: Keep-Alive
+Cookie: OAID=5d209a3e208eab92605bdd924dc100ae; OAGEO=CZ%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C; _OASCAP[42815]=1; _OABLOCK[42815]=1313473779; OABLOCK=32360.1313473779; OASCAP=32360.1
+
+HTTP/1.1 200 OK
+Server: nginx/1.0.0
+Date: Tue, 16 Aug 2011 05:49:40 GMT
+Content-Type: text/javascript; charset=windows-1252
+Transfer-Encoding: chunked
+Connection: close
+X-Powered-By: PHP/5.3.3
+Set-Cookie: _OABLOCK[42815]=deleted; expires=Mon, 16-Aug-2010 05:49:39 GMT; path=/; domain=ads.ad4game.com
+Set-Cookie: %5FOABLOCK%5B42815%5D=deleted; expires=Mon, 16-Aug-2010 05:49:39 GMT; path=/; domain=ads.ad4game.com
+Set-Cookie: _OASCAP[42815]=deleted; expires=Mon, 16-Aug-2010 05:49:39 GMT; path=/; domain=ads.ad4game.com
+Set-Cookie: %5FOASCAP%5B42815%5D=deleted; expires=Mon, 16-Aug-2010 05:49:39 GMT; path=/; domain=ads.ad4game.com
+Pragma: no-cache
+Cache-Control: private, max-age=0, no-cache
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Set-Cookie: OAID=5d209a3e208eab92605bdd924dc100ae; expires=Wed, 15-Aug-2012 05:49:40 GMT; path=/
+P3P: CP="CUR ADM OUR NOR STA NID"
+Set-Cookie: _OASCAP[29464]=1; path=/; domain=ads.ad4game.com
+Set-Cookie: _OABLOCK[29464]=1313473780; expires=Thu, 15-Sep-2011 05:49:40 GMT; path=/; domain=ads.ad4game.com
+Set-Cookie: OABLOCK=32360.1313473779_42815.1313473779; expires=Thu, 15-Sep-2011 05:49:40 GMT; path=/; domain=ads.ad4game.com
+Set-Cookie: OASCAP=32360.1_42815.1; path=/; domain=ads.ad4game.com
+
+eb4
+var OX_3b3953ef = '';
+OX_3b3953ef += "<"+"style type=\"text/css\">\n";
+OX_3b3953ef += "<"+"!--\n";
+OX_3b3953ef += "a#tt220992 span {display:none; position:absolute;right:0px;bottom:3px;\n";
+OX_3b3953ef += "z-index:9999999;color:#000;background:#CCC;cursor:pointer;\n";
+OX_3b3953ef += "font:12px Verdana,sans-serif;text-align:right;padding-left:3px;padding-right:3px;\n";
+OX_3b3953ef += "padding-top:0px;padding-bottom:0px;margin:0px;}\n";
+OX_3b3953ef += "a#tt220992:hover span {display:block;}\n";
+OX_3b3953ef += "-->\n";
+OX_3b3953ef += "<"+"/style>\n";
+OX_3b3953ef += "<"+"div style=\"position:relative;padding:0px;margin:0px;width:728px;height:90px;display:inline-block;\">\n";
+OX_3b3953ef += "<"+"div style=\"z-index:0;\"><"+"a href=\'http://ads.ad4game.com/www/delivery/ck.php?oaparams=2__bannerid=29464__zoneid=18802__OXLCA=1__cb=52b2d7b0bd__oadest=http%3A%2F%2Fv2.g.91.com%2FHit.aspx%3FId%3D1085\' target=\'_blank\'><"+"img src=\'http://cdn.ad4game.com/4d839134b02ce8b26c5a4eafce5650e2.jpg\' width=\'728\' height=\'90\' alt=\'\' title=\'\' border=\'0\' /><"+"/a><"+"script type=\'text/javascript\'>document.context=\'YjozMjM2MCNjOjMzMSNiOjMyMzYwI2M6MzMxI2I6NDI4MTUjYzoyOTU2I2I6MzIzNjAjYzozMzEjYjo0MjgxNSNjOjI5NTYjYjoyOTQ2NCNjOjE4OTJ8\'; <"+"/script>\n";
+OX_3b3953ef += "<"+"script type=\"text/javascript\">\n";
+OX_3b3953ef += "var gaJsHost = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"http://www.\");\n";
+OX_3b3953ef += "document.write(unescape(\"%3Cscript src=\'\" + gaJsHost + \"google-analytics.com/ga.js\' type=\'text/javascript\'%3E%3C/script%3E\"));\n";
+OX_3b3953ef += "<"+"/script>\n";
+OX_3b3953ef += "<"+"script type=\"text/javascript\">\n";
+OX_3b3953ef += "try {\n";
+OX_3b3953ef += "var pageTracker = _gat._getTracker(\"UA-2544276-5\");\n";
+OX_3b3953ef += "pageTracker._trackPageview();\n";
+OX_3b3953ef += "} catch(err) {}<"+"/script>\n";
+OX_3b3953ef += "<"+"!-- Start Quantcast tag -->\n";
+OX_3b3953ef += "<"+"script type=\"text/javascript\">\n";
+OX_3b3953ef += "_qoptions={\n";
+OX_3b3953ef += "qacct:\"p-83POQfOeGbhRY\"\n";
+OX_3b3953ef += "};\n";
+OX_3b3953ef += "<"+"/script>\n";
+OX_3b3953ef += "<"+"script type=\"text/javascript\" src=\"http://edge.quantserve.com/quant.js\"><"+"/script>\n";
+OX_3b3953ef += "<"+"noscript>\n";
+OX_3b3953ef += "<"+"img src=\"http://pixel.quantserve.com/pixel/p-83POQfOeGbhRY.gif\" style=\"display: none;\" border=\"0\" height=\"1\" width=\"1\" alt=\"Quantcast\"/>\n";
+OX_3b3953ef += "<"+"/noscript>\n";
+OX_3b3953ef += "<"+"!-- End Quantcast tag -->\n";
+OX_3b3953ef += "<"+"/div>\n";
+OX_3b3953ef += "<"+"div style=\"position:absolute;padding:0px;margin:0px;left:713px;top:75px;z-index:999999;line-height:100%;\">\n";
+OX_3b3953ef += "<"+"a href=\"http://www.ad4game.com/feedback.php?zoneid=18802&bannerid=29464\"\n";
+OX_3b3953ef += "id=\"tt220992\" target=\"_blank\"\n";
+OX_3b3953ef += "onmouseover=\"this.className=this.className;\" onmouseout=\"this.className=this.className;\"\n";
+OX_3b3953ef += "style=\"font-family:sans-serif;font-size:10px;text-decoration:none;color:#000;font-weight:bold\">\n";
+OX_3b3953ef += "<"+"img style=\"padding:0px;margin:0px;\" src=\"http://cdn.ad4game.com/adbyv1.gif\" border=\"0\"><"+"/img>\n";
+OX_3b3953ef += "<"+"span><"+"nobr>Ad by Ad4Game<"+"/nobr><"+"/span><"+"/a>\n";
+OX_3b3953ef += "<"+"/div>\n";
+OX_3b3953ef += "<"+"/div>\n";
+document.write(OX_3b3953ef);
+
+if (document.OA_used) document.OA__used += 'bannerid:29464,';
+
+if (document.MAX_used) document.MAX_used += 'bannerid:29464,';
+
+if (document.phpAds_used) document.phpAds_used += 'bannerid:29464,';
+
+if (document.OA_used) document.OA_used += 'campaignid:1892,';
+
+if (document.MAX_used) document.MAX_used += 'campaignid:1892,';
+
+if (document.phpAds_used) document.phpAds_used += 'campaignid:1892,';
+
+0
+

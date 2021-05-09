@@ -1,0 +1,48 @@
+GET /time/0 HTTP/1.1
+Host: x3.chatforyoursite.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:18.0) Gecko/20100101 Firefox/18.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.russiancupid.com/en/results/online?searchtype=1
+Origin: http://www.russiancupid.com
+Connection: 
+
+HTTP/1.1 200 OK
+Date: Sat, 07 Mar 2015 08:28:16 GMT
+Content-Type: text/javascript; charset="UTF-8"
+Content-Length: 19
+Connection: keep-alive
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET
+
+[14257168960639764]GET http://x3.chatforyoursite.com/time/0 HTTP/1.1
+Host: x3.chatforyoursite.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:18.0) Gecko/20100101 Firefox/18.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.russiancupid.com/en/results/online?searchtype=1
+Origin: http://www.russiancupid.com
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Date: Sat, 07 Mar 2015 08:28:16 GMT
+Content-Type: text/javascript; charset="UTF-8"
+Content-Length: 19
+Connection: keep-alive
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET
+
+[14257168963472844]GET http://x3.chatforyoursite.com/subscribe/sub-c-6c647fe6-e216-11e2-95e6-02ee2ddab7fe/48aabb7ce497fb4d3bcca8e520eda835/0/14257168887677711?uuid=3804e771-8379-43d0-91b8-917329e6807d HTTP/1.1
+Host: x3.chatforyoursite.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:18.0) Gecko/20100101 Firefox/18.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.russiancupid.com/en/results/online?searchtype=1
+Origin: http://www.russiancupid.com
+Connection: keep-alive
+

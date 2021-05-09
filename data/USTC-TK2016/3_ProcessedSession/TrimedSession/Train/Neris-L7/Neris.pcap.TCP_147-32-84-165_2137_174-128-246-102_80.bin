@@ -1,0 +1,27 @@
+GET / HTTP/1.0
+Host: 174.128.246.102
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+
+GET / HTTP/1.0
+Host: 174.128.246.102
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+
+GET / HTTP/1.0
+Host: 174.128.246.102
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+
+GET / HTTP/1.0
+Host: 174.128.246.102
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+
+GET / HTTP/1.0
+Host: 174.128.246.102
+K

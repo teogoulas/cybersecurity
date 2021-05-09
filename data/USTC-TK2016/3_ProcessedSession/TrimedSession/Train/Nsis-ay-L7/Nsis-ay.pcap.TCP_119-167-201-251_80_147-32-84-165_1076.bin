@@ -1,0 +1,13 @@
+GET /go/act/taoke/iframef5.php?pid=mm_15190792_2147655_8533566 HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://www.taobao.com/go/act/mmbd/pd011.php?pid=mm_15190792_2147655_8533566&refpos=,a,null
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.taobao.com
+Connection: Keep-Alive
+Cookie: cookie2=2bee4abaebaea7dd0cd586fe21998ad4; t=36b00e900eb0ba7ed30e2ade47f7321a; uc1=cookie14=UoLdHCGtiS3p3g%3D%3D; v=0
+
+GET /go/act/taoke/iframef5.php?pid=mm_15190792_2147655_8533566 HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://www.taobao.com/go/act/mmbd/p

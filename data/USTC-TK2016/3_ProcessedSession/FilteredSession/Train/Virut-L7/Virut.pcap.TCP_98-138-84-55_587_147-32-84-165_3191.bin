@@ -1,0 +1,71 @@
+220 smtp214.mail.ne1.yahoo.com ESMTP
+EHLO jamesonalonzowwna
+EHLO jamesonalonzowwna
+250-smtp214.mail.ne1.yahoo.com
+250-AUTH LOGIN PLAIN XYMCOOKIE
+250-PIPELINING
+250 8BITMIME
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+amFtZXNvbmFsb256b3d3bmE=
+amFtZXNvbmFsb256b3d3bmE=
+334 UGFzc3dvcmQ6
+YnMybWZyeGdtZHM2
+YnMybWZyeGdtZHM2
+235 OK, go ahead
+MAIL FROM: <jamesonalonzowwna@yahoo.com>
+MAIL FROM: <jamesonalonzowwna@yahoo.com>
+250 OK , completed
+RCPT TO: <mrdamnitt@yahoo.com>
+RCPT TO: <mrdamnitt@yahoo.com>
+250 OK , completed
+RCPT TO: <vincent_stoll@yahoo.fr>
+RCPT TO: <vincent_stoll@yahoo.fr>
+250 OK , completed
+RCPT TO: <alexragia@yahoo.com>
+RCPT TO: <alexragia@yahoo.com>
+250 OK , completed
+RCPT TO: <qbabiegirl83@yahoo.com>
+RCPT TO: <qbabiegirl83@yahoo.com>
+250 OK , completed
+DATA
+DATA
+354 Start Mail. End with CRLF.CRLF
+Message-ID: <305126412$249865145$1331008097@jamesonalonzowwna>
+From: "Mandis Udow" <jamesonalonzowwna@yahoo.com>
+To: <mrdamnitt@yahoo.com>
+Subject: FW:WeAccep tAllY ourPharm acyO rders 365D aysAYea rWith24/ 7Supp ort.
+Date: Mon, 15 Aug 2011 17:24:36 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+JjkHRMbxRKuTYsDTVkNpv http://jeffbsison05.tux.nu?wugetur.patubinutyt IMTDbJJyPjITDDDhIwnkMessage-ID: <305126412$249865145$1331008097@jamesonalonzowwna>
+From: "Mandis Udow" <jamesonalonzowwna@yahoo.com>
+To: <mrdamnitt@yahoo.com>
+Subject: FW:WeAccep tAllY ourPharm acyO rders 365D aysAYea rWith24/ 7Supp ort.
+Date: Mon, 15 Aug 2011 17:24:36 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+JjkHRMbxRKuTYsDTVkNpv http://jeffbsison05.tux.nu?wugetur.patubinutyt IMTDbJJyPjITDDDhIwnk
+.
+
+.
+554 Transaction failed : Cannot send message due to possible abuse; please visit http://postmaster.yahoo.com/abuse_smtp.html for more information

@@ -1,0 +1,96 @@
+220-mtaout-mb02.r1000.mx.aol.com ESMTP MUA/Third Party Client Interface
+220-AOL and its affiliated companies do not
+220-authorize the use of its proprietary computers and computer
+220-networks to accept, transmit, or distribute unsolicited bulk
+220-e-mail sent from the internet.
+220-Effective immediately:
+220-AOL may no longer accept connections from IP addresses
+220 which no reverse-DNS (PTR record) assigned.
+EHLO ryansalazar17
+EHLO ryansalazar17
+250-mtaout-mb02.r1000.mx.aol.com
+250-PIPELINING
+250-SIZE 36700160
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN XAOL-UAS-MB
+250-AUTH=PLAIN LOGIN XAOL-UAS-MB
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+cnlhbnNhbGF6YXIxNw==
+cnlhbnNhbGF6YXIxNw==
+334 UGFzc3dvcmQ6
+aHVub2h1c3UyMw==
+aHVub2h1c3UyMw==
+235 2.7.0 Authentication successful
+MAIL FROM: <ryansalazar17@aol.com>
+MAIL FROM: <ryansalazar17@aol.com>
+250 2.1.0 Ok
+RCPT TO: <lynnrobin24@sbcglobal.net>
+RCPT TO: <lynnrobin24@sbcglobal.net>
+250 2.1.5 Ok
+RCPT TO: <bear315@msn.com>
+RCPT TO: <bear315@msn.com>
+250 2.1.5 Ok
+RCPT TO: <lanie60416@yahoo.com>
+RCPT TO: <lanie60416@yahoo.com>
+250 2.1.5 Ok
+DATA
+DATA
+354 End data with <CR><LF>.<CR><LF>
+Message-ID: <970678367$2087601563$302288238@ryansalazar17>
+From: "Claudine munk" <ryansalazar17@aol.com>
+To: <lynnrobin24@sbcglobal.net>
+Subject: WhatIDotorrJamesTThinksPAboutBPotecy? 
+Date: Wed, 10 Aug 2011 15:18:07 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<br>"Mssie crbral emorrhage No. . ." He watchd the  <a href="http://KM69vBkXHzM1gdb0.aopaepills.com?FXyDOzXrBcWZdPfjk">http://FXyDOzXrBcWZdPfjk.aopaepi64056108lls.com?CTNPtfwRmrCX</a> <br>crsing swepers and odiers callng bck and frth was trmendou aMessage-ID: <970678367$2087601563$302288238@ryansalazar17>
+From: "Claudine munk" <ryansalazar17@aol.com>
+To: <lynnrobin24@sbcglobal.net>
+Subject: WhatIDotorrJamesTThinksPAboutBPotecy? 
+Date: Wed, 10 Aug 2011 15:18:07 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<br>"Mssie crbral emorrhage No. . ." He watchd the  <a href="http://KM69vBkXHzM1gdb0.aopaepills.com?FXyDOzXrBcWZdPfjk">http://FXyDOzXrBcWZdPfjk.aopaepi64056108lls.com?CTNPtfwRmrCX</a> <br>crsing swepers and odiers callng bck and frth was trmendou and msked</BODY></HTML>
+.
+nd msked</BODY></HTML>
+.
+250 2.0.0 Ok: queued as C6C53E0000AB
+421 4.4.2 mtaout-mb02.r1000.mx.aol.com Error: timeout exceeded

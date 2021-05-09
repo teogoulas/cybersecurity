@@ -1,0 +1,42 @@
+POST /service/update2?w=3:K6YF7tBC0wA83o2m2SUJV3IyQJ-E9axIgM8B8O3OQ09QSfTGncpt_3tXkXFN0R2nJQ4BO5dElDWQvbglK5bFQnGnvu8Zvzn0ryhm2bai59UuTi8HJ4UKLJsK_ZzKcc9MYkO_kcOnD9pPUtVYJFzpsZtLQNQm3xlj-pHqnUjAy8o HTTP/1.1
+User-Agent: Google Update/1.3.21.65;winhttp;cup
+X-Last-HR: 0x0
+X-Last-HTTP-Status-Code: 0
+X-Retry-Count: 0
+If-Match: "F_HGKHD9vLWwJpwO85F_tkzQj6I"
+Cookie: c=ANcH4TIyn4HobFu2sekuk4Oavq8sW4hFh794uqJbTqsDeZzpQZGZcuuWB317rjJlM0nRlbaJISGhf0P9OyVo2fbCygbdayRtfA
+Host: tools.google.com
+Content-Length: 653
+Connection: Keep-Alive
+Cache-Control: no-cache
+Pragma: no-cache
+
+POST /service/update2?w=3:K6YF7tBC0wA83o2m2SUJV3IyQJ-E9axIgM8B8O3OQ09QSfTGncpt_3tXkXFN0R2nJQ4BO5dElDWQvbglK5bFQnGnvu8Zvzn0ryhm2bai59UuTi8HJ4UKLJsK_ZzKcc9MYkO_kcOnD9pPUtVYJFzpsZtLQNQm3xlj-pHqnUjAy8o HTTP/1.1
+User-Agent: Google Update/1.3.21.65;winhttp;cup
+X-Last-HR: 0x0
+X-Last-HTTP-Status-Code: 0
+X-Retry-Count: 0
+If-Match: "F_HGKHD9vLWwJpwO85F_tkzQj6I"
+Cookie: c=ANcH4TIyn4HobFu2sekuk4Oavq8sW4hFh794uqJbTqsDeZzpQZGZcuuWB317rjJlM0nRlbaJISGhf0P9OyVo2fbCygbdayRtfA
+Host: tools.google.com
+Content-Length: 653
+Connection: Keep-Alive
+Cache-Control: no-cache
+Pragma: no-cache
+
+<?xml version="1.0" encoding="UTF-8"?><request protocol="3.0" version="1.3.21.65" ismachine="0" sessionid="{DCBED20B-F10B-48AB-8E3E-3341E8D030A3}" installsource="core" requestid="{77EDCE57-4D4D-4BC8-B360-7B56925CAE15}"><os platform="win" version="5.1" sp="Service Pack 2" arch="x86"/><app appid="{430FD4D0-B729-4F61-AA34-91526481799D}" version="1.3.21.65" nextversion="" lang="" brand="GGLS" client="" installage="14"><updatecheck/><ping r="14"/></app><app appid="{8A69D345-D564-463C-AFF1-A69D9E530F96}" version="13.0.782.107" nextversion="" lang="cs" brand="GGLS" client="" installage="14"><updatecheck/><ping active="1" a="15" r="14"/></app></request><?xml version="1.0" encoding="UTF-8"?><request protocol="3.0" version="1.3.21.65" ismachine="0" sessionid="{DCBED20B-F10B-48AB-8E3E-3341E8D030A3}" installsource="core" requestid="{77EDCE57-4D4D-4BC8-B360-7B56925CAE15}"><os platform="win" version="5.1" sp="Service Pack 2" arch="x86"/><app appid="{430FD4D0-B729-4F61-AA34-91526481799D}" version="1.3.21.65" nextversion="" lang="" brand="GGLS" client="" installage="14"><updatecheck/><ping r="14"/></app><app appid="{8A69D345-D564-463C-AFF1-A69D9E530F96}" version="13.0.782.107" nextversion="" lang="cs" brand="GGLS" client="" installage="14"><updatecheck/><ping active="1" a="15" r="14"/></app></request>HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Date: Fri, 19 Aug 2011 08:42:27 GMT
+ETag: "1CrAEaYJs4x8JW9fQoqWv7e6OjU"
+Content-Type: text/xml; charset=UTF-8
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Transfer-Encoding: chunked
+
+366
+<?xml version="1.0" encoding="UTF-8"?><response protocol="3.0" server="prod"><daystart elapsed_seconds="6147"/><app appid="{430FD4D0-B729-4F61-AA34-91526481799D}" status="ok"><updatecheck status="noupdate"/><ping status="ok"/></app><app appid="{8A69D345-D564-463C-AFF1-A69D9E530F96}" status="ok"><updatecheck status="ok"><urls><url codebase="http://cache.pack.google.com/edgedl/chrome/install/782.112_782.107/"/></urls><manifest version="13.0.782.112"><packages><package hash="rlY9ngwacC79ABD3JYTOs2D80SY=" name="chrome_updater.exe" required="true" size="739384"/></packages><actions><action arguments="--multi-install --chrome --verbose-logging --do-not-launch-chrome" event="update" run="chrome_updater.exe"/><action Version="13.0.782.112" event="postinstall" onsuccess="exitsilentlyonlaunchcmd"/></actions></manifest></updatecheck><ping status="ok"/></app></response>
+0
+

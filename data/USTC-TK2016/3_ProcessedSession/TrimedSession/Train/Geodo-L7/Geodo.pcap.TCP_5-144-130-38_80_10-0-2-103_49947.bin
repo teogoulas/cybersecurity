@@ -1,0 +1,19 @@
+Get /wp-content/themes/darya/mss3.exe HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+Host: arasshahintools.com
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 08 May 2015 06:30:18 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.37
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Pingback: http://arasshahintools.com/xmlrpc.php
+Set-Cookie: PHPSESSID=b1bb92b2b3f047d675c67b29a2a6486f; path=/
+Set-Cookie: 0a391bd0cb2655c43271456435fc5811=YmxhbmsgcmVmZXJlcg%3D%3D; expires=Sat, 07-May-2016 06:31:42 GMT; path=/
+Location: http://arasshahintools.com/wp-content/themes/darya/mss3.ex

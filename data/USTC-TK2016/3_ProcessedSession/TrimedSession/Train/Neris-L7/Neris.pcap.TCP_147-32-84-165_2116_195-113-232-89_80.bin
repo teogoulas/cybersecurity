@@ -1,0 +1,28 @@
+GET /quant.js HTTP/1.1
+Accept: */*
+Referer: http://www.funglad.com/fung.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: edge.quantserve.com
+Connection: Keep-Alive
+
+GET /quant.js HTTP/1.1
+Accept: */*
+Referer: http://www.funglad.com/fung.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: edge.quantserve.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: Apache
+Last-Modified: Thu, 30 Sep 2010 18:43:30 GMT
+Accept-Ranges: bytes
+Content-Length: 2170
+Content-Type: application/x-javascript
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: private, max-age=86400
+Expires: Thu, 11 Au

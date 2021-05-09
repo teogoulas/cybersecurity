@@ -1,0 +1,114 @@
+220 smtp109.mail.bf1.yahoo.com ESMTP
+EHLO emmerichkfywinrro
+EHLO emmerichkfywinrro
+250-smtp109.mail.bf1.yahoo.com
+250-AUTH LOGIN PLAIN XYMCOOKIE
+250-PIPELINING
+250 8BITMIME
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+ZW1tZXJpY2hrZnl3aW5ycm8=
+ZW1tZXJpY2hrZnl3aW5ycm8=
+334 UGFzc3dvcmQ6
+YjI4cmprajRrOQ==
+YjI4cmprajRrOQ==
+235 OK, go ahead
+MAIL FROM: <emmerichkfywinrro@yahoo.com>
+MAIL FROM: <emmerichkfywinrro@yahoo.com>
+250 OK , completed
+RCPT TO: <lobodocky@yahoo.com>
+RCPT TO: <lobodocky@yahoo.com>
+250 OK , completed
+RCPT TO: <jcurcio001@yahoo.com>
+RCPT TO: <jcurcio001@yahoo.com>
+250 OK , completed
+DATA
+DATA
+354 Start Mail. End with CRLF.CRLF
+Message-ID: <462122607$1843933246$1912869007@emmerichkfywinrro>
+From: "Monacelli Carpenter" <emmerichkfywinrro@yahoo.com>
+To: <lobodocky@yahoo.com>
+Subject: RE:Worldwid ePillS hopOff ersN oPre scrip tio nDr ugsO nlineN ow
+Date: Mon, 15 Aug 2011 17:19:29 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+Sl am uDCSiKvwxvTIMTOnsBNFBQ http://jonne861.tumblr.com/?56gjdef5eje2bentok77 Lesbians olMessage-ID: <462122607$1843933246$1912869007@emmerichkfywinrro>
+From: "Monacelli Carpenter" <emmerichkfywinrro@yahoo.com>
+To: <lobodocky@yahoo.com>
+Subject: RE:Worldwid ePillS hopOff ersN oPre scrip tio nDr ugsO nlineN ow
+Date: Mon, 15 Aug 2011 17:19:29 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+Sl am uDCSiKvwxvTIMTOnsBNFBQ http://jonne861.tumblr.com/?56gjdef5eje2bentok77 Lesbians ol
+.
+
+.
+250 OK , completed
+MAIL FROM: <emmerichkfywinrro@yahoo.com>
+MAIL FROM: <emmerichkfywinrro@yahoo.com>
+250 OK , completed
+RCPT TO: <aabad712@yahoo.com>
+RCPT TO: <aabad712@yahoo.com>
+250 OK , completed
+RCPT TO: <chazman1962@yahoo.com>
+RCPT TO: <chazman1962@yahoo.com>
+250 OK , completed
+DATA
+DATA
+354 Start Mail. End with CRLF.CRLF
+Message-ID: <815442891$1206706981$728356860@emmerichkfywinrro>
+From: "Monacelli Carpenter" <emmerichkfywinrro@yahoo.com>
+To: <aabad712@yahoo.com>
+Subject: RE:AllMedicationsInStocAndReadyFoShippingFromOnlinePharmacy. 
+Date: Mon, 15 Aug 2011 17:19:41 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+Beatrice Murp hy Dinna http://jonne861.tumblr.com/?gp7pro8703c009kcmMessage-ID: <815442891$1206706981$728356860@emmerichkfywinrro>
+From: "Monacelli Carpenter" <emmerichkfywinrro@yahoo.com>
+To: <aabad712@yahoo.com>
+Subject: RE:AllMedicationsInStocAndReadyFoShippingFromOnlinePharmacy. 
+Date: Mon, 15 Aug 2011 17:19:41 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+Beatrice Murp hy Dinna http://jonne861.tumblr.com/?gp7pro8703c009kcm
+.
+
+.
+554 Transaction failed : Cannot send message due to possible abuse; please visit http://postmaster.yahoo.com/abuse_smtp.html for more information

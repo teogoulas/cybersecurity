@@ -1,0 +1,25 @@
+Get /wp-content/themes/Primo/cr_mss3.exe HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+Host: www.primoparts.co.uk
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 501 Method Not Implemented
+Date: Wed, 20 May 2015 09:11:54 GMT
+Server: Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4
+Allow: POST,OPTIONS,GET,HEAD,TRACE
+Content-Length: 502
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>501 Method Not Implemented</title>
+</head><body>
+<h1>Method Not Implemented</h1>
+<p>GET to /wp-content/themes/Primo/cr_mss3.exe not supported.<br />
+</p>
+<p>Additionally, a 404 Not Found
+e

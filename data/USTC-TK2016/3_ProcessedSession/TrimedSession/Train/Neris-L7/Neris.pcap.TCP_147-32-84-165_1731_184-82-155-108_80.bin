@@ -1,0 +1,22 @@
+GET /getjson?4pq7f6ckoMrH6OYUFq1AZpw31KpOjecsbHnCmU5CoMXW HTTP/1.1
+Accept: */*
+Referer: http://ads.creafi-online-media.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: scubavests.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 11 Aug 2011 11:29:35 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Expires: Thu Aug 11 10:29:35 2011
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+VTag: d4133fc6a78977bd2ad030bac7cdffc6
+
+145
+document.write('<!-- BEGIN STANDARD TAG - 300 x 250 - http://ads.creafi-online-media.com/: Run-of-site - DO NOT MODIFY --><IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=300 HEIGH

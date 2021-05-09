@@ -1,0 +1,21 @@
+GET /newcar.html HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Tue, 09 Aug 2011 03:23:00 GMT
+If-None-Match: "3ed8087-19f9-4aa0a14ab2d00"
+Host: www.newcarus.com
+Connection: Keep-Alive
+
+GET /newcar.html HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Tue, 09 Aug 2011 03:23:00 GMT
+If-None-Match: "3ed8087-19f9-4aa0a14ab2d00"
+Host: www.newcarus.com
+Connection: Keep-Alive
+
+GET /newcar.html

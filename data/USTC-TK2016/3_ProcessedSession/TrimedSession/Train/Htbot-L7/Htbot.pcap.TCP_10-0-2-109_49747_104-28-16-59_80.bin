@@ -1,0 +1,18 @@
+GET / HTTP/1.1
+Host: adultcameras.info
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+Referer: http://objava-oglasa.bolha.com/oddaj.php?katid=8
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: __cfduid=d78d2521f7a1a4e42d21e98a2d8e3d1561424908388; hexatrade=piXLozJl5TqW549xL1XBP0vHV1Lp2187; __atuvc=44%7C8%2C229%7C9; __atuvs=54f72cd972cc1a6400d
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Date: Wed, 04 Mar 2015 16:26:33 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.9-1ubuntu4.5
+Vary: Accept-Encoding
+Server: cloudf

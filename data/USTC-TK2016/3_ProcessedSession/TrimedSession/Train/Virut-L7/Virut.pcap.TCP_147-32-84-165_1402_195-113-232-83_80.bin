@@ -1,0 +1,16 @@
+GET /CDN/178757/dailyfinance_160_600_0410.gif HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=Ly420013134363580026; ASCID=Ly420013134363580026; F1=BYscJ5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA; BASE=0RwO7skLQ83yg9N!; ROLL=uhwl3tssi+M0WXN!
+
+GET /CDN/178757/dailyfinance_160_600_0410.gif HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding

@@ -1,0 +1,15 @@
+GET /images/poker/poker_250x251.jpg HTTP/1.0
+Accept: */*
+Referer: http://wingpoker.info/index.php?y=22622094&r=c%3Ee3mv%5B4Cwb3WzMnmv%5Bn9%3E%27f%3Ebtl%3Cd%7B%3C9%3C2%3C2%3C337331%3A5%3Ctuzmf2%609%2Fdtt%3C3%3Cjoufsdptnpt%60bggjmjbuf%604%60e3s%60efsq%3CQijmjqqjofU%3CQijmjqqjofU%3C9537%3C9537%3Cdmfbo%3C%3Cbtl%3Cqbslfe%2Ftzoejdbujpo%2Fbtl%2Fdpn%27jqvb%60je%3Edd735d%3A516578bdf2cd3fce2ec7f6b5c%27enybsht%3E61d9%3Af5fg23d8f61%3A551b977fd%3A3b7%3A3&rd=3
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: wingpoker.info
+Connection: Keep-Alive
+Cookie: track_id=1
+
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2011 10:21:22 GMT
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Wed, 07 Oct 2009 15:34:28 GMT
+ETag: "29f1-4755a15144900"
+Accept-Ranges: bytes
+Content-Leng

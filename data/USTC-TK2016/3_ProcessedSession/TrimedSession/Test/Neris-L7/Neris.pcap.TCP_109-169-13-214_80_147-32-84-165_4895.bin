@@ -1,0 +1,14 @@
+GET /adserver/www/images/3fe6a476346209af899d31e1f8054348.gif HTTP/1.1
+Accept: */*
+Referer: http://delivery.ctasnet.com/adserver/www/delivery/afr.php?zoneid=14&cb=1313057490&ct0=http://ads.creafi-online-media.com/clk?3,eAGdjVFvgjAUhf8Qwr22xm7NHipVZ2bZwM4F3opF2wx0mRCT.fpNIf6AnZfz3Zucc5Bwasdg6HSCwMqpqYAjwZJNCKWsDIBzThjiGAHYQ0Dx0M6kzZ7TuLYExE3LfbjqSYjDFfL-emNXX8hNIl4u.Su0outJdMXmPOB.LNbvbj4E.9aHfg-Z7uR8dm-UKSY6v-Q.Rb3-UKDkqlV6UasYnWqyz7VOfKK3vlhmrpBb95rek09B4Nr26zGKjD2Hu-.K7P3odKz9sRo1lfUm3J2a6BeZlFrp,
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: images.ctasnet.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Content-Type: image/gif
+Accept-Ranges: bytes
+ETag: "2402379849"
+Last-Modified: 

@@ -1,0 +1,24 @@
+Get /templates/atomic/ex_mailpv.exe HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+Host: br3nda.web821.uni5.net
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 501 Method Not Implemented
+Date: Wed, 13 May 2015 09:21:59 GMT
+Server: Apache
+Allow: GET,HEAD,POST,OPTIONS
+Content-Length: 235
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>501 Method Not Implemented</title>
+</head><body>
+<h1>Method Not Implemented</h1>
+<p>Get to /templates/atomic/ex_mailpv.exe not supported.<br />
+</p>
+</body></html>

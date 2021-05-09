@@ -1,0 +1,19 @@
+GET /iaction/adoapn_AppNexusDemoActionTag_1 HTTP/1.0
+Accept: */*
+Referer: http://domdex.com/f?c=5&k=Finance%2CInvesting%2CCredit+Cards%2CCredit+Report%2CInsurance&sent=1
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: view.atdmt.com
+
+HTTP/1.1 200 OK
+Cache-Control: no-store
+Content-Length: 349
+Content-Type: text/html
+Expires: 0
+P3P: CP="NOI DSP COR CUR ADM DEV TAIo PSAo PSDo OUR BUS UNI PUR COM NAV INT DEM STA PRE OTC"
+Set-Cookie: AA002=1313058166-2757088; expires=Saturday, 10-Aug-2013 00:00:00 GMT; path=/; domain=.atdmt.com
+Set-Cookie: MUID=6C54B637B99B4830AEDD3D7A0E33A15B; expires=Monday, 27-Feb-2012 00:00:00 GMT; path=/; domain=.atdmt.com
+Date: Thu, 11 Aug 2011 10:22:45 GMT
+Connection: close
+
+<html><body><

@@ -1,0 +1,14 @@
+POST /mail/mail.fpp?cnmn=Microsoft.Msn.Hotmail.Ui.Fpp.MailBox.GetInboxData&ptid=0&a=nkZvPnOEd42MgZtxjdY%2btg%3d%3d&au=6935241023941270487 HTTP/1.0
+x-requested-with: XMLHttpRequest
+Referer: http://co105w.col105.mail.live.com/mail/InboxLight.aspx?n=56815074129
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+x-fpp-command: 0
+mt: 01_98f40ce01585044e9a4bf985eb4e09bb45f4c9ad5d39a14b789a0b9214c3c919|2863c44e4cb00b3c
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: co105w.col105.mail.live.com
+Content-Length: 225
+Connection: close
+Cache-Control: no-cache
+Cookie: PPLState=1; RPSTAuth=EwDgARAnAAAUWkziSC7RbDJKS1VkhugDegv7L0eAADrvGeME5wovCqmSrH8GGfG/Qjjyt/feq51WgLuB5hwAm7WcHiHdsHpIEhSfpD2ynSVm1OJRq4t8KmH/QC

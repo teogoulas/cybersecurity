@@ -1,0 +1,31 @@
+GET /CDN/184246/Games_Dice_GCN_160x600_c.jpg HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.5.3
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Mon, 11 Jul 2011 21:41:18 GMT
+If-None-Match: "10555-4e78-4a7d20b18fb80"
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=KZ500013134477590030; ASCID=KZ500013134477590030; F1=BA1nJ5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA
+
+GET /CDN/184246/Games_Dice_GCN_160x600_c.jpg HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.5.3
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Mon, 11 Jul 2011 21:41:18 GMT
+If-None-Match: "10555-4e78-4a7d20b18fb80"
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=KZ500013134477590030; ASCID=KZ500013134477590030; F1=BA1nJ5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA
+
+HTTP/1.1 304 Not Modified
+Content-Type: image/jpeg
+Last-Modified: Mon, 11 Jul 2011 21:41:18 GMT
+ETag: "10555-4e78-4a7d20b18fb80"
+Date: Mon, 15 Aug 2011 22:36:00 GMT
+Connection: keep-alive
+

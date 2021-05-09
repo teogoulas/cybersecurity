@@ -1,0 +1,13 @@
+GET / HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: riskslot.com
+Connection: Keep-Alive
+Cookie: parkinglot=1; ident=click%3A0%7Csearch%3A0%7Cexitpop%3A0%7Cblocked%3A0%7Ctoken%3Auuzwxpvqpqrrtqty%7Clload%3A1312981867%7Clvisit%3A1312981864; riskslot.com=click%3A0%7Csearch%3A0%7Cexitpop%3A0%7Cblocked%3A0%7Clload%3A1312981867%7Clvisit%3A1312981864; Spusr=3c0015ac61e84e428368d1aa
+
+GET / HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+User-Agent: Mozilla/5

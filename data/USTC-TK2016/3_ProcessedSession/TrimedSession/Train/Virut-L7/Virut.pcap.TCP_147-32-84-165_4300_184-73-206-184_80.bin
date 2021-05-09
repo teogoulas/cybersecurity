@@ -1,0 +1,21 @@
+GET /px/?id=522&url=http%3A%2F%2Fwww%2Enetygames%2Ecom%2Fnetgame%2Ehtml HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ts.amxdt.com
+Connection: Keep-Alive
+
+GET /px/?id=522&url=http%3A%2F%2Fwww%2Enetygames%2Ecom%2Fnetgame%2Ehtml HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ts.amxdt.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Date: Mon,

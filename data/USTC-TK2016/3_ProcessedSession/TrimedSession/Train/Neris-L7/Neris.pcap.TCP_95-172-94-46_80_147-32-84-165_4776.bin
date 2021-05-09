@@ -1,0 +1,13 @@
+GET /pixel;r=869874902;fpan=1;fpa=P0-1653736612-1312981700622;ns=0;url=http%3A%2F%2Fwww.funglad.com%2Ffung.html;ref=;ce=1;je=1;sr=640x480x32;enc=n;ogl=;dst=1;et=1312981700622;tzo=-180;a=p-83POQfOeGbhRY HTTP/1.1
+Accept: */*
+Referer: http://www.funglad.com/fung.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/526.9 (KHTML, like Gecko) Version/4.0dp1 Safari/526.8
+Accept-Encoding: gzip, deflate
+Host: pixel.quantserve.com
+Connection: Keep-Alive
+
+GET /pixel;r=869874902;fpan=1;fpa=P0-1653736612-1312981700622;ns=0;url=http%3A%2F%2Fwww.funglad.com%2Ffung.html;ref=;ce=1;je=1;sr=640x480x32;enc=n;ogl=;dst=1;et=1312981700622;tzo=-180;a=p-83POQfOeGbhRY HTTP/1.1
+Accept: */*
+Referer: http://www.funglad.com/fung.html
+Accept-Languag

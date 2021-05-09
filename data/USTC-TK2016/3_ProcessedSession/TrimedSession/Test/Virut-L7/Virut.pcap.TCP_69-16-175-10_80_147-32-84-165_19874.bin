@@ -1,0 +1,28 @@
+GET /tags2/2-1008221.js HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: adserving.cpxadroit.com
+Connection: Keep-Alive
+
+GET /tags2/2-1008221.js HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: adserving.cpxadroit.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Date: Tue, 16 Aug 2011 05:49:36 GMT
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Accept-Ranges: bytes
+ETag: "1312307097"
+Last-Modified: Tue, 02 Aug 2011 17:44:57 GMT
+Cache-Control: max-age=863737
+Content-Length: 203
+Content

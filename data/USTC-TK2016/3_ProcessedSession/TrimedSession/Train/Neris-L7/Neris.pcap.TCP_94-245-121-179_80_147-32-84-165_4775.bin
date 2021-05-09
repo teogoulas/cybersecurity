@@ -1,0 +1,19 @@
+GET /iaction/adoapn_AppNexusDemoActionTag_1 HTTP/1.1
+Accept: */*
+Referer: http://domdex.com/f?c=107&k=online%20forex%20trading&sent=1
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: view.atdmt.com
+
+HTTP/1.1 200 OK
+Cache-Control: no-store
+Content-Type: text/html
+Content-Encoding: gzip
+Expires: 0
+Vary: Accept-Encoding
+P3P: CP="NOI DSP COR CUR ADM DEV TAIo PSAo PSDo OUR BUS UNI PUR COM NAV INT DEM STA PRE OTC"
+Set-Cookie: AA002=1313052092-3759207; expires=Saturday, 10-Aug-2013 00:00:00 GMT; path=/; domain=.atdmt.com
+Set-Cookie: MUID=890628E0B1B240B6A24655DB5D6C5CDE; expires=Monday, 27-Feb-2012 00:00:00 GMT; path=/; domain=.atdmt.com
+Date: Thu, 11 Aug 2011 08

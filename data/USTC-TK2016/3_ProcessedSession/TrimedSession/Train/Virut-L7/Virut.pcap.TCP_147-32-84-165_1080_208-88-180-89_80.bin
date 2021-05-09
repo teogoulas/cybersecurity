@@ -1,0 +1,19 @@
+GET /spot/1082.html HTTP/1.0
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: medleyads.com
+Connection: Keep-Alive
+
+GET /spot/1082.html HTTP/1.0
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: medleyads.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Date: Mon, 15 Aug 2011 19:14:41 GMT
+Server: Apache/2.2.3 (CentOS) mod_apreq2-20051231/2.6.1 mod_perl/2.0.4 Perl/v5.8.8
+P3P: CP="DSP LAW"
+Content-Length: 123

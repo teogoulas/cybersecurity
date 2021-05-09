@@ -1,0 +1,16 @@
+GET /web/adtracker/load.php?d=418022|http%3A%2F%2Fads%2Ecreafi%2Donline%2Dmedia%2Ecom%2F|9250103|RM%20-%20HouseAds%20-%200.35%20-%20468x60%20[CTA]|2331965|3059380|2834426 HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://ad.yieldmanager.com/iframe3?41gtBGVRHQA3JY0AAAAAAD2VIwAAAAAAAAAAAAQAAAAAAAYACQAFDPo.KwAAAAAAtK4uAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACMUhEAAAAAAAIAAgAAAAAA..-.PiYc2T7..78-JhzZPgAAAAAAAAAA..-ficrsBD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADre7JDBIKMCnx.hJFPiimzfItcHKAcaICAAg74AAAAAA==,,http%3A%2F%2Fads.creafi-online-media.com%2F,B%3D10%26Z%3D468x60%26_salt%3D1755036251%26r%3D0%26s%3D1921381,5a5e06b4-c3fa-11e0-a7fc-db8ed0337cd4
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Fri, 05 Aug 2011 19:44:29 GMT
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: manager.creafi.com
+Connection: Keep-Alive
+
+HTTP/1.1 304 Not Modified
+Server: nginx/0.7.67
+Date: Thu, 11 Aug 2011 09:15:05 GMT
+Last-Modified: Fri, 05 Aug 2011 19:44:29 GMT
+Connection: keep-alive
+

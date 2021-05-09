@@ -1,0 +1,19 @@
+Get /wp-content/themes/altura/cr_mss3.exe HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+Host: altvramagazine.com
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 404 Not Found
+Date: Fri, 08 May 2015 07:00:20 GMT
+Server: Apache
+X-Pingback: http://altvramagazine.com/xmlrpc.php
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0
+Pragma: no-cache
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+404

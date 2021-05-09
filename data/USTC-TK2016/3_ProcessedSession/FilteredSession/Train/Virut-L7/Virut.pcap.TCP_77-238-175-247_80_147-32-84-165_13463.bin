@@ -1,0 +1,46 @@
+GET /v1/cms?esig=1~ed097b82db382a1fd455fb947bcd01b57e206e42&nwid=10000040578&SIG=10v74lr3a;x-cookie=pfsp84174wxbo&o=4&f=na HTTP/1.1
+Accept: */*
+Referer: http://uac.advertising.com/wrapper/aceUACping.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: cms.ad.yieldmanager.net
+
+GET /v1/cms?esig=1~ed097b82db382a1fd455fb947bcd01b57e206e42&nwid=10000040578&SIG=10v74lr3a;x-cookie=pfsp84174wxbo&o=4&f=na HTTP/1.1
+Accept: */*
+Referer: http://uac.advertising.com/wrapper/aceUACping.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: cms.ad.yieldmanager.net
+
+HTTP/1.1 302 Found
+Date: Tue, 16 Aug 2011 02:16:43 GMT
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Set-Cookie: BX=csfc84174jkob&b=4&s=an&t=227;path=/; expires=Tue, 02-Jun-2037 20:00:00 GMT;domain=.yieldmanager.net
+Set-Cookie: S=s=5l5bfhh74jkob&t=1313461003;path=/; expires=
+Location: http://cmap.rm.ace.advertising.com/ycms.ashx?xid=7FB53f2K.IZX1Nh1KgfA_iYF
+Cache-Control: private
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/plain; charset=utf-8
+
+312    
+HTTP/1.1 302 Found
+Date: Tue, 16 Aug 2011 02:16:43 GMT
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Location: http://cmap.rm.ace.advertising.com/ycms.ashx?xid=7FB53f2K.IZX1Nh1KgfA_iYF
+Cache-Control: private
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+The document has moved <A HREF="http://cmap.rm.ace.advertising.com/ycms.ashx?xid=7FB53f2K.IZX1Nh1KgfA_iYF">here</A>.<P>
+<P>Additionally, a 302 Found
+error was encountered while trying to use an ErrorDocument to handle the request.
+<!-- tpi0060.rm.ch1.yahoo.com uncompressed/chunked Tue Aug 16 02:16:43 UTC 2011 -->
+
+0
+

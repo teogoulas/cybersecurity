@@ -1,0 +1,19 @@
+GET /CDN/184578/IWill-38216_160x600_B1.gif HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Tue, 09 Aug 2011 20:31:55 GMT
+If-None-Match: "48736e-a7a1-4aa18745c84c0"
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=Xx940013134341460039; ASCID=Xx940013134341460039; F1=BMiaJ5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA; BASE=REwEBwX8ot+5n1G!; ROLL=11QqM0gYBa78l6C!
+
+GET /CDN/184578/IWill-38216_160x600_B1.gif HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Tue, 09 Aug 2011 20:31:55 GMT
+If-None-Match: "48

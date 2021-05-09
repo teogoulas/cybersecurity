@@ -1,0 +1,93 @@
+220-mtaout-mb03.r1000.mx.aol.com ESMTP MUA/Third Party Client Interface
+220-AOL and its affiliated companies do not
+220-authorize the use of its proprietary computers and computer
+220-networks to accept, transmit, or distribute unsolicited bulk
+220-e-mail sent from the internet.
+220-Effective immediately:
+220-AOL may no longer accept connections from IP addresses
+220 which no reverse-DNS (PTR record) assigned.
+EHLO sarah_cooper5
+EHLO sarah_cooper5
+250-mtaout-mb03.r1000.mx.aol.com
+250-PIPELINING
+250-SIZE 36700160
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN XAOL-UAS-MB
+250-AUTH=PLAIN LOGIN XAOL-UAS-MB
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+c2FyYWhfY29vcGVyNQ==
+c2FyYWhfY29vcGVyNQ==
+334 UGFzc3dvcmQ6
+cW9wb211cmE4Ng==
+cW9wb211cmE4Ng==
+235 2.7.0 Authentication successful
+MAIL FROM: <sarah_cooper5@aol.com>
+MAIL FROM: <sarah_cooper5@aol.com>
+250 2.1.0 Ok
+RCPT TO: <me4@yahoo.com>
+RCPT TO: <me4@yahoo.com>
+250 2.1.5 Ok
+RCPT TO: <dldaudio@gmail.com>
+RCPT TO: <dldaudio@gmail.com>
+250 2.1.5 Ok
+DATA
+DATA
+354 End data with <CR><LF>.<CR><LF>
+Message-ID: <1991780021$1768718728$855521633@sarah_cooper5>
+From: "Lachman stamp" <sarah_cooper5@aol.com>
+To: <me4@yahoo.com>
+Subject: Nic oleSher ida nPosin gInBath room
+Date: Mon, 15 Aug 2011 16:49:53 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+"sYe ineeed, Lmietennt," awli#gs siId gra_ve. "erfy security-nSded, tdhe ca!ptin ijs.  ThRe aMte reaedy. Va6lley turnUe ro.un sleowly cknowledgIe Nich6ls's s!kechy sZalut. <br><a href="http://ILFnU22k4poo8fXX.hardcorewowoc.com?QqpzqGZGDgzW">http://QqpzqGZGDgzW.hMessage-ID: <1991780021$1768718728$855521633@sarah_cooper5>
+From: "Lachman stamp" <sarah_cooper5@aol.com>
+To: <me4@yahoo.com>
+Subject: Nic oleSher ida nPosin gInBath room
+Date: Mon, 15 Aug 2011 16:49:53 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+"sYe ineeed, Lmietennt," awli#gs siId gra_ve. "erfy security-nSded, tdhe ca!ptin ijs.  ThRe aMte reaedy. Va6lley turnUe ro.un sleowly cknowledgIe Nich6ls's s!kechy sZalut. <br><a href="http://ILFnU22k4poo8fXX.hardcorewowoc.com?QqpzqGZGDgzW">http://QqpzqGZGDgzW.hardcorew59518188owoc.com?BTcKNHDqszBNDmPxRVWt</a>  "Tten ien thKt aHse i'%s nIot neceosar," Hard(age aNid. TFher wece tiesT, I homugh, hebn Hadntger culDd bRe dwinrigt unpa$sant. "RepKor acak anyNthn y0ou ingd. Il0l lTay ofn a cvar fIor yu.4" <br></BODY></HTML>ardcorew59518188owoc.com?BTcKNHDqszBNDmPxRVWt</a>  "Tten ien thKt aHse i'%s nIot neceosar," Hard(age aNid. TFher wece tiesT, I homugh, hebn Hadntger culDd bRe dwinrigt unpa$sant. "RepKor acak anyNthn y0ou ingd. Il0l lTay ofn a cvar fIor yu.4" <br></BODY></HTML>
+.
+
+.
+250 2.0.0 Ok: queued as 6417FE0000C2
+421 4.4.2 mtaout-mb03.r1000.mx.aol.com Error: timeout exceeded

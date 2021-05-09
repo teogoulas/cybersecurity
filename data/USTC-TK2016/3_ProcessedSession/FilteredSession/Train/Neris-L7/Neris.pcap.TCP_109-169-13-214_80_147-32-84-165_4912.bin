@@ -1,0 +1,45 @@
+GET /adserver/www/delivery/afr.php?zoneid=14&cb=1313057512&ct0=http://ads.creafi-online-media.com/clk?3,eAGdjVFvgjAUhf8QQi-VrdrsoVKYGO-MrsTIG2tByECXWWLcr5.Rxh.gebjn5N7c7wDlkaZ1BYS-shCYpiUHCl8sohMD2iOc85BMQvZCSMS8MeztLLWb-TruDCXipvfaz-7JzZ3zRIi1SKX62OH5vvKNGNxxKD5PLj5jMebNlX.Ttd3x5wtQg0xmD6LMLyi.L4XKxsstEpSZRZV2GEODW.xbqpyiSs7YJ3SlFk2xf3y-eV5j7c80CEpz8vVvVdbt6Hjo2kM16ivTlr4-9sE.w1laoA==, HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://ad.yieldmanager.com/iframe3?41gtBFtRHQCld30AAAAAAGf.IAAAAAAAAAAAAAYAAAAAAAEAAQAFDTNYMwAAAAAA.dAuAAAAAAAuZSsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACMUhEAAAAAAAIAAwAAAAAARE0-h0PAzT9ETT6HQ8DNP-WdQxmq4tY.5Z1DGari1j8mjdE6qprhPyaN0TqqmuE.AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADeoST2Yo-MCsZj9n44he6FxS8KzIaRzOdWqBpxAAAAAA==,,http%3A%2F%2Fads.creafi-online-media.com%2F,B%3D10%26Z%3D728x90%26_salt%3D2794456547%26r%3D0%26s%3D1921371,52092e28-c402-11e0-a1c3-571102a792af
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: delivery.ctasnet.com
+Connection: Keep-Alive
+Cookie: OAID=2bceb3559c6c518ce7d28fa84324939e
+
+HTTP/1.0 200 OK
+X-Powered-By: PHP/5.2.17
+Pragma: no-cache
+Cache-Control: private, max-age=0, no-cache
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+P3P: CP="CUR ADM OUR NOR STA NID"
+Set-Cookie: OAID=2bceb3559c6c518ce7d28fa84324939e; expires=Fri, 10-Aug-2012 10:11:54 GMT; path=/
+Content-type: text/html; charset=UTF-8
+Date: Thu, 11 Aug 2011 10:11:54 GMT
+Server: lighttpd/1.4.26
+Content-Length: 5081
+Connection: close
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+<head>
+<title>Advertisement</title>
+<script type='text/javascript' src='http://delivery.ctasnet.com/adserver/www/delivery/fl.js'></script><style type='text/css'>
+body {margin:0; height:100%; background-color:transparent; width:100%; text-align:center;}
+</style>
+</head>
+<body>
+
+<div id='ox_e67c59d43b03fb74c3c3d79eb77ea54d' style='display: inline;'><a href='http://delivery.ctasnet.com/adserver/www/delivery/ck.php?oaparams=2__bannerid=3904__zoneid=14__OXLCA=1__cb=cf4113dbb4__oadest=http%3A%2F%2Fads.creafi-online-media.com%2Fclk%3F3%2CeAGdjVFvgjAUhf8QQi-VrdrsoVKYGO-MrsTIG2tByECXWWLcr5.Rxh.gebjn5N7c7wDlkaZ1BYS-shCYpiUHCl8sohMD2iOc85BMQvZCSMS8MeztLLWb-TruDCXipvfaz-7JzZ3zRIi1SKX62OH5vvKNGNxxKD5PLj5jMebNlX.Ttd3x5wtQg0xmD6LMLyi.L4XKxsstEpSZRZV2GEODW.xbqpyiSs7YJ3SlFk2xf3y-eV5j7c80CEpz8vVvVdbt6Hjo2kM16ivTlr4-9sE.w1laoA%3D%3D%2Chttps%253A%252F%252Fwww.rwe.cz%252Fcs%252Frwe-online-servis%252Fprihlaseni%252Findex' target='_blank'><img src='http://images.ctasnet.com/adserver/www/images/7496322eea5641e0ac34c6a237464f3c.gif' width='728' height='90' alt='' title='' border='0' /></a></div>
+<script type='text/javascript'><!--// <![CDATA[
+    var ox_swf = new FlashObject('http://images.ctasnet.com/adserver/www/images/4405e41b6c547a54faa057fc13e1f63b.swf', 'Advertisement', '728', '90', '8');
+    ox_swf.addVariable('clickTARGET', '_blank');
+    ox_swf.addVariable('clickTAG', 'http%3A%2F%2Fdelivery.ctasnet.com%2Fadserver%2Fwww%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D3904__zoneid%3D14__OXLCA%3D1__cb%3Dcf4113dbb4__oadest%3Dhttp%253A%252F%252Fads.creafi-online-media.com%252Fclk%253F3%252CeAGdjVFvgjAUhf8QQi-VrdrsoVKYGO-MrsTIG2tByECXWWLcr5.Rxh.gebjn5N7c7wDlkaZ1BYS-shCYpiUHCl8sohMD2iOc85BMQvZCSMS8MeztLLWb-TruDCXipvfaz-7JzZ3zRIi1SKX62OH5vvKNGNxxKD5PLj5jMebNlX.Ttd3x5wtQg0xmD6LMLyi.L4XKxsstEpSZRZV2GEODW.xbqpyiSs7YJ3SlFk2xf3y-eV5j7c80CEpz8vVvVdbt6Hjo2kM16ivTlr4-9sE.w1laoA%253D%253D%252Chttps%25253A%25252F%25252Fwww.rwe.cz%25252Fcs%25252Frwe-online-servis%25252Fprihlaseni%25252Findex');
+
+    ox_swf.addParam('allowScriptAccess','always');
+    ox_swf.write('ox_e67c59d43b03fb74c3c3d79eb77ea54d');
+    if (ox_swf.installedVer.versionIsValid(ox_swf.getAttribute('version'))) { document.write("<div id='beacon_cf4113dbb4' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://delivery.ctasnet.com/adserver/www/delivery/lg.php?bannerid=3904&amp;campaignid=769&amp;zoneid=14&amp;OXLIA=1&amp;loc=http%3A%2F%2Fad.yieldmanager.com%2Fiframe3%3F41gtBFtRHQCld30AAAAAAGf.IAAAAAAAAAAAAAYAAAAAAAEAAQAFDTNYMwAAAAAA.dAuAAAAAAAuZSsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACMUhEAAAAAAAIAAwAAAAAARE0-h0PAzT9ETT6HQ8DNP-WdQxmq4tY.5Z1DGari1j8mjdE6qprhPyaN0TqqmuE.AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADeoST2Yo-MCsZj9n44he6FxS8KzIaRzOdWqBpxAAAAAA%3D%3D%2C%2Chttp%253A%252F%252Fads.creafi-online-media.com%252F%2CB%253D10%2526Z%253D728x90%2526_salt%253D2794456547%2526r%253D0%2526s%253D1921371%2C52092e28-c402-11e0-a1c3-571102a792af&amp;cb=cf4113dbb4' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div>"); } else { document.write("<div id='beacon_cf4113dbb4' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://delivery.ctasnet.com/adserver/www/delivery/lg.php?bannerid=3904&amp;campaignid=769&amp;zoneid=14&amp;OXLIA=1&amp;loc=http%3A%2F%2Fad.yieldmanager.com%2Fiframe3%3F41gtBFtRHQCld30AAAAAAGf.IAAAAAAAAAAAAAYAAAAAAAEAAQAFDTNYMwAAAAAA.dAuAAAAAAAuZSsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACMUhEAAAAAAAIAAwAAAAAARE0-h0PAzT9ETT6HQ8DNP-WdQxmq4tY.5Z1DGari1j8mjdE6qprhPyaN0TqqmuE.AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADeoST2Yo-MCsZj9n44he6FxS8KzIaRzOdWqBpxAAAAAA%3D%3D%2C%2Chttp%253A%252F%252Fads.creafi-online-media.com%252F%2CB%253D10%2526Z%253D728x90%2526_salt%253D2794456547%2526r%253D0%2526s%253D1921371%2C52092e28-c402-11e0-a1c3-571102a792af&amp;oxfb=1&amp;cb=cf4113dbb4' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div>"); }
+// ]]> --></script><noscript><div id='beacon_cf4113dbb4' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://delivery.ctasnet.com/adserver/www/delivery/lg.php?bannerid=3904&amp;campaignid=769&amp;zoneid=14&amp;OXLIA=1&amp;loc=http%3A%2F%2Fad.yieldmanager.com%2Fiframe3%3F41gtBFtRHQCld30AAAAAAGf.IAAAAAAAAAAAAAYAAAAAAAEAAQAFDTNYMwAAAAAA.dAuAAAAAAAuZSsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACMUhEAAAAAAAIAAwAAAAAARE0-h0PAzT9ETT6HQ8DNP-WdQxmq4tY.5Z1DGari1j8mjdE6qprhPyaN0TqqmuE.AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADeoST2Yo-MCsZj9n44he6FxS8KzIaRzOdWqBpxAAAAAA%3D%3D%2C%2Chttp%253A%252F%252Fads.creafi-online-media.com%252F%2CB%253D10%2526Z%253D728x90%2526_salt%253D2794456547%2526r%253D0%2526s%253D1921371%2C52092e28-c402-11e0-a1c3-571102a792af&amp;oxfb=1&amp;cb=cf4113dbb4' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div></noscript>
+</body>
+</html>

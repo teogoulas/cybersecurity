@@ -1,0 +1,27 @@
+220-mtaout-mb02.r1000.mx.aol.com ESMTP MUA/Third Party Client Interface
+220-AOL and its affiliated companies do not
+220-authorize the use of its proprietary computers and computer
+220-networks to accept, transmit, or distribute unsolicited bulk
+220-e-mail sent from the internet.
+220-Effective immediately:
+220-AOL may no longer accept connections from IP addresses
+220 which no reverse-DNS (PTR record) assigned.
+EHLO brandon_morris8
+EHLO brandon_morris8
+250-mtaout-mb02.r1000.mx.aol.com
+250-PIPELINING
+250-SIZE 36700160
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN XAOL-UAS-MB
+250-AUTH=PLAIN LOGIN XAOL-UAS-MB
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+YnJhbmRvbl9tb3JyaXM4
+YnJhbmRvbl9tb3JyaXM4
+334 UGFzc3dvcmQ6
+cGFyd

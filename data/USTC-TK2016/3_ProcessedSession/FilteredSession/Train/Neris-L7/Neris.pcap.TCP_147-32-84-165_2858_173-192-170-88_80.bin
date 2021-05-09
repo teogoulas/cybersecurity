@@ -1,0 +1,21 @@
+GET /r.php?a=v&n=4368 HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; waoc)
+Host: www.lddwj.com
+Cache-Control: no-cache
+
+GET /r.php?a=v&n=4368 HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; waoc)
+Host: www.lddwj.com
+Cache-Control: no-cache
+
+GET /r.php?a=v&n=4368 HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; waoc)
+Host: www.lddwj.com
+Cache-Control: no-cache
+

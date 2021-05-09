@@ -1,0 +1,8 @@
+GET /im?jsonp=parent.org.cometd.script._Zdme6zLZg&message=%5B%7B%LG9vdEb6d%22%3A%221.0%22%2C%0VCV9pgQvcQPqpC6%22%3A%220.9%22%2C%hwbyvB6nX%22%3A%22%2Fmeta%2Fhandshake%22%2C%vHv7v8uyN7vqDxtbXNc8vvGaBu%22%3A%7B%220%22%3A%zCjfZqwAqq-mtgIqGU%22%7D%2C%22id%22%3A1%7D%5D&1392737836403 HTTP/1.1
+Host: 4.55.web1.im.weibo.com
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: SINAGLOBAL=3577000418698.744.6894794916432; UOR=www.google.com,www.weibo.com,login.sina.com.cn; _s_tentry=-; Apache=8854949249997.663.3922399927221; ULV=5023938636174:3:3:1:8854949249997.663.3922399927221:7880233908574; myuid=9231713023; SUB=qJrOjpsa21eTvlc6oX3%2B%2Fbx79ke%2BWRQDd16taV%

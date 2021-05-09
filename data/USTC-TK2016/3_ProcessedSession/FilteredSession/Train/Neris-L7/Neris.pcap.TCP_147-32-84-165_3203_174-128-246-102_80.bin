@@ -1,0 +1,12 @@
+GET / HTTP/1.0
+Host: 174.128.246.102
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; ru; rv:1.9.0.2) Gecko/2008092702 Gentoo Firefox/3.0.2
+
+GET / HTTP/1.0
+Host: 174.128.246.102
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; ru; rv:1.9.0.2) Gecko/2008092702 Gentoo Firefox/3.0.2
+

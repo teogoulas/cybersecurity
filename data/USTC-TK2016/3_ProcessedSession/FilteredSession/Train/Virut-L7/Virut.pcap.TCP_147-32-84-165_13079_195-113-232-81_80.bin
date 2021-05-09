@@ -1,0 +1,29 @@
+GET /7bd/7bd8285788a0413511580db6ab1b402b380c561c/5d0/5d0575e63aba9911eee5c9c833d44f3c.gif HTTP/1.1
+Accept: */*
+Referer: http://ib.adnxs.com/acb?member=541&width=160&height=600&pb=30&cb=1313460245&referrer=http://www.netygames.com/netgame.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Thu, 09 Jun 2011 13:50:57 GMT
+If-None-Match: "cc685-5cc-4a547be12b240"
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: i.xx.openx.com
+Connection: Keep-Alive
+
+GET /7bd/7bd8285788a0413511580db6ab1b402b380c561c/5d0/5d0575e63aba9911eee5c9c833d44f3c.gif HTTP/1.1
+Accept: */*
+Referer: http://ib.adnxs.com/acb?member=541&width=160&height=600&pb=30&cb=1313460245&referrer=http://www.netygames.com/netgame.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Thu, 09 Jun 2011 13:50:57 GMT
+If-None-Match: "cc685-5cc-4a547be12b240"
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: i.xx.openx.com
+Connection: Keep-Alive
+
+HTTP/1.1 304 Not Modified
+Content-Type: image/gif
+Last-Modified: Thu, 09 Jun 2011 13:50:57 GMT
+ETag: "cc685-5cc-4a547be12b240"
+Date: Tue, 16 Aug 2011 02:04:05 GMT
+Connection: keep-alive
+

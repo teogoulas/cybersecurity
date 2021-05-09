@@ -1,0 +1,29 @@
+GET /javafx-cache.jnlp HTTP/1.1
+accept-encoding: gzip
+User-Agent: JNLP/6.0 javaws/1.6.0_26 (b03) Java/1.6.0_26
+UA-Java-Version: 1.6.0_26
+Cache-Control: no-cache
+Pragma: no-cache
+Host: dl.javafx.com
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+Connection: keep-alive
+If-Modified-Since: Fri, 29 Apr 2011 20:25:19 GMT
+
+GET /javafx-cache.jnlp HTTP/1.1
+accept-encoding: gzip
+User-Agent: JNLP/6.0 javaws/1.6.0_26 (b03) Java/1.6.0_26
+UA-Java-Version: 1.6.0_26
+Cache-Control: no-cache
+Pragma: no-cache
+Host: dl.javafx.com
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+Connection: keep-alive
+If-Modified-Since: Fri, 29 Apr 2011 20:25:19 GMT
+
+HTTP/1.1 304 Not Modified
+X-Powered-By: Servlet/3.0
+Server: GlassFish v3
+Expires: Fri, 12 Aug 2011 10:36:36 GMT
+Cache-Control: public,max-age=172800
+Date: Wed, 10 Aug 2011 10:36:36 GMT
+

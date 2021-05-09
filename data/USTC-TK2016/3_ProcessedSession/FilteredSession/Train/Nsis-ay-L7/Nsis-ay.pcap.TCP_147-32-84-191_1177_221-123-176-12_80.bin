@@ -1,0 +1,15 @@
+GET /adpolestar/ways/%3bad%3dD89971C3_6C93_9EEF_A310_3EAE6C8B6611%3bap%3dAFED96DA_5124_74C9_1DF1_BE6C30A7B9D9%3bpu%3dflashget%3b/? HTTP/1.1
+Host: al.myrice.com
+User-Agent: Microsoft-ATL-Native/8.00
+
+GET /adpolestar/ways/%3bad%3dD89971C3_6C93_9EEF_A310_3EAE6C8B6611%3bap%3dAFED96DA_5124_74C9_1DF1_BE6C30A7B9D9%3bpu%3dflashget%3b/? HTTP/1.1
+Host: al.myrice.com
+User-Agent: Microsoft-ATL-Native/8.00
+
+HTTP/1.1 200 OK
+Date: Fri, 19 Aug 2011 09:16:22 GMT
+Server: Apache
+Content-Length: 0
+Connection: close
+Content-Type: text/plain
+

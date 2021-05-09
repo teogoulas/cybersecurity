@@ -1,0 +1,33 @@
+GET /imp?Z=300x250&s=1845729&_salt=3497036037&B=10&u=http%3A%2F%2Fpremiere.com%2F&r=0 HTTP/1.1
+Accept: */*
+Referer: http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=300x250&section=1845729
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: ad.yieldmanager.com
+Connection: Keep-Alive
+Cookie: BX=cn9i1ih74757k&b=4&s=oq&t=222; uid=uid=3f91c0a0-c3f5-11e0-a9d4-e79782f4b120&_hmacv=1&_salt=2056837655&_keyid=k1&_hmac=3a94e5a46225bd4c8c48743ed955a5aedb674f31; bh="b!!!!.!#/a/!!!!#=0*>=!#bA]!!!!.=0*]J!#dA)!!!!/=0*aw!#dNf!!!!*=0*bt!#eOU!!!!3=0*Zo!#eu?!!!!5=0*^V!$(7i!!!!3=0*bG!$(7j!!!!3=0*Zw!$(7l!!!!6=0*cp!$(7n!!!!)=0*c2!$(7y!!!!0=0*^+"; ih="b!!!!D!$`u>!!!!$=0*PS!)9aI!!!!#=0*@P!)9ac!!!!%=0*YH!.DXy!!!!#=0*=G!0E)=!!!!#=0*@j!1V$X!!!!$=0*F!!1u4u!!!!#=0*Z:!2(<+!!!!-=0*bG!2(<D!!!!1=0*cZ!2(<J!!!!-=0*cp!2(<d!!!!9=0*[u!2(<n!!!!/=0*a`!26Zk!!!!#=0*<G!26Zp!!!!$=0*Ep!2aWu!!!!#=0*=r!2b03!!!!'=0*FE!32j?!!!!$=0*ZO!34B2!!!!#=0*],!34Ea!!!!%=0*_+!3EKu!!!!#=0*>=!3HCj!!!!.=0*[1!3HD?!!!!1=0*c:!3HDW!!!!*=0*RM!3HEC!!!!*=0*Yk!3HEl!!!!+=0*[0!3X<X!!!!#=0*Ke!3eLo!!!!$=0*`d!3ppO!!!!#=0*A$!3sO/!!!!$=0*bv!4#x*!!!!#=0*?u!41qR!!!!#=0*<G!41rf!!!!$=0*<O"; vuday1=rw2G8r/DD=enp:%Q)+i!3IvP_%sjYgo(iq>H%84i*9IpK/.]2eo(iq>#Xj_.!/^/!`)jE7; liday1=oCyc)FnLgl1SUyUbQP=dfK4L4fRg^*L7?Q1h0D40D?1K!/)BVC2sLS91Q[c#3gpL+u:]$@Zq?FURP5=z%#opS8CObFY8*C':SOyrKbppH!<=75*@r)g%^3vT!/^/!)MaP'; pv1="b!!!!+!$6YB#A,e<!%-sx!3HD?!'(rB~!!QB(%nBY=![`s1!'X>^!(?vT~~~~~~=0*c:~M.jTN!!qU/#r*C<!$rD5!$`u>!#S/$!!!!$!?5%!%R%P3!w1K*!'d[+!$1vR!$362~~~~~=0*A-=4>+7M.jTN!!qU4#r*C<!$rD5!$`u>!#S/$!!!!$!?5%!%R%P3!w1K*!'d[+!$1vR!$362~~~~~=0*A-=4>+7M.jTN!$*GB#A,e<!%-tH!2(<J!%hep~!!5/$%nBY<!ZmB)!'X>3!'xIa~~~~~~=0*cp~M.jTN!#-@e!!!)*!%!KK!3EKu!%k=H!!!!$!?5%!%R%P3!w(E)!'s',!(:+o!(#i/~~~~~=0*>==0C67!!!#G!#-@f!!!)*!%!KK!3EKu!%k=H!!!!$!?5%!%R%P3!w(E)!'s',!(:+o!(#i/~~~~~=0*>==0C67!!!#G!#6g?!!!)*!%!KK!3EKu!%k=H!!!!$!?5%!%R%P3!w(E)!'s',!(:+o!(#i/~~~~~=0*>==0O2a!!!#G!!3uN!02iF!$f69!$`u>!!SXx!!H<'!!vZ,%nBY5!w1K*!(@Kp!$,]o!!kee~~~~~=0*PS=4>:^M.jTN"; lifb=t!SVuo,`]7vqHS'_qQY_HC`2X
+
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2011 09:33:17 GMT
+Server: YTS/1.18.4
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+X-RightMedia-Hostname: raptor0416.rm.ch1
+Set-Cookie: ih="b!!!!E!$`u>!!!!$=0*PS!)9aI!!!!#=0*@P!)9ac!!!!%=0*YH!.DXy!!!!#=0*=G!0E)=!!!!#=0*@j!1V$X!!!!$=0*F!!1u4u!!!!#=0*Z:!2(<+!!!!-=0*bG!2(<D!!!!1=0*cZ!2(<J!!!!-=0*cp!2(<d!!!!9=0*[u!2(<n!!!!/=0*a`!26Zk!!!!#=0*<G!26Zp!!!!$=0*Ep!2aWu!!!!#=0*=r!2b03!!!!'=0*FE!32j?!!!!$=0*ZO!34B2!!!!#=0*],!34Ea!!!!%=0*_+!3EKu!!!!#=0*>=!3HCj!!!!.=0*[1!3HD?!!!!1=0*c:!3HDW!!!!*=0*RM!3HEC!!!!*=0*Yk!3HEl!!!!+=0*[0!3X<X!!!!#=0*Ke!3eLo!!!!$=0*`d!3g9H!!!!#=0*d3!3ppO!!!!#=0*A$!3sO/!!!!$=0*bv!4#x*!!!!#=0*?u!41qR!!!!#=0*<G!41rf!!!!$=0*<O"; path=/; expires=Sat, 10-Aug-2013 09:33:17 GMT
+Set-Cookie: vuday1=rw2G9r/DD=enp:%Q)+i!3IvP_%sjYgo(iq>H%84i/.]2e*9IpK#Xj_.!/^/!Am9q]; path=/; expires=Fri, 12-Aug-2011 00:00:00 GMT
+Set-Cookie: BX=cn9i1ih74757k&b=4&s=oq&t=222; path=/; expires=Tue, 19-Jan-2038 03:14:07 GMT
+Set-Cookie: liday1=oCyc)FnLgl1SUyUbQP=d3ijc[fRg^*fK4L4L7?Q1h0D40D?1K!/)BVC2sLS91Q[c#3gpL+u:]$@Zq?FURP5=z%#opS8CObFY8*C':SOyrKbppH!<=75*@r)g%^3vT!/^/!ARv[i; path=/; expires=Fri, 12-Aug-2011 00:00:00 GMT
+Cache-Control: no-store
+Last-Modified: Thu, 11 Aug 2011 09:33:17 GMT
+Pragma: no-cache
+Content-Length: 1281
+Content-Type: application/x-javascript
+Age: 1
+Connection: close
+
+document.write('<object type=\"application/x-shockwave-flash\" data=\"http://content.yieldmanager.edgesuite.net/atoms/b7/1b/ae/aa/b71baeaa689a1e239956bab30a6577dc.swf?clickTag=http%3A%2F%2Fad%2Eyieldmanager%2Ecom%2Fclk%3F3%2CeAGljdsOgjAQRH%2DISOtWBRsfqlS0Yb1ElMib1IqiRGIwqF%2EvjfgDzsvsZHfPUOBm5xpoMboF7WySZsIp0MQBwjouWIRzDi5zWavN2lYHhBRTWYyER2aKiI8ChSr9jiIVSyHG3zBz3j70fCcK6j0u9L2%2D%2ENP6aXWTNePVV%2EOV1NXVk%2E0f3F%2EfJhESDI%2ENIMJHnGOJ4fCEA3qI%2EdUxiFS%2DznSF2RziTLLJ%2EPfZs6x9WRZd2y4uJj%2DYi2noc24%2EAUEfVYA%3D%2C\" height=\"250\" width=\"300\" loop=\"false\" wmode=\"opaque\"><param name=\"wmode\" value=\"opaque\"><param name=\"movie\" value=\"http://content.yieldmanager.edgesuite.net/atoms/b7/1b/ae/aa/b71baeaa689a1e239956bab30a6577dc.swf?clickTag=http%3A%2F%2Fad%2Eyieldmanager%2Ecom%2Fclk%3F3%2CeAGljdsOgjAQRH%2DISOtWBRsfqlS0Yb1ElMib1IqiRGIwqF%2EvjfgDzsvsZHfPUOBm5xpoMboF7WySZsIp0MQBwjouWIRzDi5zWavN2lYHhBRTWYyER2aKiI8ChSr9jiIVSyHG3zBz3j70fCcK6j0u9L2%2D%2ENP6aXWTNePVV%2EOV1NXVk%2E0f3F%2EfJhESDI%2ENIMJHnGOJ4fCEA3qI%2EdUxiFS%2DznSF2RziTLLJ%2EPfZs6x9WRZd2y4uJj%2DYi2noc24%2EAUEfVYA%3D%2C\" /></object>');
+var rm_data = new Object();
+rm_data.creative_id = 10304756;
+rm_data.offer_type = 60;
+rm_data.entity_id = 349584;
+if (window.rm_crex_data) {rm_crex_data.push(10304756);}

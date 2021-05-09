@@ -1,0 +1,24 @@
+GET /getjson?4pq7f6Ysq8rH6OYUFq1AZpw31KpOjecsbHnCmU5CoMXW HTTP/1.1
+Accept: */*
+Referer: http://premiere.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: splashpops.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 11 Aug 2011 09:34:35 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Expires: Thu Aug 11 08:34:35 2011
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+VTag: 3a4952f93b2e461930e60b12df1077c3
+
+12e
+document.write('<!-- BEGIN STANDARD TAG - 300 x 250 - http://premiere.com/: Run-of-site - DO NOT MODIFY --><IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=300 HEIGHT=250 SRC="http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=468x60&section=1845729"></IFRAME><!-- END TAG -->');
+0
+

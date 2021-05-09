@@ -1,0 +1,6 @@
+GET / HTTP/1.0
+Host: 174.128.246.102
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Opera/9.01 (X11; Linux i686; U; en)
+

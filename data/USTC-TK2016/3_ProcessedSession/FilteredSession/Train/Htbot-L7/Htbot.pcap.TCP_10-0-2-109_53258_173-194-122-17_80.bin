@@ -1,0 +1,28 @@
+GET /ads/conversion/988762304/?random=449161708&cv=7&fst=1425716845643&num=1&fmt=3&value=0&label=kmXTCIjFlAgQwKG91wM&guid=ON&u_h=960&u_w=1280&u_ah=930&u_aw=1280&u_cd=24&u_his=6&u_tz=60&u_java=false&u_nplug=4&u_nmime=12&frm=0&url=http%3A//www.russiancupid.com/en/home/showMenu%3Flogin%26registration%3D1&vis=1&async=1&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&cdct=2&convclickts=0&ocp_id=lbb6VJ7xAc2ZigbZtIHoBw&random=3669840358 HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:18.0) Gecko/20100101 Firefox/18.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.russiancupid.com/en/home/showMenu?login&registration=1
+Cookie: PREF=ID=4280e9ad3b78cd9f:TM=1425715694:LM=1425715694:S=vnqb5vZO9L9JxxjE; NID=67=RX4oTQmXcMEjj_29GXwOgvdDWpvg17YEBDnkurtaPhDOZojZef3Mb3dzyiRNQ1GDyipfTEuQA6kk_Z1w0LvLQV550jixXecSKodx3ewdRq0SRYN3zM7wfWoOWgn2JmW2
+Connection: 
+
+HTTP/1.1 302 Found
+Location: http://www.google.cz/ads/conversion/988762304/?random=449161708&cv=7&fst=1425716845643&num=1&fmt=3&value=0&label=kmXTCIjFlAgQwKG91wM&guid=ON&u_h=960&u_w=1280&u_ah=930&u_aw=1280&u_cd=24&u_his=6&u_tz=60&u_java=false&u_nplug=4&u_nmime=12&frm=0&url=http%3A//www.russiancupid.com/en/home/showMenu%3Flogin%26registration%3D1&vis=1&async=1&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&cdct=2&convclickts=0&ocp_id=lbb6VJ7xAc2ZigbZtIHoBw&random=3669840358&ipr=y
+Cache-Control: private, max-age=43200
+Date: Sat, 07 Mar 2015 08:28:09 GMT
+Expires: Sat, 07 Mar 2015 08:28:09 GMT
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Server: adclick_server
+Content-Length: 764
+X-XSS-Protection: 1; mode=block
+Alternate-Protocol: 80:quic,p=0.08
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="http://www.google.cz/ads/conversion/988762304/?random=449161708&amp;cv=7&amp;fst=1425716845643&amp;num=1&amp;fmt=3&amp;value=0&amp;label=kmXTCIjFlAgQwKG91wM&amp;guid=ON&amp;u_h=960&amp;u_w=1280&amp;u_ah=930&amp;u_aw=1280&amp;u_cd=24&amp;u_his=6&amp;u_tz=60&amp;u_java=false&amp;u_nplug=4&amp;u_nmime=12&amp;frm=0&amp;url=http%3A//www.russiancupid.com/en/home/showMenu%3Flogin%26registration%3D1&amp;vis=1&amp;async=1&amp;ctc_id=CAIVAgAAAB0CAAAA&amp;ct_cookie_present=false&amp;cdct=2&amp;convclickts=0&amp;ocp_id=lbb6VJ7xAc2ZigbZtIHoBw&amp;random=3669840358&amp;ipr=y">here</A>.
+</BODY></HTML>

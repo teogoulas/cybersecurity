@@ -1,0 +1,11 @@
+GET /www/delivery/ajs.php?zoneid=18802&block=1&blockcampaign=1&cb=68360347304&exclude=,bannerid:32360,campaignid:331,bannerid:42815,campaignid:2956,&charset=windows-1252&loc=http%3A//www.newcarus.com/aadd.html&context=YjozMjM2MCNjOjMzMSNiOjMyMzYwI2M6MzMxI2I6NDI4MTUjYzoyOTU2fA%3D%3D&mmm_fo=1 HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: ads.ad4game.com
+Connection: Keep-Alive
+Cookie: OAID=5d209a3e208eab92605bdd924dc100ae; OAGEO=CZ%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C; _OASCAP[42815]=1; _OABLOCK[42815]=1313473779; OABLOCK=32360.1313473779; OASCAP=32360.1
+
+GET /www/delivery/ajs.php?zoneid=18802&block=1&blockcampaign=1&cb=68360347304&exclude=

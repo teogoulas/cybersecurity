@@ -1,0 +1,14 @@
+POST /mail/mail.fpp?cnmn=Microsoft.Msn.Hotmail.Ui.Fpp.MailBox.GetInboxData&ptid=0&a=9dz3nNpe7oEI8PpK4UPRjg%3d%3d&au=13728909514695564783 HTTP/1.0
+x-requested-with: XMLHttpRequest
+Referer: http://bl154w.blu154.mail.live.com/mail/InboxLight.aspx?n=85221587461
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+x-fpp-command: 0
+mt: 01_940b77e92403bf7f37e04974e129aa5a2d2165274d439d80f13fb27a0da3cbb5|1b860a65c534dfcf
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: bl154w.blu154.mail.live.com
+Content-Length: 225
+Connection: close
+Cache-Control: no-cache
+Cookie: PPLState=1; RPSTAuth=EwDoARAnAAAUWkziSC7RbDJKS1VkhugDegv7L0eAABUTfw6/Zg4D5bubK59RISYTMVkbEHvuQrGSDW6ia8CQfi+ScoRk1N9jFydASYcbaPBjG31SD/1iafSp3mO

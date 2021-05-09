@@ -1,0 +1,21 @@
+GET /pub/firefox/releases/36.0.1/update/win32/en-US/firefox-36.0.1.complete.mar HTTP/1.1
+Host: download.cdn.mozilla.net
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:18.0) Gecko/20100101 Firefox/18.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Range: bytes=2400000-2699999
+Connection: 
+
+HTTP/1.1 206 Partial Content
+Server: Apache
+X-Backend-Server: ftp5.dmz.scl3.mozilla.com
+Content-Type: application/octet-stream
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+ETag: "4b6e074-2f34018-5108a67f46804"
+Last-Modified: Thu, 05 Mar 2015 13:18:39 GMT
+X-Cache-Info: cached
+Cache-Control: max-age=469884
+Expires: Thu, 12 Mar 2015 18:53:27 GMT
+Date: Sat, 07 Mar 2015 08:22:03 GMT
+Content-Range: bytes 2400000-26

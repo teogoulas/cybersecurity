@@ -1,0 +1,43 @@
+GET /is/content.yieldmanager.com?U=/ak/q.gif&V=3-8KL5g8XXifSDMPdvf284YxscNDH3ox61%2fuY7xd+CFA4Fqr3e2NNIyvYPuMXmVQaJvVsLGzNKGtw%3d&I=2A904A38716BBC9&D=content.yieldmanager.com&01AD=1& HTTP/1.1
+Accept: */*
+Referer: http://ads.creafi-online-media.com/st?ad_type=iframe&ad_size=160x600&section=1921338
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 18 Oct 2006 18:25:22 GMT
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: ak1.abmr.net
+
+HTTP/1.1 302 Moved Temporarily
+Content-Length: 0
+Location: http://content.yieldmanager.com/ak/q.gif?01AD=2-2-AF6F097965881A31C6460F281AA99F7923B7FE26A619A5560D49A33BCDE24530-7F9E48C42E16F6FC6AB5CDBA12DCB73C3A440AD0D859958C70DFE0A575D834D5&01RI=2A904A38716BBC9&01NA=na
+Expires: Thu, 11 Aug 2011 10:53:03 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Thu, 11 Aug 2011 10:53:03 GMT
+Connection: keep-alive
+Set-Cookie: 01AI=2-2-FB27E341D61B5019FA332E5C6EDF941CF15F3234A3CFDD5A179C8036BB047720-D1B626204D021FF9B49567811FA38779B8034613AC2232FEA91E0C48BD411CA5; expires=Fri, 10-Aug-2012 10:53:03 GMT; path=/; domain=.abmr.net
+P3P: policyref="http://www.abmr.net/w3c/policy.xml", CP="NON DSP COR CURa ADMa DEVa OUR SAMa IND"
+
+GET /is/content.yieldmanager.com?U=/ak/q.gif&V=3-phRyHIYAoQ+NZpDCIsmmQilSFh5kamNhTFNRoYKVrvYfJjI%2fQ26mFqzyqBAxHKi3axzrZHonTFI%3d&I=F9F13E480E95D46&D=content.yieldmanager.com&01AD=1& HTTP/1.1
+Accept: */*
+Referer: http://ads.creafi-online-media.com/st?ad_type=iframe&ad_size=728x90&section=1921368
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 18 Oct 2006 18:25:22 GMT
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Cookie: 01AI=2-2-FB27E341D61B5019FA332E5C6EDF941CF15F3234A3CFDD5A179C8036BB047720-D1B626204D021FF9B49567811FA38779B8034613AC2232FEA91E0C48BD411CA5
+Connection: Keep-Alive
+Host: ak1.abmr.net
+
+HTTP/1.1 302 Moved Temporarily
+Content-Length: 0
+Location: http://content.yieldmanager.com/ak/q.gif?01AD=2-2-69559C4E946A6E01FE45852DA6643F3351FD61141DB60A46214B0B38E571DA00-10198EE0A932862BAD8458755C61DD7D629FEA3B6B48367F13A332FE24C36651&01RI=F9F13E480E95D46&01NA=
+Expires: Thu, 11 Aug 2011 10:53:23 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Thu, 11 Aug 2011 10:53:23 GMT
+Connection: keep-alive
+Set-Cookie: 01AI=2-2-108DCA22AC937720A9C6E7399CA19B244F039F3130D293099B4F252BCE653748-FC5AD4403D8869F88C737AA44C86CD9C804E925B9560DDCAE15FEBE9C93A3435; expires=Fri, 10-Aug-2012 10:53:23 GMT; path=/; domain=.abmr.net
+P3P: policyref="http://www.abmr.net/w3c/policy.xml", CP="NON DSP COR CURa ADMa DEVa OUR SAMa IND"
+

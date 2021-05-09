@@ -1,0 +1,71 @@
+220 smtp109.mail.gq1.yahoo.com ESMTP
+EHLO jackiallennm
+EHLO jackiallennm
+250-smtp109.mail.gq1.yahoo.com
+250-AUTH LOGIN PLAIN XYMCOOKIE
+250-PIPELINING
+250 8BITMIME
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+amFja2lhbGxlbm5t
+amFja2lhbGxlbm5t
+334 UGFzc3dvcmQ6
+NDFtOTZ6NnMxazFy
+NDFtOTZ6NnMxazFy
+235 OK, go ahead
+MAIL FROM: <jackiallennm@yahoo.com>
+MAIL FROM: <jackiallennm@yahoo.com>
+250 OK , completed
+RCPT TO: <collistom@yahoo.ie>
+RCPT TO: <collistom@yahoo.ie>
+250 OK , completed
+RCPT TO: <qualitymog@yahoo.com>
+RCPT TO: <qualitymog@yahoo.com>
+250 OK , completed
+RCPT TO: <thmznn@yahoo.com>
+RCPT TO: <thmznn@yahoo.com>
+250 OK , completed
+RCPT TO: <lrrcdb@yahoo.com>
+RCPT TO: <lrrcdb@yahoo.com>
+250 OK , completed
+DATA
+DATA
+354 Start Mail. End with CRLF.CRLF
+Message-ID: <1926065928$1759439780$814404520@jackiallennm>
+From: "Nipu Uliot" <jackiallennm@yahoo.com>
+To: <collistom@yahoo.ie>
+Subject: FW:PharmacykOfkQualityMedskForkFastkAndkEasykOnliekShopping 
+Date: Mon, 15 Aug 2011 19:25:09 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+Liset http://Shabz-ahampnda.fileave.com?liwosozerut.mypubiny Camr y nMessage-ID: <1926065928$1759439780$814404520@jackiallennm>
+From: "Nipu Uliot" <jackiallennm@yahoo.com>
+To: <collistom@yahoo.ie>
+Subject: FW:PharmacykOfkQualityMedskForkFastkAndkEasykOnliekShopping 
+Date: Mon, 15 Aug 2011 19:25:09 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+Liset http://Shabz-ahampnda.fileave.com?liwosozerut.mypubiny Camr y n
+.
+
+.
+554 Transaction failed : Cannot send message due to possible abuse; please visit http://postmaster.yahoo.com/abuse_smtp.html for more information

@@ -1,0 +1,26 @@
+GET /ak/q.gif HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 18 Oct 2006 18:25:22 GMT
+Host: content.yieldmanager.com
+Connection: Keep-Alive
+
+GET /ak/q.gif HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 18 Oct 2006 18:25:22 GMT
+Host: content.yieldmanager.com
+Connection: Keep-Alive
+
+HTTP/1.1 304 Not Modified
+Content-Type: image/gif
+Last-Modified: Wed, 18 Oct 2006 18:25:22 GMT
+Cache-Control: max-age=120
+Date: Tue, 16 Aug 2011 05:49:37 GMT
+Connection: k

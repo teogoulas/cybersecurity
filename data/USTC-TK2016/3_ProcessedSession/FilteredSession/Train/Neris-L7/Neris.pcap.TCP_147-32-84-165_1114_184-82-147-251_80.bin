@@ -1,0 +1,62 @@
+POST /getjson HTTP/1.1
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+Host: slapcube.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+Content-Length: 425
+Connection: close
+Cache-Control: no-cache
+
+data=e/e6r8VdRlJajwxXJgogFVa9gSXExozmaI7cOYwrAvLDx2T2KL4nXdZonsue0ZZR73lEXxz8TzdT6x30edcsdwMJOdAF/VjVsWHF0Ey7zDJW9/s9JErJ0pfr82QY6b8HCgSuNaUqig4oVzoegrelySD3VSq0TCbovu/BtGCNh1dfVLBEgLu2dV5Dcdqog5Y2nCQzC5JnMsbhSghJlZaPMgi1C6wz11VnCQe0QyTZLq5d5joRxU5WDXTkBqEZ9w1ZTID3m49NKUm5Xh1G5KfM4Q+gzhHHPVLhN+hRDEhuFt9Eof+s82pfq1rXIOicAmNwuAUKljFeOnQaKE4eKeW/kWRAwASSK3njKQQU3N7hrAD7V0IRt3OHYRmyxRrsmCqFArwnx+DuITdFI56FrGrmrNrF8aamQy/N2UJAHTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Thu, 11 Aug 2011 08:55:15 GMT
+Content-Type: text/html
+Content-Length: 154
+Connection: close
+Expires: Thu Aug 11 07:55:15 2011
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: session=Zuqq4stGXQVYyBQEbFh2Qlqojy6Yl4fhcNWJaod/G6KVmg==
+Set-Cookie: id=YPGw9w==
+Set-Cookie: counter=8
+Set-Cookie: stime=ff2s+4Ed
+Location: http://splashpops.com/getjson?4pq7f6Mkx6TQp/9ZGqhDf4E2yLxCl/grb2qDm0QQ3tw=
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+POST /getjson HTTP/1.1
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+Host: slapcube.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+Content-Length: 457
+Connection: close
+Cache-Control: no-cache
+
+data=e/e6r8VdRlJajwxXJgogFVa9gSXExozmaI7cOYwrAvLDx2T2KL4nXdZonsue0ZZR73lEXxz8TzdT6x30edcsdwMJOdAF/VjYsWHF0Ey7zDJW9/s9JErJ0pfr82QY6b8HCgSuNaUqig4oVzkdh7Gv3SjzCWe4TnHjvOvDu3fHikVYQbJEhq22NFENO4bvg5sngTcoS4RlYsvsXkIYzdLbaF/1QO1rgR4iDQiyWniLbPcU+2JBhRsLRXfsRu9BrlNCE8fgioxbOh24X04R9/6fpBy1yA7PPFupZalQVE91XJdZ6OS6sHldr1rJILmwA35stQ4OhGAeJyFBbVQAPPaqn2NC0QL/CVDDAEhD3dr0vHe6WkkTsGHTRi/+lQ/97lmfEa04z7OxPCFZKtrK4zn00r/U6LqnQj2qtUJQ9vl6AhVJ0ej7zjaD5a9U4q8zi0LZx/0HHTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Thu, 11 Aug 2011 09:17:20 GMT
+Content-Type: text/html
+Content-Length: 154
+Connection: close
+Expires: Thu Aug 11 08:17:20 2011
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: session=Zuqq4stGXQVYyBQEbFh2Qlqojy6Yl4fhcNWJaod/G6KVmg==
+Set-Cookie: id=YPGw9w==
+Set-Cookie: counter=8
+Set-Cookie: stime=ff2s+4Ed
+Location: http://encyclopedialinks.com/getjson?4pq7f6UrqMrH6OYUFq1AZpw31KpOjecsbHnCmU5CoMXW
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

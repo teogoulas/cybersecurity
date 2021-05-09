@@ -1,0 +1,26 @@
+GET /pixel?nid=appnexus1 HTTP/1.1
+Accept: */*
+Referer: http://myanimalclips.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cm.g.doubleclick.net
+Connection: Keep-Alive
+Cookie: id=2215573a40010074||t=1312456026|et=730|cs=002213fd48606e1ce26bbc88b9
+
+HTTP/1.1 302 Found
+Location: http://adx.adnxs.com/mapuid?member=181&user=CAESEPsa6MoKV_SwtRkm0foiPqg&cver=1
+Cache-Control: no-store, no-cache
+Pragma: no-cache
+Date: Thu, 11 Aug 2011 08:53:29 GMT
+Content-Type: text/html; charset=UTF-8
+Server: Cookie Matcher
+Content-Length: 283
+X-XSS-Protection: 1; mode=block
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="http://adx.adnxs.com/mapuid?member=181&amp;user=CAESEPsa6MoKV_SwtRkm0foiPqg&amp;cver=1">here</A>.
+</BODY></HTML>

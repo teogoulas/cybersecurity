@@ -1,0 +1,29 @@
+GET /is/r1-ads.ace.advertising.com?U=/ctst=1/site=796404/size=160600/u=2/bnum=20188348/hr=15/hl=0/c=2/scres=2/swh=640x480/tile=1/f=0/r=1/optn=1/fv=6/aolexp=1/dref=http%253A%252F%252Fwww.generalamuse.com%252Fgen.php&V=3-GKsbnOIHA1idL+o80fiY8Yk%2fK7h1Zm5i9b3XUeZq+TEqM1vA5GjWsUiuZPPxe6MCg58OyvMGpqg%3d&I=BD92408BA80905C&D=r1.ace.advertising.com&01AD=1& HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ak1.abmr.net
+Connection: Keep-Alive
+
+GET /is/r1-ads.ace.advertising.com?U=/ctst=1/site=796404/size=160600/u=2/bnum=20188348/hr=15/hl=0/c=2/scres=2/swh=640x480/tile=1/f=0/r=1/optn=1/fv=6/aolexp=1/dref=http%253A%252F%252Fwww.generalamuse.com%252Fgen.php&V=3-GKsbnOIHA1idL+o80fiY8Yk%2fK7h1Zm5i9b3XUeZq+TEqM1vA5GjWsUiuZPPxe6MCg58OyvMGpqg%3d&I=BD92408BA80905C&D=r1.ace.advertising.com&01AD=1& HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ak1.abmr.net
+Connection: Keep-Alive
+
+HTTP/1.1 302 Moved Temporarily
+Content-Length: 0
+Location: http://r1-ads.ace.advertising.com/ctst=1/site=796404/size=160600/u=2/bnum=20188348/hr=15/hl=0/c=2/scres=2/swh=640x480/tile=1/f=0/r=1/optn=1/fv=6/aolexp=1/dref=http%253A%252F%252Fwww.generalamuse.com%252Fgen.php?01AD=3pfwEIoh5s1fHuSUq8arPBKoac93jTqZoYY9GYErhvtxNwhAqiKWr8A&01RI=BD92408BA80905C&01NA=na
+Expires: Wed, 10 Aug 2011 12:01:24 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 10 Aug 2011 12:01:24 GMT
+Connection: keep-alive
+Set-Cookie: 01AI=2-2-ABAAE01B6F693677C5C19D1908558E66B5FF0F26326A8B2969EDB80B12FBAF49-28839132A981A00E4BFABC403D9867D22D42D0C877A8C5213AEACB1CA51D1138; expires=Thu, 09-Aug-2012 12:01:24 GMT; path=/; domain=.abmr.net
+P3P: policyref="http://www.abmr.net/w3c/policy.xml", CP="NON DSP COR CURa ADMa DEVa OUR SAMa IND"
+

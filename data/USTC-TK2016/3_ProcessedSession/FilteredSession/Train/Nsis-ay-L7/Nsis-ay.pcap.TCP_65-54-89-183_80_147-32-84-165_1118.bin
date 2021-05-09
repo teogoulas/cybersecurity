@@ -1,0 +1,29 @@
+GET /msdownload/update/v3/static/trustedr/en/authrootseq.txt HTTP/1.1
+Accept: */*
+User-Agent: Microsoft-CryptoAPI/5.131.2600.2180
+Host: www.download.windowsupdate.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Pragma: no-cache
+
+GET /msdownload/update/v3/static/trustedr/en/authrootseq.txt HTTP/1.1
+Accept: */*
+User-Agent: Microsoft-CryptoAPI/5.131.2600.2180
+Host: www.download.windowsupdate.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Pragma: no-cache
+
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Accept-Ranges: bytes
+ETag: "08dcd312b1bcc1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Content-Length: 18
+Age: 156588
+Date: Fri, 19 Aug 2011 08:43:36 GMT
+Last-Modified: Wed, 25 May 2011 22:29:22 GMT
+Connection: keep-alive
+
+1401CC1B2B31D19599

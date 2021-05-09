@@ -1,0 +1,11 @@
+GET /st?anmember=541&anprice=&ad_type=ad&ad_size=728x90&section=2056437&referrer=http://www.netygames.com/netgame.html HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ad.yieldmanager.com
+Connection: Keep-Alive
+Cookie: ih="b!!!!$!0vq+!!!!#=0a@K!3J*R!!!!#=0a@K"; vuday1=!!!!$!7/9q$jaL<; BX=8u7ll2174irh1&b=4&s=oa&t=226; uid=uid=a2a74db6-c771-11e0-9430-9f6df386650a&_hmacv=1&_salt=3227003844&_keyid=k1&_hmac=f8f0f3bad620ac38dbba47e8fd353a93acd03c4f; liday1='W2EZb1q+F!7/9qlaH2I
+
+GET /st?anmember=541&anprice=&ad_type=ad&ad_size=728x90&section=2056437&referrer=http://www.netyga

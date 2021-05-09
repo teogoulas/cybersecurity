@@ -1,0 +1,23 @@
+GET /js/engine.jsp?divid=lm100fen491&rid=491&wid=22660&w=0&h=0&stype=2&minute=0 HTTP/1.1
+Accept: */*
+Referer: http://www.houdao8.cn/ad/ad.html?99
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: engine.100fenlm.cn
+Connection: Keep-Alive
+
+GET /js/engine.jsp?divid=lm100fen491&rid=491&wid=22660&w=0&h=0&stype=2&minute=0 HTTP/1.1
+Accept: */*
+Referer: http://www.houdao8.cn/ad/ad.html?99
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: engine.100fenlm.cn
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: nginx/0.8.34
+Date: Fri, 19 Aug 2011 08:47:45 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encodin

@@ -1,0 +1,56 @@
+GET /p6.asp?MAC=08-00-27-B5-B7-19&Publicer=dc99 HTTP/1.1
+Host: 1.95622.com
+User-Agent: ClickAdsByIE 0.9.10
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.5
+Referer: http://1.95622.com/p6.asp
+Content-Type: application/x-www-form-urlencoded
+Connection: Close
+
+GET /p6.asp?MAC=08-00-27-B5-B7-19&Publicer=dc99 HTTP/1.1
+Host: 1.95622.com
+User-Agent: ClickAdsByIE 0.9.10
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.5
+Referer: http://1.95622.com/p6.asp
+Content-Type: application/x-www-form-urlencoded
+Connection: Close
+
+HTTP/1.1 500 Server Error
+Connection: close
+Date: Wed, 10 Aug 2011 10:40:21 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Content-Type: text/html
+Content-Length: 1583
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>The page cannot be displayed</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=Windows-1252">
+<STYLE type="text/css">
+  BODY { font: 8pt/12pt verdana }
+  H1 { font: 13pt/15pt verdana }
+  H2 { font: 8pt/12pt verdana }
+  A:link { color: red }
+  A:visited { color: maroon }
+</STYLE>
+</HEAD><BODY><TABLE width=500 border=0 cellspacing=10><TR><TD>
+
+<h1>The page cannot be displayed</h1>
+The request cannot be processed at this time. The amount of traffic exceeds the Web site's configured capacity.
+<hr>
+<p>Please try the following:</p>
+<ul>
+<li>Click the <a href="javascript:location.reload()">Refresh</a> button, or try again later.</li>
+<li>If this error persists, contact the Web site administrator to inform them that this error continues to occur for this URL address.</li>
+</ul>
+<h2>HTTP Error 500.13 - Server error: Web server is too busy.<br>Internet Information Services (IIS)</h2>
+<hr>
+<p>Technical Information (for support personnel)</p>
+<ul>
+<li>Go to <a href="http://go.microsoft.com/fwlink/?linkid=8180">Microsoft Product Support Services</a> and perform a title search for the words <b>HTTP</b> and <b>500</b>.</li>
+<li>Open <b>IIS Help</b>, which is accessible in IIS Manager (inetmgr),
+ and search for topics titled <b>Monitoring and Tuning Web Application Performance</b>, <b>Performance Monitoring and Scalability Tools</b>, and <b>About Custom Error Messages</b>.</li>
+</ul>
+
+</TD></TR></TABLE></BODY></HTML>

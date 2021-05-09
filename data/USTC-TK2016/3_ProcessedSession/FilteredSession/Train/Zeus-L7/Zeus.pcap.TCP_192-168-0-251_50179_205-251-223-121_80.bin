@@ -1,0 +1,114 @@
+GET /site_stats/js/s/a?url=www.claimfans.com HTTP/1.1
+Accept: */*
+Referer: http://www.claimfans.com/index.php
+Accept-Language: en-US
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Accept-Encoding: gzip, deflate
+Host: xslt.alexa.com
+Connection: Keep-Alive
+
+GET /site_stats/js/s/a?url=www.claimfans.com HTTP/1.1
+Accept: */*
+Referer: http://www.claimfans.com/index.php
+Accept-Language: en-US
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Accept-Encoding: gzip, deflate
+Host: xslt.alexa.com
+Connection: Keep-Alive
+
+HTTP/1.0 200 OK
+x-amz-id-2: VS79t7nrelL4UQYnwszrZfmxn5UQnnNDgRMK+r8JsliPA6YJYDjbLiLL6ux82Cl2
+x-amz-request-id: F3B5925534FDD374
+Date: Tue, 21 Feb 2012 19:19:55 GMT
+x-amz-meta-s3fox-filesize: 3153
+x-amz-meta-s3fox-modifiedtime: 1291757166000
+Last-Modified: Sat, 11 Dec 2010 00:35:05 GMT
+ETag: "f4022b30d2ad8a3755b6e53f31c63252"
+Accept-Ranges: bytes
+Content-Type: application/x-javascript
+Content-Length: 3153
+Server: AmazonS3
+Age: 68358
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Id: PcxpZuoWMxLaAH_R40oLxAdBqHCBsIRDEXq8VinoftheNqNDG4RcHQ==
+Via: 1.0 6d0b7fbec7b2e7d8f380c904ac357cf3.cloudfront.net (CloudFront)
+Connection: keep-alive
+
+function AlexaSiteStatsWidget(){
+    var keyStr = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";
+    var jsUrlRegex = /http:\/\/xslt.alexa.com\/site_stats\/js\/(.)\/(.).*(?:[\?&]|&amp;)url=([^\?&]*)/i;
+    var jsAmznIdRegex = /http:\/\/xslt.alexa.com\/site_stats\/js\/.*[\?&]amzn_id=([^\?&]*)/i;
+    var imageSrcPrefix = "http://xsltcache.alexa.com/site_stats/gif/";
+    var detailURLPrefix = "http://www.alexa.com/data/details/main";
+
+    this.replaceScripts = function replaceScripts(){
+        var scriptElements = document.getElementsByTagName("script");
+        var thisScript = scriptElements[scriptElements.length - 1];
+        var scriptSource = thisScript.src;
+        if(scriptSource != null){
+            var urlMatched = scriptSource.match(jsUrlRegex);
+            var decodedURL = decodeURIComponent(urlMatched[3]);
+            if(urlMatched != null){
+                var associatedMatched = scriptSource.match(jsAmznIdRegex);
+                var base64EncodedURL = encode64(decodedURL);
+                var imageURL = imageSrcPrefix + urlMatched[1] + "/" + urlMatched[2] + "/" +
+                           base64EncodedURL + "/s.gif";
+                var img = new Image();
+                var fullURL = getFullURL(decodedURL);
+                img.src = imageURL;
+                img.setAttribute('border', '0');
+                if(urlMatched[1] == "s")
+                    img.alt = "Alexa Certified Traffic Ranking for " + decodedURL;
+                else
+                    img.alt = "Alexa Certified Site Stats for " + decodedURL;
+                var newLink=document.createElement('a');
+                var detailURL = detailURLPrefix;
+                if(associatedMatched != null)
+                    detailURL = detailURL + "?amzn_id=" + associatedMatched[1] + "&url=" + fullURL;
+                else
+                    detailURL = detailURL + "?url=" + fullURL;
+                newLink.setAttribute('href', detailURL);
+                newLink.className='AlexaSiteStatsWidget';
+                newLink.appendChild(img);
+                thisScript.parentNode.insertBefore(newLink,thisScript);
+            }
+        }
+    }
+   
+    function getFullURL(inputURL){
+        if(inputURL.substring(0,5).toLowerCase() != "http:")
+            return "http://" + inputURL;
+        else return inputURL; 
+    }
+
+    function encode64(input) {
+       var output = "";
+       var chr1, chr2, chr3;
+       var enc1, enc2, enc3, enc4;
+       var i = 0;
+
+       do {
+          chr1 = input.charCodeAt(i++);
+          chr2 = input.charCodeAt(i++);
+          chr3 = input.charCodeAt(i++);
+
+          enc1 = chr1 >> 2;
+          enc2 = ((chr1 & 3) << 4) | (chr2 >> 4);
+          enc3 = ((chr2 & 15) << 2) | (chr3 >> 6);
+          enc4 = chr3 & 63;
+
+          if (isNaN(chr2)) {
+             enc3 = enc4 = 64;
+          } else if (isNaN(chr3)) {
+             enc4 = 64;
+          }
+
+          output = output + keyStr.charAt(enc1) + keyStr.charAt(enc2) + 
+          keyStr.charAt(enc3) + keyStr.charAt(enc4);
+       } while (i < input.length);
+       
+       return output;
+    }
+}
+
+new AlexaSiteStatsWidget().replaceScripts();

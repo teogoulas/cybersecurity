@@ -1,0 +1,12 @@
+GET /imp?Z=300x250&anmember=541&anprice=&referrer=http%3a%2f%2fwww.netygames.com%2fnetgame.html&s=2056437&_salt=1068849096&B=10&u=http%3A%2F%2Fwww.netygames.com%2Fnetgame.html&r=1&SIG=10vrkbqhk;x-cookie=n68p3dg74513w&o=4&f=bz HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Connection: Keep-Alive
+Host: ad.yieldmanager.com
+
+GET /imp?Z=300x250&anmember=541&anprice=&referrer=http%3a%2f%2fwww.netygames.com%2fnetgame.html&s=2056437&_salt=1068849096&B=10&u=http%3A%2F%2Fwww.netygames.com%2Fnetgame.html&r=1&SIG=10vrkbqhk;x-cookie=n68p3dg74513w&o=4&f=bz HTTP/1.1
+Accept: */*
+Referer:

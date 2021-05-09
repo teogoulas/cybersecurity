@@ -1,0 +1,28 @@
+GET /1.gif?cache=384&pre=http%3A%2F%2Fwww.taobao.com%2Fgo%2Fact%2Fmmbd%2Fpd011.php%3Fpid%3Dmm_15190792_2147655_8533566%26refpos%3D%2Ca%2Cnull HTTP/1.1
+Accept: */*
+Referer: http://cdn.tanx.com/t/acookie/acbeacon2.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: acookie.tanx.com
+Connection: Keep-Alive
+
+GET /1.gif?cache=384&pre=http%3A%2F%2Fwww.taobao.com%2Fgo%2Fact%2Fmmbd%2Fpd011.php%3Fpid%3Dmm_15190792_2147655_8533566%26refpos%3D%2Ca%2Cnull HTTP/1.1
+Accept: */*
+Referer: http://cdn.tanx.com/t/acookie/acbeacon2.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: acookie.tanx.com
+Connection: Keep-Alive
+
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Fri, 19 Aug 2011 08:48:22 GMT
+Content-Type: image/gif
+Transfer-Encoding: chunked
+Connection: close
+Location: http://hz.mmstat.com/a?XzOzGe85AA=1632113337&K9g5CWjDh9=X1Mm6OmjxHVcK38lJ8ma5m70ra0BGxDJwejNK.fl-Bx.CYhOJnjpUEU3u7SJ4tOXgJdlw6opH3a6qI1svqqBrViXU5o-0E4M60nL13sxihnZLcHuAyeoTjjoKFNiClwWh80eJEfedQ6eWvR2dhbPkNpOKbZXWZlZbwe45zVME0qN363.85hojmPO95CaVI.oDl0KPIUCpRVOstFoHvyDNiJD53Y--mnX
+
+0
+

@@ -1,0 +1,189 @@
+GET /css/themes/blue.css HTTP/1.1
+Accept: */*
+Referer: http://www.claimfans.com/index.php
+Accept-Language: en-US
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Accept-Encoding: gzip, deflate
+Host: www.claimfans.com
+Connection: Keep-Alive
+Cookie: PHPSESSID=6d3397c649c59e55ec9753a63042ca75; PlusREF=60934
+
+GET /css/themes/blue.css HTTP/1.1
+Accept: */*
+Referer: http://www.claimfans.com/index.php
+Accept-Language: en-US
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Accept-Encoding: gzip, deflate
+Host: www.claimfans.com
+Connection: Keep-Alive
+Cookie: PHPSESSID=6d3397c649c59e55ec9753a63042ca75; PlusREF=60934
+
+HTTP/1.1 200 OK
+Date: Tue, 29 May 2012 08:27:58 GMT
+Server: Apache
+Last-Modified: Tue, 06 Dec 2011 21:44:41 GMT
+Accept-Ranges: bytes
+Content-Length: 6964
+Connection: close
+Content-Type: text/css
+
+/*Soft blue*/
+.cont.soft-blue .wrapper .date_selector td.selected {
+	background: #2D768B;
+	color: #fff;
+	font-weight: bold;
+	}
+.cont.soft-blue .wrapper .date_selector td.today {
+	background: #5CB3CB;
+	color: #2D768B;
+}
+.cont.soft-blue .wrapper .date_selector td.selectable.listing_day:hover, .cont.soft-blue .wrapper .block .date_selector td.selectable_day.hover {
+	background: #2D768B;
+}
+.cont.soft-blue .menu{
+	background: url('../../img/menu_bg_blue.jpg') repeat-x;
+}
+.cont.soft-blue .menu .menu-wrap .search input.search{
+	background: url('../../img/search_bg_blue.png') no-repeat;
+}
+.cont.soft-blue .menu .menu-wrap .login span.ico{
+	background: url('../../img/login_bg_blue.png') no-repeat;
+}
+.cont.soft-blue .wrapper .block.medium .top h1{
+   border-bottom: solid 1px #256171;
+	text-shadow: 0 1px 0 #1A434F;
+
+   background: #309dc8;
+   background: -webkit-gradient(linear, left top, left bottom, from(#309dc8), to(#195aa8)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #309dc8, #195aa8); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #309dc8, #195aa8); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#309dc8, endColorstr=#195aa8);
+}
+.cont.soft-blue .wrapper .block.medium .top ul li a{
+	text-shadow: 0 1px 1px #1A434F;
+}
+
+.cont.soft-blue .wrapper .block .content h2{
+   color:#2D768A;
+}
+.cont.soft-blue .wrapper .block.medium .top h2{
+	border-bottom: solid 1px #256171;
+	text-shadow: 0 1px 0 #1A434F;
+
+   background: #a1a1a1;
+   background: -webkit-gradient(linear, left top, left bottom, from(#a1a1a1), to(#646464)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #a1a1a1, #646464); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #a1a1a1, #646464); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#a1a1a1, endColorstr=#646464);
+}
+.cont.soft-blue .menu .menu-wrap .login .details .top{
+	border-bottom: solid 1px #DFDFDF;
+
+	background: #E3E3E3;
+   background: -webkit-gradient(linear, left top, left bottom, from(#FBFBFB), to(#E3E3E3)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #FBFBFB, #E3E3E3); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #FBFBFB, #E3E3E3); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FBFBFB, endColorstr=#E3E3E3);
+}
+.cont.soft-blue .menu .menu-wrap .login .details .bottom{
+	border-bottom: none;
+
+	background: #E3E3E3;
+   background: -webkit-gradient(linear, left top, left bottom, from(#FBFBFB), to(#E3E3E3)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #FBFBFB, #E3E3E3); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #FBFBFB, #E3E3E3); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FBFBFB, endColorstr=#E3E3E3);
+}
+.cont.soft-blue .menu .menu-wrap .login .details .top .line.name{
+	color:#666666;
+}
+.cont.soft-blue .menu .menu-wrap .login .details .top .line.email{
+	color:#666666;
+}
+.cont.soft-blue .menu .menu-wrap .login .details .top .line a {
+	color:#666666;
+}
+.cont.soft-blue .menu .menu-wrap .login .details .top img{
+	border: solid 1px #cccccc;
+
+	-moz-box-shadow:0 1px 0 #eeeeee;
+   -webkit-box-shadow:0 1px 0 #eeeeee;
+   -box-shadow:0 1px 0 #eeeeee;
+}
+.cont.soft-blue .menu .menu-wrap .login .details .bottom .line a {
+    color: #666666;
+    text-shadow: 0 0.01em 0.008em #e4e4e4;
+}
+.cont.soft-blue .menu .menu-wrap .login .details .bottom .line a:hover {
+    color: white;
+    text-shadow: 0 1px 0 rgba(0,0,0,0.5);
+}
+.cont.soft-blue .menu .menu-wrap .login .details .top .bbg{
+	background: url('../../img/login_gray_bg.png') no-repeat;
+}
+.cont.soft-blue .menu .menu-wrap .login .details .bottom .line a {
+	background-image: url('../../img/login_line_gray_bg.png');
+}
+.cont.soft-blue .menu .menu-wrap .login .details .bottom .line:last-child a{
+	background-image: none;
+}
+.cont.soft-blue .menu .menu-wrap .login .details .top .pointer{
+	background: url('../../img/login_pointer_gray.png') no-repeat;
+}
+.cont.soft-blue .wrapper .block.large .top h1{
+	border-bottom: solid 1px #256171;
+	text-shadow: 0 1px 0 #1A434F;
+
+   background: #a1a1a1;
+   background: -webkit-gradient(linear, left top, left bottom, from(#a1a1a1), to(#646464)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #a1a1a1, #646464); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #a1a1a1, #646464); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#a1a1a1, endColorstr=#646464);
+}
+.cont.soft-blue .wrapper .block.large .top{
+   background: url('../../img/top_bg_blue.png') no-repeat left top, url('../../img/h1_bg_blue.png') no-repeat right top;
+}
+.cont.soft-blue .wrapper .block.large .top input.search{
+	background: url('../../img/search_bg_blue.png') no-repeat;
+}
+.cont.soft-blue .wrapper .block.large .top h2{
+	border-bottom: solid 1px #256171;
+	text-shadow: 0 1px 0 #1A434F;
+
+   background: #a1a1a1;
+   background: -webkit-gradient(linear, left top, left bottom, from(#a1a1a1), to(#646464)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #a1a1a1, #646464); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #a1a1a1, #646464); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#a1a1a1, endColorstr=#646464);
+}
+.cont.soft-blue .wrapper .block.medium .top input.search{
+	background: url("../../img/search_bg_blue.png") no-repeat;
+}
+.cont.soft-blue .wrapper .block  span.action {
+  background: url('../../img/upload_blue.png') no-repeat;
+}
+.cont.soft-blue .wrapper div.uploader:hover span.action {
+  background: url('../../img/upload_blue.png') no-repeat 0 -35px;
+}
+.cont.soft-blue .wrapper div.uploader.active span.action,
+.cont.soft-blue .wrapper div.uploader:hover span.action {
+ background: url('../../img/upload_blue.png') no-repeat 0 -35px;
+}
+.cont.soft-blue .wrapper .sidebar .block .content ul li a.active,
+.cont.soft-blue .wrapper .sidebar .block .content ul li a:hover{
+   background: #2D7285;
+   background: -webkit-gradient(linear, left top, left bottom, from(#2D7285), to(#338097)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #2D7285, #338097); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #2D7285, #338097); /* for firefox 3.6+ */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#2D7285, endColorstr=#338097);
+}
+.cont.soft-blue .ui-autocomplete .ui-menu-item a.ui-state-hover{
+
+   background: #2E7489;
+   background: -webkit-gradient(linear, left top, left bottom, from(#2E7489), to(#4DA4BF)); /* for webkit browsers */
+   background: -moz-linear-gradient(top,  #2E7489, #4DA4BF); /* for firefox 3.6+ */
+   background: -o-linear-gradient(top,  #2E7489, #4DA4BF); /* for opera */
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#2E7489, endColorstr=#4DA4BF);
+}
+
+

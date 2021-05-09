@@ -1,0 +1,89 @@
+220-mtaout-db01.r1000.mx.aol.com ESMTP MUA/Third Party Client Interface
+220-AOL and its affiliated companies do not
+220-authorize the use of its proprietary computers and computer
+220-networks to accept, transmit, or distribute unsolicited bulk
+220-e-mail sent from the internet.
+220-Effective immediately:
+220-AOL may no longer accept connections from IP addresses
+220 which no reverse-DNS (PTR record) assigned.
+EHLO joshua_kennedy22
+EHLO joshua_kennedy22
+250-mtaout-db01.r1000.mx.aol.com
+250-PIPELINING
+250-SIZE 36700160
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN XAOL-UAS-MB
+250-AUTH=PLAIN LOGIN XAOL-UAS-MB
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+am9zaHVhX2tlbm5lZHkyMg==
+am9zaHVhX2tlbm5lZHkyMg==
+334 UGFzc3dvcmQ6
+QnNUN2dqOWM=
+QnNUN2dqOWM=
+235 2.7.0 Authentication successful
+MAIL FROM: <joshua_kennedy22@aol.com>
+MAIL FROM: <joshua_kennedy22@aol.com>
+250 2.1.0 Ok
+RCPT TO: <tbmccormick@me.com>
+RCPT TO: <tbmccormick@me.com>
+250 2.1.5 Ok
+DATA
+DATA
+354 End data with <CR><LF>.<CR><LF>
+Message-ID: <1396751013$2040910368$1268408799@joshua_kennedy22>
+From: "Elbert Collingwood" <joshua_kennedy22@aol.com>
+To: <tbmccormick@me.com>
+Subject: FW:RxRefllsOlineForMen?sEDPrescriptions,ShippedWorldwide. 
+Date: Wed, 10 Aug 2011 14:29:03 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+"It'l be years if Michi Glen taes up wit tht Aneliqe gal" rtorte the maid "I ear she ure oi-  <br> <br>"Do you realy ean to murer hndeds of milion of pepe?"</BODY></HTML>Message-ID: <1396751013$2040910368$1268408799@joshua_kennedy22>
+From: "Elbert Collingwood" <joshua_kennedy22@aol.com>
+To: <tbmccormick@me.com>
+Subject: FW:RxRefllsOlineForMen?sEDPrescriptions,ShippedWorldwide. 
+Date: Wed, 10 Aug 2011 14:29:03 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+"It'l be years if Michi Glen taes up wit tht Aneliqe gal" rtorte the maid "I ear she ure oi-  <br> <br>"Do you realy ean to murer hndeds of milion of pepe?"</BODY></HTML>
+.
+
+.
+554 5.2.1  MUST COMPLETE IMAGE PUZZLE BEFORE SENDING. PLEASE GOTO http://challenge.aol.com/spam.html 

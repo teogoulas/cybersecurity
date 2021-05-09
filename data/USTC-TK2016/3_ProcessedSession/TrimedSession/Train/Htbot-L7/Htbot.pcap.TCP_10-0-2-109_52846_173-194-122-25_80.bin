@@ -1,0 +1,23 @@
+GET /pagead/conversion_async.js HTTP/1.1
+Host: www.googleadservices.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:18.0) Gecko/20100101 Firefox/18.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.russiancupid.com/
+Connection: 
+
+HTTP/1.1 200 OK
+P3P: policyref="http://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"
+Content-Type: text/javascript; charset=UTF-8
+ETag: 3998873067755813471
+Date: Fri, 06 Mar 2015 19:29:27 GMT
+Expires: Sat, 07 Mar 2015 19:29:27 GMT
+X-Content-Type-Options: nosniff
+Content-Disposition: attachment; filename="f.txt"
+Content-Encoding: gzip
+Server: cafe
+Content-Length: 2956
+X-XSS-Protection: 1; mode=block
+Age: 45718
+Cache-Control: public, max-

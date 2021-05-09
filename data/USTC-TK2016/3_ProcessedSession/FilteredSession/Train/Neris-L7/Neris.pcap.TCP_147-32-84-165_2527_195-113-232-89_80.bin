@@ -1,0 +1,54 @@
+GET /is/content.yieldmanager.com?U=/ak/q.gif&V=3-b5GqfnYe4aXuAZL%2fGBdAbSIg1pBxKLV3eS74yc7KNtO%2fUM5g2XJmAw%2fBVNT4XjpLWVpFihd4iPM%3d&I=646AE5B4E4F0B3C&D=content.yieldmanager.com&01AD=1& HTTP/1.1
+Accept: */*
+Referer: http://ads.creafi-online-media.com/st?ad_type=iframe&ad_size=120x600&section=1921376
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 18 Oct 2006 18:25:22 GMT
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: ak1.abmr.net
+
+HTTP/1.1 302 Moved Temporarily
+Content-Length: 0
+Location: http://content.yieldmanager.com/ak/q.gif?01AD=2-2-FF9F664E3CEE0E04036DEA52261FB046184FE62BA5FF8F2BF6463D2D4CA12664-24216F6639BD0A98579A120673DD706615656C4D13ECAE7BB544FB83483AB4E6&01RI=646AE5B4E4F0B3C&01NA=na
+Expires: Thu, 11 Aug 2011 08:40:19 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Thu, 11 Aug 2011 08:40:19 GMT
+Connection: keep-alive
+Set-Cookie: 01AI=2-2-E1100A210EFB726585A2521C0F49245335EFDC7DC8E53C6C6A13143013380B51-C9AAE2E5D485287E230FA09AA5E118BE973E6CCB0F7E8F6996596A985012ABBB; expires=Fri, 10-Aug-2012 08:40:19 GMT; path=/; domain=.abmr.net
+P3P: policyref="http://www.abmr.net/w3c/policy.xml", CP="NON DSP COR CURa ADMa DEVa OUR SAMa IND"
+
+GET /is/content.yieldmanager.com?U=/ak/q.gif&V=3-2up+NgyNXxe98+LzmIxp194xq1wukFDcJ7CvsULi+ssVfw8eyfE%2fGIhGQiMluw6gsS8PnJzXQGk%3d&I=172FF989A057CAF&D=content.yieldmanager.com&01AD=1& HTTP/1.1
+Accept: */*
+Referer: http://ads.creafi-online-media.com/st?ad_type=iframe&ad_size=728x90&section=1921366
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 18 Oct 2006 18:25:22 GMT
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Cookie: 01AI=2-2-E1100A210EFB726585A2521C0F49245335EFDC7DC8E53C6C6A13143013380B51-C9AAE2E5D485287E230FA09AA5E118BE973E6CCB0F7E8F6996596A985012ABBB
+Connection: Keep-Alive
+Host: ak1.abmr.net
+
+HTTP/1.1 302 Moved Temporarily
+Content-Length: 0
+Location: http://content.yieldmanager.com/ak/q.gif?01AD=2-2-8AEBF50E77F3F308E2A2E010F26C8B144318F83903D7ED1CFF609569811B6A24-8FAD4A8AE8CFDEE2C40C5283720B66309FD688C01483AD71170DC9CBE0FBB354&01RI=172FF989A057CAF&01NA=
+Expires: Thu, 11 Aug 2011 08:40:27 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Thu, 11 Aug 2011 08:40:27 GMT
+Connection: keep-alive
+Set-Cookie: 01AI=2-2-DEC03421CAADEE0F31F26357453EFE4E55ABE653537C2D3C85061F0633A71D73-7744EF748B15FF136D0BA21DE7639B29325F11ED46CC137FD505B16E7445853F; expires=Fri, 10-Aug-2012 08:40:27 GMT; path=/; domain=.abmr.net
+P3P: policyref="http://www.abmr.net/w3c/policy.xml", CP="NON DSP COR CURa ADMa DEVa OUR SAMa IND"
+
+HTTP/1.1 302 Moved Temporarily
+Content-Length: 0
+Location: http://content.yieldmanager.com/ak/q.gif?01AD=2-2-8AEBF50E77F3F308E2A2E010F26C8B144318F83903D7ED1CFF609569811B6A24-8FAD4A8AE8CFDEE2C40C5283720B66309FD688C01483AD71170DC9CBE0FBB354&01RI=172FF989A057CAF&01NA=
+Expires: Thu, 11 Aug 2011 08:40:27 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Thu, 11 Aug 2011 08:40:27 GMT
+Connection: keep-alive
+Set-Cookie: 01AI=2-2-DEC03421CAADEE0F31F26357453EFE4E55ABE653537C2D3C85061F0633A71D73-7744EF748B15FF136D0BA21DE7639B29325F11ED46CC137FD505B16E7445853F; expires=Fri, 10-Aug-2012 08:40:27 GMT; path=/; domain=.abmr.net
+P3P: policyref="http://www.abmr.net/w3c/policy.xml", CP="NON DSP COR CURa ADMa DEVa OUR SAMa IND"
+

@@ -1,0 +1,181 @@
+GET /view.aspx?poolid=23831&script=1&rnd=373604 HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: server.cpmstar.com
+Connection: Keep-Alive
+
+HTTP/1.1 302 Found
+Cache-Control: private,no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Location: /view.aspx?poolid=23831&script=1&rnd=373604&test=1
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 2.0.50727
+Set-Cookie: i=147.32.84.165; domain=.server.cpmstar.com; expires=Sat, 10-Sep-2011 09:48:59 GMT; path=/
+Set-Cookie: is=0DA12910D667812A69C6ADF7A2A20E49CD5FF043; domain=.server.cpmstar.com; expires=Sat, 10-Sep-2011 09:48:59 GMT; path=/
+Set-Cookie: USER_ID=%f6%c7B%ee%3f%e8%a7%b5%0b%dd3%88%ed%8dR; domain=.server.cpmstar.com; expires=Mon, 11-Aug-2031 09:48:59 GMT; path=/
+P3P: policyref="/w3c/p3p.xml", CP="NOI NID CURa ADM DEVa PSAa PSDa OUR OTR IND UNI NAV STA"
+Date: Thu, 11 Aug 2011 09:48:59 GMT
+Content-Length: 185
+Connection: Keep-alive
+Keep-Alive: timeout=15, max=100
+Via: 1.1 ID-0001544140306671 uproxy-4
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="%2fview.aspx%3fpoolid%3d23831%26script%3d1%26rnd%3d373604%26test%3d1">here</a>.</h2>
+</body></html>
+GET /view.aspx?poolid=23831&script=1&rnd=373604&test=1 HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: server.cpmstar.com
+Connection: Keep-Alive
+Cookie: i=147.32.84.165; is=0DA12910D667812A69C6ADF7A2A20E49CD5FF043; USER_ID=%f6%c7B%ee%3f%e8%a7%b5%0b%dd3%88%ed%8dR
+
+HTTP/1.1 200 OK
+Cache-Control: private,no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 2.0.50727
+Set-Cookie: i=147.32.84.165; domain=.server.cpmstar.com; expires=Sat, 10-Sep-2011 09:49:07 GMT; path=/
+Set-Cookie: is=0DA12910D667812A69C6ADF7A2A20E49CD5FF043; domain=.server.cpmstar.com; expires=Sat, 10-Sep-2011 09:49:07 GMT; path=/
+Set-Cookie: n15=0,23831,11159,23348,1313056147,0; domain=.server.cpmstar.com; expires=Sun, 11-Sep-2011 09:49:07 GMT; path=/
+P3P: policyref="/w3c/p3p.xml", CP="NOI NID CURa ADM DEVa PSAa PSDa OUR OTR IND UNI NAV STA"
+Date: Thu, 11 Aug 2011 09:49:07 GMT
+Content-Length: 1926
+Connection: Keep-alive
+Keep-Alive: timeout=15, max=100
+Via: 1.1 ID-0001544140306671 uproxy-4
+
+var cpmstar_str;
+cpmstar_str = '';
+cpmstar_str += '%3cscr'+'ipt%20type%3d%22text%2fjavascr'+'ipt%22%3e%0d%0a%2f%2f20110420%0d%0avar%20c';
+cpmstar_str += 'pmstarfa11_flashurl%3d%22http%3a%2f%2fcdn2.cpmstar.com%2fcache';
+cpmstar_str += 'd%2fcreatives%2f23348%2fCZ_M2_160x600_l0410.swf%3fclickTAG';
+cpmstar_str += '%3dhttp%253a%252f%252fserver.cpmstar.com%252fclick.aspx%253fpo';
+cpmstar_str += 'olid%253d23831%2526subpoolid%253d0%2526campaignid%253d11159%25';
+cpmstar_str += '26creativeid%253d23348%2526url%253d%22%3b%0d%0avar%20cpmstarfa11_w';
+cpmstar_str += 'idth%3d160%2c%20width%3d160%3b%0d%0avar%20cpmstarfa11_height%3d600%2c%20';
+cpmstar_str += 'height%3d600%3b%0d%0avar%20cpmstarfa11_imageurl%3d%22%22%3b%0d%0avar%20cpm';
+cpmstar_str += 'starfa11_videourl%3d%22%22%3b%0d%0aif(cpmstarfa11_videourl!%3d%22%22';
+cpmstar_str += ')cpmstarfa11_flashurl%2b%3d%22%26videourl%3d%22%2bencodeURI(cpms';
+cpmstar_str += 'tarfa11_videourl)%3b%0d%0avar%20cpmstarfa11_flashvars%3d%22%22%3b%0d';
+cpmstar_str += '%0aif(cpmstarfa11_flashvars!%3d%22%22)cpmstarfa11_flashurl';
+cpmstar_str += '%2b%3d%22%26%22%2bcpmstarfa11_flashvars%3b%0d%0avar%20cpmstarfa11_simp';
+cpmstar_str += 'leclickurl%3d%22http%3a%2f%2fserver.cpmstar.com%2fclick.aspx%3fp';
+cpmstar_str += 'oolid%3d23831%26subpoolid%3d0%26campaignid%3d11159%26creativei';
+cpmstar_str += 'd%3d23348%26url%3d%22%3b%0d%0avar%20cpmstarfa11_pixelUrl%20%3d%20%22%22%3b%0d%0aif';
+cpmstar_str += '%20(cpmstarfa11_pixelUrl!%3d%22%22)document.write(%27%3cIMG%20SR';
+cpmstar_str += 'C%3d%22%27%2bcpmstarfa11_pixelUrl%2b%27%22%20width%3d%220%22%20height%3d%220%22%20';
+cpmstar_str += 'border%3d%220%22%20%2f%3e%5cn%27)%3b%0d%0a%3c%2fscr'+'ipt%3e%0d%0a%3cscr'+'ipt%20type%3d%22text%2f';
+cpmstar_str += 'javascr'+'ipt%22%20src%3d%22http%3a%2f%2fcdn.cpmstar.com%2fcached%2ffla';
+cpmstar_str += 'shadv11.js%22%3e%0d%0a%3c%2fscr'+'ipt%3e';
+document.write(unescape(cpmstar_str));GET /view.aspx?poolid=23832&script=1&rnd=123284 HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: server.cpmstar.com
+Connection: Keep-Alive
+Cookie: i=147.32.84.165; is=0DA12910D667812A69C6ADF7A2A20E49CD5FF043; USER_ID=%f6%c7B%ee%3f%e8%a7%b5%0b%dd3%88%ed%8dR; n15=0,23831,11159,23348,1313056147,0
+
+HTTP/1.1 200 OK
+Cache-Control: private,no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 2.0.50727
+Set-Cookie: i=147.32.84.165; domain=.server.cpmstar.com; expires=Sat, 10-Sep-2011 09:48:59 GMT; path=/
+Set-Cookie: is=0DA12910D667812A69C6ADF7A2A20E49CD5FF043; domain=.server.cpmstar.com; expires=Sat, 10-Sep-2011 09:48:59 GMT; path=/
+Set-Cookie: n1=0,23832,11164,23353,1313056139,0; domain=.server.cpmstar.com; expires=Sun, 11-Sep-2011 09:48:59 GMT; path=/
+P3P: policyref="/w3c/p3p.xml", CP="NOI NID CURa ADM DEVa PSAa PSDa OUR OTR IND UNI NAV STA"
+Date: Thu, 11 Aug 2011 09:48:59 GMT
+Content-Length: 1923
+Connection: Keep-alive
+Keep-Alive: timeout=15, max=100
+Via: 1.1 ID-0001544140306671 uproxy-4
+
+var cpmstar_str;
+cpmstar_str = '';
+cpmstar_str += '%3cscr'+'ipt%20type%3d%22text%2fjavascr'+'ipt%22%3e%0d%0a%2f%2f20110420%0d%0avar%20c';
+cpmstar_str += 'pmstarfa11_flashurl%3d%22http%3a%2f%2fcdn2.cpmstar.com%2fcache';
+cpmstar_str += 'd%2fcreatives%2f23353%2fCZ_M2_728x90_l0410.swf%3fclickTAG%3d';
+cpmstar_str += 'http%253a%252f%252fserver.cpmstar.com%252fclick.aspx%253fpoo';
+cpmstar_str += 'lid%253d23832%2526subpoolid%253d0%2526campaignid%253d11164%252';
+cpmstar_str += '6creativeid%253d23353%2526url%253d%22%3b%0d%0avar%20cpmstarfa11_wi';
+cpmstar_str += 'dth%3d728%2c%20width%3d728%3b%0d%0avar%20cpmstarfa11_height%3d90%2c%20he';
+cpmstar_str += 'ight%3d90%3b%0d%0avar%20cpmstarfa11_imageurl%3d%22%22%3b%0d%0avar%20cpmsta';
+cpmstar_str += 'rfa11_videourl%3d%22%22%3b%0d%0aif(cpmstarfa11_videourl!%3d%22%22)cp';
+cpmstar_str += 'mstarfa11_flashurl%2b%3d%22%26videourl%3d%22%2bencodeURI(cpmstar';
+cpmstar_str += 'fa11_videourl)%3b%0d%0avar%20cpmstarfa11_flashvars%3d%22%22%3b%0d%0aif';
+cpmstar_str += '(cpmstarfa11_flashvars!%3d%22%22)cpmstarfa11_flashurl%2b%3d%22';
+cpmstar_str += '%26%22%2bcpmstarfa11_flashvars%3b%0d%0avar%20cpmstarfa11_simplec';
+cpmstar_str += 'lickurl%3d%22http%3a%2f%2fserver.cpmstar.com%2fclick.aspx%3fpool';
+cpmstar_str += 'id%3d23832%26subpoolid%3d0%26campaignid%3d11164%26creativeid%3d2';
+cpmstar_str += '3353%26url%3d%22%3b%0d%0avar%20cpmstarfa11_pixelUrl%20%3d%20%22%22%3b%0d%0aif%20(c';
+cpmstar_str += 'pmstarfa11_pixelUrl!%3d%22%22)document.write(%27%3cIMG%20SRC%3d%22';
+cpmstar_str += '%27%2bcpmstarfa11_pixelUrl%2b%27%22%20width%3d%220%22%20height%3d%220%22%20bor';
+cpmstar_str += 'der%3d%220%22%20%2f%3e%5cn%27)%3b%0d%0a%3c%2fscr'+'ipt%3e%0d%0a%3cscr'+'ipt%20type%3d%22text%2fjav';
+cpmstar_str += 'ascr'+'ipt%22%20src%3d%22http%3a%2f%2fcdn.cpmstar.com%2fcached%2fflasha';
+cpmstar_str += 'dv11.js%22%3e%0d%0a%3c%2fscr'+'ipt%3e';
+document.write(unescape(cpmstar_str));GET /view.aspx?poolid=23833&script=1&rnd=704377 HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: server.cpmstar.com
+Connection: Keep-Alive
+Cookie: i=147.32.84.165; is=0DA12910D667812A69C6ADF7A2A20E49CD5FF043; USER_ID=%f6%c7B%ee%3f%e8%a7%b5%0b%dd3%88%ed%8dR; n15=0,23831,11159,23348,1313056147,0; n1=0,23832,11164,23353,1313056139,0
+
+HTTP/1.1 200 OK
+Cache-Control: private,no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 2.0.50727
+Set-Cookie: i=147.32.84.165; domain=.server.cpmstar.com; expires=Sat, 10-Sep-2011 09:49:07 GMT; path=/
+Set-Cookie: is=0DA12910D667812A69C6ADF7A2A20E49CD5FF043; domain=.server.cpmstar.com; expires=Sat, 10-Sep-2011 09:49:07 GMT; path=/
+Set-Cookie: n3=0,23833,30180,70979,1313056147,0; domain=.server.cpmstar.com; expires=Sun, 11-Sep-2011 09:49:07 GMT; path=/
+P3P: policyref="/w3c/p3p.xml", CP="NOI NID CURa ADM DEVa PSAa PSDa OUR OTR IND UNI NAV STA"
+Date: Thu, 11 Aug 2011 09:49:07 GMT
+Content-Length: 1937
+Connection: Keep-alive
+Keep-Alive: timeout=15, max=100
+Via: 1.1 ID-0001544140306671 uproxy-4
+
+var cpmstar_str;
+cpmstar_str = '';
+cpmstar_str += '%3cscr'+'ipt%20type%3d%22text%2fjavascr'+'ipt%22%3e%0d%0a%2f%2f20110420%0d%0avar%20c';
+cpmstar_str += 'pmstarfa11_flashurl%3d%22http%3a%2f%2fcdn2.cpmstar.com%2fcache';
+cpmstar_str += 'd%2fcreatives%2f70979%2fBattlestarGalactica_300x250_Vide';
+cpmstar_str += 'o.swf%3fclickTAG%3dhttp%253a%252f%252fserver.cpmstar.com%252fc';
+cpmstar_str += 'lick.aspx%253fpoolid%253d23833%2526subpoolid%253d0%2526campa';
+cpmstar_str += 'ignid%253d30180%2526creativeid%253d70979%2526url%253d%22%3b%0d%0avar';
+cpmstar_str += '%20cpmstarfa11_width%3d300%2c%20width%3d300%3b%0d%0avar%20cpmstarfa1';
+cpmstar_str += '1_height%3d250%2c%20height%3d250%3b%0d%0avar%20cpmstarfa11_imageur';
+cpmstar_str += 'l%3d%22%22%3b%0d%0avar%20cpmstarfa11_videourl%3d%22%22%3b%0d%0aif(cpmstarfa1';
+cpmstar_str += '1_videourl!%3d%22%22)cpmstarfa11_flashurl%2b%3d%22%26videourl%3d%22%2b';
+cpmstar_str += 'encodeURI(cpmstarfa11_videourl)%3b%0d%0avar%20cpmstarfa11_';
+cpmstar_str += 'flashvars%3d%22%22%3b%0d%0aif(cpmstarfa11_flashvars!%3d%22%22)cpmsta';
+cpmstar_str += 'rfa11_flashurl%2b%3d%22%26%22%2bcpmstarfa11_flashvars%3b%0d%0avar%20cp';
+cpmstar_str += 'mstarfa11_simpleclickurl%3d%22http%3a%2f%2fserver.cpmstar.co';
+cpmstar_str += 'm%2fclick.aspx%3fpoolid%3d23833%26subpoolid%3d0%26campaignid%3d3';
+cpmstar_str += '0180%26creativeid%3d70979%26url%3d%22%3b%0d%0avar%20cpmstarfa11_pixe';
+cpmstar_str += 'lUrl%20%3d%20%22%22%3b%0d%0aif%20(cpmstarfa11_pixelUrl!%3d%22%22)document.';
+cpmstar_str += 'write(%27%3cIMG%20SRC%3d%22%27%2bcpmstarfa11_pixelUrl%2b%27%22%20width%3d%22';
+cpmstar_str += '0%22%20height%3d%220%22%20border%3d%220%22%20%2f%3e%5cn%27)%3b%0d%0a%3c%2fscr'+'ipt%3e%0d%0a%3cscri';
+cpmstar_str += 'pt%20type%3d%22text%2fjavascr'+'ipt%22%20src%3d%22http%3a%2f%2fcdn.cpmstar.';
+cpmstar_str += 'com%2fcached%2fflashadv11.js%22%3e%0d%0a%3c%2fscr'+'ipt%3e';
+document.write(unescape(cpmstar_str));

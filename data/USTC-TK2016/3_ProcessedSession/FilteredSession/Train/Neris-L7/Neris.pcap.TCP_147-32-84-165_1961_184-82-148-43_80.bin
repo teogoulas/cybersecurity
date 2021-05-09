@@ -1,0 +1,31 @@
+POST /getjson HTTP/1.1
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+Host: podviajar.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+Content-Length: 449
+Connection: close
+Cache-Control: no-cache
+
+data=e/e6r8VdRlJajwxXJgogFVa9gSXExozmaI7cOYwrAvLDx2T2KL4nXdZonsue0ZZR73lEXxz8TzdT6x30edcsdwMJOdAF/VjYsWHF0Ey7zDJW9/s9JErJ0pfr82QY6b8HCgSuNaUqig4oVzoegrelySD3VSq0TCbouurBunfHikVYQbJEhq22NFEdOY/qmYckhS41S4RlYsvgXUoKh4GNKAWoCOtj3Vh0UkC0UiTIOa9c/WoSykxWHCTtFaEE+QAQFsn9w9wJeEXnFwVGsLXG7QTtiVvCNlfhMbJaXkNlHctU5O+v4nRfoljMNbK0UHx3+RwYn3ADbyZTLEQdLbmGl3xFyVPTSR6EXAQKkYG3/DbmUEQSpTuHYh7btRTrjTrtdNpnj+flawUQCuqFoWTlp8uni6W/X36d3jIMt7o+B3QOhvnq2iSB76xR9Kw6HTTP/1.1 302 Moved Temporarily
+Server: nginx/1.0.0
+Date: Thu, 11 Aug 2011 11:47:41 GMT
+Content-Type: text/html
+Content-Length: 160
+Connection: close
+Expires: Thu Aug 11 10:47:41 2011
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: session=Zuqq4stGXQVYyBQEbFh2Qlqojy6Yl4fhcNWJaod/G6KVmg==
+Set-Cookie: id=YPGw9w==
+Set-Cookie: counter=8
+Set-Cookie: stime=ff2s+4Ed
+Location: http://creditskin.com/getjson?4pq7f6Aor8rH6OYUFq1AZpw31KpOjecsbHnCmU5CoMXW
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx/1.0.0</center>
+</body>
+</html>

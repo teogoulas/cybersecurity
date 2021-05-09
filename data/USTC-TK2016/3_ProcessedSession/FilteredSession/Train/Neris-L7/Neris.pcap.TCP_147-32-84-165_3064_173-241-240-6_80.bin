@@ -1,0 +1,21 @@
+GET /json?c=OXM_9938513015&pid=6afa46a1-e131-4654-8d3a-7d52c104a9cd&s=728x90&f=0.35&url=http%3A%2F%2Fm1.mediasrv.net%2Fwww%2Fdelivery%2Fafr.php%3Fzoneid%3D1360%26ad_size%3D728x90%26section%3D116990&cid=oxpv1%3A1-1-1-9-85 HTTP/1.1
+Accept: */*
+Referer: http://www.matrix-media.biz/openx/www/delivery/afr.php?zoneid=85&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: bid.openx.net
+Connection: Keep-Alive
+Cookie: i=05dae954-1077-4c2d-8583-6e8f6f5b6437
+
+HTTP/1.1 200 OK
+Content-Type: text/javascript; charset=utf-8
+Cache-Control: no-cache, must-revalidate
+P3P: CP="CUR ADM OUR NOR STA NID"
+Connection: close
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Pragma: no-cache
+Set-Cookie: s=b6074012-1326-4061-aa20-48fd7876342b; version=1; path=/; domain=.openx.net;
+Set-Cookie: p=1313052177; version=1; path=/; domain=.openx.net; max-age=63072000;
+
+OXM_9938513015({"r":null});

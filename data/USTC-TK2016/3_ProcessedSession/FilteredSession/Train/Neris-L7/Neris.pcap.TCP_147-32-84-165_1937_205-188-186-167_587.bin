@@ -1,0 +1,58 @@
+220-mtaout-db06.r1000.mx.aol.com ESMTP MUA/Third Party Client Interface
+220-AOL and its affiliated companies do not
+220-authorize the use of its proprietary computers and computer
+220-networks to accept, transmit, or distribute unsolicited bulk
+220-e-mail sent from the internet.
+220-Effective immediately:
+220-AOL may no longer accept connections from IP addresses
+220 which no reverse-DNS (PTR record) assigned.
+EHLO jamescunningham16
+250-mtaout-db06.r1000.mx.aol.com
+250-PIPELINING
+250-SIZE 36700160
+250-ETRN
+250-STARTTLS
+250-AUTH LOGIN XAOL-UAS-MB PLAIN
+250-AUTH=LOGIN XAOL-UAS-MB PLAIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+amFtZXNjdW5uaW5naGFtMTY=
+334 UGFzc3dvcmQ6
+cGVuaWRvcWVu
+235 2.7.0 Authentication successful
+MAIL FROM: <jamescunningham16@aol.com>
+250 2.1.0 Ok
+RCPT TO: <fabultra@netcourrier.com>
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+Message-ID: <1847912801$1382368319$461466647@jamescunningham16>
+From: "Shieh nickell" <jamescunningham16@aol.com>
+To: <fabultra@netcourrier.com>
+Subject: RE:LivesA re Bu sy ,Mak eItEasi e rByOrd eri ngYour RXMedsO nl ine
+Date: Thu, 11 Aug 2011 11:38:29 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+"h*at waOs a in%e funrfal est3erdy," a%id Ti,Jon. "0An a goZd wankn', I'sm tod*." H$e hwd, <br><br> <>#His fatNhe s{ai nohthin ocf thsy. Hse h.ad n3o e2ed tdo seay itX; Gwid ke_w p{recsey wh!a i}t mannt, whjt i7t wo3ul oYst t,he altl iWn la*br ajnd unEger t5o rbe  <br></BODY></HTML>
+.
+250 2.0.0 Ok: queued as 0CEE6E0000A5
+421 4.4.2 mtaout-db06.r1000.mx.aol.com Error: timeout exceeded

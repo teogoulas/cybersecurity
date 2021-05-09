@@ -1,0 +1,19 @@
+GET /rubcm.ashx HTTP/1.1
+Accept: */*
+Referer: http://uac.advertising.com/wrapper/aceUACping.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cmap.rub.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=Xx940013134357580045; ASCID=Xx940013134357580045; F1=B8GcJ5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA; BASE=pOwehPBzRJCJMEM!; ROLL=0+QQpjt5di85rjH!
+
+GET /rubcm.ashx HTTP/1.1
+Accept: */*
+Referer: http://uac.advertising.com/wrapper/aceUACping.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cmap.rub.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=Xx940013134357580045; ASCID=Xx940013134357580045

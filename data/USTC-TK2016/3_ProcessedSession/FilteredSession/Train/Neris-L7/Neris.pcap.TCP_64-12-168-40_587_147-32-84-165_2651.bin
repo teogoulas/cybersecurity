@@ -1,0 +1,58 @@
+220-mtaout-ma05.r1000.mx.aol.com ESMTP MUA/Third Party Client Interface
+220-AOL and its affiliated companies do not
+220-authorize the use of its proprietary computers and computer
+220-networks to accept, transmit, or distribute unsolicited bulk
+220-e-mail sent from the internet.
+220-Effective immediately:
+220-AOL may no longer accept connections from IP addresses
+220 which no reverse-DNS (PTR record) assigned.
+EHLO rparkerlsm
+250-mtaout-ma05.r1000.mx.aol.com
+250-PIPELINING
+250-SIZE 36700160
+250-ETRN
+250-STARTTLS
+250-AUTH XAOL-UAS-MB LOGIN PLAIN
+250-AUTH=XAOL-UAS-MB LOGIN PLAIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+cnBhcmtlcmxzbQ==
+334 UGFzc3dvcmQ6
+dGVkb2J5cXlyYWY=
+235 2.7.0 Authentication successful
+MAIL FROM: <rparkerlsm@aol.com>
+250 2.1.0 Ok
+RCPT TO: <opificius@onlinehome.de>
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+Message-ID: <248701815$1510998702$1331502101@rparkerlsm>
+From: "Nettie rhymer" <rparkerlsm@aol.com>
+To: <opificius@onlinehome.de>
+Subject: FW:Erectil eDysfun ction WillBeAT hi ngO fT heP ast Wi thViagra
+Date: Thu, 11 Aug 2011 10:56:04 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+loIng hai%r tiued i1n a tai9l dowjn hios bFack an5d hiFs yVellow eyhes lVike a caAt's, watchBing tUhe stoall <br><br> 'An4wyn an,d Gwgylliam haFd tUhree son_s befjore tQhe Gri0evous Bjlow, t{he a\ct o(f violen4ce betweAen thfem  <br></BODY></HTML>
+.
+250 2.0.0 Ok: queued as 4621EE0000B9
+421 4.4.2 mtaout-ma05.r1000.mx.aol.com Error: timeout exceeded

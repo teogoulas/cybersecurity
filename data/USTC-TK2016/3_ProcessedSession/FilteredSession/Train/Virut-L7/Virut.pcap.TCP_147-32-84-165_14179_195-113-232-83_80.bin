@@ -1,0 +1,31 @@
+GET /CDN/178757/dailyfinance_160_600_0410.gif HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 27 Apr 2011 20:14:42 GMT
+If-None-Match: "46d4c1-508e-4a1ec174b3080"
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=rb880013134624610018; ASCID=rb880013134624610018; F1=B0L2J5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA; BASE=cjwCKnhgiFAR1iI!; ROLL=vhAdKDhRytCh9EK!
+
+GET /CDN/178757/dailyfinance_160_600_0410.gif HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 27 Apr 2011 20:14:42 GMT
+If-None-Match: "46d4c1-508e-4a1ec174b3080"
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=rb880013134624610018; ASCID=rb880013134624610018; F1=B0L2J5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA; BASE=cjwCKnhgiFAR1iI!; ROLL=vhAdKDhRytCh9EK!
+
+HTTP/1.1 304 Not Modified
+Content-Type: image/gif
+Last-Modified: Wed, 27 Apr 2011 20:14:42 GMT
+ETag: "46d4c1-508e-4a1ec174b3080"
+Date: Tue, 16 Aug 2011 02:41:01 GMT
+Connection: keep-alive
+

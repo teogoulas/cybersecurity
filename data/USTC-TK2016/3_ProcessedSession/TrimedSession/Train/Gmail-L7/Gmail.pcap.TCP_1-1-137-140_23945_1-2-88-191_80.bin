@@ -1,0 +1,4 @@
+GET http://www.google.ro/accounts/KKjcLPR?hl=en&service=mail&ilo=1&ils=s.RO&ilc=1&continue=https%3A%2F%2Faccounts.google.com%2FServiceLogin%3Fservice%3Dmail%26passive%3Dtrue%26rm%3Dfalse%26continue%3Dhttps%3A%2F%2Fmail.google.com%2Fmail%2F%26ss%3D1%26scc%3D1%26ltmpl%3Ddefault%26ltmplcache%3D2%26hl%3Den&zx=-024573748 HTTP/1.1
+Host: www.google.ro
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.64 Safari/537.31
+Cookie: SID=ghCFM0NDwmnO3ER4TrxUiwF7dUTe-siSeIvPQnj6jcSowb9QpZ8xSVUrYoI0wL0w1xlmkjEOTCf5gjxLAR-hnJ8p4Vj-YQCKq2MqIGN0HYTHJswMRyKHXcTECi_KqJSlXn8z4vUzjCzf_uyEFgBwZdNeginUagsbOytJO6Z2nXEMPZa-Pd_ksH2qL2mapb5wyLUyBaHdxJis97j6M07Cq4Ve3RzvFzMIUzcIdCgyeEe8ezKkN7f75ob_wjMeQ8DD3--nvZXKkMZ; NID=67=JG0LLACnwI6EpPWdjYS9Mfi4E

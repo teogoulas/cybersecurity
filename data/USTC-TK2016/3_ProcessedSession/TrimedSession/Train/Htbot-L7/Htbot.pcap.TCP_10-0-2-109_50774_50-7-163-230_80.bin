@@ -1,0 +1,17 @@
+GET /lp/stcz/h1?RefCode=d7af4febc28c11e4b157b39526141ca6&rfx=d7af4febc28c11e4b157b39526141ca6 HTTP/1.1
+Host: www.euromillionairesystem.tv
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+Referer: http://www.servingspot.com/ts/514B7032794967745F324255455F3344?utm_source=317964_619710&utm_content=178508
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Wed, 04 Mar 2015 16:38:05 GMT
+Server: LiteSpeed
+Connection: close
+X-Powered-By: PHP/5.3.27
+Set-Cookie: page-priority=10; expires=Sun, 03-May-2015 16:

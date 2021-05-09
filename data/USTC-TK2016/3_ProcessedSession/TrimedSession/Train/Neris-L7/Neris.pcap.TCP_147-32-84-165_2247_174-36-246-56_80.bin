@@ -1,0 +1,14 @@
+GET /www/delivery/ajs.php?zoneid=18800&block=1&blockcampaign=1&cb=55236850795&charset=windows-1252&loc=http%3A//www.newcarus.com/newcar.html HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/newcar.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.5.3
+Accept-Encoding: gzip, deflate
+Host: ads.ad4game.com
+Connection: Keep-Alive
+
+GET /www/delivery/ajs.php?zoneid=18800&block=1&blockcampaign=1&cb=55236850795&charset=windows-1252&loc=http%3A//www.newcarus.com/newcar.html HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/newcar.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.

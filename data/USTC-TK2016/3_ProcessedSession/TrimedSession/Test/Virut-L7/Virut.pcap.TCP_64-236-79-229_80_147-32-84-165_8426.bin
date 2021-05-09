@@ -1,0 +1,19 @@
+GET /ancm.ashx?appnexus_uid=0 HTTP/1.1
+Accept: */*
+Referer: http://uac.advertising.com/wrapper/aceUACping.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Cookie: ACID=bZ680013134501600018; ASCID=bZ680013134501600018; F1=B8KqJ5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA
+Connection: Keep-Alive
+Host: cmap.an.ace.advertising.com
+
+GET /ancm.ashx?appnexus_uid=0 HTTP/1.1
+Accept: */*
+Referer: http://uac.advertising.com/wrapper/aceUACping.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Cookie: ACID=bZ680013134501600018; ASCID=bZ680013134501600018; F1=B8KqJ5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA
+Connection: Keep-Alive
+Host: cma

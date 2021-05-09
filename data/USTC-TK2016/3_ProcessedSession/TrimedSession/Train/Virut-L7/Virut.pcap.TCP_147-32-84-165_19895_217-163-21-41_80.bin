@@ -1,0 +1,12 @@
+GET /st?anmember=541&anprice=&ad_type=pop&ad_size=0x0&section=2180005&banned_pop_types=29&pop_times=1&pop_frequency=86400 HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: ad.yieldmanager.com
+Connection: Keep-Alive
+Cookie: ih="b!!!!'!/:K/!!!!#=0f^^!/U7,!!!!#=0f^^!0sil!!!!#=0f^_!1-Ad!!!!#=0f^_"; vuday1=!!!!'N0<QCR%cq+; BX=2imendd74k17h&b=4&s=r5&t=227; uid=uid=86cedb04-c7cb-11e0-a94e-1cc1de045422&_hmacv=1&_salt=3995657013&_keyid=k1&_hmac=6b7acbe2c69d80487f09396b863b5221a065d5ca; bh="b!!!!#!$%_N~~"
+
+GET /st?anmember=541&anprice=&ad_type=pop&ad_size=0x0&section=2180005&banned_pop_types=29&pop_times=1&pop_frequency=86400 HTTP/1.1
+Accept: 

@@ -1,0 +1,29 @@
+GET /ads/conversion/1063823358/?random=1290984917&cv=7&fst=1425486910023&num=1&fmt=2&value=0&label=vffyCNLn8gEQ_s-i-wM&bg=ffffff&hl=en&guid=ON&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=12&u_tz=60&u_java=true&u_nplug=9&u_nmime=62&frm=0&url=http%3A//objava-oglasa.bolha.com/oglas_completed.php%3Fid%3D1297575281&ref=http%3A//objava-oglasa.bolha.com/oglas_upsell.php%3Fid%3D1297575281&vis=2&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&cdct=2&convclickts=0&jaid=AJHaeXIuu-6EKFqOeAPmlCMQL7mQhoQ46UKlXM3oifH3yTZ9OpuY7N8&ebcid=ALh7CaTZVo9uzadHPjIUh7MhLmbDaT4Bu-5L2LnhmVtSTPl4DMGypETCHl1c1INA725_iVWPAvHefEhu2tIvrALdmPAu0VaF9g&ocp_id=QTT3VMnwEq6iigai3YCIBg&random=2125572349 HTTP/1.1
+Host: www.google.com
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+X-Client-Data: CKW1yQEIibbJAQiitskBCKm2yQEIxLbJAQjsiMoBCNGUygEYq4nKAQ==
+Referer: http://objava-oglasa.bolha.com/oglas_completed.php?id=1297575281
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: AID=AJHaeXIuu-6EKFqOeAPmlCMQL7mQhoQ46UKlXM3oifH3yTZ9OpuY7N8; PREF=ID=fba9623200cb1b1a:U=ce5469d1ac40853f:FF=0:LD=en:TM=1421620137:LM=1421710884:GM=1:S=8O6A6_VNFBPCtagi; SID=DQAAAAkBAABMFkad_xzR_O5SBrxqj7fQ3YZMaqPAlTjigw15OxVrv6-4m7EJRBi41JDElmZ0wyn5-K-yB19kJh9tIImxAYXEgZA5bmzAWkeTbLgHNMmyP2SViKt6DbXTBUOroWfhjfe39DOLlzU1jc47onK-cIwi-R_ZL1CfwT8CtFCELBJE2_wWH3zoAMl78BBnuQ-GjHVnTcrBFp_ZwvFuKx4ykRiH7sw4US4W2u8krPuFqSqXfkARVJVeUPS4zysjVhLv8tIi0o_wzdljCWHZwSBDU-Vkv0qig9tWo0LA0Z25CGArC64jaU5Go9_HUXemOz2OetLOo3B2Zcp5qi2VBXJQngeqmHJevQxCDg725KPjHBUo8w; HSID=AsVOX7T9EqhorMdOA; APISID=IuCp5HEp6b_RyImq/AmD9-3xDKIEJ1FuTx; NID=67=oEIWtTcDJ4hibzbScCpWAwobRUiwtFtE1Unb5LrtHY7urXqbFC6NhCZO669n0cVlZABB9QlelLAgrFQmZHz05Am-Kg5KT0Rp2sLMruRqS7C5gOacgaMgmydcCYYhYAoIyvcvb0kcTMnHnB7Qg7zsQP0PdV3nIQamEWB2YyJSr7Zii0xgw0847AqGZEHw8g
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+Location: http://www.google.cz/ads/conversion/1063823358/?random=1290984917&cv=7&fst=1425486910023&num=1&fmt=2&value=0&label=vffyCNLn8gEQ_s-i-wM&bg=ffffff&hl=en&guid=ON&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_his=12&u_tz=60&u_java=true&u_nplug=9&u_nmime=62&frm=0&url=http%3A//objava-oglasa.bolha.com/oglas_completed.php%3Fid%3D1297575281&ref=http%3A//objava-oglasa.bolha.com/oglas_upsell.php%3Fid%3D1297575281&vis=2&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&cdct=2&convclickts=0&jaid=AJHaeXIuu-6EKFqOeAPmlCMQL7mQhoQ46UKlXM3oifH3yTZ9OpuY7N8&ebcid=ALh7CaTZVo9uzadHPjIUh7MhLmbDaT4Bu-5L2LnhmVtSTPl4DMGypETCHl1c1INA725_iVWPAvHefEhu2tIvrALdmPAu0VaF9g&ocp_id=QTT3VMnwEq6iigai3YCIBg&random=2125572349&ipr=y
+Cache-Control: private, max-age=43200
+Date: Wed, 04 Mar 2015 16:35:19 GMT
+Expires: Wed, 04 Mar 2015 16:35:19 GMT
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Server: adclick_server
+Content-Length: 1025
+X-XSS-Protection: 1; mode=block
+Alternate-Protocol: 80:quic,p=0.08
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="http://www.google.cz/ads/conversion/1063823358/?random=1290984917&amp;cv=7&amp;fst=1425486910023&amp;num=1&amp;fmt=2&amp;value=0&amp;label=vffyCNLn8gEQ_s-i-wM&amp;bg=ffffff&amp;hl=en&amp;guid=ON&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_his=12&amp;u_tz=60&amp;u_java=true&amp;u_nplug=9&amp;u_nmime=62&amp;frm=0&amp;url=http%3A//objava-oglasa.bolha.com/oglas_completed.php%3Fid%3D1297575281&amp;ref=http%3A//objava-oglasa.bolha.com/oglas_upsell.php%3Fid%3D1297575281&amp;vis=2&amp;ctc_id=CAIVAgAAAB0CAAAA&amp;ct_cookie_present=false&amp;cdct=2&amp;convclickts=0&amp;jaid=AJHaeXIuu-6EKFqOeAPmlCMQL7mQhoQ46UKlXM3oifH3yTZ9OpuY7N8&amp;ebcid=ALh7CaTZVo9uzadHPjIUh7MhLmbDaT4Bu-5L2LnhmVtSTPl4DMGypETCHl1c1INA725_iVWPAvHefEhu2tIvrALdmPAu0VaF9g&amp;ocp_id=QTT3VMnwEq6iigai3YCIBg&amp;random=2125572349&amp;ipr=y">here</A>.
+</BODY></HTML>

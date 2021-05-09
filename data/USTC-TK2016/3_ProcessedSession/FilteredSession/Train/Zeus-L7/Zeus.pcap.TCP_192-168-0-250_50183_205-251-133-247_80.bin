@@ -1,0 +1,183 @@
+GET /js/jdpicker/jdpicker.css HTTP/1.1
+Accept: */*
+Referer: http://www.claimfans.com/index.php
+Accept-Language: en-US
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Accept-Encoding: gzip, deflate
+Host: www.claimfans.com
+Connection: Keep-Alive
+Cookie: PHPSESSID=6d3397c649c59e55ec9753a63042ca75; PlusREF=60934
+
+GET /js/jdpicker/jdpicker.css HTTP/1.1
+Accept: */*
+Referer: http://www.claimfans.com/index.php
+Accept-Language: en-US
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Accept-Encoding: gzip, deflate
+Host: www.claimfans.com
+Connection: Keep-Alive
+Cookie: PHPSESSID=6d3397c649c59e55ec9753a63042ca75; PlusREF=60934
+
+HTTP/1.1 200 OK
+Date: Tue, 29 May 2012 08:27:58 GMT
+Server: Apache
+Last-Modified: Tue, 07 Feb 2012 10:10:14 GMT
+Accept-Ranges: bytes
+Content-Length: 2650
+Connection: close
+Content-Type: text/css
+
+/* Some resets for compatibility with existing CSS */
+.jdpicker_w{
+	position: relative;	
+}
+.date_selector, .date_selector * {
+	width: auto;
+	height: auto;
+	border: none;
+	background: none;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	text-decoration: none;
+	}
+.date_clearer {
+	display: none;
+	}
+.date_selector {
+	background: white;
+	border: 1px solid #C9C9C9;
+	padding: 10px;
+	margin: 0;
+	left: -1px !important;
+	top: 37px !important;
+	position: absolute;
+	z-index: 10;
+	display: none;
+	}
+
+.date_selector_ieframe {
+	position: absolute;
+	z-index: 99999;
+	display: none;
+	}
+
+.date_selector .nav {
+	width: 17.5em; /* 7 * 2.5em */
+	}
+
+.date_selector .nav p { clear: none !important; padding:0 !important; margin: 0 !important;}
+
+.date_selector .month_nav, .date_selector .year_nav {
+	margin: 0 0 3px 0;
+	padding: 0;
+	display: block;
+	position: relative;
+	text-align: center;
+	}
+
+.date_selector .month_nav {
+	float: left;
+	width: 55%;
+	}
+
+.date_selector .year_nav {
+	float: right;
+	width: 42%;
+	margin-right: -8px; /* Compensates for cell borders */
+	}
+
+.date_selector .month_name, .date_selector .year_name {
+	font-weight: bold;
+	line-height: 20px;
+	}
+
+.date_selector .button {
+	display: block;
+	position: absolute;
+	top: 0;
+	width: 18px;
+	height: 18px;
+	line-height: 16px;
+	font-weight: bold;
+	text-align: center;
+	font-size: 12px;
+	overflow: hidden;
+	border: 1px solid #A2A2A2;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	background-color: #C9C9C9;
+	}
+
+.date_selector .button:hover, .date_selector .button.hover {
+	background-color: #A2A2A2;
+	color: #ffffff;
+	cursor: pointer;
+	}
+
+.date_selector .prev {
+	left: 0;
+	}
+
+.date_selector .next {
+	right: 0;
+	}
+
+.date_selector table {
+	border-spacing: 0;
+	border-collapse: collapse;
+	clear: both;
+	margin: 0;
+	}
+
+.date_selector th, .date_selector td {
+	width: 35px;
+	height: 2em;
+	padding: 0 !important;
+	text-align: center !important;
+	font-weight: normal;
+	border: 1px solid #C9C9C9;
+	color: #898989;
+	}
+
+.date_selector th {
+	font-size: 11px;
+	border: none;
+	}
+
+.date_selector td {
+	border: 1px solid #D8D8D8;
+	line-height: 30px;
+	text-align: center;
+	white-space: nowrap;
+	color: #7C7C7C;
+	background: #EFFAFF;
+	}
+
+.date_selector td.today {
+	background: #8EBCCF;
+	color: white;
+	font-weight: bold;
+	}
+
+.date_selector td.unselected_month {
+	color: #898989;
+	background: white;
+	}
+
+.date_selector td.selectable_day {
+	cursor: pointer;
+	background-color:#EAEAEA;
+	}
+
+.date_selector td.selected {
+	background: #357691;
+	color: #fff;
+	font-weight: bold;
+	}
+
+.date_selector td.selectable_day:hover, .date_selector td.selectable_day.hover {
+	background: #9ED0E4;
+	color: #fff;
+	}

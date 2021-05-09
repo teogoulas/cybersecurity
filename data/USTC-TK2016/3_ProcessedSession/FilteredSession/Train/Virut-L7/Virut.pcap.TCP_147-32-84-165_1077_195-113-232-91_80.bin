@@ -1,0 +1,1336 @@
+GET /javascript/live/ff-searchinteractionsajax-1287094093.js HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=7GET /javascript/live/ff-searchinteractionsajax-1287094093.js HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:14:40
+
+42376013_2011-08-15 12:14:40
+
+HTTP/1.0 200 OK
+Server: Apache/2.2.3 (CentOS) mod_perl/2.0.4 Perl/v5.8.8
+Last-Modified: Mon, 08 Aug 2011 00:32:28 GMT
+Content-Type: text/javascript
+X-Cache-Lookup: HIT from origin.friendfinderinc.com:3128
+Expires: Wed, 07 Sep 2011 00:32:28 GMT
+Date: Mon, 15 Aug 2011 19:14:41 GMT
+Content-Length: 391
+Connection: keep-alive
+
+function submitAjaxInteractions(url,elem){url=url.replace(/^\S+\/p\//,'/p/')
+url=url+'&ajax=1';new Ajax.Request(url,{method:'get',onSuccess:function(transport){elem.innerHTML=transport.responseText;}});return false;}
+self.fix_random_ie_bug=function(){var random_ie_string='this is a random string that is supposed to pad filesize to a minimum acceptable size to fix IE 6 bug.'
+return false;}GET /images/spell/spellChecker.js HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:14:4GET /images/spell/spellChecker.js HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:14:40
+
+0
+
+HTTP/1.0 200 OK
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Thu, 05 Apr 2007 17:40:33 GMT
+ETag: "1ad572b-34c3-42d6111598640"
+Content-Type: application/x-javascript
+X-Cache-Lookup: HIT from origin.friendfinderinc.com:3128
+Cache-Control: max-age=468274
+Expires: Sun, 21 Aug 2011 05:19:15 GMT
+Date: Mon, 15 Aug 2011 19:14:41 GMT
+Content-Length: 13507
+Connection: keep-alive
+
+////////////////////////////////////////////////////
+// spellChecker.js
+//
+// spellChecker object
+//
+// This file is sourced on web pages that have a textarea object to evaluate
+// for spelling. It includes the implementation for the spellCheckObject.
+//
+////////////////////////////////////////////////////
+
+
+// constructor
+function spellChecker( textObject ) {
+
+	// public properties - configurable
+	this.popUpUrl = '/images/spell/spellchecker.html';
+	this.popUpName = 'spellchecker';
+	this.popUpProps = "menubar=no,width=440,height=350,top=70,left=120,status=yes,resizable=yes";
+	this.language = '';
+	this.spellCheckScript = '/p/spellchecker.cgi';
+	//this.spellCheckScript = '/cgi-bin/spellchecker.pl';
+
+	// values used to keep track of what happened to a word
+	this.replWordFlag = "R";	// single replace
+	this.ignrWordFlag = "I";	// single ignore
+	this.replAllFlag = "RA";	// replace all occurances
+	this.ignrAllFlag = "IA";	// ignore all occurances
+	this.fromReplAll = "~RA";	// an occurance of a "replace all" word
+	this.fromIgnrAll = "~IA";	// an occurance of a "ignore all" word
+	// properties set at run time
+	this.wordFlags = new Array();
+	this.currentTextIndex = 0;
+	this.currentWordIndex = 0;
+	this.spellCheckerWin = null;
+	this.controlWin = null;
+	this.wordWin = null;
+	this.textArea = textObject;	// deprecated
+	this.textInputs = arguments; 
+
+	// private methods
+	this._spellcheck = _spellcheck;
+	this._getSuggestions = _getSuggestions;
+	this._setAsIgnored = _setAsIgnored;
+	this._getTotalReplaced = _getTotalReplaced;
+	this._setWordText = _setWordText;
+	this._getFormInputs = _getFormInputs;
+
+	// public methods
+	this.openChecker = openChecker;
+	this.startCheck = startCheck;
+	this.checkTextBoxes = checkTextBoxes;
+	this.checkTextAreas = checkTextAreas;
+	this.spellCheckAll = spellCheckAll;
+	this.ignoreWord = ignoreWord;
+	this.ignoreAll = ignoreAll;
+	this.replaceWord = replaceWord;
+	this.replaceAll = replaceAll;
+	this.terminateSpell = terminateSpell;
+	this.undo = undo;
+
+	// set the current window's "speller" property to the instance of this class.
+	// this object can now be referenced by child windows/frames.
+	window.speller = this;
+}
+
+// call this method to check all text boxes (and only text boxes) in the HTML document
+function checkTextBoxes() {
+	this.textInputs = this._getFormInputs( "^text$" );
+	this.openChecker();
+}
+
+// call this method to check all textareas (and only textareas ) in the HTML document
+function checkTextAreas() {
+	this.textInputs = this._getFormInputs( "^textarea$" );
+	this.openChecker();
+}
+
+// call this method to check all text boxes and textareas in the HTML document
+function spellCheckAll() {
+	this.textInputs = this._getFormInputs( "^text(area)?$" );
+	this.openChecker();
+}
+
+// call this method to check text boxe(s) and/or textarea(s) that were passed in to the
+// object's constructor or to the textInputs property
+function openChecker() {
+	this.spellCheckerWin = window.open( this.popUpUrl, this.popUpName, this.popUpProps );
+	if( !this.spellCheckerWin.opener ) {
+		this.spellCheckerWin.opener = window;
+	}
+}
+
+function startCheck( wordWindowObj, controlWindowObj ) {
+
+	// set properties from args
+	this.wordWin = wordWindowObj;
+	this.controlWin = controlWindowObj;
+	
+	// reset properties
+	this.wordWin.resetForm();
+	this.controlWin.resetForm();
+	this.currentTextIndex = 0;
+	this.currentWordIndex = 0;
+	// initialize the flags to an array - one element for each text input
+	this.wordFlags = new Array( this.wordWin.textInputs.length );
+	// each element will be an array that keeps track of each word in the text
+	for( var i=0; i<this.wordFlags.length; i++ ) {
+		this.wordFlags[i] = [];
+	}
+
+	// start
+	this._spellcheck();
+	
+	return true;
+}
+
+function ignoreWord() {
+	var wi = this.currentWordIndex;
+	var ti = this.currentTextIndex;
+	if( !this.wordWin ) {
+		alert( 'Error: Word frame not available.' );
+		return false;
+	}
+	if( !this.wordWin.getTextVal( ti, wi )) {
+		alert( 'Error: "Not in dictionary" text is missing.' );
+		return false;
+	}
+	// set as ignored
+	if( this._setAsIgnored( ti, wi, this.ignrWordFlag )) {
+		this.currentWordIndex++;
+		this._spellcheck();
+	}
+}
+
+function ignoreAll() {
+	var wi = this.currentWordIndex;
+	var ti = this.currentTextIndex;
+	if( !this.wordWin ) {
+		alert( 'Error: Word frame not available.' );
+		return false;
+	}
+	// get the word that is currently being evaluated.
+	var s_word_to_repl = this.wordWin.getTextVal( ti, wi );
+	if( !s_word_to_repl ) {
+		alert( 'Error: "Not in dictionary" text is missing' );
+		return false;
+	}
+
+	// set this word as an "ignore all" word. 
+	this._setAsIgnored( ti, wi, this.ignrAllFlag );
+
+	// loop through all the words after this word
+	for( var i = ti; i < this.wordWin.textInputs.length; i++ ) {
+		for( var j = 0; j < this.wordWin.totalWords( i ); j++ ) {
+			if(( i == ti && j > wi ) || i > ti ) {
+				// future word: set as "from ignore all" if
+				// 1) do not already have a flag and 
+				// 2) have the same value as current word
+				if(( this.wordWin.getTextVal( i, j ) == s_word_to_repl )
+				&& ( !this.wordFlags[i][j] )) {
+					this._setAsIgnored( i, j, this.fromIgnrAll );
+				}
+			}
+		}
+	}
+
+	// finally, move on
+	this.currentWordIndex++;
+	this._spellcheck();
+}
+
+function replaceWord() {
+	var wi = this.currentWordIndex;
+	var ti = this.currentTextIndex;
+	if( !this.wordWin ) {
+		alert( 'Error: Word frame not available.' );
+		return false;
+	}
+	if( !this.wordWin.getTextVal( ti, wi )) {
+		alert( 'Error: "Not in dictionary" text is missing' );
+		return false;
+	}
+	if( !this.controlWin.replacementText ) {
+		return;
+	}
+	var txt = this.controlWin.replacementText;
+	if( txt.value ) {
+		var newspell = new String( txt.value );
+		if( this._setWordText( ti, wi, newspell, this.replWordFlag )) {
+			this.currentWordIndex++;
+			this._spellcheck();
+		}
+	}
+}
+
+function replaceAll() {
+	var ti = this.currentTextIndex;
+	var wi = this.currentWordIndex;
+	if( !this.wordWin ) {
+		alert( 'Error: Word frame not available.' );
+		return false;
+	}
+	var s_word_to_repl = this.wordWin.getTextVal( ti, wi );
+	if( !s_word_to_repl ) {
+		alert( 'Error: "Not in dictionary" text is missing' );
+		return false;
+	}
+	var txt = this.controlWin.replacementText;
+	if( !txt.value ) return;
+	var newspell = new String( txt.value );
+
+	// set this word as a "replace all" word. 
+	this._setWordText( ti, wi, newspell, this.replAllFlag );
+
+	// loop through all the words after this word
+	for( var i = ti; i < this.wordWin.textInputs.length; i++ ) {
+		for( var j = 0; j < this.wordWin.totalWords( i ); j++ ) {
+			if(( i == ti && j > wi ) || i > ti ) {
+				// future word: set word text to s_word_to_repl if
+				// 1) do not already have a flag and 
+				// 2) have the same value as s_word_to_repl
+				if(( this.wordWin.getTextVal( i, j ) == s_word_to_repl )
+				&& ( !this.wordFlags[i][j] )) {
+					this._setWordText( i, j, newspell, this.fromReplAll );
+				}
+			}
+		}
+	}
+	
+	// finally, move on
+	this.currentWordIndex++;
+	this._spellcheck();
+}
+
+function terminateSpell() {
+	// called when we have reached the end of the spell checking.
+	var msg = "Spell check complete:\n\n";
+	var numrepl = this._getTotalReplaced();
+	if( numrepl == 0 ) {
+		// see if there were no misspellings to begin with
+		if( !this.wordWin ) {
+			msg = "";
+		} else {
+			if( this.wordWin.totalMisspellings() ) {
+				msg += "No words changed.";
+			} else {
+				msg += "No misspellings found.";
+			}
+		}
+	} else if( numrepl == 1 ) {
+		msg += "One word changed.";
+	} else {
+		msg += numrepl + " words changed.";
+	}
+	if( msg ) {
+		msg += "\n";
+		alert( msg );
+	}
+
+	if( numrepl > 0 ) {
+		// update the text field(s) on the opener window
+		for( var i = 0; i < this.textInputs.length; i++ ) {
+			// this.textArea.value = this.wordWin.text;
+			if( this.wordWin ) {
+				if( this.wordWin.textInputs[i] ) {
+					this.textInputs[i].value = this.wordWin.textInputs[i];
+				}
+			}
+		}
+	}
+
+	// return back to the calling window
+	this.spellCheckerWin.close();
+
+	return true;
+}
+
+function undo() {
+	// skip if this is the first word!
+	var ti = this.currentTextIndex;
+	var wi = this.currentWordIndex
+	
+	if( this.wordWin.totalPreviousWords( ti, wi ) > 0 ) {
+		this.wordWin.removeFocus( ti, wi );
+
+		// go back to the last word index that was acted upon 
+		do {
+			// if the current word index is zero then reset the seed
+			if( this.currentWordIndex == 0 && this.currentTextIndex > 0 ) {
+				this.currentTextIndex--;
+				this.currentWordIndex = this.wordWin.totalWords( this.currentTextIndex )-1;
+				if( this.currentWordIndex < 0 ) this.currentWordIndex = 0;
+			} else {
+				if( this.currentWordIndex > 0 ) {
+					this.currentWordIndex--;
+				}
+			}
+		} while ( 
+			this.wordWin.totalWords( this.currentTextIndex ) == 0
+			|| this.wordFlags[this.currentTextIndex][this.currentWordIndex] == this.fromIgnrAll
+			|| this.wordFlags[this.currentTextIndex][this.currentWordIndex] == this.fromReplAll
+		); 
+
+		var text_idx = this.currentTextIndex;
+		var idx = this.currentWordIndex;
+		var preReplSpell = this.wordWin.originalSpellings[text_idx][idx];
+		
+		// if we got back to the first word then set the Undo button back to disabled
+		if( this.wordWin.totalPreviousWords( text_idx, idx ) == 0 ) {
+			this.controlWin.disableUndo();
+		}
+	
+		// examine what happened to this current word.
+		switch( this.wordFlags[text_idx][idx] ) {
+			// replace all: go through this and all the future occurances of the word 
+			// and revert them all to the original spelling and clear their flags
+			case this.replAllFlag :
+				for( var i = text_idx; i < this.wordWin.textInputs.length; i++ ) {
+					for( var j = 0; j < this.wordWin.totalWords( i ); j++ ) {
+						if(( i == text_idx && j >= idx ) || i > text_idx ) {
+							var origSpell = this.wordWin.originalSpellings[i][j];
+							if( origSpell == preReplSpell ) {
+								this._setWordText ( i, j, origSpell, undefined );
+							}
+						}
+					}
+				}
+				break;
+				
+			// ignore all: go through all the future occurances of the word 
+			// and clear their flags
+			case this.ignrAllFlag :
+				for( var i = text_idx; i < this.wordWin.textInputs.length; i++ ) {
+					for( var j = 0; j < this.wordWin.totalWords( i ); j++ ) {
+						if(( i == text_idx && j >= idx ) || i > text_idx ) {
+							var origSpell = this.wordWin.originalSpellings[i][j];
+							if( origSpell == preReplSpell ) {
+								this.wordFlags[i][j] = undefined; 
+							}
+						}
+					}
+				}
+				break;
+				
+			// replace: revert the word to its original spelling
+			case this.replWordFlag :
+				this._setWordText ( text_idx, idx, preReplSpell, undefined );
+				break;
+		}
+
+		// For all four cases, clear the wordFlag of this word. re-start the process
+		this.wordFlags[text_idx][idx] = undefined; 
+		this._spellcheck();
+	}
+}
+
+function _spellcheck() {
+	var ww = this.wordWin;
+	
+	// check if this is the last word in the current text element
+	if( this.currentWordIndex == ww.totalWords( this.currentTextIndex) ) {
+		this.currentTextIndex++;
+		this.currentWordIndex = 0;
+		// keep going if we're not yet past the last text element
+		if( this.currentTextIndex < this.wordWin.textInputs.length ) {	
+			this._spellcheck();
+			return;
+		} else {
+			this.terminateSpell();
+			return;
+		}
+	}
+	
+	// if this is after the first one make sure the Undo button is enabled
+	if( this.currentWordIndex > 0 ) {
+		this.controlWin.enableUndo();
+	}
+
+	// skip the current word if it has already been worked on
+	if( this.wordFlags[this.currentTextIndex][this.currentWordIndex] ) {
+		// increment the global current word index and move on.
+		this.currentWordIndex++;
+		this._spellcheck();
+	} else {
+		var evalText = ww.getTextVal( this.currentTextIndex, this.currentWordIndex );
+		if( evalText ) {
+			this.controlWin.evaluatedText.value = evalText;
+			ww.setFocus( this.currentTextIndex, this.currentWordIndex );
+			this._getSuggestions( this.currentTextIndex, this.currentWordIndex );
+		}
+	}
+}
+
+function _getSuggestions( text_num, word_num ) {
+	this.controlWin.clearSuggestions();
+	// add suggestion in list for each suggested word.
+	// get the array of suggested words out of the
+	// three-dimensional array containing all suggestions.
+	var a_suggests = this.wordWin.suggestions[text_num][word_num];	
+	if( a_suggests ) {
+		// got an array of suggestions.
+		for( var ii = 0; ii < a_suggests.length; ii++ ) {	
+			this.controlWin.addSuggestion( a_suggests[ii] );
+		}
+	}
+	this.controlWin.selectDefaultSuggestion();
+}
+
+function _setAsIgnored( text_num, word_num, flag ) {
+	// set the UI
+	this.wordWin.removeFocus( text_num, word_num );
+	// do the bookkeeping
+	this.wordFlags[text_num][word_num] = flag;
+	return true;
+}
+
+function _getTotalReplaced() {
+	var i_replaced = 0;
+	for( var i = 0; i < this.wordFlags.length; i++ ) {
+		for( var j = 0; j < this.wordFlags[i].length; j++ ) {
+			if(( this.wordFlags[i][j] == this.replWordFlag )
+			|| ( this.wordFlags[i][j] == this.replAllFlag )
+			|| ( this.wordFlags[i][j] == this.fromReplAll )) {
+				i_replaced++;
+			}
+		}
+	}
+	return i_replaced;
+}
+
+function _setWordText( text_num, word_num, newText, flag ) {
+	// set the UI and form inputs
+	this.wordWin.setText( text_num, word_num, newText );
+	// keep track of what happened to this word:
+	this.wordFlags[text_num][word_num] = flag;
+	return true;
+}
+
+function _getFormInputs( inputPattern ) {
+	var inputs = new Array();
+	for( var i = 0; i < document.forms.length; i++ ) {
+		for( var j = 0; j < document.forms[i].elements.length; j++ ) {
+			if( document.forms[i].elements[j].type.match( inputPattern )) {
+				inputs[inputs.length] = document.forms[i].elements[j]; 
+			}	
+		}
+	}
+	return inputs;
+}
+
+GET /images/js/AjaxRequest-compact.js HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:GET /images/js/AjaxRequest-compact.js HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:14:40
+
+14:40
+
+HTTP/1.0 200 OK
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Tue, 18 Jul 2006 22:17:50 GMT
+ETag: "13b757f-299b-418e284691f80"
+Content-Type: application/x-javascript
+X-Cache-Lookup: HIT from origin.friendfinderinc.com:3128
+Cache-Control: max-age=269095
+Expires: Thu, 18 Aug 2011 21:59:36 GMT
+Date: Mon, 15 Aug 2011 19:14:41 GMT
+Content-Length: 10651
+Connection: keep-alive
+
+// ===================================================================
+// Author: Matt Kruse <matt@ajaxtoolbox.com>
+// WWW: http://www.AjaxToolbox.com/
+//
+// NOTICE: You may use this code for any purpose, commercial or
+// private, without any further permission from the author. You may
+// remove this notice from your final code if you wish, however it is
+// appreciated by the author if at least my web site address is kept.
+//
+// You may *NOT* re-distribute this code in any way except through its
+// use. That means, you can include it in your product, or your web
+// site, or any other form where the code is actually being used. You
+// may not put the plain javascript up on your site for download or
+// include it in your javascript libraries for download. 
+// If you wish to share this code with others, please just point them
+// to the URL instead.
+// Please DO NOT link directly to my .js files from your site. Copy
+// the files to your server and use them there. Thank you.
+// ===================================================================
+
+function AjaxRequest() {
+  var req = new Object();
+  req.timeout = null;
+  req.generateUniqueUrl = true;
+  req.url = window.location.href;
+  req.method = "GET";
+  req.async = true;
+  req.username = null;
+  req.password = null;
+  req.parameters = new Object();
+  req.requestIndex = AjaxRequest.numAjaxRequests++;
+  req.responseReceived = false;
+  req.groupName = null;
+  req.queryString = "";
+  req.responseText = null;
+  req.responseXML = null;
+  req.status = null;
+  req.statusText = null;
+  req.aborted = false;
+  req.xmlHttpRequest = null;
+  req.onTimeout = null; 
+  req.onLoading = null;
+  req.onLoaded = null;
+  req.onInteractive = null;
+  req.onComplete = null;
+  req.onSuccess = null;
+  req.onError = null;
+  req.onGroupBegin = null;
+  req.onGroupEnd = null;
+  req.xmlHttpRequest = AjaxRequest.getXmlHttpRequest();
+  if (req.xmlHttpRequest==null) { return null; }
+  req.xmlHttpRequest.onreadystatechange = 
+  function() {
+    if (req==null || req.xmlHttpRequest==null) { return; }
+    if (req.xmlHttpRequest.readyState==1) { req.onLoadingInternal(req); }
+    if (req.xmlHttpRequest.readyState==2) { req.onLoadedInternal(req); }
+    if (req.xmlHttpRequest.readyState==3) { req.onInteractiveInternal(req); }
+    if (req.xmlHttpRequest.readyState==4) { req.onCompleteInternal(req); }
+  };
+  req.onLoadingInternalHandled = false;
+  req.onLoadedInternalHandled = false;
+  req.onInteractiveInternalHandled = false;
+  req.onCompleteInternalHandled = false;
+  req.onLoadingInternal = 
+    function() {
+      if (req.onLoadingInternalHandled) { return; }
+      AjaxRequest.numActiveAjaxRequests++;
+      if (AjaxRequest.numActiveAjaxRequests==1 && typeof(window['AjaxRequestBegin'])== "function") {
+        AjaxRequestBegin();
+      }
+      if (req.groupName!=null) {
+        if (typeof(AjaxRequest.numActiveAjaxGroupRequests[req.groupName])=="undefined") {
+          AjaxRequest.numActiveAjaxGroupRequests[req.groupName] = 0;
+        }
+        AjaxRequest.numActiveAjaxGroupRequests[req.groupName]++;
+        if (AjaxRequest.numActiveAjaxGroupRequests[req.groupName]==1 && typeof(req.onGroupBegin)=="function") {
+          req.onGroupBegin(req.groupName);
+        }
+      }
+      if (typeof(req.onLoading)=="function") {
+        req.onLoading(req);
+      }
+      req.onLoadingInternalHandled = true;
+    };
+  req.onLoadedInternal = 
+    function() {
+      if (req.onLoadedInternalHandled) { return; }
+      if (typeof(req.onLoaded)=="function") {
+        req.onLoaded(req);
+      }
+      req.onLoadedInternalHandled = true;
+    };
+  req.onInteractiveInternal = 
+    function() {
+      if (req.onInteractiveInternalHandled) { return; }
+      if (typeof(req.onInteractive)=="function") {
+        req.onInteractive(req);
+      }
+      req.onInteractiveInternalHandled = true;
+    };
+  req.onCompleteInternal = 
+    function() {
+      if (req.onCompleteInternalHandled || req.aborted) { return; }
+      req.onCompleteInternalHandled = true;
+      AjaxRequest.numActiveAjaxRequests--;
+      if (AjaxRequest.numActiveAjaxRequests==0 && typeof(window['AjaxRequestEnd'])=="function") {
+        AjaxRequestEnd(req.groupName);
+      }
+      if (req.groupName!=null) {
+        AjaxRequest.numActiveAjaxGroupRequests[req.groupName]--;
+        if (AjaxRequest.numActiveAjaxGroupRequests[req.groupName]==0 && typeof(req.onGroupEnd)=="function") {
+          req.onGroupEnd(req.groupName);
+        }
+      }
+      req.responseReceived = true;
+      req.status = req.xmlHttpRequest.status;
+      req.statusText = req.xmlHttpRequest.statusText;
+      req.responseText = req.xmlHttpRequest.responseText;
+      req.responseXML = req.xmlHttpRequest.responseXML;
+      if (typeof(req.onComplete)=="function") {
+        req.onComplete(req);
+      }
+      if (req.xmlHttpRequest.status==200 && typeof(req.onSuccess)=="function") {
+        req.onSuccess(req);
+      }
+      else if (typeof(req.onError)=="function") {
+        req.onError(req);
+      }
+      delete req.xmlHttpRequest['onreadystatechange'];
+      req.xmlHttpRequest = null;
+    };
+  req.onTimeoutInternal = 
+    function() {
+      if (req!=null && req.xmlHttpRequest!=null && !req.onCompleteInternalHandled) {
+        req.aborted = true;
+        req.xmlHttpRequest.abort();
+        AjaxRequest.numActiveAjaxRequests--;
+        if (AjaxRequest.numActiveAjaxRequests==0 && typeof(window['AjaxRequestEnd'])=="function") {
+          AjaxRequestEnd(req.groupName);
+        }
+        if (req.groupName!=null) {
+          AjaxRequest.numActiveAjaxGroupRequests[req.groupName]--;
+          if (AjaxRequest.numActiveAjaxGroupRequests[req.groupName]==0 && typeof(req.onGroupEnd)=="function") {
+            req.onGroupEnd(req.groupName);
+          }
+        }
+        if (typeof(req.onTimeout)=="function") {
+          req.onTimeout(req);
+        }
+      delete req.xmlHttpRequest['onreadystatechange'];
+      req.xmlHttpRequest = null;
+      }
+    };
+  req.process = 
+    function() {
+      if (req.xmlHttpRequest!=null) {
+
+      if (req.generateUniqueUrl && req.method=="GET") {
+      req.parameters["AjaxRequestUniqueId"] = new Date().getTime() + ""+ req.requestIndex;
+      }
+        var content = null; // For POST requests, to hold query string
+        for (var i in req.parameters) {
+          if (req.queryString.length>0) { req.queryString +="&"; }
+          req.queryString += encodeURIComponent(i) + "=" + encodeURIComponent(req.parameters[i]);
+        }
+        if (req.method=="GET") {
+          if (req.queryString.length>0) {
+            req.url += ((req.url.indexOf("?")>-1)?"&":"?") + req.queryString;
+          }
+        }
+        req.xmlHttpRequest.open(req.method,req.url,req.async,req.username,req.password);
+        if (req.method=="POST") {
+          if (typeof(req.xmlHttpRequest.setRequestHeader)!="undefined") {
+            req.xmlHttpRequest.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+          }
+          content = req.queryString;
+        }
+        if (req.timeout>0) {
+          setTimeout(req.onTimeoutInternal,req.timeout);
+        }
+        req.xmlHttpRequest.send(content);
+      }
+    };
+  req.handleArguments = 
+    function(args) {
+      for (var i in args) {
+        
+        if (typeof(req[i])=="undefined") {
+          req.parameters[i] = args[i];
+        }
+        else {
+          req[i] = args[i];
+        }
+      }
+    };
+  req.getAllResponseHeaders =
+    function() {
+      if (req.xmlHttpRequest!=null) {
+        if (req.responseReceived) {
+          return req.xmlHttpRequest.getAllResponseHeaders();
+        }
+        alert("Cannot getAllResponseHeaders because a response has not yet been received");
+      }
+    };
+  req.getResponseHeader =
+    function(headerName) {
+      if (req.xmlHttpRequest!=null) {
+        if (req.responseReceived) {
+          return req.xmlHttpRequest.getResponseHeader(headerName);
+        }
+        alert("Cannot getResponseHeader because a response has not yet been received");
+      }
+    };
+  return req;
+}
+AjaxRequest.getXmlHttpRequest = function() {
+  if (window.XMLHttpRequest) {
+    return new XMLHttpRequest();
+  }
+  else if (window.ActiveXObject) {
+    // Based on http://jibbering.com/2002/4/httprequest.html
+    /*@cc_on @*/
+    /*@if (@_jscript_version >= 5)
+    try {
+      return new ActiveXObject("Msxml2.XMLHTTP");
+    } catch (e) {
+      try {
+        return new ActiveXObject("Microsoft.XMLHTTP");
+      } catch (E) {
+        return null;
+      }
+    }
+    @end @*/
+  }
+  else {
+    return null;
+  }
+};
+AjaxRequest.isActive = function() {
+  return (AjaxRequest.numActiveAjaxRequests>0);
+};
+AjaxRequest.get = function(args) {
+  AjaxRequest.doRequest("GET",args);
+};
+
+AjaxRequest.post = function(args) {
+  AjaxRequest.doRequest("POST",args);
+};
+
+AjaxRequest.doRequest = function(method,args) {
+  if (typeof(args)!= "undefined" && args!=null) {
+    var myRequest = new AjaxRequest();
+    myRequest.method = method;
+    myRequest.handleArguments(args);
+    myRequest.process();
+  }
+}  ;
+
+
+AjaxRequest.submit = function(theform, args) {
+  var myRequest = new AjaxRequest();
+  if (myRequest==null) { return false; }
+  var serializedForm = AjaxRequest.serializeForm(theform);
+  myRequest.method = theform.method.toUpperCase();
+  myRequest.url = theform.action;
+  myRequest.handleArguments(args);
+  myRequest.queryString = serializedForm;
+  myRequest.process();
+  return true;
+};
+
+AjaxRequest.serializeForm = function(theform) {
+  var els = theform.elements;
+  var len = els.length;
+  var queryString = "";
+  this.addField = 
+    function(name,value) { 
+      if (queryString.length>0) { 
+        queryString += "&";
+      }
+      queryString += encodeURIComponent(name) + "=" + encodeURIComponent(value);
+    };
+  for (var i=0; i<len; i++) {
+    var el = els[i];
+    if (!el.disabled) {
+      switch(el.type) {
+        case 'text': case 'password': case 'hidden': case 'textarea': 
+          this.addField(el.name,el.value);
+          break;
+        case 'select-one':
+          if (el.selectedIndex>=0) {
+            this.addField(el.name,el.options[el.selectedIndex].value);
+          }
+          break;
+        case 'select-multiple':
+          for (var j=0; j < el.options.length; j++) {
+            if (el.options[j].selected) {
+              this.addField(el.name,el.options[j].value);
+            }
+          }
+          break;
+        case 'checkbox': case 'radio':
+          if (el.checked) {
+            this.addField(el.name,el.value);
+          }
+          break;
+      }
+    }
+  }
+  return queryString;
+};
+
+AjaxRequest.numActiveAjaxRequests = 0;
+AjaxRequest.numActiveAjaxGroupRequests = new Object();
+AjaxRequest.numAjaxRequests = 0;
+GET /javascript/live/ff-utility-1293480241.js HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-0GET /javascript/live/ff-utility-1293480241.js HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:14:40
+
+8-15 12:14:40
+
+HTTP/1.0 200 OK
+Server: Apache/2.2.3 (CentOS) mod_perl/2.0.4 Perl/v5.8.8
+Last-Modified: Mon, 08 Aug 2011 08:21:21 GMT
+Content-Type: text/javascript
+X-Cache-Lookup: HIT from origin.friendfinderinc.com:3128
+Expires: Wed, 07 Sep 2011 08:21:21 GMT
+Date: Mon, 15 Aug 2011 19:14:41 GMT
+Content-Length: 5340
+Connection: keep-alive
+
+JS_HELPOFF=false;DOM=(document.getElementById)?1:0;NS4=(document.layers)?1:0;IE4=(document.all)?1:0;OPERA=navigator.userAgent.indexOf("Opera")>-1?1:0;MAC=navigator.userAgent.indexOf("Mac")>-1?1:0;var OBJ_TMP;function insertTag(obj,stag,etag){if(navigator.userAgent.indexOf("MSIE")>-1&&!OPERA){insertTagIE(obj,stag,etag);}else if((window.getSelection&&navigator.userAgent.indexOf("Safari")==-1)||(window.getSelection&&navigator.userAgent.toLowerCase().indexOf('chrome')>-1)){insertTagMoz(obj,stag,etag);}else{insertTagNS(obj,stag,etag);}
+obj.focus();}
+function insertTagNS(obj,stag,etag){obj.value=obj.value+stag+etag;}
+function insertTagMoz(obj,stag,etag){txt=window.getSelection();if(!txt||txt==''){t=obj;h=document.getElementsByTagName('textarea')[0];if(t.selectionStart==t.selectionEnd){t.value=t.value.substring(0,t.selectionStart)+stag+etag+t.value.substring(t.selectionEnd,t.value.length);return;}
+txt=t.value.substring(t.selectionStart,t.selectionEnd);if(txt){t.value=t.value.substring(0,t.selectionStart)+stag+txt+etag+t.value.substring(t.selectionEnd,t.value.length);return;}}
+obj.value=obj.value+stag+etag;}
+function insertTagIE(obj,stag,etag,mode){r=document.selection.createRange();if(document.selection.type=='Text'&&(obj.value.indexOf(r.text)!=-1)){a=r.text;if(mode==1){r.text=stag+etag;}else{r.text=stag+r.text+etag;}
+if(obj.value.indexOf(document.selection.createRange().text)==-1){document.selection.createRange().text=a;}}
+else insertAtCaret(obj,stag+etag);}
+function dialogTag(obj,qst,def,stag,etag,mode){var q;q=prompt(qst,def);if(!q)return;stag=stag.replace(/%s/i,q);insertTag(obj,stag,etag,mode);}
+function url_insert(obj){var h;if(h=check_selection(obj))
+dialogTag(obj,'Location:','http://'+h,'[url=%s]','[/url]');else
+dialogTag(obj,'Location:','http://','[url]%s[/url]','');}
+function insert_custom(obj,t){var h;var show=t.substring(0,1).toUpperCase()+t.substring(1,t.length).toLowerCase();if(h=check_selection(obj))
+dialogTag(obj,show+':',h,'['+t+' %s]','',1);else
+dialogTag(obj,show+':','','['+t+' %s]','',1);}
+function check_selection(obj){var txt='';if(typeof(obj.selectionStart)!='undefined'){txt=obj.value.substring(obj.selectionStart,obj.selectionEnd);}else if(document.selection){txt=document.selection.createRange().text;}else return;return txt;}
+function storeCaret(textEl){if(textEl.createTextRange)textEl.caretPos=document.selection.createRange().duplicate();}
+function getCaret(el){if(el.selectionStart){return el.selectionStart;}else if(document.selection){el.focus();var r=document.selection.createRange();if(r==null){return 0;}
+var re=el.createTextRange(),rc=re.duplicate();re.moveToBookmark(r.getBookmark());rc.setEndPoint('EndToStart',re);return rc.text.length;}
+return 0;}
+function insertAtCursor(textEl,text){if(document.selection)
+{textEl.focus();sel=document.selection.createRange();sel.text=text;}
+else if(textEl.selectionStart||textEl.selectionStart=='0')
+{var startPos=textEl.selectionStart;var endPos=textEl.selectionEnd;textEl.value=textEl.value.substring(0,startPos)
++text
++textEl.value.substring(endPos,textEl.value.length);}
+else
+{textEl.value+=text;}}
+function insertAtCaret(textEl,text){if(textEl.createTextRange&&textEl.caretPos){var caretPos=textEl.caretPos;caretPos.text=caretPos.text.charAt(caretPos.text.length-1)==' '?text+' ':text;}
+else{insertAtCursor(textEl,text);}}
+function insertParentTagIE(obj,stag,etag){r=window.opener.document.selection.createRange();obj=window.opener.obj;if(window.opener.document.selection.type=='Text'&&(obj.value.indexOf(r.text)!=-1)){a=r.text;r.text=stag+r.text+etag;if(obj.value.indexOf(window.opener.document.selection.createRange().text)==-1){window.opener.document.selection.createRange().text=a;}}
+else insertAtCaret(obj,stag+etag);}
+function insertParentTagNS(obj,stag,etag){window.opener.obj.value=window.opener.document.post_form.msg_body.value+stag+etag;}
+function insertParentTag(obj,stag,etag){if(document.all)
+insertParentTagIE(obj,stag,etag);else
+insertParentTagNS(obj,stag,etag);}
+function show_preview(obj){var t=obj.value;var p=window.open('about:blank','preview','width=400,height=400,status=no,location=no,toolbar=no,scrollbars=yes,resizable=yes');p.document.open();p.document.write('<html><head><title>Preview</title></head><body><form method=post action="'+preview_url+'" name=preview>');p.document.write('<textarea style="position:relative;visibility:hidden" name=render_me></textarea>');p.document.write('</form></body></html>');p.document.forms['preview'].elements['render_me'].value=t;p.document.forms['preview'].submit();}
+function show_tag_help(){window.open("/p/page.cgi?p=blog_help","taghelp","height=420,width=500,scrollbars=1,resizable=yes");}
+function popup_choices(obj,t,lang,pwsid){if(advanced_options[t]){OBJ_TMP=obj;if(popupWin){if(!popupWin.closed){popupWin.close();}
+delete popupWin;}
+popupWin=window.open('/p/page.cgi?p=wysiwyg_editor_options&lang='+lang+'&m='+pwsid,'add_stuff','width=500,height=230,status=no,scrollbars=no,location=no,toolbar=no,resizable=yes');if(window.insert_from_popup){popupWin.opener=window;}else{popupWin.opener=window.top;}
+popupWin.loadMe=advanced_options[t];}}
+function insert_from_popup(m,tid,opt_txt){var str=(opt_txt!='')?'['+m+' '+tid+' '+opt_txt+']':'['+m+' '+tid+']';if(m=='photo'){str=(opt_txt!='')?'['+m+opt_txt+' '+tid+']':'['+m+' '+tid+']';}
+insertTag(OBJ_TMP,str,'');}GET /images/common/others/spacer.gif HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:1GET /images/common/others/spacer.gif HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:14:40
+
+4:40
+
+HTTP/1.0 200 OK
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Tue, 08 Apr 2003 00:11:50 GMT
+ETag: "3b45464-2b-3bac07637fd80"
+Accept-Ranges: bytes
+Content-Length: 43
+Content-Type: image/gif
+X-Cache-Lookup: HIT from origin.friendfinderinc.com:3128
+Cache-Control: max-age=604800
+Expires: Mon, 22 Aug 2011 19:14:41 GMT
+Date: Mon, 15 Aug 2011 19:14:41 GMT
+Connection: keep-alive
+
+GIF89a  €  óóó   !ù    ,      @D ;GET /images/ff/common/lgo_newsm.png HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:14:40
+
+GET /images/ff/common/lgo_newsm.png HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:14:40
+
+HTTP/1.0 200 OK
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Mon, 21 Sep 2009 22:51:30 GMT
+ETag: "42323c6-3f33-4741e52924080"
+Accept-Ranges: bytes
+Content-Length: 16179
+Content-Type: image/png
+X-Cache-Lookup: HIT from origin.friendfinderinc.com:3128
+Cache-Control: max-age=604800
+Expires: Mon, 22 Aug 2011 19:14:41 GMT
+Date: Mon, 15 Aug 2011 19:14:41 GMT
+Connection: keep-alive
+
+‰PNG
+
+   IHDR   Ü   )  )w½   tEXtSoftware Adobe ImageReadyqÉe<  >ÕIDATxÚ¼’Ë+„aÅß¸ä’\Éå`å’R,,,\²)E‘ÂÂKMÆuA%r+)’ƒäV(,H‰,Èf$f^Ï÷ÍŒÛà­ÓÓ{Î©÷œ§WSJñŸÇÔ“ ÁÕ¢bXSWöÕÉùŠâ,fÓÔbmIŠèGQZäFWK¿ÓÉÒö ÕÌZµz¼<VÔhŠµEWª½O÷Úb´Ğ‡ó³Sj5e·™ëÅß&šm¦¬ Ãû ÖÍ-(JO`!ù;Ê› g
+’
+a.^ï¿xW•ÂÔ(A6a¹	nöÜÚ‡ õì½°?ö«YÏ4¾Í7ÊiÒ[×g÷Ë„€¹’D})ˆË†(:‡ ¹{xÓápí0Ÿu» |˜ J0‘.Ú¨›ë¸5xËrs+ø,¾üœ}–Ï[õi`=VÀ±™£|ñ»õe½#àYš?@nƒ;Œoï#ğÅàÃyùµR9>—'€wºÀû«Ô|üñ»Œ"ğîñíd¥|
+ Fz¦RïxÊË>ƒ8?—÷Ø7%1¯·:øÀ½èĞÿÿş‰È˜Ûò¬ói({òÓF#†«Pİò&7õ*ÚïîÛz…‘ùW÷ìV`ê4©™Ã ßòëÿÆNYF‹¬ò
+İÈV!•F†‰úb²ÿçMıâàÿÿ[ l’ÿ÷ÿÿF#¿¤î
+„Îâß?şÿŸbáƒpß?òÿÿÛ»`şÏŸ¿6€B)ıÈƒé Èÿÿ˜»ä©ê˜ƒ×~H¨G<D>(Åm&_¿³ÀX‡¤ÂÛ®§Fq «ÏÀyšBEAX•AH‰AI¡_…-œ*Ù™x3(º00îáefpæïışN¸Ï"R"Ë†ŒßŒWƒğõÕ£×ğ”øã&$XAâŠÍºb0fÜ„%0pœ!§ªÿH©’šmÑRÜ?$—^F$5 ñÿ Ô€¬j‰2
+Âsv7Ëu³ÚÊµ,3É$,4!)¢ô!4±$²°^ôa{
+¢(*e	ÊÔ][¢Ë>T™J!º¾ˆBF¶t“²Ø¤P£õ²¤{ù›9³¿ıØóÏÌ¹ÌåüóÍhéOh€òsáŞèÀĞ®'ÇÊ†HÚ\Za;ì¾=Aü»gÙÏOŸø¬3 ê:hŸ„zçI/bLÑ#şÅ0ƒQéëÍí¨¯ş¸ÈI©smŞkÍ£!z\—Ößw×ÁL]=´·“†³J‡åç|å!v	âor„À#Ò$’é-ëQ‡ïš0Aj±.´‰…7‹Õ*aã=sŠD¯M¨'cŠh3šÁDÕ '¦Àlù°¸2ùN‹:Ç,§Hc@úV€± æ&ØÜ€5 ° §@Î=
+·ı¨'?Õ¢UUÀ)Ì2´:ë‰‚şÏËg´ço/„ÉNÎ§öõ¨(’VV:¹ÿm?ô•ğ^%Öşx75‘{©TÉÂ)’/¨ãÜE^ŒûÍ{®£ÃŠ\³Ø7€Ô™†wÎˆÕ†‡•ÉRvú±x¯â"Ó£w±—4°CN^saâ\Ü2H&Ì„'Ì’Ç¶1uöSÿåb™l¦ºà–ït“QÀGlv­ÌƒñNà€[]0ÓË²5—iæ>î+ÄwÛ˜¸Ù©ˆ¶×ymK¤q;fŠg;u~†*K!ØÎ²£ˆi†ÀŠù¬¦9ù ›Ì/µ1İ˜Ã½øĞ¦UMà-Î*KJù×näÀ´4aû­&F£,?Òõ¸ú¥÷Ú^Mn°C:’Q5’òmlõÿ1Œó›Ÿ%>BŸé± OÛ|u§©h°ùÊnİùô™›êÒnoÊS•_j4£­¹F²ı^ıÃ¶¯®18´½¯½µT¨b4©&Óü+ /ÖUÆ¿ËİËk‡×.&Æ µÙDY9‚=f*¡H´™š±Èœ!ÁF-ÀÙDbrÀLtR3MkzâŒ!©ãÄ8“aä£Ñ-Äo¥Œ}°{—ÛwÎwïîJÛ¿áî÷}ç{Îù¾sÎïû„;MÂîdQĞ2Voë¾äM î5é¦·]÷#âı…­Eh¸'Q§&ÿTƒpH—a‰+m?9Æ²2ÌÃàM	à\4nSçM³“tÓÒ€Š¶8¶ìÆïğÈ !3æÿÆlE>O<åçæ,‚=3‚Y¤ä2Ì/·Õ£æÌµÕÏ‡#KğĞ#Š.:úX£ùí‹cßHŞ)×&³¸ä‰ªªebªË1úûÂÆæÊ£ëWÕü²ó£Z‡||ğl§Ífês…'ª’ƒ³Èy`ø€•‡Õ±ätkÑüPvRÓlC™µfË›sK+^„… Ú¡q«MA‚­_şc#oN‹(Î´Ä&[²V²À<µ®±ïğéÅ‡;ÈVN¬è‘h÷iòy,Êeø&âa/CæËx ¿F @ôÀÅó—Ê.qorø•|˜ô(FÛ"U0¤ Œc¸Ææ­G\Ik¡QÖä&dæÅ[ ®‡µQFğº¶áT×p[*ùSÉ*Ì!,­‹øã÷¼Uòïe 8_§±³@ŞpEŞÑhÀ’Ğ‰ w@n»‡°áµ:1Ÿ!%/ããÁ¾#'ô¡c9˜o·EŸ#
+DtÌò!Ö­3ıj[2D2w@W%éor)e`ôÛ«(_İ\krÜ’›lïÉ™iÊFDáwéyÈÊãñ:Eğ¡c–ÇhÖ>:wkø·×Ğ1k¼Ÿ$DÿÇ9pœ¡É0ø>œ…4¤†ìW0aÙÔÃaŸÙW?'9ØB„OG9†Ë+_|¤š&Ë¢~êœ³ÊPú)}ìÀtÂÎãgÌ¾5HòñÁºîV’ÙËê™~©äÈ)jÇú?QMuµC0’]·ZÅ1"èÜ”„Íş¬£	vBOJkÿ m—KûkŒù®Tş.—êìjj··Òbd¸‹Èf«Ø»•ôÔ"’l;^ŞÌõˆDt(RæŞ|åüIo\æ>{ZKH.¨ @iCêæ,%É–à{E¯Ã~Öö3äÀúxOo²úÜÃ»”ÛNĞ9]´>ú¿Sèu6¸F‡N¨‘ÿ­¹ş x¯Fr;n&¨N³“ÇS1Š‡”ï6üİ¥8C2éùä×Éé‡Û«K×è|&nÇ#ØŒt*ïôÁ¾´´ñì“|ğY “tV>Á±ÏáV;ÅváË¿
+AÑ s†D“‰(?b«Ö‚ZuŒÖë6îû»´
+s s‘¤ÿ ’L+#i¶‚Ú¨<ÙX	FÙºI&Ü]§‡àÔ²÷·µ}É…»É	¦7Å’ÌCöcL!ı…[>ÙØ¡ò·§‘h*MYñ	j¦ÿ¬xÁİCç»–«öF3Ä©ºßç;Ú²¼èÔğo\¶ŸkÀêöÎëvÿ¤¶Û>'ı>Æ`ğŞg|+I§Ã1 ¼Ïu„a8?ãsC–œ
+ŸÇ½kÿóórÉ“Çúvv·|=Àœf€a:;á+„{ÒTĞ¨W
+aÚCTŞK!ÉÂÜ³`Ú„0}†+êûĞ9¨ó
+7¶zıa÷8µü+ kÖUu†ÿ»l’İl"!;ybZC"…1P QJ, A%PT„IŒZ«`©¦(‰­™’‡0”—¨4@ä5A†‰`Ì²yînîİ~ç{svfœ©wæd'çÇÿ:ÿù¾ÿê|”(Àh0…õîß[Qd3Ôç&IŠ$Inü¶Ô~}¹ÇÃsB0(2YÂúô±š,A¸©½Œ¨Éï¬½x©Şø£ñ?K9G?ÀÖ3Üb	s@V•„!Âšë+®5÷|(Ê!)ŠÉËÂŞI‡˜Ôéikm5[C¹Aş/9™–G`€5ç†É É¢±±²Ò	ºêş9ôöuùœ|ı±ô‰{üÏdg—Ñ¶Ôu§û>c_£ëÊ˜Œ¼YãŞ&Î"? 'iöÇQÁŸ½L§ş*beòßèRÕ}K‹—<ış÷v8¹˜m]’]zš|¢‘:]äÅ5ïb£í²ÂP&W³šƒc/œ5işØí´{.W&Ô˜·ÈóÑ\“¿vú3|Za–¨QÌûUÈıÒ
+üf‡/Ä‡÷¢¹€~%‹¯2™]-ê8ë„ôôÅ£†Y3hçÊ.è{èjƒ1¹à¹§²9M]ÎóBo#ÖóøèmĞLµÒ~‹:ÈÃë¼LÏşZaáË¬Œßù8	ÇôAÑê¨å¤¯ÖE ZØ*ì™.|l¹HÁ¸¥~	ŒP@57Şy ÆÎV‘‘b3<Ÿ,š>gúûŸì¢¸•®|¬"T
+ú8@l!İ<{r³£[İúî°H&¿‚Î°>+|ª˜­O}vÂÆmïQeaİ¬Vÿ(.·ö¬>¤UeÀÇÎS˜Û8T$&ãÌ°õKXóÆw4kï1`
+Ö9»0¤T$Õ©€5{Ó*¾ ìØ_L%+ÍHxãı<*Ûi¡Ï·òö4bx×2¢ë§…üÛd9^brrNIG,œÄ…çnV£•F4nå§$ŒKÎ-9JùË|ì	»$ü	X"ÑÒ<\¢!’FfiN«ÔØå8³§l¯Öy«)Çj%·FÕY\,vÒ¾åK_¨8²÷jjYùAÊ‹ôÏî,Vl@¼³«xÕHræœ¹ €{bˆjOó±,~{ta¥v!^¼+‰Î’Ë ñ¢xÑ×©RÀIÌckMŞCT2Uì	ƒ»æ´(–'¨ªT¬·æ+úâŸ»_9—»ã‹ÔòšRzQP' pjŒºP+±‡Å^dxËGFM¶ è–9¨Ö×~ß1‹cFÕ¢f’·´»Œ9IºX,ì˜²”åw|“}ÃuNh×‹C¢W.Cp 6ÔÔ¾ÖM`±Q;ûq¯Tiê5|H?òÔY©³M(Å~?²Sb4m§7¡Í‘DÿÊ6ê7é‘y>Ã(İ°#7İº€#pZÌ‰Ÿ«+ãøTØ	µùÌë‹À²öâÆÑ¥{8•cYßy$ã½fD.´Ú@6«jNúë°u$ÅË”_ ¦qìu¾Ÿ1&Cîæx%MOu1È€Û~2<	[xL­“Ûù8}îì\2Ê.UF- j¹Á÷í²¼¹ë·bŒnÏ‡`ã±iôï´çWAå^w¤z¯ÀŸcÓ2Ÿ ª|}õGÅÂ°,Ík±G…, îÓë«$)6Ë]ø©¹zf?!XEïó_û;úëõÜC*.ĞNìÕ¿á™ˆCÁz.¿Éƒ@3)şÌ±‹¿hÆ¹åÂ™ì´uŸHAÎjNõÇî  Bár_şl•81ìƒı®û±Ó1éë?ÂL†ø4€ó!«[››?SÌeÛ™‚,ğ‚¿Cş‹SYH	ÕôvcÁ0ØµªDŒÃEN«›Z×Hm½öµ©ç^RW¼kñNı¨(d4iúZº´–/dÑŞÄRvZéøm/–=JÍ‚É±ÖwxwSA>İd³h[¥x{‘ßê‰¾Pÿ¤&ø­‰U1xsŒ‚3SÅ–F“‰näˆ>É¬2ss§è³#tíQ·_ôš)0"ÚKûPV?Ò‘³!ó6¯82DÕ¸îñ^wú—â‘qDß~êßÇ
+şù¢/ü>V@‡ñOˆ¾`ü1ÃÛ—ÿ!úBá5NV‡c›x‹dàyc‡ÀTŸs $B}ÍÚqÏŠ«Z<	uôºŸ¼-a$ßæB²fƒÖ†0÷®\MÊÎ[F—‹wÌ˜C×RSõµİ±K~?näŠb
+kƒR¹`>}=äj÷qcêF}´ØLøpDc¬zß€$MRŸ¾P ­úƒÚç[ŞÜ‘Ïáº²HÔpB83§;"Î{4óıÌO¯F¾Í'øb_&µBâÓ7r:¿åGOï‹YÀ´oà:¢‰¾Éå©Sï{b–¼¢/ÖpV–Eıdæ^¢ÒWÅz¬ïñLjú®j0WÇO¡FVÇgnA7‹ÄdÖ\A×ÎtµÒíˆè‘	TıxÇ6
+è×xxKöøÕYsèÊj>XœEùóf<CS |÷8.FMÑ©)ü.{¤ˆ:'¹k©ú=1‡¥¨H=•BsQé\RG¢H[HÓU¯‹=#rïEdhêu¶ğ4Æš½µÔÕ“ejŸşv
+Oë¯Æõc g6ñ}XKP1 NÇWŠtÈÌ8ã$Ü*}F‹=ƒå[Å\hF,¢=;a&-ƒÂı'òw5§ J†ñõ&}H´ÊÛá±DÖÒù?9™¾İG´xeÃ!­ç'}"`ÓŒ ŸóÄÄsLäe¼(ÚÈ¾ak.c¦w¤HFR€$o‰lİÉÊÆ*ƒğòuC"z†JF#‹7¥­®¦Qöx;±6xªêRÇèôO¹£Ú!Ğq—KöHG7Ğ ©©úûfŒĞ+
+²:Nâík¨>ßå#§á9ÙXÅ+2Î£ôOBÒd U·;¬Ô„ló}‹ä/Ó[Ş*Ö†nF[øıvƒÉÌôövÜª¿íi÷0›‚ cÅ»º±–Âî¹[ñînüps¤ÑQ•×ûæÍ›™L&dß¶ˆ‘5D%Ò
+EvÔZm\Z×SpÃ‚Uª(RÀ¥ÓV¶VPlµŠ°å¨l²ƒ€²…ì	™df’Ì>Ó{ß2ßûÆhO5ç¼Ã¼o{÷»÷~wÿø¿N\ı?ÿéC^Æ Ä´Â‚ôp(DEI…`0øü®:WC­7JqÇHx¢„ÄŞırÑl7+œkğ¹öÚÎ–&?ôÿ¯á–OjŒIù™øM™«Ã Û.kŒËÈ²MæuŠ„ €{ñu´;%k¬M l @íŸ×ÙVÛq©á?…S;1bR^A6Â`‘O±`ğ£®ºğzBW20şÛp—Ş(”ôã‹îõè“oÉ¾Q…WøÃ’x1^°Yâ#ZHKø:À0ÿbÛW&£§(2AŸÖğ‚UÈ±¦ü D+ÜÍ†„Ë”}q–°ß¦vø}Æ€>Ë,ÕQù}6§E“Y”3µÑ{ ±©¨ËìŠ_Hï§-­õ…X!ÍšÌê\†f<³!!5qh>2²¥6-NzÍ±'\Å¾£Ë×4¢ıC©û€g´¨‰p„qÔìÂ{ˆûšC]/77L\iÓ™!!<¥§:M±¶A°<IhÒ–…-¤[H¯<rü1„óCFHøuò\§Äƒ‚»Í‡0Í=ÀˆgCgğºdœÓ¿RÆ ¢R(Ô¨))´%jÅÍK¶üş‡{@6 SÎIf1x‚sMµ¹lãiúƒURãªr¿M:Jô8ALè•7IºøtxZ¶¢N¦„˜÷L†«l%Šf0H1òo¿n¿F=aŸA<nù› ïªD£§õr'€.†K'ø…ö‡_¥ºº’§ç/@E-o¢µêì§×L½s\Ï›&"6%ÈD¢ÔÃ“
+ööV¯âG—Î¾¡pÆ]ÓsŠGQ%–P½ïË=Ç?|ûÃıkÖ|ÇÌd±÷jFJ(r»ZOO-[ó(qw—-~oûÂo¢Š7N»»ÏøEoÌµ&&¨=¸÷¢Ï*Cs€Å Z{„áØf¬]ìÈoB¿¥7šò’êˆ‰‡€?à-™7¡dVˆ
+Û;šœç'¯XE0˜w¾òÜ;;^úİjsXİù‹kn~ù'Í±±ù¾Şq‘b–‰¦}/>\5Íh€Ä½ëákò'LŸ™÷ã‰7PWıñCN¼¿¾|×ò_ !"”Ì}òQ2åië¬¯Ş™ó´âk¦Ü1²üÁsT‚úï¹®tœÙš’š6ç`ÓE9›gÕÙSO#q’ˆşkÑ|Ğ¥¾ÑhJŸDÇ¸Íğü;Ññ|‡X@éOçª¬k³ŠFYL(BwÿßC
+C§Üôh¹X_‘œ7`ì|œÙdAÿj[)r12YÁ=øş´óë²ÅËn˜óÜbØz;šüß!<hÎã©Z“‰¨r¦€8e3¿xá”®”’°˜·àË¿08s† ğÁ|oDq ×ÿùı%[‚ôıHİueo¿oÎ3ğ§™ 3 Ù8wÒB€góYT§ä¨pï‡±i™™ñ©É7Â‡s'ş2†Ì\!Ó—Í'mì•fXGÊSMAßîèf€ºoqÜë«)i¬f¶«"óæhÂÅ¤_;là}›*öÁÊ4]œ/¼wÙ/™M(:}.ËI=¡ö3æãŒ@±{ ÅÒÍ™ÈûŸgº¤:³KÏZ/®ÎƒÊy?L°ËUH°6Åúb‘­5|xë—-zºÙ8ˆ2H>–ÑAxÌ +3!°"Ğ‰¢Åï‚Sª|-ÊÍú§¢?8™îÙ\F¸ÄUí9†‚¡,FY/Àlk”DÆÖ¥ô°§Œ:”Ô¼{¬)åÃk ú…/W8î›¸­OÃáTÇŸYxÊ‘Áo{*÷·<6fş’²î"'2I1ÖL°ËÂ]ôôœ ÍÇ÷ìıøÑŸ>a2r ú3ÖG YªüN*Ä“¸´º ùÉ™ VsgìšÇª+Š*'Xó? Û•ßUX& ä(˜ÉÖ‘”4ícãè¡>œyø¯/eœ‚?“ªäÚƒ¾àisÕ•?ü³ÇNüöI8õ	ë§y…è(»êX@™ìA ƒnbïf•BßoW"/ÚÜ1³2û+0jc‡ÜI¹¹Ã`}©‘Õ sjo¥Ÿæ/¿â2²‹áÄGlÅEÿùµn¢šO­ZÖS°vG8r …á>5šöğ›N9}m·N_²`½Òú>‡&DÔ+mr?¢/¾À¾yŠØÕŠt‡ÿVN8GÖpWœ]ÇæÑß°gtëhDÁŸü#?nÔëÈ66¤·„ïÍß)ã´Å¤ÍS•?ã…yëÎºçpT±>š—‰D:¸µ‘
+4ü:T‰½ûMöNû™´aˆam2FñÇ¶”}kã¦½ªì[çjgÅ
+úÇ¤JÁ>—ó|WÎ8G8dhCŸ’ŸŒ”ã|ú…=°	7öÕıŠùlŒúE´‹Pô’ÿk7«r§úMÑçÜ­:Ä!”;tÈ!=ğ#Ô™X›|Âå«?àÇY³P<ãÆ­¨ÃÏT0bÒSı%Àp«Ç¨¢ªAw’TÀª*9€Üë†zIéïd?Î‚âÛq–'â]¯±6‚Õ‚p5V³¶H/ÄÃƒÇnÂã4Şö‹=ß]™paD-fØ÷ò„ÑD±'õ„ËÁÛ[:Î:Æ®”Ù$èÕÍ3*¬k±6TÅ£[#umó.H"ÊÕöï¢‡;5tk©ŠÃe×Ák ‰g·ñÈTDåUØÙíÑõ©š¢ú¨Ñ‚rºÚ«ùuˆq%¢Óâ”¹N—n=•«Ä k£ä,UĞ'èÖÊ¬ˆ1ÌÚzAèy‡§±×=şÇ=šbBwÁf™¶ô¤XùŞ–«)^9Àû€ò¾(¯Ï¯cœGËx>_ôÔ’€×[—7"ë3Iç‘EhÒ‹Ä %²{ÍÂ·•)ö¤lUQ·3Ã€Òù„HƒÎoë…ëÛYÚ‡X3mHV\¿¦’}“øõú‡”ÚÓ>ãğ[Gx˜ÒÈÎ¥~è“§L7ÃEb¥ìAÒ£;ÎˆxrÂ÷…9DgF¢Ódã÷=ğ6€ãïs™{ñì[¹ì•ÊeÏ­Â7»êëuK8ƒ¹G|²,ê,:1`M ÿàUuU;·~Ô,¤&5UŒ‰ôQ3Æ¢NÿÛ7CF”@óN!°¹Ó±m|2ñZÔo(z=õ,8ƒ„:ğ ›×£'rú÷¬ìT^kª
+©pñˆHÇ1fHH=ŠU†÷1İk6BğÖUg¶nÙbó¥Äf7ì1”è¯pº’ÁÖÒ0YêI7C®Š’@ÉÄSS·—'\ßQH‚· ‘HÓßC"W«7–(Rƒbş“ûÙú„Ï~ÁõÑÒJ:ÃªÙm„EN‚AL wãFz2oOkó¡÷ïü²59­HÎ¥éE¨˜{Ön:–Ø· š
+^Œf!²ë?âuRêÓh…şÍîå(ÿjúF—„â¬u·âZ›xÑ™1		wç»Q¡¿Á¯3L²(şßôîŒ©/¶^8ã…Ÿ²SCO„³½‘NTïÙTWòmı§ ¾ŞÈÃĞg,Âõ?®úƒ§7òûî'ı$®7)ËpßËqß¸ïs[x|¢Ù¾xåî«oRbÂ8pÖ½ıdN×›µ	C¡j÷gGP’t˜lñ™#¦«ìĞ·‘÷Ò{ÌOrÀßÀëƒhezjyMmGY)/µ·|Î[É£‘Ç´©ÄaH¤ı¼‚¦ºó0Û´œO‰ÁÛªˆTm,+êó—PÊ¹ûMœ•Qz+¥z;·d ‹a?ÊÃ04îç÷“u=bà4?×ˆë¬á÷DÙôÖoİÉè§(ñ9m\œ¬/ÛM–ˆı}UÂ».–OùLVÒp8²áÍc£3ˆ‹lÎjıÖôf¡†rg–Ø˜<ğ\`}‘›Á>¾-¹­e;{OC"5ocï´ñ´üœß°6â;)Q)v×³å#·—smb\&ÀÅí¼q•=j÷í:Šößk- ç÷ü©!ç¿ê_ü	É¥ ZßF9_ÎÏ%q}áó¨qVµ$AC
+Z´'şª3êò÷&ìfm¨–p«Íïp8Ğ–’:š7óˆïQˆ:İW“Ô+Û//O#µ~[8UşÖ©¤,KPv)½H´&ôşÆ¤6QzÕ®¼ÓŠ7 5Ùø.Oê<ÇN¾MBs,äâòOĞ–]Ü8SB~ÎnäÍ÷üÉà¶7mM´¸eûÎÑÊ#štÎáÂª‰o?È#K7èbmtz–b‡äæİÑ‚Á†#e®tÂ^ÁOòNI—Òc¬Ê+b%gÃ…ÊŠóºìÄ•	g³É.´4*õ«Qt)Åí™Éoüe
+T¯d}^EÇx­•E÷İ7:(RYë—âÀİÒtl×6ÂĞ·Ôü±îÊU2*ğé^BR |6O3FÚ¼¬÷ğ…/Á{”¹ÚZÃW+¥ê¸pB?bEÎ} À®=¹·@õoÿi!8¾e{£ÇlVL|}[œj-4X›D0ø›á®#Ê{@}¦®EXusûw[[eH´’‹ƒÃê8I¦¢XÛúÆä¢#¯:ˆ™?çÚ·©;ººüİï2ÁŒ“¾zğûV¼”ÖCz'âë©¨îİ¯ôÉˆ_š›hÃßŸDõÙ×»¶hq:d¹ëW(×>aå.k€Şªşş³qãÏWV<ıMGíÅuQM¾¿˜:µîğ¾E
+PÊTÓñyÔ8ÿ™/¶ŞßÅ’Ì`Y’“`ÅßåÑŸk8z`QôWSıûQMífßrîûåò›×® ÖÑ¾+j\Ç»·•y9ÒšOŸPÖõ;q`¦·†-O”N\–›@÷kGÍ=üzÿ\Ä'HÚí•®n±DßhÕšIg ûÕº‘Z. ³Çäú
+Qéµ/â¦Ò\Q]…Ö%ÁdMÍH’År0Øéªor`8’sZaİ7©¾ENcëŒîhTBr±©)Q’lˆ0·ÇáòSŞT«÷ ]Kùl\/¤«¥ª°èá”tg›.€ê:b70P½	İ¶léi1£ëu::½®Î€:7¤ÛwHÛ7mé¸o*^BGmc+ª6Z?Hw5u¦OHìêÄ].®]E‚¨ëA]ıÏÂe2ØWê3Dÿtµ6ts-Iÿhåî:OpUp^í_w0„¯°ïè;Ö¡Ë\Å
+_.;~9Âı[€ö®<<ÊêêŸwöL23Ù÷V€ ÙY‹hÁª¨ÔÚj«~Öö«Zµ+¶¶VE+tQ«|”UAÙAÙ!€„%@ö=™d2“uöy¿sŞûNf»ƒ´}¾ïÎóÌÃdxç¾÷=÷,¿sî9çş'Yè?¯ÿ¼ş’¼‚µ%|	
+u¬qâãOLúÌ
+ªğÉöº<^Ÿ×‹¦DT }üB/‚((è­
+¥OP)|xM›¹ôäÑO~pï§]-U.…²ŠÑ’¶PöU¢Oåy×’‘Åÿõâ­‰ùCÆâ8ZÑP0x¥&âµÍ5vØúø£_8lõÒw×ÿÿËK!Ç<”^ˆ97M0ùgËoÍ<k"¥ˆ¯d5‘’¡¼—¶æŠzí¨¹¬´sÁN7æŒ=jÏlèbŸà'£B|Rœ}BË"qµœ;YªÒé„Ä‚a#*µVÂ6‚´Ô¸f
+Ÿ D]sıÑı·<úıí}–Z¢§çßHO…œ¤Gi·¾‚3İŒtÈ;ñ&œšA$âPş¢"šŸB)øú,mJşò‡ı§şöÎI£— ‚çzcÿîW4kv='åQ²]ÁŒ)÷nüêUğôİçV²èZ{ı	‡™“Æ<İ[wüËç?˜=ıÏèÕú;1yÃL²_ÈÕ=­à|`ûÖG
+g-|ª¶áê:»”7`ø2óåíëŸZ»èõ±©ÜEÁIŠëÇ©ßÀDŠ(É‚¼¿Å0È-ÙNSM_¸o~òÑi³_}ïmè(g‘¾½èE+•ı£ŠÒF™Ü9óÁ7ğ.Ğ%¤\ÜpğOt¬ozÚ¦l›;~PwàzÕN{äÑşÅ0Ô©Sí¨Ø³íçß¾p>¹¿Ï÷ï¢C¯\ó^eáÄ'ªdÂ—è÷Ù"Ÿ”CñTêh,9rßû³&ïÔú}z1ò*Åk@?!ÊšÃ5àoÿ8ÿ]åºØ
+93Èô^L›<ÉYS(Õ”Z4VŠ¢–½ÏòÔ×«¿ğÂÂE”Ëçm++µöuƒ•VpA€4at\´”h™2$Y•}Ó”=­=]±I)¤ØÕWæ£{ªeùCúèAOÜ…ògD‹¬rt‚%ofÑà„Ôá£óP;ÆRküWp÷õvX*.54—VvûÜ ˆI5	Ğ .pãw1°XÁ7i_]1%GfÍŠÍºqR® RéÈ²»í}ÍeŸm©sv™T')çT;¬àUÅ€·pÖÌt]Brí!{=n¡éìÅ´8Ô`sÔì(ıkPùD' Kç.ü	òŸ†m(ú€sŸ]›=‚_’™‰Œ›pàm€“Û›—¬Ç/o~}MŸ×RQfë³#ÚhïAtPÈtğ˜4ÈvÃØ\DjD7>G—­±lËFÊ¤Ó'ög`PdJ@ãÑ'€X0sn¦Ö`Ê¤¨¢×í‚ºcg«UZå%dBÉz€#…nd¿¾·Öcïş¾R&4ğn‡TLŸ24Ë5¶8_¡VE|\o…×åìì¨¾ÚĞ|ö¢ußÔHEÌñh½¤ö J&´@Ğ"_ARa‚gà´9™*^i)¿TÕxæ¸ïÙz)z…œv·GNÃ»Q2ÿw³®%pş\|¥ÔaÀO7, š®7¹TÒ1!‹ˆÌ1ø{Ô,Áxã²'şo.?¸ÎR\E·J«½<¨Ù¨õ"í ĞkÁç,ÊÎãÚ‘IõÔÚsjç/~tlÄßStßı‹Ï»s&íˆI—õT±LD¦ëiãRÓßoëÒ±wWl®ÜûùCfvÒ¼ßıõ—šØ¸ÙßÀ¾òd2 ?:ÚØs'àíş"•­V]ù›wöıê…ÍÄ³–¿¼¤ø‰£¬K‰°ĞyENí@^4™)sÍ‘ÊŒ3¹\Š$0L"¡?Ià¢)=_vd1‰ÊÃkròéI;û†Tì‰ûÅ:|k®A‡:9ÄÖ {g àCÊë€Ëû^~ú/Wüq»Öšù¯¿»tÌ?¾“1#N°y‰¸XC¤–³P"ÏA,)\!LDšeBwuùù›·8Ï™1pØÂ»o³ôQ„90LâÛÎVæMÖš6²)“Ğ”å¥ªtÃÛ¯ìØúáÕ[[
+çÌO]ğæÏë“Ro~ê7#©®¸í=mlÜ$)·¶½VzNk]Íó)–­Y¾|ùé äåüğ¬s¤”öK<Ğe=à‡_Œ‰î†PÃ¥ÈiùëôU ‰CC®>| Àş‡Q#ÿ#4ÕŸG;ùpZ±ò5 çÿ`Ã/g¿Ì²÷.ı¡ÓXà\Á|E€wòŸ{l•è’RóÑ*B92ã…U¬Ó—Ã
+2üsóÈ9FY3ğ>/ ¤ƒ­¶ê@|Vú-°ïA´4›"œ~“šb¼Ç>ìv<„Híx£Éø,#Ÿ€ŞvËŞØ”´›@ô¥ÚÈr|~«90®Ô&"}²¦à"â:µ]¼/ëö$8Cö Nşàãe|íOs¿!áãA}Ô9AÆ€³>ZŠB/F®=ÇÔû \C@>¸àè¾Èõ–Öl>#%àÿ——†Æ1iFüÑ=«¤Öv}m-{ô)é7ƒİ¦‡OŸFvüÀÒÈnñxsQèŞÄ:’´ÕEÎèµèMğMş±«bï¶Õé£nšaÌÌ—ì{ÕÜä¾„Ğ_œAÛÓ7£­A„7b /¼I¡P:’
+‡.6?¥†Ïß‰¤)é¥áÈÓ÷"^Ü†¶!3*…ÅHßEo£\[^‹MJ~N¾ÚßÛÖ/l$h¿åÁÉp“rİvPçN*¿tË±?ƒõë<ØÙQÉ´ ƒPÁÌø:š»Nìyî‘Oú:¬İj}Œzñš]/iTîøh Ûz8Ú8&‰Q“Š$ k˜p)c*À¨•kv±Şp¡Ñâusñºô©ÒV‘PµA{Q)P[5‡p"rŸÃ•ÅÄ×©"-ëÇ”ÃÕ¡ò8Ñ,ıÿ#­TTÆ,êÚ<€î>üsíÒEƒPHßîiŸ:g2èLñ8?Š3ÿàÏ-é|ßàÊŸÑ|ìwÏıãÊç»®ˆ sÍøÕ³šµğfáï‹UpjShª•ÿ¥Aèòğ€!ˆ~ZË ^AşQğü<`‰óTúGóÖşè•“Q€—£öuG
+’ Mğû?ùÚòzôE³çTQÀ*4˜İæĞt,A›ÉŸÁó£{ÍA¤uÛkàÔ
+Á‹i‚4ÏkÓ›XõˆµUl òZ†JiäKç,[üñ®uÿJ€EæĞ*)Ùçõ$ã7¹Ğ¡½Š„· )c(Y âÒÃn_½åi‚.]õ•]Œ	š³\!¥ğ‰E^pYxI›
+X>eóø³}Â	¡F.M-f®tÍ&ì¾7¡Ì„TP0ÉÂ´ÈV¹èg~‰ü)ë–ãí‰&¸`
+
+æHÌS¨%Oü6²‚#œ_|‹e©9ÌC¹‡ÓĞZeLG¿
+…¨lmhş¢|_1i ¸FĞÇ$¤^ª(P2EÚ0ô qÂãÏß_üä‹bOs]KLJF:P*°V²nÃé©Â…,˜Ê”DıÉ@bø¼iÁş õ9ú„kqŞ‡×òİ?;|>„t°wGGë…d)òlæh€Õ(ìç÷FZUz¶Eˆ–’¤üBãi¬œA5´¡÷&–Š
+óÈC(˜ï/D|*t<²td©¦?ŠÄ|4œb+ÑİİÉŞ:Y™æ"dN—ÜÑëk\$ÄibY^Ë§ë8êŒ:"?íöUŸÌ  ĞLù‡"RÄt—ñÊWƒF”¬äŸèî¼’&Õœ5î¤¦}Óö$½…1w-B·™1kD¼P)5Ä‘RÑ©½ï¹—P`}‘‚DB©GâW sÛë}"Â•ù›M_DZAÿÜ’G°Ô{jYÕq:4i6˜1ògÈÚø£Ú|KH×‘kœN¹/İe¡ÕÁ:#e
+¨â’AAí®Ê¶ão{£+¯Ö¯ŞMû*Z”«Tpú@{÷[iPp?ÂsD½Müû}kïê@EW¾;´ıU°ÀŒÇgDÜƒ¾«å*ß*½FŞÅµl¾¸	Bƒ.{
+¾kÑèª	M~¾ïğ¹RNğ:ğÕ.º"×‘lºrÙ¨dK‘öæsL Ãï¼&—¿`5ŠëàMšUn¥Aƒh.qvÛª¨;F”Æ?aá| ¨uú$SvÎ8èEi=Á'Dÿ„º%ÔtûœïIMã¤ú†ÍüV—,Éqûb€qÔä8™E¢ (Y4¬	™ËİÆÿ-å°dİÊ>w¢a¹©=%ßæ _á=Ì‡XeO G³ÀEÃ'|¤gJ¾-»õ Z­r>ãÙ3oaÇGôT³~s<fô£bt^c;ËæÏ‰Ä:“n%õ ÿ«ÚûÌLèlR6CØ±'R(•foshe@¿ÂÁezR‹³òÏøh†4|^1+¸ô)WÏW<ôŒ…3ØgÒÊ|5r¥î÷d¹Æ³QTGÿ¾~¦ÎümW ª÷ó×‘”Dûy€u÷ ¯u6ĞÌ*|-3Q¡«e³W¶™Ñ4A%{Ç*
+¶Ñ¦%¾•¢İÒşñ¶Ÿ,~¥öHI‡&®_à|ÿ¬ÀõÃI
+úêâ3ñ‹"°]ÄÉŸæÃ'¿vìË{>îb[MŸK½×yš¼8ú(t¢‹~/^Ú²vıÖÇî{+oÚŒ¬o­Éä»AbV¯õ¥„yK©9¶Fµ¬dğ{C…AÓ¦ã¬Z÷°ògŒt’®³ÕòcZ´@±g¯ÛÈRä%å<S“FúOó>vœLnm>ãS¤„5øú}*:åœ´iä°xğº¼I¨˜Æ¡‚@!l>!t!¿û °T "éëáÃÉTô!óåªÂ+(”­Qø'xã÷YÔ³l}H!@Ë6t>‹VÖbtà	H!
+y²É,ÛÚ•"b½‘ß.ÕGZ²`+xBÍ˜D¼çV¹?Ç#dşîÇP{hß¶Ïœğ¬­¶µA@’™¶!<(lÅº³"%*âs2f¿ºz²„ç-‡¢3´'5{7ˆi3=BĞ¶‘×ãs*!¬%—ÉiŠÈLu<>ñjõ—;?·¶@{ñˆ1cãÒ’ÀŒÆÓÁ·6ÄXYsäq^µïãkm"E&úGyßg5£¦âùXW¸Š÷¢/$ß%3Ù}‘ObŒ¬ñò½@.‚ˆ²d±ÙzBõ–G‡“ñã@¡G7šj˜k÷³êHu”àËÈ;A\´É|Ö†H&¶wZKÕ’åÓFYÇ!sez¢	k=ÃG3ô|ä»P‹@²‚İ•üëè‘éÈ RÄ„jvó×‡f™˜ƒ´G> ~,äğÆ£u,Qa êİÑ‰¶$Š†ãÈş.o1i3Æ³@HÓ)VËƒ°©hÇÿ»®úğ®õíW[ÛôIÒ]2Ÿ“yİçïq Tju		¹ƒÆ5¾5¨x?‚¡‘i9(—ŞÊ÷&æı¼ñtC•Ûg«®~š8°p4­‹nUâĞ¯2AËé5%%Tõ`MIEâ-h]| …L»…}¦2°îj¾V¤’à%ó–¢‰ğ§ì×È˜r+à‰è2qPh›ÖóRškZ%„”Ö“( —BsŸƒ™>m:;ƒöæ¬Ç¢ÀIAS%ZÍN„=¶“QıF·aºƒ©DÔdu~¼ LZÁóˆT=_ıö—ØúìŠ5øµ{áËO?=ãÅ?<u(¬İ5|Ø*íÉô¤BÍ«Ÿ„‡†ø[iÈĞ&¤EÕnF÷hşGt¶U¡ÿš¿>:ê:–í—ÕıM<¿q.ó/;Q(©™g¯R°AˆBŠPÁ6"í÷!zê¤º ‹©/"	Ú’/d+k.¸ùënH–Êá¬UåMµ‡G=ê¯’q}©d~Ö¦<F%úo‰Jj"tà„[G×Pdôˆ°êN¨tºvÂ³~óÊ(SöÀl°ÀQÍÇ÷1øeªM|õÇ÷•V.kÿàÜÃïzøiàÎ’èÈEØæíCÂ®ç[ºG•(Ÿ’Jc­çøŸ½ˆù¨ÎhsEH™ÌşîÀÅ¶•óıE	"İËšA4o`Öˆ»’†ŠêNy¼#RÚN‚)\ªŸ"J-‘¨ñ¬èáÏÑ"•³»]¾&»­ã=æè{¦gÿá/n. 3ox°Õ¿#—±¾bğ“¥MP±zLiË}IKßß"E<ò&HW6òQŠËG™Çşn>Î\‘jÀë’åıİËk#Ãüıˆ	x<YÕñĞ>î~¥1
+]4U`­kP9[N´æ¹S%LÚTrätÅŞ£æ¸´ş’oåŒ•¼ 4f¤Åßùş¶yåZ>-	ÇËés¥{_|ìKsYE+Õ¹dM˜¤T£:jİÁ|‡ˆd12æB¨îmm>'Å-ò†‹KIÊ…ö]ÈüuÑ#›YKX%q8OQ²©­vüXvSÏ×Q¢xaş£È@2 ÆÃ |ÎïàgTnÖüyIøMÈĞòéqæŒóxó§³j¨è™|[Û¡èÖ-şVP ;ˆ&‘z7y¬‘ßÿ9©ç™•Ÿo,?úöê“šXˆ‰Ï-,0¤¥@ãÁ üã	ëĞï² ‚¹±6J”V‚“EÈ„3‘iN¶â£ºnØlvœ¹#u_@T—"~ Ò¬˜u¦î8=ê;ô®@
+²V<£¿éÈ¨©9gã~¾õ¥çù›ß…÷Ùys¼g +ƒo§¿šzÍMÇÑXûO7ú—üµ¨¢„
+•*Æ9œf´4GùŒ*a\Ú/Bi/\]]R`İCzö,I—¶l`òBìÔÃ0
+ZJÏÔUµ“zç¹µñÔ@
+ád[”à…ÿ•6_x÷gs“˜¡¡Ú…Ÿà¿¨İ­§ù0dŞKÕ²ïoI‘4ô3ÃYW€‹|zĞ"¥Ía›öô"Aâ	0ıÎ…–áÂĞ’ †µœâoãxÃDPsØ(4¢+Rà$æÀ{‘,f'*¯£TinJ¯6–&yP€A+M”èkş|ÿè‰Ê-|‹$•amæëfİ|“:ŸÏø[ÍÇøëHtè¼°™¿×Æ\Æ¾Ğxy4üŸ¦\FW^–E…=…ë„ÊºzOèA¢lİ¨\8GVn’Îà<+u¡HŸ ¶ºš–ò=[jôıÉ‹ßÚ	^R˜Qô×Ñe”ju¸Q£vœ
+íÿ\¸7˜Î¹·İ~Ñëv6»{Á>{ùs¹¦)à@êªüÔOÉZ]€ÆÛüõ±óW¿¬h(º{JüÈ»+¼ö]bÏ¦şïS¤TGÑaí<ùˆÓÇ®5¸?ˆ«õOÈ§VÚŸ‚[ğs€x$ÔØ½eL¢ÍÕ4†YÔŞËŒÑxô ì4:SÍ%giGöv ]Í›Ù3ª!ò:ú;Ö>]hbã¥3Ô -¦èj…ô¦ *?œ‚ÅÙİYêB¥7ô¶‰Æ1Ë~š/…Úè,cÑËÿ­´…s+#ŠŠÃyÑ+Ÿ?e´:ÃÚOª9ãrf²ğ=¡‡áK‡_G÷°¡R­Ùh¼À+)EÚ¯t;v«eBøûÖÖ¡½t]íè§ÿ­Û€rñ÷ ö À“à*¸¿Å'¨íĞ×ÊT#ŸU£`mPT±¢ùÒÙóWvœjPëû»k%JRs4•VíËŸ>/FZ
+j#R¼›ïdK´ŠX„“}ÚPr®{evñôx•FN„(ãv0-!ÚH¸!ô©ÑcïİLIúÉ…ÃU¦¬¬tğ"\ôú#ÏğgID“
+öË–×ó“Ztÿ’)ßY÷x…¬1¹±;
+#Ê}Ëi?P¼gšÀ,•VÊa+¯?qpMöø©/	*ƒ ãwEŸ«Q>µ,áÏ¤QÂÑxaø¼¾kÕåSIÃß}½ÀN¢±ìfcS0…
+ Ltöo¾PpE&«Èjà&ĞhÒ°„²j˜öó|!‚[Éc¡îÈş“û—¯Ø¥Õƒ>1¯PŸ.¥¹İøŒ”ÛÉEtú™1Oœâœä[AbpjË"XJ¹§Üñ(=,q8xÜ®C¶ÚÊ«ÉsÖ=“^C…±‹Á<ú‘.­ÖwX?[Î³Æ‰<Ô—.Eˆæ–«&æ¾—:¼(ïm'Ş†Gû†JMm¨ [±„p
+ø «ÿ“òwSÇ3?Ş(µ`³ìzîG/%äÔ _û^s×³mpÿ”E‚´aóØ{ÖÒ²Ø~«×®‡ TªŒ™9±*­g-ÄE0ƒkÊ¤ğ(µ©éii´¹©'¥Ÿ“¡ÖŒ9‚ H„PĞŸ®ëASÚŞgikîiíp¡û Ğïtñq‚!=+MP(Ò!
+	éq€¿ëõy<–òÊdF¥(xSNn¼(j“²ŠFeNyfÅ8]|ò@:Tş¥ÛÑÙ^uèw/”4ùºÙçínïnnê¡*cfªJgŠOJcĞı‚—Àëu9;ğµ^ŸŠÿÅf¢H«İc©¸ÜŠ®i«5šÒ¼¹fJBş°18o…èõ8+öl=yğÕågÔzŸ¨ÔhâFê0ó‘ÈQß¯İav;úºµSªB­N€2„&Ä¢ÏÛÖ×ÑŞd·tĞÙ%$›¢Î¤9©HÏL=¥ßã¼ì¢×ÛãîëíÔÄ‰ö±™îÍvzœövœ™G£O(é4Úİ~õª™tŒ)';..5=ó¶•k§Å¥g$eâu¹z/núğè±•ï×qºj”zAP…ÑYQìCk±ÖTuÊQ~Ê‚M9Yq*>Í‘‘të¯ß›–=XPÒ~Œ$^wOW}É_ß(¹¼}gBeïèj®·ú<"z1.-I“DkÀáOI¸ğ9¬›µ±«ÑlÇQE©óÎuáş³¨Á=üoeØßÁ‚ã‹2‰à~Á}!Ä 0Z1`¸ïÑÁ»g`Ã^”ö‡y0¢tØ1†v_€ÈbÕàÏğ‹YÅ0|/G
+Á;‡N9á6å9™›Ñz’\‹&"ÇUˆFO€k÷á]Qæqm:xû/btP°Ã¢ĞøzÖ»ÿ Yi½C<b¿WHcÄ ß+ü9Ã×\x~k÷¿TD®àsşh}    IEND®B`‚GET /images/ff/cover/beta_35/community.jpg HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-1GET /images/ff/cover/beta_35/community.jpg HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:14:40
+
+5 12:14:40
+
+HTTP/1.0 200 OK
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Wed, 03 Oct 2007 19:39:30 GMT
+ETag: "a52141-39a6-43b9bd4066080"
+Accept-Ranges: bytes
+Content-Length: 14758
+Content-Type: image/jpeg
+X-Cache-Lookup: HIT from origin.friendfinderinc.com:3128
+Cache-Control: max-age=601664
+Expires: Mon, 22 Aug 2011 18:22:25 GMT
+Date: Mon, 15 Aug 2011 19:14:41 GMT
+Connection: keep-alive
+
+ÿØÿà JFIF   d d  ÿì Ducky     F  ÿî &Adobe dÀ    
+  µ    &  9¤ÿÛ „ 
+				
+
+
+
+
+ÿÂ  ‹ Ø ÿÄ ã                                !1 0A2"#345B$6      !1Aaq"2Q# ‘¡Br3±ÁÑáR0b‚’CS$ğñ¢s4            @P`!0 pAB       !1AQaq‘ ¡±Á0ğÑáñÿÚ    ßÁ @ˆO.¥“yÕ İB @ÉÌâQ¶8o ¨9nu Ê­g¥ïa8ùf‡#Wm­Vz5ü¹İâ ó¯x;]'ëªo)äy?–ê=¯_8 ºíÎÑ&¶–yË¦”óíè‰µÜã±éäÜ÷ˆ AVsIíF«°¦UÖ™WgÃÉ‹ºıSõ™ó: AĞè¢1Î»j:xâÌéô5Amn†o@0çhèu^u9óÉJè{ØaíCìu½¬i=âúÎg©<¤@èk§‘–g¿¦(ØF¶o¥íS°øAm`Ë:!Ë5%oÏßGb;¦_mè=22×uq—|
+8Yç…´eôæÊ½¥Œ'ƒ¸Ê¬^íäŞŞ´º¬x@¦Ğm`B™MÛ"²±E‘†pvåŠ•mÛc¨èävw®v¾ÅÖ|É9UºÌÕÕÏ …•j3¹P‚OMït¶Óí[7ËÕYóšèœÍ(µ›¹Ó´#SÀ5¥Z¶íêİ[\åíâÄ×ÑÍ¹gR‡¥¬HÚ—2;?KDU¡û 7rşÍ½Ñü¯šÅ+>å0î‹Sàåwö¿fµF2ú¬òw´Ïua"²?/Jè÷³²{É*a?&ÆÇoÓuÑ—–_Óõ÷!OhÕ:t”¹ŞB»½UÈÙl9_'µ]¼ë«çIìª$xjş{|ë}ãQë“ ç@Õ¯óxÎÜ¬ìfVÕ<	äı»Y·Õr;;ÕæO²ú¤í.cŸ.«fÔÊ¤Æï° ÆÃMÜ;ÇñAŒ£ƒçCÖ`Rè•"İ·e©yÇE]
+†¬’dá…˜ÜT¾Æ‡Dsš¯¦çuÖ+²°Ø‹EÜw•–ÀŸO&Î|w½‰	}äª9.Ö`Šêòµ8²3Yr–Ykäfëh	ÙM»gÛQ4X§5Ø´b››kvÑü6†#q=2¸äh¶1ì„ö¾ûÉW&ëI4{µ‘›ãëAä¹çeJ:~ÆFc‡·“nçœ;m¼k.ÉŒš:É(]R‘ùVa»W]Òç,\ÓÎ÷ÉG¥ŠÛÎdëØö:®ŞFc‰­6}m˜\ÃO?ÍÛ&ÕLq°‚¸“ù»G.íÜN+‘3	BÙ®›ÖúS—ÚiàjdµØ¶¹›550-›®TêZƒÙây¯‹"ë¤t-Œ°Âø_¡ÛÊ*$SØš¶îÑ¤Z¥6ˆĞzE¡a·6¹ı”bz/#¥3\9WŒTµ(‘ÕKSVÔÆ-²§9ĞÅ¹¶›{©Á×Ù›ÉÌwSE
+Ä[Éóµ‹©˜ÍèWaÊr¯EQÛ¾G>Åõv(jŸú@ÒM÷‘Hı¥°ÜoH+N—§ƒ¡J=ó¨9éQb;ÚæÏœÏ¯OE¬×…–f-·ÒVW"KÓ¯C»~=Æƒ/zÁÔ/l]¾Á¾uªZÏ1}MmNï:˜v¤~‡aÈVÎm•®îç˜--}téò‰(æÊî”ÑUu‘6¹§ÔÿÚ  ú{Äz¸äİìŞíWÈ}ù=rË1Øù®¾7j¾Q¯ÙÉÌ=}©}/{cl»y%p»m¦–Í–\Hk³vÓeŸ%b9kV§1±SÕòıÔÛ­>Æ½WÚñ_Ùÿ ¶Ôq+}ö|Oä’[“ÑòK_¯J%2h¬x5nvâºJ3mCU^íìÃoK©º¿NÆĞ£CãW«¥ZÍù=H#µÿ Î&'XÓÅ:ößn]êrÕ›öksòë>v]+i¶¯¹,û8Ë§Š›¾1ğ¹|ûA°Û¯&âPG§ÿ  Ş5´ß¿\êd£Ûò×Åf´w_Mî¥ë>Qn¼˜‡ÎÕª0ñÇüYïúò¶JN–m}/Øù-+—µ_÷#³,ñ±|NkÓïAéè×¶¾MÛu4­Q°Û•Şã¹ß3G«1ÙøÎ¦a¼ÖÇ­²t•b¶ê”h[û|î¬”{±7WìÕjfµ´=å­‘ÕãÆ²¬u£ıˆcs$dœÜ°+@6!¡®lÂh‘£ä¢Ö
+O×X¹úuöVÁù4NÄÑÈ$ÖÄlÙ!yqrĞ§Ûk5ÃæX÷MNEğş-]¬|`B·? u‹uØ&«&‹å_¹*ùÜHl5‚òlâk¢“[³n+Zëc[÷]käPù<”§×oµû6¼#ñìE´øıÚ†rXhT·~mEõµòC›ò­¼UµµåôZûRÃmæ¾ÜŒ–Ş(ì­:i´Õÿ vÄ@µd•6…†¿a@:´-cTqûn÷a&Ğ1ÎØ_2×T‘Ói­:Ük(½HÈå- ¬ô–ÀÎşóíí44Íı…vûn©C°¥ƒÂäÍøı™†~;˜èUŸß&×AvÄv6[6l¶Õ ˜\å%³m½}+®:X˜èjÖyvxEü”‹ğ×<=ö¡=·LÚúÍe{ğö'ZºÇ†ÛÎ¼sëıêõkŠÔã{Y33¬·ÀdMìº)íØ:úbŒÏŸ¸W¸qoİö}Ì;Ëùy"äó„%O“úU_û˜ê=ë,–Jšñq¬ØÅFÎm»sctÍDÌ’kñks,±5±Æè]a[gëi¶ñÙS·Xj6rMV_˜œ¥·8¨m?Ù¾İiËÉ^}Oòi>/2y©Ö«RfµÊ D<6'GİüKU³‚‚M|FaGsfG:MA÷ZÆù¯6Ş¤Ù›ÂZ¯¬Ç3Ø;*²Úv¾Œõ,Ş ËF¸lLÜZšWw“$èŸù1ıe{L’HZÿ ¶8ñwDcòYc7ñ¯jHMmm/ÙŞl¿zœ¿©V	¿ ÛøùQ´öì}Ì©zI.<¥xÒK³E¾ä¢L¯q…NÖ¹¯+ÏÎKêfÅ¥Ûxj‘¤­eVÉfûıºRHùÛ¯…°UÛÀ-¾³=ùe‘ª»wû³ìiS_±^@Ù2f˜E†û³²G8Fõ÷İı‘Ã¤é!S¿Á¾KãÎØ+iUş^àji÷N°«Évfô4ZıOìÀ«Ó6Dú5*€cÃ^Y¬R¯bfëéÑ†¤¢Xööÿ UŞóf|VĞû
+9nN ”ïÊ\ûvåğÑ©©hmš:èh´•ò_±²­*ê\ø,¼ö°ÿ ã-§ƒ_;\éeó¼^úõ˜ØË%½ÆË\-º[{JÒ6; êïA#Şîzçú7µÑŸÍÚà¯%•’¯Ø5ëFÜ³ä(õõ`“«ÏûìI:£#­©¿ïG#šÕî·ö+¹™ØkbtÒ~oümcô~;ÿ ÷—ğwã7ø®ísüj?Ùô|‡ş&ÿ +ÿ ØõOìl•¿øÚŒª—CğÿÚ  úeeô±ôóÆx<gèg<}3Ç’Êû;¢rè;©î˜}r÷}$®èµ ¾ÒqĞC”Îüƒ}.¯"ƒr$YM¢åî'»+)½)Ä£é<e$*1Ğúì OYAÙYYQğ\rNsÇTŞéíòÄS²†P<KÔáxgN9hÇ.(¬¡èqYM¡	F<pS;åeƒ³ôŸÙ©Ç<ôHzÄÏ.dí#ïÈ=~~fö‘7·äZßÄ½‚ğ@cŒ¬¡ô>ı= )¿Íä»	ÇÉ àğ1ë/_l ²²‰Dù/o-¾-Dñ„ã)ÎÊÎ=owoAì¢íÄëä²šå”æ6åØXDz2Qæ1ÔöF08''#Ñ›Û<d(NJ<F8‘¼±¸)£‚SÏF÷áÈ&ö{px¯øó"wdŞ}°ƒ@áİÇ=55SSS˜T#åéé¾²‡2,tG€˜y‘ÈpşÎMïéwaßì8•ÀójÿÚ  ú`/[ôr³ôüV8cèc(ÇÓI«Åac«Pú,ì=b1úXŞˆ"¾ìâO¡l'3À+ËÒÇs…å‚Îê^ØLf»ğôĞ=Mîº§8aÈÊ‘Ù>†ŒŸà0‚yÀä¯q¥á‡Å>@˜Å…€œŞ"q•„GIÇ>€ƒóËZx(ğÑĞğz/0ƒùvV·G²b(pÁü¸N0šºq:} »rîğ§¨õå¼œsÆÆ}a”8Ê…;»½ ¯2D!Áú‹îA3ø¯sù§r
+w ©ãïèÂ•¿È"°¼V›ÓÌ®Ãr¼w¡İÈz7ºyÉ 8Çãq`õã)§ q/»—¨Û•!şIÏ@å}¸	Ü1ÁÀ…Õ]Ü<Äz3ºqÏ"DçgˆÇBzğÔy ™!aŠpôƒ™9ˆ¨½`q¹DaF¼ºãVQâ¿w~IÜGŞ$îŞ˜ûßõîñ¦ş|9HŠÿÚ ?êëLÀ©,ƒ™*±¾	ÿÚ ?KÈ¸<£¨IÚ	´ÆúË¬¸¯®8ÿÚ ?ı›G6¦O–Íåu¡ãcl¤Í>®™¤ád—qwÿ °t²¸26
+¹Î° ùxŸ<m³©ÈÒvU-ƒPyXÿ {qô:}K$•·°}"÷š5¶’©08ªõk¾‹£(É>Çr©¸)u ùU¤úÛw®ô3š7ğİëûµtò2aCUæù#kÏˆôÿ Òhªøa>kYïËö5E)„–4ü–Uc4x´8->±ß4Œ’ül°ı½³ÈÁIôï%ÔÅ•¿x_ë?P“4ô¬›İOtíô[¾gSÀZ›LÕÔc²»>±¶Jø²;Ür#ZHŠ!We9M·éeÓ‘$v’óŸÔµAs:t<B—ˆú×ùG¥©ÖèÆçø€¥ıS]›©¨“(’•ßí(u³ep¨ ­éšÍ ÿ R+u8…ëW¹c›5~&ıÊÂdÅ£€¹í'c“5ºWy°ù¡¡«mPê?ºÆ¾Ÿ¯¡§ÑCoÅ›b.?ˆÑeé ;Ãªºb7>—–ıë¡©“¥Ğ^ëgq}+]<Ş
+„CÚëGÌp OúD|,{ÄºÂ0‰¶ûPh° ô›¦o6®@Óğ·ˆıHé%Œ=ĞÈoî}µMŠ½;-§±i4Íá¬• A¥@çUâ¤f=åtë“¹7<Ÿ˜ÒÜö›H·ì¯`·c|¹¦u‚&ÚëTQD)Á°@~¡Í„QßSºÎ¢êÆìÙ,«è9Şë]JT{ŠÒC¤`%»r©ÜöĞ´“´'KKTÚ–æ!õêÒæ à­ôH½IjuM–BÎôí c<j¿0ëltxµPÕß…‡Í5i|"˜bVGi›ÿ Hy9.-Lü©-Œ0„£Ÿ19kRQÔe§XÕ¸Š¦î†¨Ÿí7”âÃG;éQ½ú±Í¼QÔğ ¦iëÕÒÇÇ#Åmmvú–Tæä¸…L•ËˆG[ƒo¢É#ZãsI £‘ÁÔ°Ğ×µÒcsw¢ÓyÅ9»œ­hUiÊ6'jtÁÙòå°†Ğ¥JdcÇNÆæ9‰¯qG1”´›:Œ¨õ¶Õ¯p=»T‡šµâ·?†	{‹£oÃ±§z³·ªá\<4\¶Â ‡Œíh£KZï±Z³G~bÍ0ÈÑ_“ı5ÔŸ2{«»bB×ïb}k­¤”Å/}l;Ótzğ¨uŒr¸÷v±—ï+;Ğ4§e2¡FUÏ±¨iÜÇuo4æk[0¾Š(Å`æu{éb‘‘B¤Uë4Úa#œ&”_ã;,ßÚ}[WéĞÊ*ÇXBtƒ©Óà[Î7±Â„w¬°B÷ƒyÏZéšï˜{(qOÓÄêêewO(ÃxÌO(Ú†¢6™2›]õ,³Íâˆ>3G°‚Ó¹G¨ÔY'H>Môªs‰´”ç¾ÖCÊ?yS.UXÆôçÊZÑî‹Öi/nXPkZC€¦b_ö¬Ïq{¿Q™¥èÃ¹ŸãwŠe<Çé[p,Q‘0´S›¨ÔÀrÈÓ~ÃèUñµÛÅUƒ¸vµ¢óoÔµ2VŒÍ@Ñu˜ ÊylqØ›h¹I˜:”àws‘QkG7rˆÉVşb¦&8Ô¶S‰]W'¸¸nVòVòÜÑŞœ×ätÌ0xûS#Í0>aï±e­Gzóv&èƒ²ÚçtÆÜ¯„ÒÓ`]HÛÅJUi§e‚ZÃ.Ú‹=2VGbÚâZ9nV‡9­Ía­v Í'ÒÎy º¾)ÌÔÈ\ËÁ6{ˆÃĞò.¨#7¨©™ıC+‡e¢ÑÌê˜´ík·­LÍ5p|QÄßŞ¨ >ãi›rpån* QŒ°W^ëş›[	%Ë‰é`t’:ÆšYëA9çu²¿½È«UR/â_AUOEÈ0rƒ™Û›cSuzg6®emih÷”«úq±®Ëi°Pš"ÇÚH½K$”éÂ	.µ„†9î2
+qe5ª­KZÙåğ]f)ú3ÍQ7òÙõ¦²¶<û¥0‡ß‚ºôãsSYcZH»š#¸›ÅP-ù8àQ±çÅs¾>ÔKÎQŞWÃ†ÃTùç4·•FÂc‡½Õ­0Øºµå4Uì¢=™¥=ÚxÄns*ç{×wªÑQ×+%ò»¯§­ym&ÛuûW^8Æ—RD‘ Ğ~!r•šİLqÅŸ‚KMA	ÏÓËÔÉ@ÙÆª&ºÇô^ò?x£)Æ€xL1]1ÂÌN)ÑFr4SÌw¯uoğ™eg­İ½I	µ»br§ÚÖßBá›éYØk•ÚqQÉ!4e¡»Pkv\¤¬ÍÔ•ÕÍ^Z(ßŞÑôz;¯TÀ‹à§±
+ZŠß”q8ğ†÷—X0?Bs$¸…Ô#üx@‘ıÖ\Ok€9(l­©±{ˆ÷ñ&¹ÖTf;•)Y0Œ^7¬ò¿4‚æ7•ªXÜ(É[Qñ5Wäíé´Û÷,ñåÊ†=3SáÙrÌÜ0í.Ä•GS¸Z{Å¤Öº–GÆwàµü1¸û6äh«ÈÁfÒqÊ8èj†@–Û‚,æ–œÑˆéõZ~ˆqáp5¯Ä¼êø(õÚW0Z[b¢{q)Í}–Şƒ˜ë;¨E¹K¯ “bÿ XÚtúßÅ[½]®z=’¹ÂæÑ®ßÙù¨ÅGõG×ØÑW Y}ókÎÕùÇ¡¼g¹ŸzÖÏ?ÊÔÑ¹Ÿz£_ÄÌˆ~¡­';­1€=ë4LÊâƒÜ8‹KAÙzàg´”spËõ'LS5K©`M•·IÇnÕ+ÛóDqïr’•lŒqFyšVShîU¥¨ëï“ªßåÊ½½	®òˆ÷Ü‰*2_#CŸ¼ÛÚ›Pt¦¼@70ğ¹XL“c+ïû»',µ±;¯ö¨á§!·ÕR˜É_ÌZN°ÔîT¶ƒ•qQååo·w#–AM±º‡ÔS³KŒÍ± #~dŞXş+ŞRhß…—}¥0"@îqFhĞÖ6ÆÊ1Î…ù}\]„Íä)’ÈkTéMÎq#ÂÏ©6¶
+VF¸ZŒÔlEØ&¿Qfs– ë8/ñôe›ğ0¹¾Ùô¹E§6Ë?Q~FŞSeq-,uX†­¶ÕÖÙâ/NüNBm£1Ø¨Ñù‰ˆàZMX˜Ók¾„³-ˆ~ Æù€ZJ_‡ŞwŠuiOŞ¯ş4µi~~µ1¢õ]r’û°EÓø®ñØ™ËÊ9.ÿ ¯GQ»wÄ/Ø´÷|Æ_w0Mæÿ çÜ·T/ùêo.<·_ÿ +Øû¹SnúæO¿Æõ%Øó]z÷n÷«EÿÚ ?!ş2¥Y³@ßhûÁ6ñ{4€œUÊq±ëüPr¬Háùí8ï+°ğ½·ô_2€ôİû}ApÊ´Ã~|·ß:”Eİ
+´¨ƒûÑPZº2Ê³é‡ú9–‡FÏ—ét ¶¬ˆq>ñúıdi±’†Çàó
+@òsŠ—Ä£H‰‘–rşõËÔC´˜«ÜåéÄ¦cÉÚÀ°dyú]…X|¯½F-k´¨¥9Œµd¶îd¨7;Y0#(pgMÍµ×ÔCU¥Å-Á.'¯Õk$ÿ )™h‡Mä¼\ÿ  ¥©Wm}în(”`œb¸Ìtúf­‹V'¼¸ßQÑ>!QÛTşßG:AØµÆ­ÌSœ0oø%º¨Ãî&Ë4b’¸åè”ÍN¥‚UÁ¸°º2t”Óyz†M*Ô•ÕıËo„&¶Q}áå ĞÇpÁTNõ·¾e!jø ^ÕóŞ¦!¶–N~bûÑ†æúµ¶3f™à<Ç(Œ6•ü}¬ÙwŠë÷â ª˜R±ópj1ß¡ÀÄ©)Aî„®’­ÁxZC= i66s=Vå¯ˆğ«r%=€1˜ÈåÛ_N{ìîË(P9Ñ]íeN­C)â5rÈD]±h5qmø  
+g
+Ü¤GD˜ãZÏmw˜ÓÌò·|E
+ÔÊmÙ=ÏèúÀ»N…I"Ğ¬mÛe^`w“obÜ3™|VÕkuUŒº©ÊIJ/îF]ÍÚãÀ°¬³„¢p×>¾ NèéåÏ”€ò5ûzZ—”³åöÇx›Z“7ŞÁ”)hE?r‡’m5ºa%/ÂãÙˆÏ+k3š«‰2ö"	|Ç7@êõ˜:û,Õ~b*èÔ¥Óg:S/™£\èÏŸõí:†Î®½Ö† ¥|7Ø:âRˆ¨GnÎ§TjW€8}á6·©—=5t\b]µtBçä¤òEsWÚ)Šu¸iy™©›Cg9¢¥±÷#F‡ìÜÁr­=ÒàíÆ×#l%g)×ú}™Œ*¶À‹¤¥Ïà|=f×t=½ù‹*â
+~ğ¿J\;¼ì?CZÑ‚ú–º0÷š=´zbªÉ+«Õÿ ²ñ£±¡25yŠXº¼ıâN9ú«%P†®WŞfø—ŞsLÔ=~ĞÑÓ¯¼ß.‡´d%Ø¤ğóem‰®òœxN\­|ÀlõU-ñXé
+FO.J:è¥,¾\÷S£_ o´#˜JtcÄª]DÌËºšû1 ¢*ˆbèd·lşÒÍ,çº“ƒ9B@ÿ `	,Ô>¸k30¶†7ÉsqÄ²Ë/zÂ5«X00ö÷ï^ĞƒQÏü*šlœ`¬³nóPt.[Â·¼íBŠï$şËã1kËõ/@qŠ–ØNßÂL<Ç0ÔÅƒ;p,a}6š§Şã•â
+ğø‹
+CÂ»‡9ÅÓØ%m#5hd¬á”êê´¦^ÆŸÄfÓs”İøÆê¸‚çWªŸÛjŞ€’ûaøĞPcó­ÿ b€‹7®•ï10_f`ã,âY èF&¬Opÿ ÙK_Aán¢×Ô¯˜¹ÏÙÍîÛ(p\lak‡>!ñJ	¼ ©zõ—·Œx[óUL	«9â=eÀ4_9ÜĞİne«ãÂk¹”]	‰Ä¦ºü¿váƒC.¬qt%ÕüK±Ş¦æVKİq`ÌOcyÁ¬qÙ”ì'¦ôşß1†,m(–OZá*Ïïô,{`É˜yF6ó,(«/‡şÌIrˆ¼Ñ äš`U×h›Oº½ |DMòÑPE¨[¢–­Ç©¶Ô;¾ñµrX^wŞ
+cÀ6ÆµIZÕ{ÔqÇ€Üå ûûó,Çh¤^>’R`í´¸ÿ €—±É¹³åÜ¼“nËÕÓß0=É®óB»ƒâR‘šNàªüEP»€rÇˆW¡„2õp+¿3ºì‹ñĞîB°óóİ-ĞÓÎ×öÂ,[
+ŞT°RöÁíüÀpéñ¨«‰v—dşÔÙ\™M_3½Gºˆlçk„Órç˜k±ë0ä&éç–iº¶ŒqûFƒƒ~ø„ì•ù—!Õˆ !SppÛÕªôùLçsÉk˜a²‡iéG¦eÃÎ~ñåÊ¦q™Ó¿yşDks˜‘ÁÚlc³_œûB·¯³9•mÒ‚ıáÑøRÏÜÆ+à¾< %†ÛÀŞq¾¼ËåsZ[ÕÔ2™T¯„š24êZ[·¼Õ2€¹¸nV^»¦~~¤âî‹u_y„Zâêøböq*´\'ìñ–á¦.c¥{pU¿$³RöÖPì¯ó¸í;ÜúyU€7Çùèğh†l1n½|Àc5šÜş&âWy}ToŠXyäâ7°?ì8j`È÷ƒËè§€„¬Ê‚oí)EÄt£E«[–HLu}NÆX´Blrwáñêaù=¥ŸÊû_z‡)á8"Ï¡øCÑ…1Şh?qëªÌ¢7ú7R’¢üŸˆª×ğ%FâòeŸÜbW][ùŒ8ÃóV=Ô0Ä{à"«§\°BùÛ®aî˜”µ^éû5ğË`îÅ;¦ñ±ö"#ªgj¡d	;%Vx"—¶%–aˆ¹WQ×¿ì©›g·h7Fœ(plµ¶õñ/!ıÌãªsÛ¤w®+^Ğh•j•à®«¤ZÌ´SÍ=Cx¹UÊòßë2­Xø´K“P«jXÍv€/Y££Qöq)~×Ìy	¹å–u?úYÔŠEâÛ- …oÁpşìMgŸ2œE¹VıÒØ²¬c^÷‰Ú{Öº÷]8ŸĞÎß¿^óÉùM—úü×ZÌß¯ñqÚ_À½÷ïë|Jq˜¼±ğÏuf¥6|CÑŸ-~Ğ¹ÉÃıB¥²cƒ`ûÜágnı¿¼¦?ŸË×ŸÊkÎ¹Ô§ûõ+ác‰ÇûW?¹şÉğ³1¯*¢±?ÿÚ ?!ş5RÒÿ á¨ÿ #p·¢•µ®™2Ä¸úëêÖ*JFáBYRCë8:C„âéô@;úsT2•E†#ªd çø>dGHî*åzf–çˆ}Ó#Ü ”–>°Ìnz@Pç„ÉÌºî+:âú4†HE„½%JìóÑšôFã¬i-QfVa´ôW¥OR¡åh¶D7‰8‰d‹Ô,=ĞÇZƒˆ9Ä:¡(f‰qd¹~¨jcšz]Â\»nQ/43’Åz–M ¸-zt>Šú]ÇP›SeÊ<ıArİ*TÅú]ŒqˆŒ ÏğÕ¦UÏ”vš'K=%8ù€W"áxb‰Ìfñ;ş1¶âô—[–¸‹bO&oú#™Ä—Jƒ1!Î#eEúŒÁ™_g¡ÅTŞâ»fŒÀFTMÇ)V`Ë†Y”  s7úñ¢Ö¥Aˆú¢l—ª‹ĞÊü!òÒ÷Ñ¤Ş\uSÛ#ô«(}0kÑ—xMÒ¹î‹Y–OxÔë2âd¹o¡EÌÔa˜ÃÒ¡¦iéÏéÆƒ2à˜)ASŸYHpâsÒg¹¿¤µ0ebáê3qEAG«uúã¿A×¡Q3ás™Ö#D£•ê15ôÒ´El<Á³ĞâûÆ¦ŒŸ~ôÒuxõs6M†Ğwô‡—‰©?ÿÚ ?!ş;%%_ÃÕÿ (ÓĞú2ıwÄW'ÔmôZ… ¸,wõáå)39¾„ß”úæ¶ze[?ƒ/9ŠkĞ“kˆıÆåV¢VæDº@c¯©ŞĞózF3¤º—Ôƒ’ùş¢ ØÊÇÑˆé£qè\„D8‹Ò._¥ê‡¤CBTµ0VR2§'¦;•é=:“«Ñ³²1ˆ„TÜ±*`Ü»è—îm+3¥[)‡*"fõôÁ‰bYsè¿ #ÂRï¤vÃÄ0Å¾ê9‹İ+Ğq‚.gÑn§Áş ™´Ìa8ë*˜`mŒ¬Z‰WèA™P	j=@¨ëøE…f	œªÌO3H1zúİF‰@eLRı¯ëg.%¬¨ÛpLOxîŞÿ I±/Ò±(!×¡ëÈÏ3ªUÊú¥Ó¬ÂñÉP•EB^w‡ÓF¢³ÑYråÊ|¦‰a=²i0&	¶ZU”Æ*,1êÇyŒ¿E¾‹éÈ•5™nåËé•Ä¦p”n[	xêGÒ
+rñ‘è8Ï«™u!¿EÏW7˜¾š&ëBÂ9¤¡5r½¦ş#†YıçY‹ÓÒ	à˜Šú2†m¿MÍJ© šKÅ˜Ù¥Ä34ôœ&ÓŸíËëó¯ßïŸM#©®m6GéÓ7xôiôõp›OÿÚ        2  c p Ş6h  P4 
+¯' !Ğp”â„  X XrjYŸbÄ	|›xÑ4V%1QqÎUj©`F#"w@şW5˜õŠmTÛ–-ÍUä=(Ñ‡ÖïQ¯Ø3ä¹zU¦ü,•¢M’vj^¢ñ2¸í–ë—H2¯'¥æg¬t?ÅWy—7h7.v$5k¡>É´§°™0‹xÕËäÕ¦æ.û	?ÿÚ ?ş2Ë85£›š:± Ì¬æ5Ä‹j`Æ?€%PQĞ
+*Pİ ¬Bí1"/n¿úô8ÊI]ÖA‡9WÕ€YÆ«Xîˆç,‹t¯xq¡”âŸi„D¥)›³“¹íp…8õj½4&c¶¹.ğh§•%ÅyÊóQV»ì"‰cÖq9îÎOÖœ“c’(£¸Æ}	@RòQÈ ÄbCª«,a,v1©ó§³ÔšZ4Ä õ{GU*ÃÀÎv™úÕ5Šx&b¥ØËï­°˜pûÔ×0¶#xrZÚ:Gÿ v*°#Mâ\Vç@¿0LåZ*‚LÆ…Ía×Òº‹§Ü•	a¢¤#[†X1'+\–®Ã+RFÍ(Uå1Ê†8?xKTˆ>ô\K°åpê¦#n¹Ì
+^‹Ì¤œh§	®ß@ê€—¤¹|U¦k4€¦@µRÛx€F÷[¯XX3vùŒ)Q`–ººÓpA-–ÈZQ¨@ºÓÄª¹ü6…SP¯¾ C €ìRa*k£Â‡™SV"·Ğ4o¤éŠƒ¼Üc¡Ä®> ª]®†åÔød{` Rb,”Q ·eT9Ù1v8Èy•65â•wbı¢ü¤‘YŠÅ][3¨„•qr’­ õ¼ÔºXîRi›WÁQˆ*÷Ã nzÎ"Ğ¦X¨CÑš€\rR0:n%|4²ÜÖ…¨Èf†ËÕÄGI™Í oJÄl ùV» Ş½h˜N˜œÁ¬åph%â´K¢Qk…æÃ[!F2R)Ë"¸ÌÅŞ®‹v‘Î”•©jŠ²ÖŞ`EznÈ½G™´ÒåYÌtÊÒˆ+U¸c¤g9°(rë5,ÜP¸èƒ´]ó2·«¥ÕÄz“ T<aæ?#‹•I
+«Ò„C;q’E 4P•ä‹Ao½É–÷˜D[Cœ“+s*Òéu„\ô&A>èŞ°ĞèÃˆdÆÇ:>7‚‡™y,İ¤nÛí.»‰@ï[™AbÈ<G‚ÓÎÉ€®H,¨]„©B¹! Áw4–,sÊ‰V¤~1"“6=ETXíîŠ¶úØ Ë2 Íñ\"ôò0FWÕ^¢¥-Á‰T5D%^îfÃ`Şà³|~÷§ô±‘[§Ãò„Ñô)“Ã¿k•=ùuƒƒ² l–ÎV^ıìƒ SAFÜbo¨¦Jœ#oi’ëmİ…«Êdé³-ç®fû@ÖÔó~	Lyeè«Mr?CRøC„Âév!co¥›UGÌ½©Z±›'ƒ!0ræ)Sf™cËêÜ*i-´²½î›)¯˜¨y¡We%Å’Êî@Qç4 åmÍøˆk Jêšó#jUÔC r<1{•í>Ê§I:„0ÊCè€HóğïÇIº…e±Ï*ÌvaÓ:W§	PÚuYÆë;ÄÈPÜYXàŞœbš®­eÃC!¹€ØïLqøŠõ%D|‚B#QÒ_uKËr^UË!N©ü©Ô˜´¸e//ieWtÌS$®Ç‹:‡¤hĞö•­¤`Ôª„†Ğ-i™MÉ (ŠjÙêÌÀ(]
+ÅsuÒ¡­ó\Ñ‡W~ä~¤Nvš¤ëGˆ92÷Ì.e—FåêèË/ «Ç¨KgÎŒÍ(ƒØÄ%xŠœ×ã15
+EÑKÈbe—Ğ6ÆÅ¸s°é…+‹xf@Åâ$ënÍªöt™rg2Â£Å\îÒÆÑª2Ta¢éÔµ)¦‹êQPõİæEšŞªtcq®PÆ"/Buu. ëã*èC} ´~ƒXõ£pæZGÛŸyN<4*šÈ—´@å9æ·3‰å–-š`!z2mÎó8L—	âÍ¿‚,Gø”Ş‘ê¦®> ¸ºZPPÈIXë"Ê¦µÈÂÛøb¼ˆA LE–´²­s …xË"lazn]]lñ² ¶&èÙi5’uCbå©)2©³H)É×wÁŞ;!îé^y)E¥ÖT/¬tZã4¤}°‹/ ãş¢&È»tZ©b³ª†z’ê¬U\å—'ÒÏ[ëÚ-Š_]´ë˜µÅ85SuÚŒAŒw)Ù	î)z «sÄZ¾p€ŠYÅğ
+{C.è´ 
+¾3#ÓB”^æ‘q™hœf’d"ï+	Úëùë+Vœ¦ów•A„Ò“Z€H–¼8êC–ÀØt°¨‚_B€øøSW|‹İeÉP3*«‰zê ¶¡Â½â…0î
+
+quÚã€\™…TYaâ5£TŠÎ‡~é†X ²íh‹¨œå}ìÀ|TĞ²œ[D‰á$mƒW… %M
+-?‡x!"ÿ s6å¾+2›ä•nåá€­Üõ€Şï“öí Ó$ûÇ‹xyk¤±ô
+rŠñ=Sá°¶™…ê Ä‡8?pDÁ
+)WE|°¸RáÎğš®¢£}˜°!î|¨› Òr¯À_·Ú/L·RÓ¥O82Ó+E¯S¨BÃAn¨xÙvV–à©8V©€êÖ £PšîÀ„rob€ RRÜCPX~ÉJÃxkQ¥DA
+¥L¤şªX•^LB×]Û%îp\8²X¬\IzÇ¥|J|âÕ±
+âÉ‚ÔR7XBèXÒµÖlî…élÖ ƒĞ¸ogèçêSÉN^£}¬¦X,Öj½†=²{Kqc¤ÂÁÓ]–¾Ô„¡6Ciµ~­è¥’»yFí¯31ÎH´•nÛjK`;w°-´§³'â`g Ïå
+,Ââ ”ù$`ª,ˆ-s3
+u.”æñ,ìR¶S‘·sqÃuù,õH™Y	÷—ËVÿ P0­Ou2î«§´m;m’Ø¦·‡ÉL;¨o=¢×°S˜àWƒ›bSQej¤"œu¢ÕEd0ğ+Å|÷ˆbaÓ¾€[5	€>[º…€ÀRÆ˜Gæ’:[ /(¢‚Â r†ˆÕƒ+—‘Ì¿…€¼3Íhîì"ÛJÓ;*úA
+6PcKUÎoÚe²ÌUàÑaÖŸyFY…l8ÊıÈë*¹<Dà®ãŞ”Ğas6ÊëpV¿ıë*tn‹Üÿ ±ÅmğpíMäÀ<Uõ”íÊÅBJ>ˆ`?µ(îJ§còsåÅè-à…|IMv¿<9Ú™i¢P«D¬…?R§Hn! ·œ¹lĞ©úì[ÔbÚ]_W¤q«<Qª¹AM3 ™uk'4(%Ê7L¨ãÀÓaà_ø³2¶MÀÈa2BX´Õò¸¨n¡|mŒkL¼¸O  .¦°q¹àËöÈ¸€j»¯ğÃ£/Ä¹û	P @LNÔ—Xšİb(™ÿ I”,#›±>ÖöKâYø…Ğg•€«6&Ò*ü/iŠ]l²øU``Q
+ì	·aïPJZ3Š-¾…KÍBÒî­\½“²m<ÖV“€%ú4ƒÖgY&\{(»wÊñ)HB«B<4YQE¯|½áˆqÇ€¹xÌÇ@¦dšHõÎÄFœgB´_Eg3*,İaK)Ò5Ç1ºÇb¥X%¦a4+nbÔ¼ÊÇª¡ì1	xYèaùhå¶¶˜9ÔJ¥´ñL¸ñ‹y¹ÖÀÛ0¢”ù¸Ş’Ü®ñ9õNô"˜îf_x5Ê`µ{ÜwnR2[[BÁ‡¼ªfë›ª˜JtK÷¯	u×Ù 7Ğ˜+ß‰¥-ºDW·{ñŒL†Ğ¹Ö¨ø!Î‰u*‡—÷éFr k‚¿iáËßµû'í,kú™ä{â½ç‡–'¯£—5ÿ †P¼™Ûx|ëş`uaú§‰N_Ó®Uör›ş‚úÎĞ{µŸıÈ©¥ûCøÔÎ*ëÚ¾ùŸİÃS¥ñeÂáÖ}¬êS¸<şâ®µ?=ò_»µK|g›†¿ñ:I*õg÷kÛáØÇ3]}ù©¸Âÿ !Ó™§Ç7ë¼ß‰e]V¿¥Ëu¸¼:wÇeO“Ìûø!¾æÿÚ ?ş:XÜïETÿ 	súëÉÄ¼//NXŠ³pÀÙ—õÒ²)./QpgÔm\1+ézYd;±ŠX¨êÅ°Ùñ3í°P}mS4º•T"ÒánW¥ys ãè£ÁÈâÇíZ„¡Il’²K¾c­¿ä«Z&‚fæâİbàÓo”WÑl^Âar“øŠkõJë‚ZÁ)çéV…¥A¨©>bhËÎL•oÌÂüÆC*™bB}‰«ÇĞòšÈ8”ôr{Ê"óÿ „;õ&åÄ÷†éˆ.Ş"„	ó2¹”µüÂrûL%¸ô5˜—qQèFö—~Ò¨QÇ_ùÉQ°¶r™nJC¯ÊYÁ2_F.ÑÅÅiS’\™iœd™”T°J[PÍ:š\‹8%íß¥Ë`s~QÖ¡ŒC›fBåŒ@æYŠ¢‡¿åó7Š2feLÀå*ª˜Şyô©Q ‡ªmwk)L°’ÀcÕá,¨‰Q›ıg§ûQÄÒíù†;ÃtÑ¸6mh°ÆLnñ=_[™½¢K0lóÛ´çt†Ã—JıÆbÕøtŠÇ„Âœ¹®êãˆJÏv	Äué³6‰ÌX¨6› õ„céqq>ëñd"ô,XH<Ì  â0<G!Á,SŒ¿E¸C«jj	éÛÑDæ#Ak*S¹^a¸Åõb›}¥…ÄC’S‡S¢2ÁFÊDŠYFá‡>|ú<ôoœÙQj„ ßÊ¡bÜÌœËÉµIY_Qƒ~GõVÆ¢¤ì”Ü¢60üØm4`bmˆú¯µoCD±”v‚H%Ô«ƒ2§ÜÁ‹ŒLÕye#¿â0ÙĞÄ¸&_ˆ)-j=®òÿ  Ñ +D¸6ÀŞ æ1Ğš˜"Î¤µ‰rBŞ ÆçqÙè¯E¹'´HÃşöYL‹¬æaœÂjòÄ¿£wã©VeSÒÃ+c~ïò,|DÃL¯¢›„iËö=\J{Ò¯(Y¢Qôb¿‰ú‚ 0…¿ä¸›”Ãi¸å0Y`:¿ˆ€­BAáé,Ú_Ù0QòÛòÀ•‚^ûM!ÖdÔ«é¸zE¼Ø´@‚îº×Ä¢ÎØÀë„˜Å‰u¶l]Q(s¯ËşÍQÔ®Üø»ö®gÛ½6õmSGÕºhóèë6yfäÑ­Ÿ[?-JqqÖÿÚ ?ş;ı¡F¥{5üSDjĞ¿ª ƒ2±¼=+*
+µ›Ô§×zIiÄ½IS\ú!+ôåzJ¤B#„ˆì¡¼£üÌOCqÚ{ı{}Q¥i×¹FıZáQH¬J~‡rs¨èšÿ qŠÔ~%ÒÁV¸`0§ˆ%àš€æ÷+#µŠ<³’t&.Ş&ÍımÌ0©C‡ÄLıâ}ÇæÙ(S*«Ë1ÇÒ-­ ‹Ì+U«â!Á|ÌuR®ˆ``ë°|Â7GSÌİôc“ˆ#Káˆ^xëòZætÉˆ.³lü£gZNÁk´°¸q–Š% Jeê©‚ô—†} +‹Ö=4ôJ75fÎ«î¾»B-µç¤'°¨Œ*¥/B¶ùŒ:Äd<À«X"G,Dá²ØL8†]E–¬Å!²Y>Ñé™mTk85éB¥1åÎ¥Ana´³Á:À à•+»¸¶Xâš¸_gƒó‚ŞLx‘t7 F™wô ºÿ fjĞ¨K²Ó
+«d<ú”ª	£i“™Dï—¸06=¡@¼L¥Ê_ÑP%œ"b S
+fİj(Ç[ıDÌÜ³©pÔ¾Ğ¼KËq(™ÏŠK¤,K˜”âPnÚsâ5xÔa fŸÜÃ@)Àî"&mı¿¼ÊŞºÁllû²Ü{ÿ “CØ@÷PJÅÌg0ğj"Iµ×ÈÂ•Ğ•"İ?¸„»$IÉŸˆÅ9N¹ éb¸I[JqÁO‚
+j,n [¹sx—ÃÌ»…;ípê½û@8eb¼¼?@Óâ€9ù?q³¼: â#VèÌÔ÷ıÂå(”À®/YdËœœu—JuvÁAéÒ;…ÀİÜîŒ@–—~œÃ@é-]½*:ˆAIçöó@^æŒ!÷Pt¬ûÂÛuí0Z„º{R¨P€"ÃWkíQÆ»?¯³1ôr'p	Rw+„ø?ÈÂNı+×å(ş™s’UÓ9™dÑ:Åi`· –‰¤ñ1=¿ĞáèË2b Tcñ`ò³‘gë<JTöÌê½aèÙ`ééUß1•Á`8Œ†Ğ %ğ?ˆh§Gp¸Êb^‡İœœ˜±°¹5şÿ 3
+ò·ñşG¼Âèª=ŒıØêãÑeeAÖwÒb,»Kõ£ê``•Ëf˜±,¨±U©hR¥Û)­ê·ß÷¥_·á|ÌÒ{ÿ n“½ïo~›w]¿·]k='‡kÛ·¤Ûí>Óê~wâ}Ëñ?¼~ólÙ¿ïÄÙşÿ òiŞÙ¤=¦„òoËßsÿÙGET /images/ff/common/ffn_c_small5_trans.gif HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:14:40
+
+GET /images/ff/common/ffn_c_small5_trans.gif HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/go/g946408-pct?aff=parked
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:14:40
+
+HTTP/1.0 200 OK
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Mon, 19 Oct 2009 18:18:01 GMT
+ETag: "9df37d7-973-4764dc4134840"
+Accept-Ranges: bytes
+Content-Length: 2419
+Content-Type: image/gif
+X-Cache-Lookup: HIT from origin.friendfinderinc.com:3128
+Cache-Control: max-age=604800
+Expires: Mon, 22 Aug 2011 19:14:41 GMT
+Date: Mon, 15 Aug 2011 19:14:41 GMT
+Connection: keep-alive
+
+GIF89a– ) ÷ÿ ¹º¼µ¶¹§§«?;<ìSiòŒ›ZWX‘øÅÍñññãää‘’•LIJÈÇÇ1-.õ¨´ıııãããúÔÙíavç'Düüüïp‚™›©ª­¡¢¦›œ £¤§ıñò«¬¯è6Pêêë¬««ÕÕ×”•˜úúú’“–üâæÖÕÕûûûğ~º»¾ÜİŞhefÀÁÃĞĞÒããä¸¹¼ÉÉÌÂÃÅvstááâííîÖ×Ùòòòôš§òòóº¹¹ÎÏÑééêÇÇÊôôõÛÛİîîï°±µ³³·ññòöööêD]÷·Àğğñøøø®¯²ïğğççèôôôææçéêë¿¿ÂËËÍóóôõõõ­­°„‚ÌÌÏèèéÆÇÉÀÁÄùùú°±´çèéêQhéêêÄÅÇ¼½ÀõööùùùààáèéêÓÔÖŞßàóóóÈÈÊååæİİß÷÷øõõöYVWº»½ÅÅÈÈÉÊààâöö÷îïï§¨«çççXUVììíÆÆÉÁÂÄÓÓÕîïğÖÖ×WTUáâã˜™œÙÚÚÑÒÔTQRVSTËÌÎÍÍÏßßáçèèÊËÍØØÚ¾¿ÂÒÓÕûûüëëìÑÑÑ·¸»ããå½½Àïïğ}{{ÆÅÅââãğ¤¯ÚÚÛµ´´ ¡£XVVèÜßüııYWXï‰˜–••ĞÑÓñÊĞxvwæs„ååçğ¾Åúúûœ››ÃÄÇ÷Ñ×ØÙÚçµ½ÅÆÈ³´¶ççé…„…ääåZWWñòòòóóéééááãÁÀÁÃÂÂ­®°óôôÛÜİ÷ÄËØØÙüïñÑÒÓÅÆÇÇÆÇâââÜİİrpqæAYÔÓÓàáâ©¨¨íîîÕÖØ»¼¾ëk~÷÷÷í»ÃîîîììîìíîÍÎĞ¨©¬ıışææèÔÓÔó³½ö¶¿KGHì`uÖ×Ø××Ù¿ÀÃÁÁÃXUUîn×ØÚığòÔÕ×ìììíííµµ¸µ¶ºÁÁÅßààÙÙÚ¡¢¥omn»»¾¸¸¼ÎÎÑéi|æ'CÄÄÆê·ÀÁÂÅÁÃÄşşşŒŒ´´¶ÿÿÿºº¼¢¡¢êëìÔÔÔ# å7ÿÿÿ!ù  ÿ ,    – )  ÿ ÿ	H° Áƒ*\È°¡Ã‡#JœH±á3VÜÈ±£ÇHVà™âgÉ“(§´Ù3ä£Ë—0%Şp!€„M›ÎdÄxæŞM›˜dÜˆI´hÌ&-.(]
+`(Â¾–.eÕÄ¨Õ«™lËÀµëkÜêÚ€¬hÓ¡-†$m“ y˜FÜ»‡F¨İkÌ¶ Oş>‰$À‘ˆ#qs*H9Åëğì2ÇÚÈÀpÃŒ‡\F£ÆB0¾ ¡Ìº"/-–Xi1è¡¹*jáå™©ÌÀ>Ûº¸C)Pzt‘ÒŠÍOll×ãÑ‰^=€øH>×¸w„íÿàñO<ù;ªn·#Ä?0; UÈ?Ì÷û·„èóOIˆsÿŒBpTÁ7!¨ñÏ!|ğO!ˆ~'üÿˆñıı0G<ü i\øO?Ä2áwÎĞ D€4Ğ!Ğ4àâ4Ì"4äğÏ24¬¶¢BY¤Gi¤(<`˜Ã>´Ï
+ô 4DEAÔŠ@¥la‡@’ÂOG€–?şIĞ‘!À¦?À…;ÃğÏ@`øzT€?4ÔÏ5Ğ ~êÑıØÒQ?ı¬éA%°ÉAœsê‰(lş…UE‚jh?Hö¢|TÿGBZË¤•&dBtÄfÀ
+dÄL ll*àPÂ@%àĞìœĞI%ØL Õ Ëz1‹ƒªF[€qğ QÚ’)Z	€`Ï%›ü©0 pÀ@ş
+Á ¤Á®şcÂ”
+ÔÀüÓ¯õ²ğ/Gs†J@›ÏIº)dœådl2l‚ƒ2›ï ¹#›±ÿHPr¡ÿP:À»(Ê0;S
+/¤¬6Ün®Š¶Ê€»ô:ƒ»¹2| Ñ¬š@¯
+ì àğ+)lìœşX0›6·2µÀ>ğ5)áÏØlš]7›¬€şÿÁnÎı$°´(°
+K?°ó¢`‚Ñ€;ÌêÓ‰ïÌBáPÑ°ô£¥ Pa‚K¡
+´±ÿ°)v‘xû“‚@gŸ]„@ƒªş¨î5ÿpÀ·7ªş#¶ê”|¶ÊF.¸»lmÀàN‚äF'Mi¯P
+iÁP¿ûOçïüQéÂûÃ®î(y6Îƒn<û?nó­ç	Yè.]ù(ã|öÆuI®ÜÓú‘	¡±¡œHS?Œ¸^%ÀhŸ#šµ×ˆi¯sH€	X >Ò]ÊtæK¡èT€	jPì+ŞRP²ÿı#>Ğ©Ê§°ÁŒläÀ£äi|èÆ»ÿêq_üƒaı Şu€¥õÃb;ÀĞDVAÊ‚•Z
+,†DdcçóäÆ&
+p …´#”Ûædş#JĞ0´1fÀŒM#™˜«xBÄ «^¨ª	Ò‚„Wi‚+FîˆO$¢>‚€¿Õ›ª¤•šõ¬ àYÿğd'…º¢‹NP….$@
+'¬¡fñĞDŒ ,t-Xì2e¢"6i8ÁÿH€)\¡É<Ã	]Pp \™â&3©°Ä‹—=‹@½ ƒ!-¤/8Ì^Ğ
+ˆãLğ^à Ôàfø‡^ #o¶æ+(†Š±ÿa†ğHVpŒÛ•AŸÿxÁ
+|dÏÖğÀ/øÇl ‡ ÙÀUªHĞaYÁŒøÇl@‹†§pƒRê `¸`	©²ñ"¸ 0ÃM³`Òâ¬¡
+1øÀbP0‚¨‹ØˆbğŠE("rğPåĞSã0á
+20Äd@ˆ@C+¨ˆdp…„C–ˆÂd0†ªzG‰PÁ.B ‚+|@* Lâ:
+2¨àpÀ«zÜj"ÈCX0b!G"#À‚®°
+!°C²h	aïƒŒx¶Zğ¬"ñ¨@´¨„^6‹&pc°-(–$PÄ6¶Éh+k‡´„yhà·ÀÍC’ƒ ¸€énzƒODCĞ…îŞ°¼Ñ…n:àá”åV5$#)	JÆ«–x÷¼3ª®ĞËŞö*$  ;GET /images/ff/common/others/verisign/flash/verisignseal.swf HTTP/1.0
+Accept: */*
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:14:40
+
+GET /images/ff/common/others/verisign/flash/verisignseal.swf HTTP/1.0
+Accept: */*
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=ip_type&Mapped&connection&tx&country_code&CZ&lat&50.07027719&asn&2852&state&&ip_routing_type&fixed&carrier&cesnet++z.s.p.o.&city&Praha&postal_code&10000&country_code_cf&99&state_cf&88&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&longitude&14.4449987&country_name&Czech+Republic&timezone&%2B1.0&line_speed&high&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-1-Dc; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:14:40
+
+HTTP/1.0 200 OK
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Tue, 09 Aug 2005 20:10:44 GMT
+ETag: "703953-35c6-3fdecc24bf900"
+Accept-Ranges: bytes
+Content-Length: 13766
+Content-Type: application/x-shockwave-flash
+X-Cache-Lookup: HIT from origin.friendfinderinc.com:3128
+Cache-Control: max-age=259776
+Expires: Thu, 18 Aug 2011 19:24:17 GMT
+Date: Mon, 15 Aug 2011 19:14:41 GMT
+Connection: keep-alive
+
+CWSÙq  xœì{\ÛºıĞ"ˆ‚ HŞ;(HS)¡÷Ş%t)"MÀN	BèAŠÒ»RQ4ŠRB	JEˆ¡Y¨ÒyQOÎısî»õıÏ}OüÃ7³÷ş¾µ×Z{fgâ (E " Àæœ"ŞÚÚR&©  ’ ì]ÏxŸv<ø9;yŸ…ùşnÎ&îNÎ¾`Ä_ó¬¿³o xôÁ ĞRˆr€5… 'Úşü‹HÏ@ÿ{tç¯2`8$ ¥¥Í$X~´ A€ï?ú—ˆ" ²ë¡”=À	  'fİ~KÆÈI À¾%l/Ò=sß¼ïĞ{ßqæx^&Ï~*ß@‘‹ƒ'mö‚}‚ç€…‚Í+,€‡c€£Ÿ“¯û9ù _¿³ö~çÎ8ú¹ñO¸	°ƒĞ ‡
+åEJàÿ§L~ì‘P£$£ˆh‹°“ÄŒiä¶Á_ ˜1yj½+c@1Çšz¤ƒç	¯¦/ŒÈÅà,é£À£Œ>¶( Ûé×!"°C°o ˆ‡ÚÑ<šáÚ°Q!¬Ò}ÕÕ"À¢·¶‡ñJšŸß°‚j(åÁªgëásœ®îî£äÃ¼œÒt‚ñ¼.”^ä¬I—šêÏÂªz=»¦\†Îc,'cf–??u*±<†Ìœƒc=âîj¦´š
+]È|ÑÜë«-:S¸Â¹q0¸,òNzPóK ¢N¦ ¦†¢Ál €)UÃËéV"à Ø¯BFn)ÃxTc-«MÃ‡]ˆÜ¥LÓĞ¦&mÎÆ²ñLéá}~.¦ÉÒ4LÄÎ{%t¸¾ºdj¾ ´3u‹Lu+)ah$İ}/8^:ÍÕYëo*ƒ6…îëSş&ßcëéi«[î·e,¾_Ó´£É:ÜÃ5-´ÕQA|Óä;{~àù‰#1DS]8•Ù~<f; ‡íÿ«[‰
+PÛ!ÅŒ&‘ğSg[>¿ØnÿºÎ¸¤Ó¬ªRFö¸chı­¾“DEâ:è²“¬¸<Í|öP*)¦
+Z«Ø††ì	Øfğ°S
+ÀÔãÆkO~’ºß…	pĞ‹öÅ¨mh‹¹©•l¼xÈŸ§OûzÌ0GÎËSŞ««bn†%ÑgèËùêC˜Q«ÖïBÜ²/¹OÃ²N{ÅÇô1Ãî\»€Œ*4ÀI3¼Š9¡ËXÃÖ—[tEİ²àÙëœ{èª•„›bÎÒ•á{5‡û}1…\=m%O›PËYºš{èÊ°„Ûñ\ò¸<5$õŒÛËH®çO®lg”{`B£÷0CÛ«˜“`%LÀ¶ÆdÉ"¾Oñ¾Ö#}ÏŠ¯˜Br€ï˜SşÀ|/s|£}ßmÿ 
+~4Úÿ£Ñ>|#|”ê/ºÚ¢{ èñQ
+€@€©6bpì¡x ¢PòyØ¸*ˆ¤ÉÀC‰ıÄÀşl²r³–Î;`ç@Ù0õ‚‰ò+-]z‡í01÷÷p_ögá-YÑ§;á°wR0Éï½Ã®¾Á÷Nş£÷>öù¢­L£ä;½“ ƒ¤ß‡Ô¶"ı2aûÜWÊsÆ[Üy¸ë;§FâOİIC[ÿDÃ4"·O¥Ë|ë@ºs>!àÜÏ„  >ßº\†OˆŸé„Úp?‚üHÈ#½ƒ !Òï	å÷HÿLò#![ù	‘t7-w‚üHHÙÀ'´3.äû¸"ïñãîù>DAV9~ˆŞ `y}¤ßı“„xG¯ßUz œeô'Ş¶k=e£Ä{ˆÀ1ø¢_@V­n3	t??^µnàot?¸(z\%>^,Õ›&ªuºa\=šÙ[ƒ¬M záaiÄÃp,¾nš0XJÒş)#î3öê«iª5Õè›ˆkƒ6°aé®³mº%æ©ì_C‹û—•ŒÊl¯Í¥¸nr®	ÂªÏm¸~–ºi©!5âë´ªšö.¦ÊiÓˆÛpÊú¦P'ié!ƒ[”òb—Ç	/4-…^°ıZÙó¸,C³¢î›¬y_c ¯&˜üóÁÉE½'­u¦ÖxõØLÕ SaÌï¼¶÷/=cñvšŠcñu`âE:›ø$QÄoÎæ,æWL86@ˆù„µııôeŞD7.ÅÇ<éqv™¢­õbó°Â­)Œ fÖ%ë¼P‰[ŒœÑê:BË1Ú—]-¹Íæ0G&ğ^G³íu9u»N8<-àÈÑÚš#ş?5uvA…ú‘--ªUÄ÷‰qi~¯VÜs»=˜Ÿ÷˜(å›î>t+$áê¹\=)tF¡!ÍğfjXÛ|ÃOëWhdò¯ÄN¼º¶$©6Ô6Ä–“®¹ÄïC;¶I,ÆüÀ~O›iÌ½'F[/ì¯OŒØ—m4û´óÁèy+CYfôœ3}aİ*óÁ¥|ÔQoØ,ğÊmŞcƒÍJ{ÒusúÉ!ù÷£ïø1FÅ²E«È3×Œê‚Şèœià®f:œÒ öêhIk4Sa†~òiw›ü#šÏ83
+8NûApÚFİŠØuÚyÆD_R 5şjyH¨yqŞ™OËF5£º‚m-…¥Ùó?ûºâ¡ìÿˆs…ñIÈŞ*=VÌLvñµùŒC´ “øİ"¢™0„u—ı±·q·ñ|8¸ìÊ‡@0/:ÀáÈ‡\ƒ?z Ã>Úº .i¼³Ş¯Å?õ¹‘‰ú×´ñgé]Áš½ºe<­×­¹”ÈIùö6#—Ûú³G’ˆ”¦ò§îš„É™Ïeª òßUİn=Œ^ÉLœFà´”œ‚¥/Â¾µE	£YUl]Áj7W0<›K>=#–T­<Ë0dâøğhê´²O†o›\Ö|â­®nîæuÛÄ4Ls@H‹ò4ë·zl}B»á]åâ[n³—ä\ÄªÇ~¹v3óìƒË…6©¤İ¥Ç¼ÖGLÊG.d‘”A7k8WeÇ,èNUq^wÇ±¨ìp‰n7.qr‰ÑŸD\¢¹$WLÔ¹»…üä’MEÚ¾Ø›”ùÑk,wSìp¯#\PQ¾c“7&fÃ_óÂÒô]_ÕA¹S-RU×¼6g§F»äjW‰j¯ã˜¶V«£\o›M²ïsi&ÏA$îİäì~ì×¤oXœ\Å“Œ~7’qîJ²*0áC€ƒıÉ\ü&i­ì'§»º5¯w7„kÒXkg/4Ui‰Î7uû1åL»šæÚ²dL,DA||ÊñÜk+@?Ó[• ¸Î—ì!5Éqò\™;M¼Ü}cREàÀ}ã<ùE¶+Éá½«¶k‚û.½ÉFnD)Õ³ùç~<š«Î0ˆfp‚G»óŞy¡·¬dÒà1Ê.`&Ú¸¢-µEs1Y%7(¬úS‹p.ò‹œ\Ã§wÓ|ÆÕµÁo³²+$Ë)|Ÿy~YÇxØ/%øôšÒñŠe‹É‘~=^×Ğ\9­¼áÜénç*z­·8‰j.›„X€µÀ&¥:RÊÉï’åSƒ·ºC»Ñ“ëÇ:·©ÃâÍ¸³Î-£ÀKëmNXÌœ,&z÷ßŞ_TŸ
+øœ'ï<L£§µ»Í²ã“ryvIb
+ÿÛøÙy÷ãÑz
+öKh$ïÁ¡¯n*æSOÒ$8†æîy>gY´8Ù=“°%×¬¾Yö!9AÿPã9Såeş<X#*²æïù5oÅĞ± ¥ˆò2ìF^®]É;Â8ğÿo"/v­Ë­şBÿ
+®iî³›#kx½F%c˜‚k:möíİsb¬+yAé|G,
+¨.„[‰Kòrhb]âÇä4öâ%p*ãª†Í7ıùøË¢®Ò4ÄêxŠ[37&9i©…Èç%ÈŒFa­à«P.‡BÌªNcBVáÁ{UEL&©ÎİÆÚ·ÿXçw#?÷oŞ&?uG
+¸Ò	¤=Tào¥}½çsŞĞb*ã¼oR×|ıÃ€V¢„ôpkeS>aªGG¸Ó¼>ö4½BÓe¢>%JêğUO¼Îc•¾ÃÅİ¸¢N}c¼Úpº'ˆgÓ´µaÙ¤)õRÈ?îº”©!}-œÆıœÎ4wôHğJóÌE¼e3íÆzî]Y¯ÖÄØİ;âŞ ÒVæ0^5'ïœ·àp8X iÄ|‘ññÑÂãÉ E@òlÊ¯r(Ï ÊšØp/ØJŠi`Ÿs¨ÑM–w•Ìø»Êlz|näğK¾øm#öñ€ãs÷$¬€ëÿAÕÅY-Ğ™ì~3Zƒœ:ÄÔ%À÷Ş}lr½brùÂ7‘€æƒ6ÄíD=Uê>…õ%]}î"ä˜UI©ãz-IgÄ³“ÓOÁ±¬BEmÚ™$šÌr/3rª¸õ'Ôçd$ş®Q$ O È6­I	eÊC(SªhVĞî0(SwB™nï/®bÆßWÉ–¹“I…?RáV¡ÑæûĞA’Ÿ}úÍ‡¼à¦’‘–bfŸ=Ò˜° åKŠe%Uò—gœeâù¸É8ùÃjÃ¸l#$CËŸ9«w‡ ëå•QzZ÷ß²–3ó;$*Y¹Wöáİ”Í³£lğEúSÙQ
+¢mÀ"cû%2B‘)Õtæln¨	Œ‡‹0	?ni€ÌŞ€ô†=˜e¼Û²Ê;›MI
+¯ŸËêãS0gFÖµô›TÑ•t5‚©l·Ç¤—m˜%¼„Éå’ª™	RN±b™wcØXßÏ«)GCGç“›IÑ&Ä©ºyÕ›Ë˜¹ãPó½|Æn„]§¶ wlàé ³ÜÿğÛV»h’—@“Ñ‚ÙïQÀ¨IvP“fPŠB“ó×9R2î.ÔÀCºíüFÄM-1Ok-u­¢bz„‚ú-½x˜´¤çí®”1o²Krõ4§«g™gˆ±g)eß`èÑ¯–I8öõB´Ü7Îl˜dTªÈÏ\Mp¬»¥Ï Ámäóa«V-Õ•{6ş\÷áÙáHx"%–Q‰=¡Sã®^*Ì&u#i¼µèJÏİ¥RŞ­ÄØ	§Qãâ¥_WË&U– 4}¹:­Ò'9î=^¶ì»É–wÙ‚×ÛDß—É®Bü2™‡.ƒúåØÑo=×/ışÍúİKz±^‚c™›ÊgL°7S4Ô1ÉfÖº!="m{Qiª§úŠ>òÅš‚m¿%5"íıĞ*ğ67«½‹¾¹Àkv1YøšP²y@ÙdîÃÇReÓ¼®ã­Ÿ³Şk3s§’J:Wá›+ êO¥ªFÆê†;éİŠP¾ÃÒÚÛ\MVY& .g^mÔ¦ÉeÇ˜eZÔ•wY–ˆ¢±2O]Iò~á·| ïdŸ^üt» •éz¡áá»“fŠ$÷ø†¹.q¯uÇ¥Ä2Ú;qÛf”#¦ò²Oß U~¿b4[zíkh¾Å#J¬p×ºÚ’)ãÙXìj×WÖª›®ãç¢$P°R•™Y³]«-ŠŸƒş5ŸD‘€4ÜEï|„zWúŠx@–õîPpñ7½{.Ï9QOz—í$mÃcÙ|pıórL_¸×LBNâjÜ·rVv.½õ`eÖe²µ2MÅS&%³÷U¹îŠ£6™ì’@§
+¬ »¿«O³¤¢U“—%¨fÖßWMlÖ‘H1³*;¹gÿ‘w‡‹"ÑâO¯Œ®÷/L¨¡Ã3Æx”·Ì|Œtö¾å…>£3’t´aesPÍY—õÄç»å›ŒCêèc9ÊfSİH#‰–EÍu jdLÂÖ&qFj\2Öƒ‹\z’è§˜{/h{’§”zûáiú§Wµ1!Í{Kå†:„R½E{#nHR:…;!5Rù¡%ïÊHj•¨¤Ö˜§•ñ°¾
+}FS¼,oGv³¾¿ºª/ €<Ğ8w\áÖ¯Uı_ä
+İ÷f¯Ÿ©q&Š¯ï
+½k´ç²"ö,Ñå$g^V’Öñø¡íİIùXÇºb»g4vwUŸ>O€ØÃF÷ùU—3.zÌXvyµ-ådrCÇ”N${IŸivI·MæÌ% 3ĞQYHúSÛ1s9Ã¤Tù=œœ—oJûİ‘SƒA³_Æ{8Y^ì§Ëe6*væFÜİ§/ØëÚ}‚¸:jÑÍÅÎdÕ³ÖatÄ£z~*.yà¦qÑÍ…GK&L$õÊRk´}&5:¼Õáb•	¢³ÖEºnıÊS‘ÿ_?G!‰º‹oğì/E[ößÛÙ_™­²™t—¦úßÜãÌàÇ±µî$f£o¨,×–»1&­ÄæqG(ììnJlæ›W	õAzØÿÊ‘;ˆQzHhK.ŒMÖuÍ^9à°/[èœ¥aMÖÇszqO™ —Û’ÆúÓ®SyØh¢wâş†áÀ‡rœ‰qU.šW—.²ø_¹ÿåf¯ê?°M_öY’Ë6º9ŞØ^C¬JD·Î T@Ây"‚Ô(æD¤—Ï#
+™`ï]-NS¸·-²{xªëğU^äÁ)‘™fÌ|¤o¯KõP?…$»sgş6ò‹Å¬S÷‰/Úo¦¹ÃJüh_¯_,şÂTqZˆC&ïUmTÙà¿Åu#ıó¹Û¿ó®İü…ÿ¯ù‘
+
+x
+ú÷¿Äşò—£¿`æ›mªíÑêwu©<”DÖÜ[QËã¹¿i™™0ö¹EwÓ½^xS'ƒÇ~v¾\IøuÍò·_³pïæ=„×,>¦ñ(à4ÈqĞu\_Œ¸ÎË·>}Q:oİòç“X«W‚fóÿ_ÅÔ÷C7L>òÔ-¯HÙ: ô»¤‘¤
+)•ó¦İu¬
+ÉËÓáHl|hdÏâóxoXâAY9ôw†Ä³›!	ü7÷CømC"8
+‰wÇ™à¿œéÒ™ú“N6/8“dæwg¾ƒ?ÒŸ£Õh¤Ùpx	¥DŠ¥¤ê4º¦VwÉš~¼öË³ş9ÏâİÍ³	÷:O:ŸCgAöóåIjù›gy±a]ğ^PwzÙbæËwÌı”¹ºà½o×œâ[ BÛD®5·0Ìš%¡Œë·éÓôä1íßG^$…}ğºÍ“C*¼WÕ`ãÌºú# ¶b}¹-öè“Wßs–Ì3fÒ—kµ›moÓr¾¯·g¢£ƒUõ1RÔ¤ƒ÷y;õÆkç#‘~@[Ï¼hÍØJÒQ1fRLî£`ÎU¼Â¶á‘ÑeÖV‘ıÔ™¤]Á-1l	ÔÁv8K®Eã´”wcŸô;Ï_VSVè(² ²)[­I?}xö:úsòCx YˆJ«å&ö<˜·õ3ÿÚV!¹&‹M¼ñíæ_‚õ‚jÌ‚¶ÅÿË¶ş¶¥z‰»rtƒ²û¢ ‚4œdxC°çCUà›lî¶9“òóØ¶.Ü/7û×¸ÿnn&DèfšME( … èfŞã„n–‘ê›ƒ•‰½ÊåÄ<WLj…ğïi[™€··™ß¹Y6®w.Gù‰K¼ÌYvİ§Øìö®Xa¬NOàÜdìdœÂép©dëƒÖ,.İB¨$3k»O]R¿JF¼Í]äÕ¡åØ  =WG–Ì¢ùÙuïøÄ:Q<Äƒ„Gz³6¬DÏâöá€“šâ¯;crıK¬ùçw¼mä‘ÊÅ[1³ËSd-ÆRäf[xŒ©Ò˜*”AµgÍ¦O“F‡!î±Ö[.ºK¿8>¶?ñ­ĞyÆ¯åªV—â«¨£•ÕG“-{VXW/YvX<hkùŠw7İÜMè¯¹1?
+XİMğ—»ı	İ-úº<Ókôa–o‹kúbşÇÈ&ë:V8%8	š=œÃºŞókÂeRÙ(Ø’~“Îûk—ëÜåÜÍç„	}N;n€òÚö¹14ÏİKŸ-d!Wo–Á‘ßçœp,LÅ”Ÿw÷ÔaËÖŒQÕğĞN7J·.µ+§f3[¶!­Ùñ#Bí=n¾/6]ã¤¿p,•‹™èg0ÏJ‹î½CbLĞÎìËXÿ§0Ã„¦ú&è"·‘”éã8#é1áŒ}ÓûNˆÈÙå~ÒuC_]ËkÀ58”Tgf4ÖÌ}‚BÈı8j¤•ü*N³	C'C2aq}z§­Ããî+ÉôSĞ­ÏKŞqó­êv¼ĞÌÂ÷ĞlJbÔ*ò>É;]&Gã•Y°}ëÄşÔLøûGÍEÅw9'´›á	ÿUÃóGÄ$  üËğş´†ÇH§–ÓOë®ZĞŒoN‘ğd³Z©8´ÓJ®h¨·œa[
+Â|{åê<Ê“N¼Zº©s³)¥Lí;ŒKàÚLlrß«’aIv¼Æo(èÃƒŞÎ'JUùñùŞRò‰œ{¦²llú\§jR®º^dbÊ,tj“eÔoë<Òì{“câÌƒ¹Ôy;7–uBÏĞ’–o+ˆ9­ß¡VæsRô’‡¥&·çóƒm÷™âÕŸ9f&ÙÒlV³¹p›.Òª¸ûpp.öD*iŠëş†èF2Då³~Çæ‹l›8yÃy–W¹”3°˜êä*E5éÄƒ<-ëì‚v2çP'•28†æ#·"Ÿ´åîÕ€²\ƒ¥v|ËÈ	Cğı0“Ñ U="·e{Ü%Ò‘b´¡óZNUß®(q1ûğ@¨°ÿO¾ƒRO3ò¼'%‡öæŸ6„¨Ğt‘<.’´ÅmŸãmŠ “Ò?6Œ÷=áİ|O„Ğ÷›ÁãŒ„!Á>ÿ¹7ñS@*Lä—ÂşÔ
+ƒJP!$”ìõ#İ'´U¹º…)ÄI2Fè’¿-"áí-¿n§şå·S"»ÉM”PnFÂ¿‰ëçªE²ì5%úKSÿ	š¢¶f—Ç®æ•…y&XÂo¶;+£&nõÁÔöõ`d/XFöøZ®#i¡Æ[§ƒ¥¾~©âÔM@M*˜ÅçQ7Å?ÒPLÍŠÕy=6-h¹×l^ªX’#¬ÛÔiVªé¦~á9 ëxu½¬›Õ•Ô«nd3Á½÷Ø+ÌU,=‚3üäQDq¬¥“…Üz×%?)A½AB¡Ô0[“ôñÁkNPx¨³§ş-"èµ’Ì#%J&¬¥+z9Çí»¿À¨Æ×»f4[çóÙ%3‹?i†>’³æê5ÖTj¢â´	6—?fNù~E«2€¡Í2{9f¦Dü-KûböŒœ3kWº7Ië&Šîpu:®8–½x3äÍÜ´sÑ@vogMàÓéŒê†¡Ù·[ô–ª|¤c™ÚLÙ¦q¨ùş¡€ÜìÅØ£×x.n¸\t’œEK6$ÙùVÊagæ1×~	ë	À+Jt7E‰~ıÁ¤ÀdgYRÙMW6`SJÂ¦â„ß4ƒøïl’«ünÃARDxæÇ«;Owè¨t¾@p‚9/ÿìôßò…y 	 €àÈzH¼óØÏÇp€wÎ%©H·ÀW¾ 4(´l­¿	­£Ÿ^Œº}/áe…’¬¦¦^ Œ´ák’×KÏ@:% lğ@‰m…$ÁÅ‡ØŠÇ¨H€ˆiû›ÊD<šŠÙãAÔòŒ€½PÇÃ
+âµ£kXæ†UÚ¦	"¤¦Ñ÷‡Ã%~<.şóápR0ˆ¿.ÔÖÁ­º={¶¿‘¿7ríD(~D:¤IT	® P€'Ø—$X,ÓÓÊßŠu[nÃ
+œ÷~swî±Jhş\É–d ·¯Næ(æ)š”Ö²UØ3ş”±ÜÄ_É<ÏOtÜYœCòaÚLî·Xà²ÙºŒÚY“WçİZE
+œ8e$Ö‹‰”Û;àáÜ†c÷Ô¶'{Ï÷¨ÓG·è{0Fñ½ ‰b|Œ°ˆX°)°ˆÃîåü,âìà»±5· ïÊ«né	¶JH	)®Å†½3¦†–yÚÀóû
+¹ˆ9t
+jKöß¾Š¾†V)?û˜É"”ÓÓ:ÜH$}³ãòáÁ1™š¸:ÙŞ×Êü
+ù…å¥à‹ñ»‰”'¼¤˜hŠã°Ğ}ˆıkø2¥ş¸LuÂ2ı]ğe¾ (S^_æÂ2+À2¥Á2¼',óÌCÿê†V»‚<I^ïíÑĞ¯<7}œJ¬Çï~yíµQñtåLtWíúßs·H%] ´Õú4ò @yÉ·#\$lBÖwÕÍØÉÓûßõÆ¸ ª”ä¢¦]qG>ª/m)%.NrZ\L¤S¬¯-œVŒñé—ÃµT÷Vµğ„5¤Y)JRº§µÆê„ªÀ"=Íñ8Hÿ18tœ$Jÿ©í8œ$ÅãPDˆCˆƒˆÏà½‡Ÿ8äMbŸhmnÔ¾¡şK&å÷¡|QmW)ˆæRÛJ×áä—$Ó‡‹d/ÓŠK|tw²]:íj%&Y¿ÜšáÁ˜Ê?p E›ÛK×fêèuw¥İöæm³:;x™L9ªøPg8,Ôï`æÔ´ƒU®EWòÖñã’úß¸ŸĞSÖjÌë6|Ê&ı{Q’ùc” „(iâQ‚ ¤i‚G	NˆDID‰ÿ+JQä×*3»òZryx&r–Rz…c¬fÎk‡&o¬y¡î²‹ ,Ğ—¾‰P3‹jV
+h—†aÃ“ÉiI°bÉæ+Œ4ÄÎ2÷¼H¹œ:º1sf^`jìÊ¯¹[œ×³Ó80´’õ”¾| Wˆúª®§÷”Zµı;ë‹ÅêùøÕA²¶çEıRØp¦-uyN~p)5°H¥ÿêi¯,ÇÒÈÅÉ{¶UÊé^¸3ËÜi}¦O÷•-gÜ=oVv))få§È	-7¾šŒ·ÖiVõpZ1"á>eõä)@Ù?P“@	<€ş pãô'pğ( p€Ñ/Å†¤úó—Ó[½ê”ƒ]…¼âš‘èèpúxkIãkûù”G‡Şñ„‡½öş°§fvQÒ!I±ıTsL‚ç¥@-£©wõöØ“¤+ÚXÓMuR¤®—	Ë	
+FÆyéê†Š5	©r†ÌRG+“icÜí[‚›%”Ä÷.8;~*÷Ú€Öz®q¥eÕ†ù²[õç™›Cï®m±iX³Ë÷¿°ê]L¶‡]s>vê!ÅQCÙ–kØ½p#·È^s­Œt]ÖŒ¢›ÍzóÚx1«9åÁ4ëüØĞ”%¸TÙ,aÉ’ª2¥3x\ş1®Z„¸š!ğ¸Úàj–„ÇÕ†WËc ®b*„¸ÖŠ®ìÅRç[¾e²Ô§¸®›zÛ«=ØYÌ«kÙöÚi¶À×9A¶ ^Rğ^íÀ:¶¢Å¤mÿ®öõší¥¹!úl4jß—³9ãéïíh“Ö}6_1¸Ä¡d´b¸t€×ØÚòò¤:D¡Sø‹Ğ“i5œÇ Y²üğM
+æª­OZ¤d1!†eüªå)ÍÆ…DùUÔì
+lƒ_Ë/|jXëqx—~úª)Á™%õú–GXõ`÷Àa§¬ĞEma_óiôµÜZ$<²·e.½~ÿbşß1aıq×¦R×Œñß8öÇ€knãƒJ ¸?p(!à¢ Èr à„€sŠ^,VI oc×Êm$f6X2}Üw ‘³åk?)JşZ{1kìµÏ·£¥7“åÿ&Ë(/z([¶®%’)^Ë|’<»ïóøPÔÉöÏÁTÖ³ó]'>Åí8§ôºë±ìßo®ÃÿïZ¶x2ù†a™kÛVff²ØìøùÊùraµr}[·-¨]qø}n<ñåşxtçÁq?Òóà8ŸiÂyĞ±—çAšŸ`bI¥,#Î>–îê>è%ÖçÕ2‚Ô~í÷­À·vpİ=	‹-®Ğ‰.¹¿%çYÙ'2gşíSíæ€Ch­šk/Å©75
+ÿÅİ™‡CÕşüÌiJ‘TB(û^Ye±ï3áÁ½lY¢©´(ek‰T†”-ËØE„²©P)$1"„ïadN×ïçûëù=×õ|Ÿo¸®ã}ÎûsÎûå>÷Ü>×}—o
+#IdÍæLyµY®<0³íµ;€¼Òş|kôÉHY=¥ú‘|vÅ–À2IŸ|ë”ffÅŒñIÑ+ª­0„ÜáÂ·ôã‘Øy;OùkŒ—€06Ï¬ƒzbÑ\<Åó>ÍŞ¯˜"“ƒXÜÌËNş?ûiJî·íä¹TŒülô—§˜}
+,Yxl¦â%U‹ïCC'"wdE&¹ÁìÅ]ƒµ¦Õ¿êÍf¼“N*ÜçSD‘>ëb1°ş9ë‘@ÛğönZDŠ+G„†FäÔr}Qå…DäT5GÓ 9‚±(í>H,°$PLıÂ¬GHäñy:Ú m¢É”½¯k|+yOòéNìî¢ëAî›Ü#?$vª"…Lj‚}<Úƒ¹­{2}š"3p—ug¥
+‚9[¥£¹ãçLñu¬í9ÿ~d!bÛódĞ¡ßºÒò¢uriË\T¹ñ¼k ê02<Ë ‹:~1â«fÓ…¶n½L˜®ŸÙâŞ¯©ÚÊõ¨ƒß:}WOƒUšmÁ?‚-‹úzŠ“2çYEÔhé)­œ>4=7¾<Ú¢=ôÜØG~,äCO/LLLoïaHzS–'Å<Sx«İg±EåÉe­¡ÔÆ¢¾ÌVÉçA$9nP¥–Ü3‚"QKfZ0î¡r¨<Í¶BÍ9;æ¯¾üDœ™è<á–«ŠáÏˆEÜ¶æ‘ÃÆb×>23Ÿ­Ÿa`ª·É•âGÔ»¹¦t¬Ö®¬M %õ{tø>³†’1z¸ÃÜvÚíNZW´¤£w+Ò“‚HCéµ®UM`é5¸~¾D‚s´ç¦ òHLÙ r“X>‡œ]PÏlÓşGÕÀ*÷ŞY3uN¦=ô2çR””ßcPÙù—¾¥èV½c·îœv1¡U+­âş½W•óÎı$1e;–ŸGšS¾LVõËd<_˜1˜µ}`ísÉ‰ô°|üÕ¶ÙÆ·ÚÅ5›I¶©J¦ûØfæÜ#7´X•WÕ «çÃÆE‰Õ³êMƒÆF©Æªõ¿ÄjÎ«ÇKˆo¾ì°Æ;ĞM,ÑMîO–}äÕ¡sŠø½ğ*n5ë|c7eÖ¹x¢+dàJùß0h+ÜÅ¦^¢1` ¦¡Ë3h1-7€'ïÍÏ±»GŠÜÃ'uÿ¢eÿ+“Ş}Œs	ÌLÕª“v³§](Æ4\>%øHw$sL9ï©iËÉÁÈI&ñ¨€©ş”‰¿0’£şÒP¼=—“¿==»àDª¤iEG2;7ÜŞÍdR)„¿‡Ë‰E5bbªï!…æ=¨éÜ»µÊÊQB£>zcxqhõÑübššÆ«
+F­´k…¨£ï5ê›õÀ¢8$e0½ÃÔVoÛ¾—ä®±š ôŒ”ñ[b>ªÂåzæ¸P‡mæ$Ogd¹L¹Õçqï[«‚Lİl‡%æ/|Iv"#¼uò»9Vè.ª›ä¡…¸dub‚×¶Ø"¹zµ‹Æk×yÍ$)¶ì¹kD¿!N¹{z…6E»m9~®»âÕZawáİoúé2…R’öîH{äK	‹[x´…Q¬sèk²3ÑêÂU)•£sı)}ÿ¡Á¨ƒ
+íÚï•Šu`¦äP¶İáíÂúæ´[¼ìt^Š_uåø ñûPX£‚ÄïÓC iĞøÉ`äûÀø•‹ÿMü{Ö&Dï3è
+Ò"ÆS'}¬=õ¾—mÛİ™Ğth ÂEhf´İ%*û59ìoÉÎµ¥è,|‰1z[·+8ËöckÜìmkLcù©¢rWØ£Qq‡ë8ƒ¨ï›føUEylh—÷àI_Ç­Æ•âw¹–cOGø¾Ô¿jóÎKB‘_-)ú ÿŸ>â ñ°oeŒ¡<øyK/fØósğ¥iPÃf;+ …“À²Â5øI©ŞÔ@±»áGgˆ“èWu'âÒ:}š6–ï¡
+<Ôµ~&3›šßœèšßì©:^oÓy½\–@®íAõ6ü4í“ñçç#˜¯Z½±‰Oh¿Øø<7KÄ¯p+›<n¾ã
+’{cü2/‰Åïî,·o¥nÙ´·Õ‹\KJmbT¼ÍÁLŸ¡ŒÑí§æÅÎµg!>­Æ7“§M?™½ŸM‡‡şx¨­Œ‡	ÿıE^Bğğ÷± iP<Hì_Àããÿ‡OÖh±dÆ÷Ä|É¼Î™*Õ«b1õÅqÛK¼|__‹›òWô(Rşò_0,¬¿Î÷MrBıIˆëÈf÷§š\i£§ïTİÏÑv	¾.ufó;`²eLL¡˜SwZD¢‚É1vUšÅ¤DC}“o¿„IöÎ>ßÓwbü	§ôä4Jƒ«ĞEu8¬^dWQéë“&‚ì´ƒÙ$ Š½]-sIxLäK(E[#ÿûP£¾25f?Qs3`‘f(5>b4JMHŠHŠå/Q“µsÀ=MÇË`'²}}|pÜ¦ä8¹É³‰^¿G/óåìÎL|‡?emvÀ Ãf}ó[ÕXŞŞÄãÔûè¯/‘igäšõ¯mhıCÑE]ïÌıâáp¬@öt“lÃ?qéx¶¢Å èGşÒÿ²5VÆÇü'|ŞŸZDå)Ÿ[ü4ŠÏÂÊxğIùe|<´“„Ù°F:üN‹GÙÈÔivT¥ß—ë<N4«.mNê­h¸×êQÒñõMâDŒ©BÜ)!´uŸÕGtA…Õ°Êß8_•m8mÆÃÊJ9Wú|î’¢à¡Y±Á—b.Ï $ùÛ&L§XÈãÔ´hp²—z¼'BZÅqU+¹1Ü±ßü ånø÷¦Ã^q±¢ıGÄ°qSÜ] ‡—ÙXµ&×œvÙzJÑ}'z—Î‘¢¸mxõÂo­>ââ3n1ü''‡…äÕíéÃşÓk¤‰ÌòuÜ\ÏB¨ÕÅ…\"¡±t`e–,ê–Y=ş¶LQ>”Ÿ™ƒüÜş3üğ¥}Ë<y=r$É®AU„ÍäA‹ËÈºİo	G%öy¿(SòíôìQ9–6›/ìõ›œX»ísIw¿‚nlw¬¤P²ESêdéwxP9ş4	À÷õî}\¾4—}bWrƒK'N,’Àì¸Êo’r}i‚ôàÊ YB;¥ 6ZõçVh§4ÆFÓ P}AÒ\€êóŸ†j3Å˜íˆèÀºÍüm{ömú½şneØ×>)¼BPÕøl;t&júù™WñÒèf+X5¨UVú”Vu²¾wh©î±q•wi½yÙ‚µÃ˜×{œç]NôhRvÎ[Ë(>å&×0‘0İ¤îAšn:J-iöo4ïÜ~I6V,ºP¾.Úì¹¢_Ü_‘ô×ª”Ìd´·Ñ~7ïj(pÆûåögüÙ+*í9ã.­0‘‘:g›ÊEœ4WÆÉê'œdÿ¡s‡à°cM£ã¶Äø?[²ş©%cÒbåÕ}hKêÓ4Mí§#½sh5ZĞ#í©?ê¶àLLàr¹Fë!  Z€İy	/'dÛ½è—Õ¬²[^‚“­®ê8,ërŞ^ˆF{±Å6Ô‰MÆ~s¼œ|©á½)ì|kWó
+Ã¶Ö7Uï­ß7ÉµcşÍ	Û3Oß²y~”\Sf“:íïl“:æ±ıè*Š©Í üüš¨¡Ä	_V>ØìûÈy%#€œíö4¼x`fÄÀês¥aNm•“­†£oø>Oôuú7na{›ÿÌõ,*U1,RºøäY?|&e©²KûGe—Öre(şt[f[ î  €àG+¶€'P
+`aÇ`D<
+¾ŠáC#BÁ
+°Ê»4vìZ×	'•^ê¾[dÜÅ,ñI6fÄ»Uõ€Ré%ğ -Ò‹w‰aš¢7x¦îİù¬­UÕ}Ï*ï0œ0eîÙILŞ©¶õà“Š
+àüØÜòìW€luÚá-C-åçÑ/$ú.>³ß1Ú¢<qkı‹SÍS¸ıQŒb‡v!‹ÆôN(Ûm!JëdÓ‹»EBº ]]cX¦/r½ãé«áÆü˜^*ŠƒûÕ‘d~` C?ç¬ÑG¼äcc¼Û=Ó2Ó×
+â­LzjÇíØ- ËQ´CİÉ‹…şšæ"Ü›	ç*í7èaØéM.Ã‡äÍ„¶è;C³òï·½;w ¸À«Db/ø~@Í@ĞÉØŸµ—°^¾wèa12¶’õ¬ú¦½âXª8óF2xñn7¦¨}¤¿ş¢ÿ÷eáşß¿Hò†<6Oıõñ;­"1ì=[Èè.ìQÊzA¿‡Åù=ş…İànœÄÇú€ìfBBØ§‰æü:±˜?$Ğ_ñ:\7|À¦Æ‰æ{{¾dyŸ¡ÆËæ©~mÅftKPF@šà•ª0wÊÌ_àr³]^åk‰âÃàN	¸O…NóÂ§q¦•îù¦ìàŒ¶
+Ï¬¿ÚpÈ¸òX¹ôÂ”…M_¬S6|0ø0^M0<àB-óÆÉ7$æˆÁÇ6¡`ş¢ ó<µşÂû×”¬jDNå.Y‘ØUÍŸß`Â+M]Í(_÷ÂxD®Àùœ„«Û¢¹$4×An…]*¼SÅoÎ!ps(¿H‚gëì”o¯ä~‚ˆí÷6<T¯ãš¸<Çá 2W.BRO=í¢½4øä2k³f‘‡Ñ5/¨Ìøh\t­?N¶ÔQØ­ıú6"·Rï…X91KÏ©½$æS<|½Ä„}LŸ°´`‚±î¹µÀ¨…}-!°­cX‘4&Ë1u´;nU)Í»xùÔoÖ	•H•nŒğÍ˜·ş«G*¾ãÎÔ;¡Óîyß•Êõl—z[‰œHêÈ-DÌ»ñÄ’€…{”6åêU~
+óbÂ0ÇÊ
+Ş\>Âaİ]9õ¦Ÿf¾¹x0î`»-q’çYÍû#Ü¾ã‰Rw×ÇòdöğÊìP"·1cãĞf³ â\:.æÆöwbL÷…ÇœÊÖÔ‹z…ÏÑ!:e$ÑK¤ï„YêÜ,»€n3ïóñZØw–:aR˜TÁÏ%œş±–»c*Á¨~ãÀnÇ8Çé]Wå¬×ˆé¯C!
+*q
+ø-ŸÓ0DLQq"h—Ø\äG(Áõ•‡—§PZ&AöYãj*Ïyœ„ò€6ÉDÔ}XxØá´3pj°‘SNŠ©ŞM3Á;÷¡o\iTé{
+}3VÛ#ão²“O8Ì`%(HŞ¢tt/PÁ²ğö*`­–—ïá?<ÄÕ½Ü7ÀxÁa‰&¨&€9`8  p\ÀÉğæáº K°Dà*Ã ±ú²ÎB¥+H`Îx<CZ#º*³àÅÃªºñğ"ÏÓ  ƒÍ hˆ‡§¯vÁÃ&Õğ}ÜGâzIv°==°—_è%uÙÃİK%¨/UÙ·-w”Œ/KBÊ‚˜¼hc­Åµ#”é#z÷´¾kwOÙ*œŸóéÏË•øxÜN—·Š~np£½ÔC£i=4|aİç¥Ş Š‹ÉÒµš~|ğ<|¸W°d²íS däB-1€ NÀª'1¡çÍ´Ã–.ÉàÇ%éšşvK-oõÇç¦«f¥Oµ|\¾¤…5¡C@ÁşòÇËŠ˜¿qM¤¦V>{e¿tF?$†ËçÉ	Š´ÖÚZ>ÿhm±Nš¶$ø¼eY¾‡Ïi¸{°¼¹‘¾É¹´	m! Üd¡múÒt£/İ 5fÒ·éÆLºñ6İ˜	5vÓİtc7İØM7vCŒ0®e#lã²qQİHW9—T¨E7jÓ(ºQ›nDAxºñ8İˆ§Óx¨±˜nÌ¥‹éÆ\º±j¢{éÆ!º±—n‚á¼ËFøÖeã¢º‘®r.©P£)İhH7šÒ†t£)ÔA7†ÑtcØ¿ªºc€Aˆ¢‘`„ˆ:d J†¡¤dJ@™1( rñö¤wåÉÅB6  P,œÀœÀœºsAw,ø¤;iøR00“…X€X€ÕÂ`
+°óà*kÿ­Áõ^ôYK<^ƒ°y]˜^ù•GET /javascript/live/ff-domLoadEvent-1284506173.js HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/p/register.cgi?&who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--&geonames_reg=1
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,2/C1YwV9f2/KTXLuglAc7Y4vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=connection&tx&ip_type&Mapped&lat&50.07027719&country_code&CZ&asn&2852&state&&carrier&cesnet++z.s.p.o.&ip_routing_type&fixed&city&Praha&state_cf&88&country_code_cf&99&postal_code&10000&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&country_name&Czech+Republic&longitude&14.4449987&line_speed&high&timezone&%2B1.0&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-2-Dcr; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<625GET /javascript/live/ff-domLoadEvent-1284506173.js HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/p/register.cgi?&who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--&geonames_reg=1
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,2/C1YwV9f2/KTXLuglAc7Y4vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=connection&tx&ip_type&Mapped&lat&50.07027719&country_code&CZ&asn&2852&state&&carrier&cesnet++z.s.p.o.&ip_routing_type&fixed&city&Praha&state_cf&88&country_code_cf&99&postal_code&10000&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&country_name&Czech+Republic&longitude&14.4449987&line_speed&high&timezone&%2B1.0&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-2-Dcr; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:14:40; __utma=140846309.1304470003.1313435679.1313435679.1313435679.1; __utmb=140846309.1.10.1313435679; __utmc=140846309; __utmz=140846309.1313435679.1.1.utmcsr=p.internettraffic.com|utmccn=(referral)|utmcmd=referral|utmcct=/index.php
+
+94<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:14:40; __utma=140846309.1304470003.1313435679.1313435679.1313435679.1; __utmb=140846309.1.10.1313435679; __utmc=140846309; __utmz=140846309.1313435679.1.1.utmcsr=p.internettraffic.com|utmccn=(referral)|utmcmd=referral|utmcct=/index.php
+
+HTTP/1.0 200 OK
+Server: Apache/2.2.3 (CentOS) mod_perl/2.0.4 Perl/v5.8.8
+Last-Modified: Thu, 11 Aug 2011 00:09:29 GMT
+Content-Type: text/javascript
+X-Cache-Lookup: HIT from origin.friendfinderinc.com:3128
+Expires: Sat, 10 Sep 2011 00:09:29 GMT
+Date: Mon, 15 Aug 2011 19:15:04 GMT
+Content-Length: 1016
+Connection: keep-alive
+
+addDOMLoadEvent=(function(){var load_events=[],load_timer,script,done,exec,old_onload,init=function(){done=true;clearInterval(load_timer);while(exec=load_events.shift())
+exec();if(script)script.onreadystatechange='';};return function(func){if(done)return func();if(!load_events[0]){if(document.addEventListener)
+document.addEventListener("DOMContentLoaded",init,false);/*@cc_on @*/
+/*@if (@_win32)
+                document.write("<script id=__ie_onload defer src=//0><\/scr"+"ipt>");
+                script = document.getElementById("__ie_onload");
+                script.onreadystatechange = function() {
+                    if (this.readyState == "complete")
+                        init(); // call the onload handler
+                };
+            /*@end @*/
+if(/WebKit/i.test(navigator.userAgent)){load_timer=setInterval(function(){if(/loaded|complete/.test(document.readyState))
+init();},10);}
+old_onload=window.onload;window.onload=function(){init();if(old_onload)old_onload();};}
+load_events.push(func);}})();GET /javascript/live/ff-rm_swfobject-1291075654.js HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/p/register.cgi?&who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--&geonames_reg=1
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,2/C1YwV9f2/KTXLuglAc7Y4vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=connection&tx&ip_type&Mapped&lat&50.07027719&country_code&CZ&asn&2852&state&&carrier&cesnet++z.s.p.o.&ip_routing_type&fixed&city&Praha&state_cf&88&country_code_cf&99&postal_code&10000&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&country_name&Czech+Republic&longitude&14.4449987&line_speed&high&timezone&%2B1.0&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-2-Dcr; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<625GET /javascript/live/ff-rm_swfobject-1291075654.js HTTP/1.0
+Accept: */*
+Referer: http://friendfinder.com/p/register.cgi?&who=r,_A8cQrUEiUCeVS4vassZ444vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--&geonames_reg=1
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: graphics.friendfinder.com
+Connection: Keep-Alive
+Cookie: ff_who=r,2/C1YwV9f2/KTXLuglAc7Y4vih9lv2wuUsrBa8D3z_tMfjIcJnpx_7SkttdNTTXl4DT8GqUCKlYX_Q3Lv9s_bY/N4vCPJVcW_vkFoScBWUT/e/mQDhwN0gIDWr4/ZZiBIqaBwXENnn8w0ivcCnJOeg--; v_hash=_english_0; IP_COUNTRY=Czech Republic; ff_tr=r,1SwnCCl44M1qolKkRhhYxW5FjA7tVY9Xm4sGFxGBKGatn9HnbUVbuct5Yl2MBkUW; LOCATION_FROM_IP=connection&tx&ip_type&Mapped&lat&50.07027719&country_code&CZ&asn&2852&state&&carrier&cesnet++z.s.p.o.&ip_routing_type&fixed&city&Praha&state_cf&88&country_code_cf&99&postal_code&10000&latitude&50.07027719&second_level_domain&cvut&country&Czech+Republic&country_name&Czech+Republic&longitude&14.4449987&line_speed&high&timezone&%2B1.0&aol&0&top_level_domain&cz&city_cf&77&zip&10000&continent&europe&lon&14.4449987; HISTORY=20110815-2-Dcr; REFERRAL_URL=http://p.internettraffic.com/index.php?Keywords=Vinyl+Siding+Colors&search_type=related&cat2=The+Vinyl+Siding+Installation&r=c>eHimenmvfXy{bXSqcneqcoO1ZXytZYSqc35vZ3:u'f>btl<d{<7<2<2<37827583<tuzmf2`7/dtt<3<joufsdptnpt`bggjmjbuf`41`e3s`efsq<joufsofuusbggjd<joufsofuusbggjd<<62594<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:14:40; __utma=140846309.1304470003.1313435679.1313435679.1313435679.1; __utmb=140846309.1.10.1313435679; __utmc=140846309; __utmz=140846309.1313435679.1.1.utmcsr=p.internettraffic.com|utmccn=(referral)|utmcmd=referral|utmcct=/index.php
+
+94<dmfbo<<btl<qbslfe/tzoejdbujpo/btl/dpn'jqvb`je>dd735d:516578bdf2cd3fce2ec7f6b5c'enybsht>1c4:bf636gggc68gg3fb:c225bc26c98&rd=6&y=26716472; click_id_time=742376013_2011-08-15 12:14:40; __utma=140846309.1304470003.1313435679.1313435679.1313435679.1; __utmb=140846309.1.10.1313435679; __utmc=140846309; __utmz=140846309.1313435679.1.1.utmcsr=p.internettraffic.com|utmccn=(referral)|utmcmd=referral|utmcct=/index.php
+
+HTTP/1.0 200 OK
+Server: Apache/2.2.3 (CentOS) mod_perl/2.0.4 Perl/v5.8.8
+Last-Modified: Thu, 11 Aug 2011 05:17:05 GMT
+Content-Type: text/javascript
+X-Cache-Lookup: HIT from origin.friendfinderinc.com:3128
+Expires: Sat, 10 Sep 2011 05:17:05 GMT
+Date: Mon, 15 Aug 2011 19:15:05 GMT
+Content-Length: 8643
+Connection: keep-alive
+
+var swfobject=function(){var Z="undefined",P="object",B="Shockwave Flash",h="ShockwaveFlash.ShockwaveFlash",W="application/x-shockwave-flash",K="SWFObjectExprInst",G=window,g=document,N=navigator,f=[],H=[],Q=null,L=null,T=null,S=false,C=false;var a=function(){var l=typeof g.getElementById!=Z&&typeof g.getElementsByTagName!=Z&&typeof g.createElement!=Z&&typeof g.appendChild!=Z&&typeof g.replaceChild!=Z&&typeof g.removeChild!=Z&&typeof g.cloneNode!=Z,t=[0,0,0],n=null;if(typeof N.plugins!=Z&&typeof N.plugins[B]==P){n=N.plugins[B].description;if(n){n=n.replace(/^.*\s+(\S+\s+\S+$)/,"$1");t[0]=parseInt(n.replace(/^(.*)\..*$/,"$1"),10);t[1]=parseInt(n.replace(/^.*\.(.*)\s.*$/,"$1"),10);t[2]=/r/.test(n)?parseInt(n.replace(/^.*r(.*)$/,"$1"),10):0}}else{if(typeof G.ActiveXObject!=Z){var o=null,s=false;try{o=new ActiveXObject(h+".7")}catch(k){try{o=new ActiveXObject(h+".6");t=[6,0,21];o.AllowScriptAccess="always"}catch(k){if(t[0]==6){s=true}}if(!s){try{o=new ActiveXObject(h)}catch(k){}}}if(!s&&o){try{n=o.GetVariable("$version");if(n){n=n.split(" ")[1].split(",");t=[parseInt(n[0],10),parseInt(n[1],10),parseInt(n[2],10)]}}catch(k){}}}}var v=N.userAgent.toLowerCase(),j=N.platform.toLowerCase(),r=/webkit/.test(v)?parseFloat(v.replace(/^.*webkit\/(\d+(\.\d+)?).*$/,"$1")):false,i=false,q=j?/win/.test(j):/win/.test(v),m=j?/mac/.test(j):/mac/.test(v);/*@cc_on i=true;@if(@_win32)q=true;@elif(@_mac)m=true;@end@*/return{w3cdom:l,pv:t,webkit:r,ie:i,win:q,mac:m}}();var e=function(){if(!a.w3cdom){return}J(I);if(a.ie&&a.win){try{g.write("<script id=__ie_ondomload defer=true src=//:><\/script>");var i=c("__ie_ondomload");if(i){i.onreadystatechange=function(){if(this.readyState=="complete"){if(this.parentNode)this.parentNode.removeChild(this);V()}}}}catch(j){}}if(a.webkit&&typeof g.readyState!=Z){Q=setInterval(function(){if(/loaded|complete/.test(g.readyState)){V()}},10)}if(typeof g.addEventListener!=Z){g.addEventListener("DOMContentLoaded",V,null)}M(V)}();function V(){if(S){return}if(a.ie&&a.win){var m=Y("span");try{var l=g.getElementsByTagName("body")[0].appendChild(m);l.parentNode.removeChild(l)}catch(n){return}}S=true;if(Q){clearInterval(Q);Q=null}var j=f.length;for(var k=0;k<j;k++){f[k]()}}function J(i){if(S){i()}else{f[f.length]=i}}function M(j){if(typeof G.addEventListener!=Z){G.addEventListener("load",j,false)}else{if(typeof g.addEventListener!=Z){g.addEventListener("load",j,false)}else{if(typeof G.attachEvent!=Z){G.attachEvent("onload",j)}else{if(typeof G.onload=="function"){var i=G.onload;G.onload=function(){i();j()}}else{G.onload=j}}}}}function I(){var l=H.length;for(var j=0;j<l;j++){var m=H[j].id;if(a.pv[0]>0){var k=c(m);if(k){H[j].width=k.getAttribute("width")?k.getAttribute("width"):"0";H[j].height=k.getAttribute("height")?k.getAttribute("height"):"0";if(O(H[j].swfVersion)){if(a.webkit&&a.webkit<312){U(k)}X(m,true)}else{if(H[j].expressInstall&&!C&&O("6.0.65")&&(a.win||a.mac)){D(H[j])}else{d(k)}}}}else{X(m,true)}}}function U(m){var k=m.getElementsByTagName(P)[0];if(k){var p=Y("embed"),r=k.attributes;if(r){var o=r.length;for(var n=0;n<o;n++){if(r[n].nodeName.toLowerCase()=="data"){p.setAttribute("src",r[n].nodeValue)}else{p.setAttribute(r[n].nodeName,r[n].nodeValue)}}}var q=k.childNodes;if(q){var s=q.length;for(var l=0;l<s;l++){if(q[l].nodeType==1&&q[l].nodeName.toLowerCase()=="param"){p.setAttribute(q[l].getAttribute("name"),q[l].getAttribute("value"))}}}m.parentNode.replaceChild(p,m)}}function F(i){if(a.ie&&a.win&&O("8.0.0")){G.attachEvent("onunload",function(){var k=c(i);if(k){for(var j in k){if(typeof k[j]=="function"){k[j]=function(){}}}k.parentNode.removeChild(k)}})}}function D(j){C=true;var o=c(j.id);if(o){if(j.altContentId){var l=c(j.altContentId);if(l){L=l;T=j.altContentId}}else{L=b(o)}if(!(/%$/.test(j.width))&&parseInt(j.width,10)<310){j.width="310"}if(!(/%$/.test(j.height))&&parseInt(j.height,10)<137){j.height="137"}g.title=g.title.slice(0,47)+" - Flash Player Installation";var n=a.ie&&a.win?"ActiveX":"PlugIn",k=g.title,m="MMredirectURL="+G.location+"&MMplayerType="+n+"&MMdoctitle="+k,p=j.id;if(a.ie&&a.win&&o.readyState!=4){var i=Y("div");p+="SWFObjectNew";i.setAttribute("id",p);o.parentNode.insertBefore(i,o);o.style.display="none";G.attachEvent("onload",function(){o.parentNode.removeChild(o)})}R({data:j.expressInstall,id:K,width:j.width,height:j.height},{flashvars:m},p)}}function d(j){if(a.ie&&a.win&&j.readyState!=4){var i=Y("div");j.parentNode.insertBefore(i,j);i.parentNode.replaceChild(b(j),i);j.style.display="none";G.attachEvent("onload",function(){j.parentNode.removeChild(j)})}else{j.parentNode.replaceChild(b(j),j)}}function b(n){var m=Y("div");if(a.win&&a.ie){m.innerHTML=n.innerHTML}else{var k=n.getElementsByTagName(P)[0];if(k){var o=k.childNodes;if(o){var j=o.length;for(var l=0;l<j;l++){if(!(o[l].nodeType==1&&o[l].nodeName.toLowerCase()=="param")&&!(o[l].nodeType==8)){m.appendChild(o[l].cloneNode(true))}}}}}return m}function R(AE,AC,q){var p,t=c(q);if(typeof AE.id==Z){AE.id=q}if(a.ie&&a.win){var AD="";for(var z in AE){if(AE[z]!=Object.prototype[z]){if(z=="data"){AC.movie=AE[z]}else{if(z.toLowerCase()=="styleclass"){AD+=' class="'+AE[z]+'"'}else{if(z!="classid"){AD+=" "+z+'="'+AE[z]+'"'}}}}}var AB="";for(var y in AC){if(AC[y]!=Object.prototype[y]){AB+='<param name="'+y+'" value="'+AC[y]+'" />'}}t.outerHTML='<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"'+AD+">"+AB+"</object>";F(AE.id);p=c(AE.id)}else{if(a.webkit&&a.webkit<312){var AA=Y("embed");AA.setAttribute("type",W);for(var x in AE){if(AE[x]!=Object.prototype[x]){if(x=="data"){AA.setAttribute("src",AE[x])}else{if(x.toLowerCase()=="styleclass"){AA.setAttribute("class",AE[x])}else{if(x!="classid"){AA.setAttribute(x,AE[x])}}}}}for(var w in AC){if(AC[w]!=Object.prototype[w]){if(w!="movie"){AA.setAttribute(w,AC[w])}}}t.parentNode.replaceChild(AA,t);p=AA}else{var s=Y(P);s.setAttribute("type",W);for(var v in AE){if(AE[v]!=Object.prototype[v]){if(v.toLowerCase()=="styleclass"){s.setAttribute("class",AE[v])}else{if(v!="classid"){s.setAttribute(v,AE[v])}}}}for(var u in AC){if(AC[u]!=Object.prototype[u]&&u!="movie"){E(s,u,AC[u])}}t.parentNode.replaceChild(s,t);p=s}}return p}function E(k,i,j){var l=Y("param");l.setAttribute("name",i);l.setAttribute("value",j);k.appendChild(l)}function c(i){return g.getElementById(i)}function Y(i){return g.createElement(i)}function O(k){var j=a.pv,i=k.split(".");i[0]=parseInt(i[0],10);i[1]=parseInt(i[1],10);i[2]=parseInt(i[2],10);return(j[0]>i[0]||(j[0]==i[0]&&j[1]>i[1])||(j[0]==i[0]&&j[1]==i[1]&&j[2]>=i[2]))?true:false}function A(m,j){if(a.ie&&a.mac){return}var l=g.getElementsByTagName("head")[0],k=Y("style");k.setAttribute("type","text/css");k.setAttribute("media","screen");if(!(a.ie&&a.win)&&typeof g.createTextNode!=Z){k.appendChild(g.createTextNode(m+" {"+j+"}"))}l.appendChild(k);if(a.ie&&a.win&&typeof g.styleSheets!=Z&&g.styleSheets.length>0){var i=g.styleSheets[g.styleSheets.length-1];if(typeof i.addRule==P){i.addRule(m,j)}}}function X(k,i){var j=i?"visible":"hidden";if(S){c(k).style.visibility=j}else{A("#"+k,"visibility:"+j)}}return{registerObject:function(l,i,k){if(!a.w3cdom||!l||!i){return}var j={};j.id=l;j.swfVersion=i;j.expressInstall=k?k:false;H[H.length]=j;X(l,false)},getObjectById:function(l){var i=null;if(a.w3cdom&&S){var j=c(l);if(j){var k=j.getElementsByTagName(P)[0];if(!k||(k&&typeof j.SetVariable!=Z)){i=j}else{if(typeof k.SetVariable!=Z){i=k}}}}return i},embedSWF:function(n,u,r,t,j,m,k,p,s){if(!a.w3cdom||!n||!u||!r||!t||!j){return}r+="";t+="";if(O(j)){X(u,false);var q=(typeof s==P)?s:{};q.data=n;q.width=r;q.height=t;var o=(typeof p==P)?p:{};if(typeof k==P){for(var l in k){if(k[l]!=Object.prototype[l]){if(typeof o.flashvars!=Z){o.flashvars+="&"+l+"="+k[l]}else{o.flashvars=l+"="+k[l]}}}}J(function(){R(q,o,u);if(q.id==u){X(u,true)}})}else{if(m&&!C&&O("6.0.65")&&(a.win||a.mac)){X(u,false);J(function(){var i={};i.id=i.altContentId=u;i.width=r;i.height=t;i.expressInstall=m;D(i)})}}},getFlashPlayerVersion:function(){return{major:a.pv[0],minor:a.pv[1],release:a.pv[2]}},hasFlashPlayerVersion:O,createSWF:function(k,j,i){if(a.w3cdom&&S){return R(k,j,i)}else{return undefined}},createCSS:function(j,i){if(a.w3cdom){A(j,i)}},addDomLoadEvent:J,addLoadEvent:M,getQueryParamValue:function(m){var l=g.location.search||g.location.hash;if(m==null){return l}if(l){var k=l.substring(1).split("&");for(var j=0;j<k.length;j++){if(k[j].substring(0,k[j].indexOf("="))==m){return k[j].substring((k[j].indexOf("=")+1))}}}return""},expressInstallCallback:function(){if(C&&L){var i=c(K);if(i){i.parentNode.replaceChild(L,i);if(T){X(T,true);if(a.ie&&a.win){L.style.display="block"}}L=null;T=null;C=false}}}}}();

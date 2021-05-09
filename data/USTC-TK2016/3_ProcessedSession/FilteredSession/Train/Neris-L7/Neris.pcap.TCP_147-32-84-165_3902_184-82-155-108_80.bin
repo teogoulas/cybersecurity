@@ -1,0 +1,48 @@
+GET /getjson?4pq7f6ctqMrH6OYUFq1AZpw31KpOjecsbHnCmU5CoMXW HTTP/1.1
+Accept: */*
+Referer: http://ads.creafi-online-media.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: scubavests.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 11 Aug 2011 09:58:53 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Expires: Thu Aug 11 08:58:53 2011
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+VTag: ed016c1ed22b7e13c65cfb6ee41f6a7d
+
+146
+document.write('<!-- BEGIN STANDARD TAG - 300 x 250 - http://ads.creafi-online-media.com/: Run-of-site - DO NOT MODIFY --><IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=300 HEIGHT=250 SRC="http://ads.creafi-online-media.com/st?ad_type=iframe&ad_size=300x250&section=1756881"></IFRAME><!-- END TAG -->');
+0
+
+GET /getjson?4pq7f6ctocrH6OYUFq1AZpw31KpOjecsbHnCmU5CoMXW HTTP/1.1
+Accept: */*
+Referer: http://premiere.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: scubavests.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 11 Aug 2011 10:01:34 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Expires: Thu Aug 11 09:01:34 2011
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+VTag: 8a4cf11a127fead4d8e3f70a04a89b46
+
+12f
+document.write('<!-- BEGIN STANDARD TAG - 300 x 250 - http://premiere.com/: Run-of-site - DO NOT MODIFY --><IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=300 HEIGHT=250 SRC="http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=300x250&section=1845729"></IFRAME><!-- END TAG -->');
+0
+

@@ -1,0 +1,14 @@
+GET /__utm.gif?utmwv=5.1.4&utms=11&utmn=90886377&utmhn=gamevid.com&utmt=event&utme=5(GameVid*GameVid_*728x90_prm0%26efo%3D0)&utmcs=windows-1252&utmsr=1280x722&utmsc=32-bit&utmul=en-us&utmje=1&utmfl=6.0%20r79&utmhid=1865422112&utmr=-&utmp=%2F&utmac=UA-4781905-14&utmcc=__utma%3D23709612.398139696.1313060154.1313060154.1313062468.2%3B%2B__utmz%3D23709612.1313060154.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=6AC~ HTTP/1.1
+Accept: */*
+Referer: http://gamevid.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.google-analytics.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Date: Wed, 10 Aug 2011 19:10:56 GMT
+Content-Length: 35
+Pragma: no-cache
+Expires: Wed, 19 A

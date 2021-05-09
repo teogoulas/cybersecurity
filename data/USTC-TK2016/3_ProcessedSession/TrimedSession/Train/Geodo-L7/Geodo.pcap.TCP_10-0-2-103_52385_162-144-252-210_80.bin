@@ -1,0 +1,25 @@
+Get /templates/atomic/ex_mss.exe HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+Host: clublegend.co.ke
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 501 Method Not Implemented
+Date: Fri, 15 May 2015 11:50:44 GMT
+Server: Apache/2.2.26 (Unix) mod_ssl/2.2.26 OpenSSL/1.0.1e-fips DAV/2 mod_bwlimited/1.4
+Allow: GET,HEAD,POST,OPTIONS,TRACE
+Content-Length: 490
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>501 Method Not Implemented</title>
+</head><body>
+<h1>Method Not Implemented</h1>
+<p>GET to /templates/atomic/ex_mss.exe not supported.<br />
+</p>
+<p>Additionally, a 404 Not Found
+error was encountered

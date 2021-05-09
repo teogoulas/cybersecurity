@@ -1,0 +1,32 @@
+220 smtp202.mail.gq1.yahoo.com ESMTP
+EHLO jeramey1dillyqg
+EHLO jeramey1dillyqg
+250-smtp202.mail.gq1.yahoo.com
+250-AUTH LOGIN PLAIN XYMCOOKIE
+250-PIPELINING
+250 8BITMIME
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+amVyYW1leTFkaWxseXFn
+amVyYW1leTFkaWxseXFn
+334 UGFzc3dvcmQ6
+cmh4NjY3OHZiMDY=
+cmh4NjY3OHZiMDY=
+235 OK, go ahead
+MAIL FROM: <jeramey1dillyqg@yahoo.com>
+MAIL FROM: <jeramey1dillyqg@yahoo.com>
+250 OK , completed
+RCPT TO: <kriss912@yahoo.com>
+RCPT TO: <kriss912@yahoo.com>
+250 OK , completed
+RCPT TO: <g_grant34@yahoo.com>
+RCPT TO: <g_grant34@yahoo.com>
+250 OK , completed
+DATA
+DATA
+354 Start Mail. End with CRLF.CRLF
+Message-ID: <771577954$939218926$109225148@jeramey1dillyqg>
+From: "Johnny gau" <jeramey1dillyqg@yahoo.com>
+To: <kriss912@yahoo.com>
+S

@@ -1,0 +1,16 @@
+GET /imp?Z=300x250&anmember=541&anprice=&referrer=http%3a%2f%2fwww.newcarus.com%2faadd.html&s=2180005&_salt=2934456284&B=10&u=http%3A%2F%2Fwww.newcarus.com%2Faadd.html&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: ad.yieldmanager.com
+Connection: Keep-Alive
+
+GET /imp?Z=300x250&anmember=541&anprice=&referrer=http%3a%2f%2fwww.newcarus.com%2faadd.html&s=2180005&_salt=2934456284&B=10&u=http%3A%2F%2Fwww.newcarus.com%2Faadd.html&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: ad.yieldmanager.c

@@ -1,0 +1,11 @@
+GET /ads/user-lists/1017289712/?fmt=3&num=1&cv=7&frm=0&url=http%3A//www.russiancupid.com/en/results/online%3Fsearchtype%3D1&ref=http%3A//www.russiancupid.com/en/home/showMenu%3Flogin%26registration%3D1&random=693047889 HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:18.0) Gecko/20100101 Firefox/18.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.russiancupid.com/en/results/online?searchtype=1
+Cookie: PREF=ID=4280e9ad3b78cd9f:TM=1425715694:LM=1425715694:S=vnqb5vZO9L9JxxjE; NID=67=RX4oTQmXcMEjj_29GXwOgvdDWpvg17YEBDnkurtaPhDOZojZef3Mb3dzyiRNQ1GDyipfTEuQA6kk_Z1w0LvLQV550jixXecSKodx3ewdRq0SRYN3zM7wfWoOWgn2JmW2
+Connection: 
+
+HTTP/1.1 302 

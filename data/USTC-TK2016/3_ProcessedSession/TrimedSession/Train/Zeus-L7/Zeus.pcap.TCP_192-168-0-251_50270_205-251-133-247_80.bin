@@ -1,0 +1,17 @@
+GET /images/retweet.png HTTP/1.1
+Accept: */*
+Referer: http://www.claimfans.com/index.php
+Accept-Language: en-US
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Tue, 06 Dec 2011 21:44:45 GMT
+Host: www.claimfans.com
+Connection: Keep-Alive
+Cookie: PHPSESSID=3b5644e65e203f4410eb61575ab3f2a5; PlusREF=60934
+
+GET /images/retweet.png HTTP/1.1
+Accept: */*
+Referer: http://www.claimfans.com/index.php
+Accept-Language: en-US
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Accept-Encoding: gzip,

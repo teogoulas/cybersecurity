@@ -1,0 +1,30 @@
+220 smtp204.mail.gq1.yahoo.com ESMTP
+EHLO melania1collierclpq
+EHLO melania1collierclpq
+250-smtp204.mail.gq1.yahoo.com
+250-AUTH LOGIN PLAIN XYMCOOKIE
+250-PIPELINING
+250 8BITMIME
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+bWVsYW5pYTFjb2xsaWVyY2xwcQ==
+bWVsYW5pYTFjb2xsaWVyY2xwcQ==
+334 UGFzc3dvcmQ6
+cXJmejVnZ3YyMA==
+cXJmejVnZ3YyMA==
+235 OK, go ahead
+MAIL FROM: <melania1collierclpq@yahoo.com>
+MAIL FROM: <melania1collierclpq@yahoo.com>
+250 OK , completed
+RCPT TO: <rbdagondon2004@yahoo.com>
+RCPT TO: <rbdagondon2004@yahoo.com>
+250 OK , completed
+RCPT TO: <brwneyesnikki@yahoo.com>
+RCPT TO: <brwneyesnikki@yahoo.com>
+250 OK , completed
+RCPT TO: <dupnockt@yahoo.com>
+RCPT TO: <dupnockt@yahoo.com>
+250 OK , completed
+RCPT TO: <ducesout64@yahoo.com>
+RCPT TO: <ducesou

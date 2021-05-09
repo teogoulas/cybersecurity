@@ -1,0 +1,99 @@
+220-mtaout-mb02.r1000.mx.aol.com ESMTP MUA/Third Party Client Interface
+220-AOL and its affiliated companies do not
+220-authorize the use of its proprietary computers and computer
+220-networks to accept, transmit, or distribute unsolicited bulk
+220-e-mail sent from the internet.
+220-Effective immediately:
+220-AOL may no longer accept connections from IP addresses
+220 which no reverse-DNS (PTR record) assigned.
+EHLO leepdnb
+EHLO leepdnb
+250-mtaout-mb02.r1000.mx.aol.com
+250-PIPELINING
+250-SIZE 36700160
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN XAOL-UAS-MB
+250-AUTH=PLAIN LOGIN XAOL-UAS-MB
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+bGVlcGRuYg==
+bGVlcGRuYg==
+334 UGFzc3dvcmQ6
+cW9xZWxhZGVyeXo=
+cW9xZWxhZGVyeXo=
+235 2.7.0 Authentication successful
+MAIL FROM: <leepdnb@aol.com>
+MAIL FROM: <leepdnb@aol.com>
+250 2.1.0 Ok
+RCPT TO: <brummett.randy@yahoo.com>
+RCPT TO: <brummett.randy@yahoo.com>
+250 2.1.5 Ok
+RCPT TO: <stifflear@citcom.net>
+RCPT TO: <stifflear@citcom.net>
+250 2.1.5 Ok
+RCPT TO: <r.perkinson@comcast.net>
+RCPT TO: <r.perkinson@comcast.net>
+250 2.1.5 Ok
+RCPT TO: <sweetwillie74@yahoo.com>
+RCPT TO: <sweetwillie74@yahoo.com>
+250 2.1.5 Ok
+DATA
+DATA
+354 End data with <CR><LF>.<CR><LF>
+Message-ID: <997844342$1663277088$1666999074@leepdnb>
+From: "Boicourt Colins" <leepdnb@aol.com>
+To: <brummett.randy@yahoo.com>
+Subject: FW:OrderFromHomeWthConfideneFromOur7YearStrongOnlinePharmacy. 
+Date: Mon, 15 Aug 2011 17:39:22 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<br>AIs hCe spWok ogne oAf tphe mDen ddefly s4nahed thRe dageEr foym Ee'ns <br><a href="http://4NP2StHjOiHAeMfw.hloholpills.com?PNkMeCKCqyRRhKYuW">http://PNkMeCKCqyRRhKYuW.hlo21236810holpills.com?nZwSbaaupbbYqaNTERP</a> aprlos sepHpedMessage-ID: <997844342$1663277088$1666999074@leepdnb>
+From: "Boicourt Colins" <leepdnb@aol.com>
+To: <brummett.randy@yahoo.com>
+Subject: FW:OrderFromHomeWthConfideneFromOur7YearStrongOnlinePharmacy. 
+Date: Mon, 15 Aug 2011 17:39:22 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<br>AIs hCe spWok ogne oAf tphe mDen ddefly s4nahed thRe dageEr foym Ee'ns <br><a href="http://4NP2StHjOiHAeMfw.hloholpills.com?PNkMeCKCqyRRhKYuW">http://PNkMeCKCqyRRhKYuW.hlo21236810holpills.com?nZwSbaaupbbYqaNTERP</a> aprlos sepHped orwtrd, hi5s a7nd o!n Jsuan' h.ouder- bWoh tvo s4uppot imseKlf a1nd t!o eerp t5he bwoy <br><br><br><br><br><br>omf a sAetement, a in{e oBf scrubVb btton-0wod teUes r!ered tEhei tactted</BODY></HTML> orwtrd, hi5s a7nd o!n Jsuan' h.ouder- bWoh tvo s4uppot imseKlf a1nd t!o eerp t5he bwoy <br><br><br><br><br><br>omf a sAetement, a in{e oBf scrubVb btton-0wod teUes r!ered tEhei tactted</BODY></HTML>
+.
+
+.
+250 2.0.0 Ok: queued as 17B50E000465
+421 4.4.2 mtaout-mb02.r1000.mx.aol.com Error: timeout exceeded

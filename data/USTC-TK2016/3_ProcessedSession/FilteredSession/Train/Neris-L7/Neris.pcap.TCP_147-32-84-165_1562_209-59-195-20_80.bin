@@ -1,0 +1,139 @@
+GET / HTTP/1.0
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: yahooadvertisingfeed.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2011 10:22:35 GMT
+Server: Apache/2.2.3 (CentOS)
+Set-Cookie: Apache=147.32.84.165.1313058155120963; path=/; expires=Sat, 10-Sep-11 10:22:35 GMT
+X-Powered-By: PHP/5.2.6
+Set-Cookie: yahooadvertisingfeed.com[L]=1313058156; expires=Sun, 08-Aug-2021 10:22:36 GMT
+Set-Cookie: yahooadvertisingfeed.com[U]=1; expires=Sun, 08-Aug-2021 10:22:36 GMT
+Set-Cookie: yahooadvertisingfeed.com[V]=0.3; expires=Sun, 08-Aug-2021 10:22:36 GMT
+Set-Cookie: yahooadvertisingfeed.com[R]=0; expires=Sun, 08-Aug-2021 10:22:36 GMT
+Set-Cookie: yahooadvertisingfeed.com[D]=0; expires=Sun, 08-Aug-2021 10:22:36 GMT
+Set-Cookie: yahooadvertisingfeed.com[OR]=deleted; expires=Wed, 11-Aug-2010 10:22:35 GMT
+Vary: User-Agent
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- lander005.nyc.trafficz.com --> <!-- production-release - 20110804222611 --> <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+
+<meta name="title" content="yahooadvertisingfeed.com" />
+
+<title>yahooadvertisingfeed.com</title>
+
+<link rel="stylesheet" type="text/css" media="screen" href="/css.php?id=278" />
+
+
+</head>
+
+<body id="page_lander">
+
+
+<div id="header">
+    	<div id="title">
+	        <a href="http://yahooadvertisingfeed.com/index.php" >yahooadvertisingfeed.com</a>    	</div>
+    	<div id="tagline">
+        	    	</div>
+	<div id="search">
+		<form name="search" method="get" action="index.php"  onsubmit="if(document.getElementById('skid').value=='' || document.getElementById('skid').value=='') return false; else return true;"><input type="hidden" name="Query" value="2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D" /><input type="hidden" name="tis" value="1" /><input name="sk" id="skid" type="text" class="TEXT"  value=""  onfocus="if(this.value==this.defaultValue) this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" /><input type="submit" id="skButtonid" value="Search" class="SUBMIT" /><script type="text/javascript">
+
+					function checkSearchSubmit(){
+						document.getElementById('skButtonid').onclick = function(){
+							if(document.getElementById('skid').value!='')return true; else return false;
+						}
+					}
+					if (window.addEventListener){
+						window.addEventListener('load', checkSearchSubmit, false); 
+					} else if (window.attachEvent){
+						window.attachEvent('onload', checkSearchSubmit);
+					}
+					
+			   </script>&nbsp;</form>	</div>
+</div>
+
+<div id="menu">
+	<div class="menuTerm">
+		<ul id="main_menu" class=""><li class="first"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=advertising" >Advertising</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=online+advertising" >Online Advertising</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=internet+advertising" >Internet Advertising</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=internet+marketing" >Internet Marketing</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=advertising+agency" >Advertising Agency</a></li><li class="last"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=pay+per+click" >Pay Per Click</a></li></ul>	</div>
+	<div id="inquiry">
+        	<a href="/inquiry.html?Query=2USvGqi1seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAI5MwxfbMU%3D"  target="inquiry">Inquire&nbsp;about&nbsp;this&nbsp;Domain</a>	</div>
+</div>
+
+<div id="wrapper">
+
+	<div id="left">
+	<div class="subtitle">Related Keywords</div>
+	<table cellspacing="0" class="relatedKeywordsTable">
+            <tr>
+                <td class="relatedKeywordsTableTitle">
+                         <a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=advertising" >Advertising</a>			<ul id="" class="related_menu"><li class="first"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=search+engine+advertising" >Search Engine</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=online+advertising" >Online Advertising</a></li><li class="last"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=internet+advertising" >Internet Advertising</a></li></ul>			<ul id="" class="related_menu"><li class="first"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=newspaper+advertising" >Newspaper Advertising</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=banner+advertising" >Banner Advertising</a></li><li class="last"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=advertising+agencies" >Advertising Agencies</a></li></ul>               </td>
+               <td class="relatedKeywordsTableTitle">
+			<a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=online+advertising" >Online Advertising</a>			<ul id="" class="related_menu"><li class="first"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=search+engine+advertising" >Search Engine</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=online+marketing" >Online Marketing</a></li><li class="last"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=internet+advertising" >Internet Advertising</a></li></ul>			<ul id="" class="related_menu"><li class="first"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=online+business" >Online Business</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=online+ads" >Online Ads</a></li><li class="last"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=web+advertising" >Web Advertising</a></li></ul>                </td>
+  
+                 <td class="relatedKeywordsTableTitle">
+			<a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=internet+advertising" >Internet</a>			<ul id="" class="related_menu"><li class="first"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=search+engine+advertising" >Search Engine</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=online+advertising" >Online Advertising</a></li><li class="last"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=internet+marketing" >Internet Marketing</a></li></ul>			<ul id="" class="related_menu"><li class="first"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=web+advertising" >Web Advertising</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=banner+advertising" >Banner Advertising</a></li><li class="last"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=free+internet+advertising" >Free Internet</a></li></ul>               </td>
+             
+            </tr>
+	</table>
+	<table cellspacing="0" class="relatedKeywordsTable">
+            <tr>
+                  <td class="relatedKeywordsTableTitle">
+			<a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=internet+marketing" >Internet Marketing</a>			<ul id="" class="related_menu"><li class="first"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=online+marketing" >Online Marketing</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=internet+advertising" >Internet Advertising</a></li><li class="last"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=emarketing" >Emarketing</a></li></ul>			<ul id="" class="related_menu"><li class="first"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=e+marketing" >E Marketing</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=web+marketing" >Web Marketing</a></li><li class="last"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=free+internet+advertising" >Free Internet</a></li></ul>                </td>
+		<td class="relatedKeywordsTableTitle">
+			<a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=advertising+agency" >Advertising Agency</a>			<ul id="" class="related_menu"><li class="first"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=search+engine+advertising" >Search Engine</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=online+advertising" >Online Advertising</a></li><li class="last"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=internet+advertising" >Internet Advertising</a></li></ul>			<ul id="" class="related_menu"><li class="first"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=newspaper+advertising" >Newspaper Advertising</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=advertising+agencies" >Advertising Agencies</a></li><li class="last"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=free+internet+advertising" >Free Internet</a></li></ul>               </td>
+               <td class="relatedKeywordsTableTitle">
+			<a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=pay+per+click" >Pay Per Click</a>			<ul id="" class="related_menu"><li class="first"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=pay+per+click+advertising" >Pay Per Click</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=pay+per+click+programs" >Pay Per Click Programs</a></li><li class="last"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=pay+per+clicks" >Pay Per Clicks</a></li></ul>			<ul id="" class="related_menu"><li class="first"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=cost+per+click" >Cost Per Click</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=search+engine+advertising" >Search Engine</a></li><li class="last"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=online+marketing" >Online Marketing</a></li></ul>                </td>
+            </tr>
+	</table>
+
+
+</div>
+
+<div id="right">
+
+	<div id="most_popular">
+		<div class="subtitle">Popular Keywords</div>
+
+		<ul id="" class="keyword_menu"><li class="first"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=advertising" >Advertising</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=online+advertising" >Online Advertising</a></li><li class="last"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=internet+advertising" >Internet Advertising</a></li></ul>
+		<ul id="" class="keyword_menu"><li class="first"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=internet+marketing" >Internet Marketing</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=advertising+agency" >Advertising Agency</a></li><li class="last"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=pay+per+click" >Pay Per Click</a></li></ul>
+		<ul id="" class="keyword_menu"><li class="first"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=pay+per+click+advertising" >Pay Per Click Advertising</a></li><li class=""><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=marketing" >Marketing</a></li><li class="last"><a href="http://yahooadvertisingfeed.com/index.php?pt=1&amp;Query=2USvGqi4seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAKJ%2Fq2SEp%2BYnKealuhkZ5m7LB%2BRk8kPFmg0M2s4cik%3D&amp;sk=newspaper+advertising" >Newspaper Advertising</a></li></ul>	
+	</div>
+</div>
+
+
+
+	
+
+</div>
+
+<div id="content">
+	</div>
+
+<div id="footer">
+
+	<div id="footer_information">Copyright &copy; 2011 yahooadvertisingfeed.com. All Rights Reserved.</div>
+
+	<div id="footerMenu">
+		<a href="http://yahooadvertisingfeed.com/index.php" >Home</a> |
+		<a href="http://yahooadvertisingfeed.com/legal.html" >Legal</a>	
+			
+					|
+			<strong><a href="/inquiry.html?Query=2USvGqi1seThfzAuMLmwj76RkPxgATCxsLWxs0SvNAI5MwxfbMU%3D"  target="inquiry">Inquire&nbsp;about&nbsp;this&nbsp;Domain</a></strong>
+				
+		<!-- BID: 1 -->
+	</div>
+	
+</div><br>
+
+<iframe src="http://domdex.com/f?c=5&amp;k=Finance%2CInvesting%2CCredit+Cards%2CCredit+Report%2CInsurance" width="0" height="0" frameborder="0"></iframe>
+
+
+</body>
+</html>

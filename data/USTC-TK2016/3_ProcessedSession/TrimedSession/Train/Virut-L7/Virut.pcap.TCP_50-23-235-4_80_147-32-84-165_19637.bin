@@ -1,0 +1,24 @@
+GET /view.aspx?poolid=24232&script=1&rnd=979552 HTTP/1.1
+Accept: */*
+Referer: http://www.funglad.com/fung.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: server.cpmstar.com
+Connection: Keep-Alive
+
+GET /view.aspx?poolid=24232&script=1&rnd=979552 HTTP/1.1
+Accept: */*
+Referer: http://www.funglad.com/fung.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: server.cpmstar.com
+Connection: Keep-Alive
+
+HTTP/1.1 302 Found
+Cache-Control: private,no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Location: /view.aspx?poolid=24232&script=1&r

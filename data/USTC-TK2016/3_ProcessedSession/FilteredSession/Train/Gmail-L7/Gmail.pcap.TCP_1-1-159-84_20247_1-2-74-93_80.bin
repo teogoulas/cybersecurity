@@ -1,0 +1,12 @@
+GET http://www.google.ro/accounts/KLGRPVt?hl=en&service=mail&ilo=1&ils=s.RO&ilc=1&continue=https%3A%2F%2Faccounts.google.com%2FServiceLogin%3Fservice%3Dmail%26passive%3Dtrue%26rm%3Dfalse%26continue%3Dhttps%3A%2F%2Fmail.google.com%2Fmail%2F%26ss%3D1%26scc%3D1%26ltmpl%3Ddefault%26ltmplcache%3D2%26hl%3Den&zx=-052209438 HTTP/1.1
+Host: www.google.ro
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.64 Safari/537.31
+Cookie: SID=srG8TMB4Qv5lNDYtArg4ryWBtQXg-brkI3YrCRRGD8pCkpQd8QXZ3DnKOfpWZJVct0QGoPPjKS3BKbvsTY-v2CkGjB3-xItA9qugAdJOfVk18MT1Jscxi1f36V_iBKLXfGK3EfyWePcM_3bpeIIBgaQEbj6WACcCYuWc5nIZLTzZQpZ-Pd_XIHnHiJGqZNBAQJyCrV0nw7cWVfteErmdp0jkDKkcTeLINgNez40MzivjGLXGNvVbUWC_wRiTjmHOe--pYwQcaXU; NID=67=2ar58UqiU0eVdffBf1DbYykLUHBgXQkau2y_ZQ89bDrqt05fYfb3ee--kIIx_GtMgmqN_Kxe_rl1xh1jF34QUwsnN_k8VTMj4aOclcaU6J0VOOKfeGHPHGFgkK1YbqwtBXv6hlyMI-dsCORSMU; HSID=iLlKMPsOV_S7gvecQ; APISID=lIR_OlZ_znysIcLk/fmDpDjvmvN_uDdmZD
+Connection: keep-alive
+Accept-Language: ro,en-US;q=0.8,en;q=0.6
+DNT: 1
+Host: www.google.ro
+Accept-Encoding: gzip,deflate,sdch
+Accept-Charset: IBE-0395-1,NzO-8;q=0.7,*;q=0.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+

@@ -1,0 +1,40 @@
+GET /default.aspx HTTP/1.1
+Host: mail.live.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MyIE2)
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Charset: utf-8;q=0.7,*;q=0.7
+Accept-Encoding: gzip, identity, *;q=0
+Connection: Close
+Referer: https://login.live.com/ppsecure/post.srf?wa=wsignin1.0&rpsnv=11&ct=1312975510&rver=6.1.6206.0&wp=MBI&wreply=http:%2F%2Fmail.live.com%2Fdefault.aspx&lc=1049&mkt=ru-ru&cbcxt=mai&snsc=1&id=25886&bk=1312975511
+Cookie: PPLState=1; RPSTAuth=EwDwARAnAAAUWkziSC7RbDJKS1VkhugDegv7L0eAAHAzUuqCiSd+hxy81xTauYcM3jeAtLatGlAJ31NwTCxO89hU8yMV6I2e2GxGmCyko6OlFBA69mi2Tk1eFreTjj/5aKgu1TAik9GHiUhJgw7rvSfIlGIRF4FoND8FkRCsBxQWz/4oHT3pnxDDBNmm3yG7VzCJG2Q8IjM5E9brItgmA2YAAAhFkWHjik/QhkAB91J7ys9oOkMStH4nx/2Evksz7qqAZ1N6xI7o09lRDH4t3vaFoXvKIoHyv7ignEpvoCXLab3v8gaHAb5uJZYqec5g/mgtfXsHgVAUxd7bbdPzi1zqBCWwn7nky3g70XDTXx4/icASqaenGqlWSv+X2mc05KyEr6nlFwRPlO9Z8sVYCMFBtluNDk0mP3JyrGET /default.aspx HTTP/1.1
+Host: mail.live.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MyIE2)
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Charset: utf-8;q=0.7,*;q=0.7
+Accept-Encoding: gzip, identity, *;q=0
+Connection: Close
+Referer: https://login.live.com/ppsecure/post.srf?wa=wsignin1.0&rpsnv=11&ct=1312975510&rver=6.1.6206.0&wp=MBI&wreply=http:%2F%2Fmail.live.com%2Fdefault.aspx&lc=1049&mkt=ru-ru&cbcxt=mai&snsc=1&id=25886&bk=1312975511
+Cookie: PPLState=1; RPSTAuth=EwDwARAnAAAUWkziSC7RbDJKS1VkhugDegv7L0eAAHAzUuqCiSd+hxy81xTauYcM3jeAtLatGlAJ31NwTCxO89hU8yMV6I2e2GxGmCyko6OlFBA69mi2Tk1eFreTjj/5aKgu1TAik9GHiUhJgw7rvSfIlGIRF4FoND8FkRCsBxQWz/4oHT3pnxDDBNmm3yG7VzCJG2Q8IjM5E9brItgmA2YAAAhFkWHjik/QhkAB91J7ys9oOkMStH4nx/2Evksz7qqAZ1N6xI7o09lRDH4t3vaFoXvKIoHyv7ignEpvoCXLab3v8gaHAb5uJZYqec5g/mgtfXsHgVAUxd7bbdPzi1zqBCWwn7nky3g70XDTXx4/icASqaenGqlWSv+X2mc05KyEr6nlFwRPlO9Z8sVYCMFBtluNDk0mP3Jyr3zScUR2BrAFx9rDsEbDpPbtzgMYySfuOHFxIXoI4yMkbfTauupFPt0WxskPE54YRmWHHAwQUVf9W25KKY5C5FFgnYX6fYIfJ9Hhrrj6yGBe82lbYrBR5ONTFLjKXnvirAtYj2Orf0Lbf/j/AALYhmAdAGLpUqxFx2DQgY1o8iP5tRFelQ6GaIQJ1pRaTvi71+vg95lFZ9EqUtIkEwCsHkQowITD8uX9UlATfBDm85qNbGVsAQ==
+
+3zScUR2BrAFx9rDsEbDpPbtzgMYySfuOHFxIXoI4yMkbfTauupFPt0WxskPE54YRmWHHAwQUVf9W25KKY5C5FFgnYX6fYIfJ9Hhrrj6yGBe82lbYrBR5ONTFLjKXnvirAtYj2Orf0Lbf/j/AALYhmAdAGLpUqxFx2DQgY1o8iP5tRFelQ6GaIQJ1pRaTvi71+vg95lFZ9EqUtIkEwCsHkQowITD8uX9UlATfBDm85qNbGVsAQ==
+
+HTTP/1.1 302 Found
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Expires: -1
+Location: http://sn135w.snt135.mail.live.com/default.aspx
+Server: Microsoft-IIS/7.5
+X-UA-Compatible: IE=7, IE=9, IE=10
+MSNSERVER: H: DUB103-W44 V: 16.0.1702.709 D: 2011-07-09T21:13:07
+Set-Cookie: UIC=tyckO0HDIIw2fi7Uk+rl7+XXlNev6nVTNQeed0sq49S3KMvtY0bjbggLENVfHn8xpgG5FlaFT5H06Rt2RRoR8AB8X8qTjhxf/iPPLshSuJQrXI2xgIsi8zLvMgzs3ukq; domain=.mail.live.com; path=/
+xxn: 44
+P3P: CP="BUS CUR CONo FIN IVDo ONL OUR PHY SAMo TELo"
+Date: Wed, 10 Aug 2011 11:25:33 GMT
+Content-Length: 164
+Connection: close
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="http://sn135w.snt135.mail.live.com/default.aspx">here</a>.</h2>
+</body></html>

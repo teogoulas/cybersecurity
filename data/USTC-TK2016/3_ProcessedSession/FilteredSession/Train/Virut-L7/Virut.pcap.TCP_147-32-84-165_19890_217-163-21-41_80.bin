@@ -1,0 +1,42 @@
+GET /imp?Z=728x90&anmember=541&anprice=&referrer=http%3a%2f%2fwww.newcarus.com%2faadd.html&s=2180005&_salt=242780794&X=7539002,7725234&B=10&u=http%3A%2F%2Fwww.newcarus.com%2Faadd.html&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: ad.yieldmanager.com
+Connection: Keep-Alive
+Cookie: ih="b!!!!$!/:K/!!!!#=0f^^!/U7,!!!!#=0f^^"; vuday1=!!!!$N0<QClFB7R; BX=2imendd74k17h&b=4&s=r5&t=227; uid=uid=86cedb04-c7cb-11e0-a94e-1cc1de045422&_hmacv=1&_salt=3995657013&_keyid=k1&_hmac=6b7acbe2c69d80487f09396b863b5221a065d5ca
+
+GET /imp?Z=728x90&anmember=541&anprice=&referrer=http%3a%2f%2fwww.newcarus.com%2faadd.html&s=2180005&_salt=242780794&X=7539002,7725234&B=10&u=http%3A%2F%2Fwww.newcarus.com%2Faadd.html&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: ad.yieldmanager.com
+Connection: Keep-Alive
+Cookie: ih="b!!!!$!/:K/!!!!#=0f^^!/U7,!!!!#=0f^^"; vuday1=!!!!$N0<QClFB7R; BX=2imendd74k17h&b=4&s=r5&t=227; uid=uid=86cedb04-c7cb-11e0-a94e-1cc1de045422&_hmacv=1&_salt=3995657013&_keyid=k1&_hmac=6b7acbe2c69d80487f09396b863b5221a065d5ca
+
+HTTP/1.1 200 OK
+Date: Tue, 16 Aug 2011 05:49:38 GMT
+Server: YTS/1.18.4
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+X-RightMedia-Hostname: raptor0042.rm.ch1.yahoo.com
+Set-Cookie: ih="b!!!!%!/:K/!!!!#=0f^^!/U7,!!!!#=0f^^!0sil!!!!#=0f^_"; path=/; expires=Thu, 15-Aug-2013 05:49:38 GMT
+Set-Cookie: vuday1=!!!!%N0<QC(#AmI; path=/; expires=Wed, 17-Aug-2011 00:00:00 GMT
+Set-Cookie: BX=2imendd74k17h&b=4&s=r5&t=227; path=/; expires=Tue, 19-Jan-2038 03:14:07 GMT
+Cache-Control: no-store
+Last-Modified: Tue, 16 Aug 2011 05:49:38 GMT
+Pragma: no-cache
+Content-Length: 798
+Content-Type: application/x-javascript
+Age: 0
+Connection: close
+
+document.write('<a target=\"_blank\" href=\"http://adserving.cpxinteractive.com/clk?3,eAGljcsOgjAQRX-IQEsB0cYFUI1EC0IajOx4IwEVgdTP9wHyA87mzJ2ZewcinOtxnGm5kgM9kfV4gSGCKZSRihAQAMZYgUAFMlhqimB8ah8Q2zOt4mZ.pWHEix2f2sJ4D8-jOOofEosMjE771uza6fJPEEf1f..fLMY4uLUrwDbmHE4K5DC.cplfH04UnWW7p2xbUwsoDgmqwym8UEK5U3k8bLyn683OtSCUfX9fSRLnXLxmPIkeQycmt0aKojQVy76pXxvNWkQ=,\"><img border=\"0\" alt=\"\" height=\"90\" width=\"728\" src=\"http://content.yieldmanager.edgesuite.net/atoms/ec/fd/5d/f9/ecfd5df91e930f8affcc6672b4b83fe5.gif\"></img></a><img src=\"http://adserving.cpxinteractive.com/unpixel?id=1254897\" height=\"1\" width=\"1\" alt=\"\">');
+var rm_data = new Object();
+rm_data.creative_id = 8553026;
+rm_data.offer_type = 12;
+rm_data.entity_id = 8519;
+if (window.rm_crex_data) {rm_crex_data.push(8553026);}

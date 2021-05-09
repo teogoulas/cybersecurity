@@ -1,0 +1,29 @@
+GET /is/r1-ads.ace.advertising.com?U=/ctst=1/site=796404/size=160600/u=2/bnum=53466828/hr=16/hl=0/c=2/scres=2/swh=640x480/tile=1/f=0/r=1/optn=1/fv=6/aolexp=1/dref=http%253A%252F%252Fwww.generalamuse.com%252Fgen.php&V=3-72s34tHKtyz0xQBec7cWmvUjEeud38nXEoB5EarSAAB5S2KAWkizWSmwxoC2di1kOZLNQNb9qPk%3d&I=BE578DDA76F03FD&D=r1.ace.advertising.com&01AD=1& HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9a3pre) Gecko/20070330
+Accept-Encoding: gzip, deflate
+Host: ak1.abmr.net
+Connection: Keep-Alive
+
+GET /is/r1-ads.ace.advertising.com?U=/ctst=1/site=796404/size=160600/u=2/bnum=53466828/hr=16/hl=0/c=2/scres=2/swh=640x480/tile=1/f=0/r=1/optn=1/fv=6/aolexp=1/dref=http%253A%252F%252Fwww.generalamuse.com%252Fgen.php&V=3-72s34tHKtyz0xQBec7cWmvUjEeud38nXEoB5EarSAAB5S2KAWkizWSmwxoC2di1kOZLNQNb9qPk%3d&I=BE578DDA76F03FD&D=r1.ace.advertising.com&01AD=1& HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9a3pre) Gecko/20070330
+Accept-Encoding: gzip, deflate
+Host: ak1.abmr.net
+Connection: Keep-Alive
+
+HTTP/1.1 302 Moved Temporarily
+Content-Length: 0
+Location: http://r1-ads.ace.advertising.com/ctst=1/site=796404/size=160600/u=2/bnum=53466828/hr=16/hl=0/c=2/scres=2/swh=640x480/tile=1/f=0/r=1/optn=1/fv=6/aolexp=1/dref=http%253A%252F%252Fwww.generalamuse.com%252Fgen.php?01AD=39Z9FelTA-RorJ1INB3KLKMOExiegg5CRILvKc4DD0maxQqfAS7HjwQ&01RI=BE578DDA76F03FD&01NA=na
+Expires: Wed, 10 Aug 2011 13:18:36 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 10 Aug 2011 13:18:36 GMT
+Connection: keep-alive
+Set-Cookie: 01AI=2-2-7EAF6541F045A71505E5BC5F93FD7445933401199F742F0AAB4CB34AA78D0922-80478AB3391CACA371919E9B2751F632908E8C92C231C4BBE30BF980DC8F4FEE; expires=Thu, 09-Aug-2012 13:18:36 GMT; path=/; domain=.abmr.net
+P3P: policyref="http://www.abmr.net/w3c/policy.xml", CP="NON DSP COR CURa ADMa DEVa OUR SAMa IND"
+

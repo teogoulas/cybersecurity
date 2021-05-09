@@ -1,0 +1,47 @@
+GET /openx/www/delivery/afr.php?zoneid=84&cb=INSERT_RANDOM_NUMBER_HERE&ct0=INSERT_CLICKURL_HERE HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://m1.mediasrv.net/www/delivery/afr.php?zoneid=1359&ad_size=300x250&section=116990
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.matrix-media.biz
+Connection: Keep-Alive
+Cookie: OAID=fe0cc343d3a606bc632f14b0ad5b8345
+
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2011 09:44:34 GMT
+Server: Apache
+Pragma: no-cache
+Cache-Control: private, max-age=0, no-cache
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+P3P: CP="CUR ADM OUR NOR STA NID"
+Set-Cookie: OAGEO=CZ%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C; path=/
+Set-Cookie: OAID=fe0cc343d3a606bc632f14b0ad5b8345; expires=Fri, 10-Aug-2012 09:44:34 GMT; path=/
+Content-Length: 2485
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+<head>
+<title>Advertisement</title>
+<style type='text/css'>
+body {margin:0; height:100%; background-color:transparent; width:100%; text-align:center;}
+</style>
+</head>
+<body>
+<script type="text/javascript">
+OXM_ad = {"website":"6afa46a1-e131-4654-8d3a-7d52c104a9cd",
+"size":"300x250",
+"floor":"0.3",
+"url":"http:\/\/m1.mediasrv.net\/www\/delivery\/afr.php?zoneid=1359&ad_size=300x250&section=116990",
+"channel":"oxpv1:1-1-1-9-84",
+"beacon":"<div id='beacon_eef376ecd7' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http:\/\/www.matrix-media.biz\/openx\/www\/delivery\/lg.php?bannerid=1&amp;campaignid=1&amp;zoneid=84&amp;cb=eef376ecd7' width='0' height='0' alt='' style='width: 0px; height: 0px;' \/><\/div>",
+"fallback":"<!-- BEGIN STANDARD TAG - 300 x 250 - ROS: Run-of-site - DO NOT MODIFY -->\r\n<IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=300 HEIGHT=250 SRC=\"http:\/\/ad.clovenetwork.com\/st?ad_type=iframe&ad_size=300x250&section=1940584\"><\/IFRAME>\r\n<!-- END TAG --><div id='beacon_eef376ecd7' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http:\/\/www.matrix-media.biz\/openx\/www\/delivery\/lg.php?bannerid=155&amp;campaignid=40&amp;zoneid=84&amp;loc=1&amp;referer=http%3A%2F%2Fm1.mediasrv.net%2Fwww%2Fdelivery%2Fafr.php%3Fzoneid%3D1359%26ad_size%3D300x250%26section%3D116990&amp;cb=eef376ecd7' width='0' height='0' alt='' style='width: 0px; height: 0px;' \/><\/div>"};
+</script>
+<script type="text/javascript" src="http://bid.openx.net/jstag"></script>
+<noscript><!-- BEGIN STANDARD TAG - 300 x 250 - ROS: Run-of-site - DO NOT MODIFY -->
+<IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=300 HEIGHT=250 SRC="http://ad.clovenetwork.com/st?ad_type=iframe&ad_size=300x250&section=1940584"></IFRAME>
+<!-- END TAG --><div id='beacon_eef376ecd7' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://www.matrix-media.biz/openx/www/delivery/lg.php?bannerid=155&amp;campaignid=40&amp;zoneid=84&amp;loc=1&amp;referer=http%3A%2F%2Fm1.mediasrv.net%2Fwww%2Fdelivery%2Fafr.php%3Fzoneid%3D1359%26ad_size%3D300x250%26section%3D116990&amp;cb=eef376ecd7' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div></noscript>
+</body>
+</html>

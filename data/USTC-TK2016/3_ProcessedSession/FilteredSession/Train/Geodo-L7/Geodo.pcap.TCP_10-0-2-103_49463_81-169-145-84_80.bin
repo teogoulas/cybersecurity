@@ -1,0 +1,24 @@
+Get /images/cr_mss3.exe HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
+Host: sportnanka.de
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 501 Method Not Implemented
+Date: Mon, 04 May 2015 11:19:59 GMT
+Server: Apache/2.2.29 (Unix)
+Allow: GET,HEAD,POST,OPTIONS,TRACE
+Content-Length: 223
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>501 Method Not Implemented</title>
+</head><body>
+<h1>Method Not Implemented</h1>
+<p>Get to /images/cr_mss3.exe not supported.<br />
+</p>
+</body></html>

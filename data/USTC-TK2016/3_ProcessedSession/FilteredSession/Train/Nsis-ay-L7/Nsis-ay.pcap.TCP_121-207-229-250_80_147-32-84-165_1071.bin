@@ -1,0 +1,417 @@
+GET /js/replace_pid.min.js HTTP/1.1
+Accept: */*
+Referer: http://www.taobao.com/go/act/mmbd/pd011.php?pid=mm_15190792_2147655_8533566&refpos=,a,null
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cb.alimama.cn
+Connection: Keep-Alive
+
+GET /js/replace_pid.min.js HTTP/1.1
+Accept: */*
+Referer: http://www.taobao.com/go/act/mmbd/pd011.php?pid=mm_15190792_2147655_8533566&refpos=,a,null
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cb.alimama.cn
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript; charset=GBK
+Content-Length: 2892
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+Server: nginx
+Date: Fri, 19 Aug 2011 08:39:36 GMT
+Last-Modified: Fri, 01 Jul 2011 03:06:52 GMT
+Expires: Fri, 19 Aug 2011 10:39:36 GMT
+Cache-Control: max-age=7200
+Age: 224
+
+(function(){
+    com_alimama = window.com_alimama || {};
+    com_alimama.util = window.com_alimama.util || {};
+    
+    if ("function" !== typeof(com_alimama.util.domReady)) {
+        
+		com_alimama.util.domReady = function(f){
+			var t = com_alimama.util.domReady;
+
+			if ("function" !== typeof(f)) {
+				return;
+			}
+			if (t.ready) {
+				return f();
+			}
+			if (t.timer) {
+				t.fns.push(f);
+			}
+			else {
+				if (window.attachEvent) {
+					attachEvent("onload", t.isDomReady);
+				}
+				else {
+					addEventListener("load", t.isDomReady, false);
+				}
+				t.fns = [f];
+				t.isDomReady();
+			}
+		};
+		com_alimama.util.domReady.isDomReady = function(){
+			var ts = com_alimama.util.domReady;
+			if (ts.ready) {
+				return false;
+			}
+			if (document && document.getElementsByTagName && document.getElementById && document.body) {
+				if ("undefined" !== typeof(ts.timer)) {
+					clearTimeout(ts.timer);
+				}
+				ts.timer = null;
+				for (var i = 0; i < ts.fns.length; i++) {
+					ts.fns[i]();
+				}
+				ts.fns = null;
+				ts.ready = true;
+			}
+			else {
+				ts.timer = setTimeout(ts.isDomReady, 50);
+			}
+		};
+
+    }
+
+	var isrun = false;
+	var replace_pid = function(){
+		if(isrun) return;
+		var str=window.location.href;
+		
+		var pid= str.match(/mm_\d{0,24}_\d{0,24}_\d{0,24}/i);
+		var pvid = str.match(/[&\?](pvid=[^&]*)/i);
+		if(pvid && pvid[1]){
+			pvid = pvid[1];
+		}else{
+			pvid = "";
+		}
+		var refpos = str.match(/(refpos=(\d{0,24}_\d{0,24}_\d{0,24})?(,[a-z]+)?)(,[a-z]+)?/i);
+		if(refpos && refpos[0]){
+			refpos = refpos[0];
+		}else{
+			refpos = "";
+		}
+		var reg_26=new RegExp("%3Dmm_\\d+_\\d+_\\d+","ig");
+		var reg =new RegExp("mm_\\d+_\\d+_\\d+","ig");
+		if(pid){
+			pid = pid[0];
+			var as = document.getElementsByTagName("A");
+			for(var i = 0; i < as.length; i++){
+				as[i].href=replace_refpos(as[i].href);
+			}
+			var iframe = document.getElementsByTagName("iframe");
+			for(var i = 0; i < iframe.length; i++){
+				iframe[i].src=replace_refpos(iframe[i].src);
+			}
+			var area = document.getElementsByTagName("area");
+			for(var i = 0; i < area.length; i++){
+				area[i].href=replace_refpos(area[i].href);
+			}
+			var w = str.match(/w=mmp4ptest[^&]{0,}/i)
+			if(w){
+				var wreg=new RegExp("w=mmp4ptest[^&]{0,}","gmi");
+				for(var i = 0; i < as.length; i++){
+					as[i].href=as[i].href.replace(wreg,w[0]);
+				}
+				for(var i = 0; i < iframe.length; i++){
+					iframe[i].src=iframe[i].src.replace(wreg,w[0]);
+				}
+			}
+		}
+		isrun = true;
+		function replace_refpos(href){
+			href = href.replace(/refpos[=(%3D)]\w*/ig,refpos).replace(reg_26,"%3D" + pid + "%26" + pvid.replace("=","%3D")).replace(reg,pid);
+			if(pvid.length > 0){
+				href += "&"+pvid; 
+			}
+			return href;
+		}
+	}
+	com_alimama.util.domReady(replace_pid);
+	setTimeout(replace_pid,3000);
+})();
+GET /js/replace_pid.min.js HTTP/1.1
+Accept: */*
+Referer: http://www.taobao.com/go/act/mmbd/pd011.php?pid=mm_15190792_2147655_8533566&refpos=,a,null
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cb.alimama.cn
+Connection: Keep-Alive
+
+GET /js/replace_pid.min.js HTTP/1.1
+Accept: */*
+Referer: http://www.taobao.com/go/act/mmbd/pd011.php?pid=mm_15190792_2147655_8533566&refpos=,a,null
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cb.alimama.cn
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript; charset=GBK
+Content-Length: 2892
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+Server: nginx
+Date: Fri, 19 Aug 2011 08:39:36 GMT
+Last-Modified: Fri, 01 Jul 2011 03:06:52 GMT
+Expires: Fri, 19 Aug 2011 10:39:36 GMT
+Cache-Control: max-age=7200
+Age: 226
+
+(function(){
+    com_alimama = window.com_alimama || {};
+    com_alimama.util = window.com_alimama.util || {};
+    
+    if ("function" !== typeof(com_alimama.util.domReady)) {
+        
+		com_alimama.util.domReady = function(f){
+			var t = com_alimama.util.domReady;
+
+			if ("function" !== typeof(f)) {
+				return;
+			}
+			if (t.ready) {
+				return f();
+			}
+			if (t.timer) {
+				t.fns.push(f);
+			}
+			else {
+				if (window.attachEvent) {
+					attachEvent("onload", t.isDomReady);
+				}
+				else {
+					addEventListener("load", t.isDomReady, false);
+				}
+				t.fns = [f];
+				t.isDomReady();
+			}
+		};
+		com_alimama.util.domReady.isDomReady = function(){
+			var ts = com_alimama.util.domReady;
+			if (ts.ready) {
+				return false;
+			}
+			if (document && document.getElementsByTagName && document.getElementById && document.body) {
+				if ("undefined" !== typeof(ts.timer)) {
+					clearTimeout(ts.timer);
+				}
+				ts.timer = null;
+				for (var i = 0; i < ts.fns.length; i++) {
+					ts.fns[i]();
+				}
+				ts.fns = null;
+				ts.ready = true;
+			}
+			else {
+				ts.timer = setTimeout(ts.isDomReady, 50);
+			}
+		};
+
+    }
+
+	var isrun = false;
+	var replace_pid = function(){
+		if(isrun) return;
+		var str=window.location.href;
+		
+		var pid= str.match(/mm_\d{0,24}_\d{0,24}_\d{0,24}/i);
+		var pvid = str.match(/[&\?](pvid=[^&]*)/i);
+		if(pvid && pvid[1]){
+			pvid = pvid[1];
+		}else{
+			pvid = "";
+		}
+		var refpos = str.match(/(refpos=(\d{0,24}_\d{0,24}_\d{0,24})?(,[a-z]+)?)(,[a-z]+)?/i);
+		if(refpos && refpos[0]){
+			refpos = refpos[0];
+		}else{
+			refpos = "";
+		}
+		var reg_26=new RegExp("%3Dmm_\\d+_\\d+_\\d+","ig");
+		var reg =new RegExp("mm_\\d+_\\d+_\\d+","ig");
+		if(pid){
+			pid = pid[0];
+			var as = document.getElementsByTagName("A");
+			for(var i = 0; i < as.length; i++){
+				as[i].href=replace_refpos(as[i].href);
+			}
+			var iframe = document.getElementsByTagName("iframe");
+			for(var i = 0; i < iframe.length; i++){
+				iframe[i].src=replace_refpos(iframe[i].src);
+			}
+			var area = document.getElementsByTagName("area");
+			for(var i = 0; i < area.length; i++){
+				area[i].href=replace_refpos(area[i].href);
+			}
+			var w = str.match(/w=mmp4ptest[^&]{0,}/i)
+			if(w){
+				var wreg=new RegExp("w=mmp4ptest[^&]{0,}","gmi");
+				for(var i = 0; i < as.length; i++){
+					as[i].href=as[i].href.replace(wreg,w[0]);
+				}
+				for(var i = 0; i < iframe.length; i++){
+					iframe[i].src=iframe[i].src.replace(wreg,w[0]);
+				}
+			}
+		}
+		isrun = true;
+		function replace_refpos(href){
+			href = href.replace(/refpos[=(%3D)]\w*/ig,refpos).replace(reg_26,"%3D" + pid + "%26" + pvid.replace("=","%3D")).replace(reg,pid);
+			if(pvid.length > 0){
+				href += "&"+pvid; 
+			}
+			return href;
+		}
+	}
+	com_alimama.util.domReady(replace_pid);
+	setTimeout(replace_pid,3000);
+})();
+GET /js/replace_pid.min.js HTTP/1.1
+Accept: */*
+Referer: http://www.taobao.com/go/act/taoke/iframediaoyong.php?p=mm_15190792_2147655_8533566
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cb.alimama.cn
+Connection: Keep-Alive
+
+GET /js/replace_pid.min.js HTTP/1.1
+Accept: */*
+Referer: http://www.taobao.com/go/act/taoke/iframediaoyong.php?p=mm_15190792_2147655_8533566
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cb.alimama.cn
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript; charset=GBK
+Content-Length: 2892
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+Server: nginx
+Date: Fri, 19 Aug 2011 08:39:36 GMT
+Last-Modified: Fri, 01 Jul 2011 03:06:52 GMT
+Expires: Fri, 19 Aug 2011 10:39:36 GMT
+Cache-Control: max-age=7200
+Age: 227
+
+(function(){
+    com_alimama = window.com_alimama || {};
+    com_alimama.util = window.com_alimama.util || {};
+    
+    if ("function" !== typeof(com_alimama.util.domReady)) {
+        
+		com_alimama.util.domReady = function(f){
+			var t = com_alimama.util.domReady;
+
+			if ("function" !== typeof(f)) {
+				return;
+			}
+			if (t.ready) {
+				return f();
+			}
+			if (t.timer) {
+				t.fns.push(f);
+			}
+			else {
+				if (window.attachEvent) {
+					attachEvent("onload", t.isDomReady);
+				}
+				else {
+					addEventListener("load", t.isDomReady, false);
+				}
+				t.fns = [f];
+				t.isDomReady();
+			}
+		};
+		com_alimama.util.domReady.isDomReady = function(){
+			var ts = com_alimama.util.domReady;
+			if (ts.ready) {
+				return false;
+			}
+			if (document && document.getElementsByTagName && document.getElementById && document.body) {
+				if ("undefined" !== typeof(ts.timer)) {
+					clearTimeout(ts.timer);
+				}
+				ts.timer = null;
+				for (var i = 0; i < ts.fns.length; i++) {
+					ts.fns[i]();
+				}
+				ts.fns = null;
+				ts.ready = true;
+			}
+			else {
+				ts.timer = setTimeout(ts.isDomReady, 50);
+			}
+		};
+
+    }
+
+	var isrun = false;
+	var replace_pid = function(){
+		if(isrun) return;
+		var str=window.location.href;
+		
+		var pid= str.match(/mm_\d{0,24}_\d{0,24}_\d{0,24}/i);
+		var pvid = str.match(/[&\?](pvid=[^&]*)/i);
+		if(pvid && pvid[1]){
+			pvid = pvid[1];
+		}else{
+			pvid = "";
+		}
+		var refpos = str.match(/(refpos=(\d{0,24}_\d{0,24}_\d{0,24})?(,[a-z]+)?)(,[a-z]+)?/i);
+		if(refpos && refpos[0]){
+			refpos = refpos[0];
+		}else{
+			refpos = "";
+		}
+		var reg_26=new RegExp("%3Dmm_\\d+_\\d+_\\d+","ig");
+		var reg =new RegExp("mm_\\d+_\\d+_\\d+","ig");
+		if(pid){
+			pid = pid[0];
+			var as = document.getElementsByTagName("A");
+			for(var i = 0; i < as.length; i++){
+				as[i].href=replace_refpos(as[i].href);
+			}
+			var iframe = document.getElementsByTagName("iframe");
+			for(var i = 0; i < iframe.length; i++){
+				iframe[i].src=replace_refpos(iframe[i].src);
+			}
+			var area = document.getElementsByTagName("area");
+			for(var i = 0; i < area.length; i++){
+				area[i].href=replace_refpos(area[i].href);
+			}
+			var w = str.match(/w=mmp4ptest[^&]{0,}/i)
+			if(w){
+				var wreg=new RegExp("w=mmp4ptest[^&]{0,}","gmi");
+				for(var i = 0; i < as.length; i++){
+					as[i].href=as[i].href.replace(wreg,w[0]);
+				}
+				for(var i = 0; i < iframe.length; i++){
+					iframe[i].src=iframe[i].src.replace(wreg,w[0]);
+				}
+			}
+		}
+		isrun = true;
+		function replace_refpos(href){
+			href = href.replace(/refpos[=(%3D)]\w*/ig,refpos).replace(reg_26,"%3D" + pid + "%26" + pvid.replace("=","%3D")).replace(reg,pid);
+			if(pvid.length > 0){
+				href += "&"+pvid; 
+			}
+			return href;
+		}
+	}
+	com_alimama.util.domReady(replace_pid);
+	setTimeout(replace_pid,3000);
+})();

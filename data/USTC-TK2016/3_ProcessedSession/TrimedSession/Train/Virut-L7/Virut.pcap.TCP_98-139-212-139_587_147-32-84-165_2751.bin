@@ -1,0 +1,30 @@
+220 smtp109.mail.bf1.yahoo.com ESMTP
+EHLO emmerichkfywinrro
+EHLO emmerichkfywinrro
+250-smtp109.mail.bf1.yahoo.com
+250-AUTH LOGIN PLAIN XYMCOOKIE
+250-PIPELINING
+250 8BITMIME
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+ZW1tZXJpY2hrZnl3aW5ycm8=
+ZW1tZXJpY2hrZnl3aW5ycm8=
+334 UGFzc3dvcmQ6
+YjI4cmprajRrOQ==
+YjI4cmprajRrOQ==
+235 OK, go ahead
+MAIL FROM: <emmerichkfywinrro@yahoo.com>
+MAIL FROM: <emmerichkfywinrro@yahoo.com>
+250 OK , completed
+RCPT TO: <lobodocky@yahoo.com>
+RCPT TO: <lobodocky@yahoo.com>
+250 OK , completed
+RCPT TO: <jcurcio001@yahoo.com>
+RCPT TO: <jcurcio001@yahoo.com>
+250 OK , completed
+DATA
+DATA
+354 Start Mail. End with CRLF.CRLF
+Message-ID: <462122607$1843933246$1912869007@emmerichkfywinrro>
+From: "Monacelli Carpenter" <emmerichkfywinrro@yaho

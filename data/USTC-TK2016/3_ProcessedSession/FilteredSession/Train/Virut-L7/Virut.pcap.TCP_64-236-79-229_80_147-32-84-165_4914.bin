@@ -1,0 +1,33 @@
+GET /amcm.ashx?admeld_adprovider_id=1&admeld_call_type=redirect&admeld_callback=http://tag.admeld.com/match HTTP/1.1
+Accept: */*
+Referer: http://uac.advertising.com/wrapper/aceUACping.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cmap.am.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=ic960013134432590023; ASCID=ic960013134432590023; F1=BsbjJ5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA
+
+GET /amcm.ashx?admeld_adprovider_id=1&admeld_call_type=redirect&admeld_callback=http://tag.admeld.com/match HTTP/1.1
+Accept: */*
+Referer: http://uac.advertising.com/wrapper/aceUACping.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cmap.am.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=ic960013134432590023; ASCID=ic960013134432590023; F1=BsbjJ5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA
+
+HTTP/1.1 302 Found
+Connection: close
+Date: Mon, 15 Aug 2011 21:20:59 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+P3P: CP=NOI DSP COR LAW CURa DEVa TAIa PSAa PSDa OUR BUS UNI COM NAV
+Pragma: no-cache
+Location: http://tag.admeld.com/match?admeld_adprovider_id=1&external_user_id=3XGpDUezRZ25VIZjtT0R6JygIQ0&expiration=1316020859
+Cache-Control: private, no-cache, max-age=0
+Expires: Mon, 15 Aug 2011 21:20:59 GMT
+Content-Length: 0
+

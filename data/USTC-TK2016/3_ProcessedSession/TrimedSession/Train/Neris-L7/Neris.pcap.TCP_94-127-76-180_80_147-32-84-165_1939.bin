@@ -1,0 +1,18 @@
+GET /css/0/landing/en.css HTTP/1.1
+Accept: */*
+Referer: http://riskslot.com/?epl=hahssphtK1A8Lna6Gxx6h8EMx7iQUDhFchf_CBX0wSS9D7LImkHUIBGOjBqWM1_za2cFQ6g2jpXSge4JtZNVYVU2Yp3tTghFYE3dkJSwwrFzyNAITJZ-0pYkbr0okB4PDaA89QBlUyaPQW0yQEY90UzNoBp0ACAQ3K-_AADgewVAAECA2wgAAMEMx7hZUyZZQTE2aFpCeQAAAPA
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Tue, 12 Jul 2011 00:03:27 GMT; length=17687
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cdn.dsultra.com
+Connection: Keep-Alive
+
+HTTP/1.1 304 Not Modified
+Date: Thu, 11 Aug 2011 09:47:03 GMT
+Server: Apache/2.0.52 (CentOS)
+Last-Modified: Tue, 12 Jul 2011 00:03:27 GMT
+ETag: "40b3f-4517-4a7d4077731c0"
+Accept-Ranges: bytes
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip

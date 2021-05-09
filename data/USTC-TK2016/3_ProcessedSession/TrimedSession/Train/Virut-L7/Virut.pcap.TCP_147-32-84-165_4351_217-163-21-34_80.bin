@@ -1,0 +1,11 @@
+GET /imp?Z=0x0&anmember=541&anprice=&y=29&s=2056437&_salt=916476034&X=10070125,7404350,10271409,10311358&B=10&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ad.yieldmanager.com
+Connection: Keep-Alive
+Cookie: ih="b!!!!'!/'k!!!!!#=0b=N!3Eh(!!!!#=0b=N!3b[,!!!!#=0b=N!3h2+!!!!#=0b=O"; vuday1=!!!!'!7/9q:G-?_; BX=7fjj0md74j2at&b=4&s=f8&t=226; uid=uid=de9b80a2-c781-11e0-af73-1cc1de045436&_hmacv=1&_salt=2816593488&_keyid=k1&_hmac=c758f06cebf46ca2d12fc3570639e0d815bae99a; liday1='W2E[B25qtb1q+F!7/9qA(o^j; bh="b!!!!#!#]7+!!!!#=0b=N"
+
+GET /imp?Z=0x0&anmember=541&anprice=&y=2

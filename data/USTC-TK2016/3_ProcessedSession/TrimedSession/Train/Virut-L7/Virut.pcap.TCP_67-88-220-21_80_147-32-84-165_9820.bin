@@ -1,0 +1,11 @@
+GET /event.flow?eventcode=000_000_2&location=http%3A%2F%2Fwww.netygames.com%2Fnetgame.html&uid=JJx06nG12DOKMw9t_445921&xy=0%2C0&wh=160%2C600&vchannel=0&cid=88943&iad=1313452964820-35966704102150236&iframed=1 HTTP/1.1
+Accept: */*
+Referer: http://ib.adnxs.com/acb?member=541&width=160&height=600&pb=30&cb=1313452967&referrer=http://www.netygames.com/netgame.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: event.adxpose.com
+Connection: Keep-Alive
+Cookie: evlu=9195b2af-2e00-4663-a3f9-b7d0313b33b2
+
+GET /event.flow?eventcode=000_000_2&location=http%3A%2F%2Fwww.netygames.com%2Fnetgame.html&uid=JJx06nG12DOKMw9t_445921&xy=0%2C0&wh=160%2C600&vchannel=0&cid=88943&iad=1313452964820-3596670410215

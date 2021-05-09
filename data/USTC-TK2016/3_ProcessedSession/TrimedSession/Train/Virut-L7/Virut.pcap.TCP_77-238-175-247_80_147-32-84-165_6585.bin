@@ -1,0 +1,19 @@
+GET /v1/cms?esig=1~ed097b82db382a1fd455fb947bcd01b57e206e42&nwid=10000040578&SIG=10v2m4uvf;x-cookie=9ywh88g74w6y0&o=4&f=9y HTTP/1.1
+Accept: */*
+Referer: http://uac.advertising.com/wrapper/aceUACping.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: cms.ad.yieldmanager.net
+
+GET /v1/cms?esig=1~ed097b82db382a1fd455fb947bcd01b57e206e42&nwid=10000040578&SIG=10v2m4uvf;x-cookie=9ywh88g74w6y0&o=4&f=9y HTTP/1.1
+Accept: */*
+Referer: http://uac.advertising.com/wrapper/aceUACping.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: cms.ad.yieldmanager.net
+
+HTTP/1.1

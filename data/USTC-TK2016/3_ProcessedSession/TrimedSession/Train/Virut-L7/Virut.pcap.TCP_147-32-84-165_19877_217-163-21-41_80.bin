@@ -1,0 +1,22 @@
+GET /st?anmember=541&anprice=&ad_type=ad&ad_size=300x250&section=2180005&referrer=http://www.newcarus.com/aadd.html HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Connection: Keep-Alive
+Host: ad.yieldmanager.com
+
+GET /st?anmember=541&anprice=&ad_type=ad&ad_size=300x250&section=2180005&referrer=http://www.newcarus.com/aadd.html HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Connection: Keep-Alive
+Host: ad.yieldmanager.com
+
+HTTP/1.1 200 OK
+Date: Tue, 16 Aug 2011 05:49:37 GMT
+Server: YTS/1.18.4
+P3P: pol

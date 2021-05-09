@@ -1,0 +1,25 @@
+GET /getjson?4pq7f6YvrsrH6OYUFq1AZpw31KpOjecsbHnCmU5CoMXW HTTP/1.1
+Accept: */*
+Referer: http://yourfunnytube.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: splashpops.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 11 Aug 2011 09:38:55 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Expires: Thu Aug 11 08:38:55 2011
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+VTag: 503630ba961384a7e5d03cadcc5f9464
+
+89
+document.write('<script language="javascript" src="http://ad.yieldmanager.com/st?ad_type=ad&ad_size=120x600&section=1699512"></script>');
+0
+
+GET /getjson?4pq7f6Atq8rH6OYUFq1AZpw31KpOjecsbHnCmU5CoMXW HTTP/1.1

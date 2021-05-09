@@ -1,0 +1,30 @@
+GET /default.aspx HTTP/1.1
+Host: mail.live.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.0; .NET CLR 1.1.4322)
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Charset: utf-8;q=0.7,*;q=0.7
+Accept-Encoding: gzip, identity, *;q=0
+Connection: Close
+Referer: https://login.live.com/ppsecure/post.srf?wa=wsignin1.0&rpsnv=11&ct=1313062387&rver=6.1.6206.0&wp=MBI&wreply=http:%2F%2Fmail.live.com%2Fdefault.aspx&lc=1049&mkt=ru-ru&cbcxt=mai&snsc=1&id=10297&bk=1313062388
+Cookie: PPLState=1; RPSTAuth=EwDoARAnAAAUWkziSC7RbDJKS1VkhugDegv7L0eAADlLTcUCDb2QholDtNZXMOE7J3abvbfYkp/WVSi791D5PGFxMKkdE7Xuhx9g7VJHPe+4mTbtiRUvlDWMpY74HKpZHhohaz5cqbuWC2lhLMlbMVJNBwREv6Ro6AShuEmlwJiUDyRIC8EjvNhC8MBfE8d9QyAdS2qnvhNMNOH38GNLA2YAAAhyhUXMviPVGjgBl6cGM/TLscs0eWy+GsFQ0OapMD0jVP1XYIINUE3J0BGbeOSBpRR8168B0PydSgYghCjX2MYfqjU4Wi7W95QVBVbt7I9YF+sw55+t+WwJ0u8qXnWBg6eZsqzQOc8Rb/GuwPS0YZ04Clq83NWwrqHEFu1TParlAdfsdvZemSM+qjD8pVtQbeUeyF2rFrvQp5PRHXJT6W49Tovlq7IjJDjc6l8XNx5RJl1JN9olrR3GGDcivmetYHcd4Kj0RxwIFKdiOzz8j+k5ZxotOgIR+JVPrSfBBzUXZOg2obt2en5OMwYeCD6+SlhWvUocln2JDjwKTWUCXqZ8ENedxQs6xh5QBpm/J/Bxl2qPH5TFoEDJmi8osr3JsglqXNn5Gu0vaHiE1q5308OHNVrOuDc2DoIX4UFttW2FlJ9vcwE=
+
+HTTP/1.1 302 Found
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Expires: -1
+Location: http://bl167w.blu167.mail.live.com/default.aspx
+Server: Microsoft-IIS/7.5
+X-UA-Compatible: IE=7, IE=9, IE=10
+MSNSERVER: H: DUB108-W58 V: 16.0.1770.804 D: 2011-08-04T21:27:56
+Set-Cookie: UIC=pDIZkI84IL+jgWk/LDV9iEzJin6EP755rJ3YqQ/WWiSuC5ycXIqTB0pitUxFPs9pMux2zLp6bmRsv7bSCD4Zpic0rNATfcStKUF6aG1DyU1aR6FRcVoSt5qu9Zp/Wp4LfC7DEZt7jFYcRG+FsUAAaw==; domain=.mail.live.com; path=/
+xxn: 58
+P3P: CP="BUS CUR CONo FIN IVDo ONL OUR PHY SAMo TELo"
+X-Powered-By: ASP.NET
+Date: Thu, 11 Aug 2011 11:33:46 GMT
+Content-Length: 164
+Connection: close
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="http://bl167w.blu167.mail.live.com/default.aspx">here</a>.</h2>
+</body></html>

@@ -1,0 +1,6 @@
+GET / HTTP/1.0
+Host: 72.20.15.61
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.50
+

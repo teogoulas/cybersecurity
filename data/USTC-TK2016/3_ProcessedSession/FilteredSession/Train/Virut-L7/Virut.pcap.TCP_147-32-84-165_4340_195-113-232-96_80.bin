@@ -1,0 +1,29 @@
+GET /ak/q.gif HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 18 Oct 2006 18:25:22 GMT
+Host: content.yieldmanager.com
+Connection: Keep-Alive
+
+GET /ak/q.gif HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 18 Oct 2006 18:25:22 GMT
+Host: content.yieldmanager.com
+Connection: Keep-Alive
+
+HTTP/1.1 304 Not Modified
+Content-Type: image/gif
+Last-Modified: Wed, 18 Oct 2006 18:25:22 GMT
+Cache-Control: max-age=120
+Date: Mon, 15 Aug 2011 21:02:22 GMT
+Connection: keep-alive
+Set-Cookie: AK1=0; expires=Wed, 17-Aug-2011 21:02:22 GMT; path=/; domain=content.yieldmanager.com
+P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+

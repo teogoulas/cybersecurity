@@ -1,0 +1,42 @@
+GET /imp?Z=160x600&anmember=541&anprice=&referrer=http%3a%2f%2fwww.newcarus.com%2faadd.html&s=2180005&_salt=1111188546&X=7539002,7725234,8553026&B=10&u=http%3A%2F%2Fwww.newcarus.com%2Faadd.html&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: ad.yieldmanager.com
+Connection: Keep-Alive
+Cookie: ih="b!!!!%!/:K/!!!!#=0f^^!/U7,!!!!#=0f^^!0sil!!!!#=0f^_"; vuday1=!!!!%N0<QC(#AmI; BX=2imendd74k17h&b=4&s=r5&t=227; uid=uid=86cedb04-c7cb-11e0-a94e-1cc1de045422&_hmacv=1&_salt=3995657013&_keyid=k1&_hmac=6b7acbe2c69d80487f09396b863b5221a065d5ca; bh="b!!!!#!$%_N~~"
+
+GET /imp?Z=160x600&anmember=541&anprice=&referrer=http%3a%2f%2fwww.newcarus.com%2faadd.html&s=2180005&_salt=1111188546&X=7539002,7725234,8553026&B=10&u=http%3A%2F%2Fwww.newcarus.com%2Faadd.html&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/aadd.html
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: ad.yieldmanager.com
+Connection: Keep-Alive
+Cookie: ih="b!!!!%!/:K/!!!!#=0f^^!/U7,!!!!#=0f^^!0sil!!!!#=0f^_"; vuday1=!!!!%N0<QC(#AmI; BX=2imendd74k17h&b=4&s=r5&t=227; uid=uid=86cedb04-c7cb-11e0-a94e-1cc1de045422&_hmacv=1&_salt=3995657013&_keyid=k1&_hmac=6b7acbe2c69d80487f09396b863b5221a065d5ca; bh="b!!!!#!$%_N~~"
+
+HTTP/1.1 200 OK
+Date: Tue, 16 Aug 2011 05:49:38 GMT
+Server: YTS/1.18.4
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+X-RightMedia-Hostname: raptor0043.rm.ch1
+Set-Cookie: ih="b!!!!'!/:K/!!!!#=0f^^!/U7,!!!!#=0f^^!0sil!!!!#=0f^_!1-Ad!!!!#=0f^_"; path=/; expires=Thu, 15-Aug-2013 05:49:38 GMT
+Set-Cookie: vuday1=!!!!'N0<QCR%cq+; path=/; expires=Wed, 17-Aug-2011 00:00:00 GMT
+Set-Cookie: BX=2imendd74k17h&b=4&s=r5&t=227; path=/; expires=Tue, 19-Jan-2038 03:14:07 GMT
+Cache-Control: no-store
+Last-Modified: Tue, 16 Aug 2011 05:49:38 GMT
+Pragma: no-cache
+Content-Length: 1293
+Content-Type: application/x-javascript
+Age: 0
+Connection: close
+
+document.write('<object type=\"application/x-shockwave-flash\" data=\"http://content.yieldmanager.edgesuite.net/atoms/96/0a/30/7c/960a307c6795bb364bbc01dadec987ba.swf?clickTag=http%3A%2F%2Fadserving%2Ecpxinteractive%2Ecom%2Fclk%3F3%2CeAGlj1EPwTAUhf%2EQsq29LaPxUEqy0FEpMm%2DbzRoxhEkTv94o%2EoDzcM93bnJPchGwvINLvA9pWRCISJ4zBKhAGCjZIy9kjEGXIOj1MI08%2EtJ0LWLF1TpV78iTDNrsVHHJ%2DdnxInq5GIm7ltatyErdHP07RUKX8aek9crhaaIOoR4Pf%2D2igvlmjGQt7WwjIcVxI%2EXkKEchTQ7pY6ZNLcWwJWO2usLfl9r7geeZprn0g8Ba659Ku8uu95u%2EO9dBlhWFb5r6%2DATmoFok%2C\" height=\"600\" width=\"160\" loop=\"false\" wmode=\"opaque\"><param name=\"wmode\" value=\"opaque\"><param name=\"movie\" value=\"http://content.yieldmanager.edgesuite.net/atoms/96/0a/30/7c/960a307c6795bb364bbc01dadec987ba.swf?clickTag=http%3A%2F%2Fadserving%2Ecpxinteractive%2Ecom%2Fclk%3F3%2CeAGlj1EPwTAUhf%2EQsq29LaPxUEqy0FEpMm%2DbzRoxhEkTv94o%2EoDzcM93bnJPchGwvINLvA9pWRCISJ4zBKhAGCjZIy9kjEGXIOj1MI08%2EtJ0LWLF1TpV78iTDNrsVHHJ%2DdnxInq5GIm7ltatyErdHP07RUKX8aek9crhaaIOoR4Pf%2D2igvlmjGQt7WwjIcVxI%2EXkKEchTQ7pY6ZNLcWwJWO2usLfl9r7geeZprn0g8Ba659Ku8uu95u%2EO9dBlhWFb5r6%2DATmoFok%2C\" /></object>');
+var rm_data = new Object();
+rm_data.creative_id = 8672528;
+rm_data.offer_type = 55;
+rm_data.entity_id = 208495;
+if (window.rm_crex_data) {rm_crex_data.push(8672528);}

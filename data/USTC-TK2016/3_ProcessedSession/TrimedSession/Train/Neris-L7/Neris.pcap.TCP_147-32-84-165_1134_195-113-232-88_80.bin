@@ -1,0 +1,12 @@
+GET /atoms/90/e3/88/d9/90e388d9ebfe84079d77ae493ea783.swf?clickTag=http%3A%2F%2Fad%2Eyieldmanager%2Ecom%2Fclk%3F3%2CeAGlj9FugzAMRX8IAYGkwKJoMqXVVjXaInVj4a0kpIzB2qqRkPj6kbbaD9QP18eWfS2jmJImaUhY4wVKtFK1oShGdWK01gZ7IaUUIRQRjDMSeRwkQH7uXkRR7SoO18i%2E9psbARwczDMu3lOn6%2DWiOXHhEGD%2EKcYbPapFKfLXu8mcr3cBzjbO7LTK%2E90LMfJOjHKqum3JZ%2E2wfLfu%2DRJ9y1LgbVkNsusHWW5%2D3grA94%2EcOvO81trTUxAo4k%2DNPvrqOATdRc11YEzkt3bon38ZwghTxaI0pBeGY6rnDh1ZEqW0ZVn4B97OZFY%3D%2C HTTP/1.1
+Accept: */*
+Referer: http://c5.zedo.com/jsc/c5/ff2.html?n=1414;c=280;s=43;d=14;w=728;h=90
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: content.yieldmanager.edgesuite.net
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: Apache
+ETag

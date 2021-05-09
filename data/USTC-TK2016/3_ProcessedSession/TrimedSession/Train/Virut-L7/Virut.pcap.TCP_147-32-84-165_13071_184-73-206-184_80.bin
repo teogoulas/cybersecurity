@@ -1,0 +1,23 @@
+GET /px/?id=522&url=http%3A%2F%2Fwww%2Enetygames%2Ecom%2Fnetgame%2Ehtml HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: ts.amxdt.com
+Connection: Keep-Alive
+
+GET /px/?id=522&url=http%3A%2F%2Fwww%2Enetygames%2Ecom%2Fnetgame%2Ehtml HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: ts.amxdt.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Date: Tue, 16 Aug 2011 02:04:05 GMT
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+P3P: policyref="/w3c/p3p.xml", CP="CO

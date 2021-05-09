@@ -1,0 +1,21 @@
+GET /admeld_sync?admeld_user_id=a57c5a70-de7b-4568-b637-8cf45ec479ae&admeld_adprovider_id=300&admeld_call_type=js&admeld_callback=http://tag.admeld.com/match HTTP/1.1
+Accept: */*
+Referer: http://m1.mediasrv.net/www/delivery/afr.php?zoneid=1361&ad_size=160x600&section=116990
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: pixel.invitemedia.com
+Connection: Keep-Alive
+Cookie: partnerUID=eyIxNSI6IFsiMDA0MDAzMDAyMjIwMDAwMzk3NzY5IiwgdHJ1ZV19; uid=5499047f-484c-4467-a72b-be03181c0a6d
+
+HTTP/1.0 200 OK
+Server: IM BidManager
+Date: Thu, 11 Aug 2011 11:51:34 GMT
+P3P: policyref="/w3c/p3p.xml", CP="OTI DSP COR ADMo TAIo PSAo PSDo CONo OUR SAMo OTRo STP UNI PUR COM NAV INT DEM STA PRE LOC"
+Expires: Thu, 11-Aug-2011 11:51:14 GMT
+Content-Type: text/javascript
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Length: 181
+
+document.write('<img width="0" height="0" src="http://tag.admeld.com/match?admeld_adprovider_id=300&external_user_id=5499047f-484c-4467-a72b-be03181c0a6d&Expiration=1313495494"/>');

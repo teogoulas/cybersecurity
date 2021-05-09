@@ -1,0 +1,31 @@
+POST /getjson HTTP/1.1
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+Host: slapcube.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+Content-Length: 457
+Connection: close
+Cache-Control: no-cache
+
+data=e/e6r8VdRlJajwxXJgogFVa9gSXExozmaI7cOYwrAvLDx2T2KL4nXdZonsue0ZZR73lEXxz8TzdT6x30edcsdwMJOdAF/VjYsWHF0Ey7zDJW9/s9JErJ0pfr82QY6b8HCgSuNaUqig4oVzkdh7Gv3SjzCWe4TnHjvOzAsnfHikVYQbJEhq22NFENO4bvg5sngTcoS4RlYsvsXkIYzdLbaF/1QO1rgR4iDQiyWniCYuFB7WZSlBANXm+zSepIvg8FDNLynZlRIRrqAEAb9ODZ5xij0xLIbgayMupWREo9VcVZ4qy+9XtbvEvVNbu2GHh+sVQO1ygFeXJHOEQBOOOulnIR6FDID0bGDQsW3N76pDT9VFYftGnFQyip0HmO6k/2YqM+2qPddRhUK8nWtASAvN7a7K+2KkvIylUatKdfSjMclvD7xCaA5LJX/qcxhUrcxA==HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Thu, 11 Aug 2011 08:57:26 GMT
+Content-Type: text/html
+Content-Length: 154
+Connection: close
+Expires: Thu Aug 11 07:57:26 2011
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: session=Zuqq4stGXQZZyE4BclxkTFb3ziObkw==
+Set-Cookie: id=YPGw9w==
+Set-Cookie: counter=8
+Set-Cookie: stime=ff2s+4Ed
+Location: http://encyclopedialinks.com/getjson?4pq7f6wlx6TQp/9ZGqhDf4E2yLxCl/grb2qDm0QQ3tw=
+
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

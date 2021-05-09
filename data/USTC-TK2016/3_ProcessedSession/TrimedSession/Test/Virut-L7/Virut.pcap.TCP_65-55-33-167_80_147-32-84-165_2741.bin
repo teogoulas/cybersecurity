@@ -1,0 +1,10 @@
+POST /mail/mail.fpp?cnmn=Microsoft.Msn.Hotmail.Ui.Fpp.MailBox.GetInboxData&ptid=0&a=nkZvPnOEd42MgZtxjdY%2btg%3d%3d&au=6935241023941270487 HTTP/1.0
+Host: co105w.col105.mail.live.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Charset: utf-8;q=0.7,*;q=0.7
+Accept-Encoding: gzip, identity, *;q=0
+Referer:http://co105w.col105.mail.live.com/mail/InboxLight.aspx?n=56815074129
+mt: 01_98f40ce01585044e9a4bf985eb4e09bb45f4c9ad5d39a14b789a0b9214c3c919|2863c44e4cb00b3c
+Cookie: PPLState=1; RPSTAuth=EwDgARAnAAAUWkziSC7RbDJKS1VkhugDegv7L0eAADrvGeME5wovCqmSrH8GGfG/Qjjyt/feq51WgLuB5hwAm7WcHiHdsHpIEhSfpD2ynSVm1OJRq4t

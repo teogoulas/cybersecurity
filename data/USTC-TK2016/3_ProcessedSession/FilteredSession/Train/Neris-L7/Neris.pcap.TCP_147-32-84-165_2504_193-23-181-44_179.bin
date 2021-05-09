@@ -1,0 +1,6 @@
+GET / HTTP/1.0
+Host: 193.23.181.44:179
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.6) Gecko/20060808 Fedora/1.5.0.6-2.fc5 Firefox/1.5.0.6 pango-text
+

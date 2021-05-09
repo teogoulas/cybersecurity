@@ -1,0 +1,27 @@
+GET /pagead/drt/ui HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0666653885873574&output=html&h=90&slotname=4828373595&w=728&ea=0&flash=6.0.79.0&url=http%3A%2F%2Fmyanimalclips.com%2F&dt=1313052894582&shv=r20110803&jsv=r20110719&saldr=1&correlator=1313052894612&frm=8&adk=1473543680&ga_vid=15212201.1313052905&ga_sid=1313052905&ga_hid=205464909&ga_fc=0&u_tz=180&u_his=0&u_java=1&u_h=722&u_w=1280&u_ah=692&u_aw=1280&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&biw=-12245933&bih=-12245933&ifk=3804207493&loc=http%3A%2F%2Fmyanimalclips.com%2F&fu=0&ifi=1&dtd=9945
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: google.com
+Connection: Keep-Alive
+
+HTTP/1.1 302 Found
+Location: https://googleads.g.doubleclick.net/pagead/drt/si?p=CAA&ut=AFAKxlQAAAAATkOcd2mvYAhe7_Mfn16D5Z37uIKL6Sfa
+Cache-Control: private
+X-Frame-Options: ALLOWALL
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: PREF=ID=50ffa55740d871e5:TM=1313052915:LM=1313052915:S=fTYh-jDjq6tbOLAJ; expires=Sat, 10-Aug-2013 08:55:15 GMT; path=/; domain=.google.com
+X-Content-Type-Options: nosniff
+Date: Thu, 11 Aug 2011 08:55:15 GMT
+Server: safe
+Content-Length: 304
+X-XSS-Protection: 1; mode=block
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="https://googleads.g.doubleclick.net/pagead/drt/si?p=CAA&amp;ut=AFAKxlQAAAAATkOcd2mvYAhe7_Mfn16D5Z37uIKL6Sfa">here</A>.
+</BODY></HTML>

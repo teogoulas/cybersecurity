@@ -1,0 +1,48 @@
+GET /getjson?4pq7f6Upr8rH6OYUFq1AZpw31KpOjecsbHnCmU5CoMXW HTTP/1.1
+Accept: */*
+Referer: http://ads.creafi-online-media.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: splashpops.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 11 Aug 2011 09:13:48 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Expires: Thu Aug 11 08:13:48 2011
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+VTag: 88e5e2d93540e37e85249160d23f5feb
+
+146
+document.write('<!-- BEGIN STANDARD TAG - 300 x 250 - http://ads.creafi-online-media.com/: Run-of-site - DO NOT MODIFY --><IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=300 HEIGHT=250 SRC="http://ads.creafi-online-media.com/st?ad_type=iframe&ad_size=120x600&section=1921334"></IFRAME><!-- END TAG -->');
+0
+
+GET /getjson?4pq7f6UkocrH6OYUFq1AZpw31KpOjecsbHnCmU5CoMXW HTTP/1.1
+Accept: */*
+Referer: http://ads.creafi-online-media.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: encyclopedialinks.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 11 Aug 2011 09:30:06 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Expires: Thu Aug 11 08:30:06 2011
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+VTag: 3a306cb0b8228447dc6e2778a1ef500a
+
+145
+document.write('<!-- BEGIN STANDARD TAG - 300 x 250 - http://ads.creafi-online-media.com/: Run-of-site - DO NOT MODIFY --><IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=300 HEIGHT=250 SRC="http://ads.creafi-online-media.com/st?ad_type=iframe&ad_size=728x90&section=1921334"></IFRAME><!-- END TAG -->');
+0
+

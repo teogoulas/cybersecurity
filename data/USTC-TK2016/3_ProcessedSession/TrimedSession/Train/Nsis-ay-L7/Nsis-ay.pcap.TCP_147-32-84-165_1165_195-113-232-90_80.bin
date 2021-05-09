@@ -1,0 +1,27 @@
+GET /pki/crl/products/CodeSignPCA.crl HTTP/1.1
+Accept: */*
+User-Agent: Microsoft-CryptoAPI/5.131.2600.2180
+Host: crl.microsoft.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Pragma: no-cache
+
+GET /pki/crl/products/CodeSignPCA.crl HTTP/1.1
+Accept: */*
+User-Agent: Microsoft-CryptoAPI/5.131.2600.2180
+Host: crl.microsoft.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Pragma: no-cache
+
+HTTP/1.1 200 OK
+Content-Type: application/pkix-crl
+Last-Modified: Mon, 18 Jul 2011 18:06:00 GMT
+Accept-Ranges: bytes
+ETag: "2949df597545cc1:0"
+Server: Microsoft-IIS/7.5
+VTag: 279888643100000000
+P3P: CP="ALL IND DSP COR ADM CONo CUR CUSo IVAo IVDo PSA PSD TAI TELo OUR SAMo CNT COM INT NAV ONL PHY PRE PUR UNI"
+X-Powered-By: ASP.NET
+Content-Length: 558
+Cache-Control:

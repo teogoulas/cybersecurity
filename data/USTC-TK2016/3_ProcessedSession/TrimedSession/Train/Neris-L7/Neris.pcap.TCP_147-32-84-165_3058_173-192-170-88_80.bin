@@ -1,0 +1,20 @@
+GET /newcar.html HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/526.9 (KHTML, like Gecko) Version/4.0dp1 Safari/526.8
+Accept-Encoding: gzip, deflate
+Host: www.newcarus.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2011 09:09:21 GMT
+Server: Apache/2.2.19 (Unix) mod_ssl/2.2.19 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+Last-Modified: Tue, 09 Aug 2011 03:23:00 GMT
+ETag: "3ed8087-19f9-4aa0a14ab2d00"
+Accept-Ranges: bytes
+Content-Length: 6649
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+NewCarUs.com is the most-visited

@@ -1,0 +1,11 @@
+GET /lg.php?bannerid=4221&campaignid=497&zoneid=580&OXLIA=1&loc=http%3A%2F%2Fib.adnxs.com%2Facb%3Fmember%3D541%26width%3D160%26height%3D600%26pb%3D30%26cb%3D1313452967%26referrer%3Dhttp%3A%2F%2Fwww.netygames.com%2Fnetgame.html&referer=http%3A%2F%2Fwww.netygames.com%2Fnetgame.html&oxfb=1&cb=4ad52f696b&r_id=ad866fd39536f045872916b274b8235b&r_ts=lpzusn HTTP/1.1
+Accept: */*
+Referer: http://ib.adnxs.com/acb?member=541&width=160&height=600&pb=30&cb=1313452967&referrer=http://www.netygames.com/netgame.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: server3.yieldmanaged.com
+Connection: Keep-Alive
+Cookie: OAID=78470f83d1e35250fbcb461f8004d295
+
+GET /lg.php?bannerid=4221&campaignid=497&zonei

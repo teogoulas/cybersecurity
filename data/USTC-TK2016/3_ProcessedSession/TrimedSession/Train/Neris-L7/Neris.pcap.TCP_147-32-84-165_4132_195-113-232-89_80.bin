@@ -1,0 +1,13 @@
+GET /is/content.yieldmanager.com?U=/ak/q.gif&V=3-8KL5g8XXifSDMPdvf284YxscNDH3ox61%2fuY7xd+CFA4Fqr3e2NNIyvYPuMXmVQaJvVsLGzNKGtw%3d&I=2A904A38716BBC9&D=content.yieldmanager.com&01AD=1& HTTP/1.1
+Accept: */*
+Referer: http://ads.creafi-online-media.com/st?ad_type=iframe&ad_size=160x600&section=1921338
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 18 Oct 2006 18:25:22 GMT
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: ak1.abmr.net
+
+HTTP/1.1 302 Moved Temporarily
+Content-Length: 0
+Location: http://content.yieldmanager.com/ak/q.gif?01AD=2-2-AF6F097965881A31C6460F281AA99F7923B7FE26A619A5560D49A33BCDE24530-7F9E48C42E16F6FC6AB5CDBA12DCB73C3A440AD0D859958C70DFE0A575D834D5&01RI=2A904A38716BBC9&

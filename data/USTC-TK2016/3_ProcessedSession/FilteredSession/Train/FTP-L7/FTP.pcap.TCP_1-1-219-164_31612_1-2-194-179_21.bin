@@ -1,0 +1,5 @@
+CWD pub
+230 CWD command successful
+EPSV
+229 Extended Passive Mode OK (|||25235|)
+RETR README.txt

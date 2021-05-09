@@ -1,0 +1,14 @@
+POST /mail/mail.fpp?cnmn=Microsoft.Msn.Hotmail.Ui.Fpp.MailBox.GetInboxData&ptid=0&a=PCsmc7Y0%2bsGDRAh4r6wVpg%3d%3d&au=5870306765834278391 HTTP/1.0
+x-requested-with: XMLHttpRequest
+Referer: http://by167w.bay167.mail.live.com/mail/InboxLight.aspx?n=61552228480
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+x-fpp-command: 0
+mt: 01_ffd61d34e9ba45674cc6bf996a0d24e827c77b4d90aa2ecf2dae4bf5d94c097c|4b8105832381e299
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ch)
+Host: by167w.bay167.mail.live.com
+Content-Length: 225
+Connection: close
+Cache-Control: no-cache
+Cookie: PPLState=1; RPSTAuth=EwDoARAnAAAUWkziSC7RbDJKS1VkhugDegv7L0eAAJ0coMlEmCzxDc8Wrovfz3IXb+uasKMnvGZu/MEC4oxpMEvVJlRLheQQKwPEFmjwk7LgAVssW75oSvCoyhU

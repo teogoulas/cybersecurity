@@ -1,0 +1,12 @@
+GET /atoms/69/c2/28/82/69c22882d1facec070ef1932a9608ad.swf?clickTag=http%3A%2F%2Fads%2Ecreafi%2Donline%2Dmedia%2Ecom%2Fclk%3F3%2CeAGVjcsOgjAURH8IwVJBa%2DOiUoivohANwR2PykMRoxClX6%2ERxrh1FjdzMzkzAGIETXgYmukQ8jgGiGMAQTzSIUqgrvQxxrqB9IFhoj5UBiBrpo7hzzyLt2VN3lqoa3r%2E2M%2Ddy%2DdISEYcuqnVpcyzlHQyfDh%2D%2DAv96S22y23JvPZkf7u4lS21p98ySjpXeN06CO%2DrgIl9NW%2EY1jkxC%2DRuxcAqsIVL%2EcIV7BGWTITZl5woSt40l7GmRelNTa48OhS9%2DnwqzrxX8bSI1KSutCf8Ml0g%2C HTTP/1.1
+Accept: */*
+Referer: http://ads.creafi-online-media.com/st?ad_type=iframe&ad_size=300x250&section=1921374
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: content.yieldmanager.edgesuite.net
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: Apache
+ETa

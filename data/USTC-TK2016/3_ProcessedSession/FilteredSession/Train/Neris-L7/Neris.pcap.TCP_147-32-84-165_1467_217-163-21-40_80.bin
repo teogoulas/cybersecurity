@@ -1,0 +1,42 @@
+GET /imp?Z=300x250&anmember=541&anprice=&referrer=http%3a%2f%2fwww.netygames.com%2fnetgame.html&s=2056437&_salt=1045803548&B=10&u=http%3A%2F%2Fwww.netygames.com%2Fnetgame.html&r=1&SIG=10v48mqf3;x-cookie=o7d2bnc744yfx&o=4&f=n3 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: ad.yieldmanager.com
+
+GET /imp?Z=300x250&anmember=541&anprice=&referrer=http%3a%2f%2fwww.netygames.com%2fnetgame.html&s=2056437&_salt=1045803548&B=10&u=http%3A%2F%2Fwww.netygames.com%2Fnetgame.html&r=1&SIG=10v48mqf3;x-cookie=o7d2bnc744yfx&o=4&f=n3 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: ad.yieldmanager.com
+
+HTTP/1.1 200 OK
+Date: Wed, 10 Aug 2011 10:04:06 GMT
+Server: YTS/1.18.4
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+X-RightMedia-Hostname: raptor0117.rm.ch1.yahoo.com
+Set-Cookie: ih="b!!!!#!3EgQ!!!!#=/v%M"; path=/; expires=Fri, 09-Aug-2013 10:04:06 GMT
+Set-Cookie: vuday1=!!!!#N2coRGf8dc; path=/; expires=Thu, 11-Aug-2011 00:00:00 GMT
+Set-Cookie: BX=b7q2oap744lsk&b=4&s=a3&t=221; path=/; expires=Tue, 19-Jan-2038 03:14:07 GMT
+Set-Cookie: uid=uid=1542fe80-c338-11e0-973a-d7faa0fc098b&_hmacv=1&_salt=3950887601&_keyid=k1&_hmac=5074c43dbdeaca557705583794eef1f2319274df; path=/; expires=Fri, 09-Sep-2011 10:04:06 GMT
+Set-Cookie: liday1=b1q+FN2coRnMufO; path=/; expires=Thu, 11-Aug-2011 00:00:00 GMT
+Cache-Control: no-store
+Last-Modified: Wed, 10 Aug 2011 10:04:06 GMT
+Pragma: no-cache
+Content-Length: 798
+Content-Type: application/x-javascript
+Age: 0
+Connection: close
+
+document.write('<a target=\"_blank\" href=\"http://adserving.cpxinteractive.com/clk?3,eAGdTduOgjAQ.SEE2xJ0bfahQI0ah3UDSuQNAduoVTd209ivd6vED9h5mHPJnDmI0BA3bbir2.CjjfAeRxQRtCM4wqRuvCGlFGFCUDQmGHnMzWojZiZmP4vjU7LVuluYF2XC4bz3xw55WuQGnj5jZ9ETloyggNfdv3Y6-JV9j-vr-.M7qJvl8ftlylGWZgpsdViWYMEKDcX0BAmSW8XtsuQ2w5XalnNTHeTx6.ud.PQ8qfV1EgTGGP.c6buoVXfzm4sK.pQTvtTq9ADnFV6J,\"><img border=\"0\" alt=\"\" height=\"250\" width=\"300\" src=\"http://content.yieldmanager.edgesuite.net/atoms/c3/ed/32/7b/c3ed327bca474b85d8466b86073469af.gif\"></img></a><img src=\"http://ad.adtegrity.net/pixel?id=110213&t=2\" height=\"1\" width=\"1\" alt=\"\">');
+var rm_data = new Object();
+rm_data.creative_id = 10070080;
+rm_data.offer_type = 8;
+rm_data.entity_id = 25008;
+if (window.rm_crex_data) {rm_crex_data.push(10070080);}

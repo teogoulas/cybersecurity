@@ -1,0 +1,71 @@
+220 smtp107.mail.ne1.yahoo.com ESMTP
+EHLO cassiwuislddv
+EHLO cassiwuislddv
+250-smtp107.mail.ne1.yahoo.com
+250-AUTH LOGIN PLAIN XYMCOOKIE
+250-PIPELINING
+250 8BITMIME
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+Y2Fzc2l3dWlzbGRkdg==
+Y2Fzc2l3dWlzbGRkdg==
+334 UGFzc3dvcmQ6
+NHhrMnE5N3o=
+NHhrMnE5N3o=
+235 OK, go ahead
+MAIL FROM: <cassiwuislddv@yahoo.com>
+MAIL FROM: <cassiwuislddv@yahoo.com>
+250 OK , completed
+RCPT TO: <misty_32_67@yahoo.com>
+RCPT TO: <misty_32_67@yahoo.com>
+250 OK , completed
+RCPT TO: <cruzcontrolss@yahoo.com>
+RCPT TO: <cruzcontrolss@yahoo.com>
+250 OK , completed
+RCPT TO: <worldwideoptimize@yahoo.com>
+RCPT TO: <worldwideoptimize@yahoo.com>
+250 OK , completed
+RCPT TO: <kittykorruption@yahoo.com>
+RCPT TO: <kittykorruption@yahoo.com>
+250 OK , completed
+DATA
+DATA
+354 Start Mail. End with CRLF.CRLF
+Message-ID: <656312810$1744068376$206467470@cassiwuislddv>
+From: "Curci Unberhagen" <cassiwuislddv@yahoo.com>
+To: <misty_32_67@yahoo.com>
+Subject: CialisHasThePowerToWakeUpYourPenis
+Date: Mon, 15 Aug 2011 19:38:07 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+Milan Fier ceso me Steele http://palpksydor1l.isCool.net?yarp8wd3t6hdn64yMessage-ID: <656312810$1744068376$206467470@cassiwuislddv>
+From: "Curci Unberhagen" <cassiwuislddv@yahoo.com>
+To: <misty_32_67@yahoo.com>
+Subject: CialisHasThePowerToWakeUpYourPenis
+Date: Mon, 15 Aug 2011 19:38:07 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+Milan Fier ceso me Steele http://palpksydor1l.isCool.net?yarp8wd3t6hdn64y
+.
+
+.
+554 Transaction failed : Cannot send message due to possible abuse; please visit http://postmaster.yahoo.com/abuse_smtp.html for more information

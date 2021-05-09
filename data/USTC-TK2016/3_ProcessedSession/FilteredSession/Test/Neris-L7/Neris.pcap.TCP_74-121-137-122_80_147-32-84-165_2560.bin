@@ -1,0 +1,19 @@
+GET /view/js/?strat=107011&cr=103157&supply=99&random=1313055722&rfr=http%3A%2F%2Fwww%2Eaccesshollywood%2Ecom%2F&rfid=517&ymct=http%3A%2F%2Fad%2Eyieldmanager%2Ecom%2Fclk%3F3%2CeAGdTu1ugzAMfCFUQpOQdNF%2DOAtsVGRVt1YV%2EQcZ6sdgqRSmMJ5%2DaLA9wCzZPltn30VYlAwvWV3RVV3FBK1iEeGo4piTckkDJIQghDGKOUKB3GYAm%2DT2BNJ90Hf4Cc1M5ic4Vg2QzIMD2EKqHvkhP00r1xb9hGSsXvnM%2D0%2DTJ9%2E%2E6oyeZv313pJPlci%2EjypDzwMMxaB9ftDDsd13epc2%2DgFRfTV9vlu3R5VeNuplTI2L2ed4fx8E56673YWh935RGlM7d7ZN8%2DWtfVsY24bfkURasA%3D%3D%2C HTTP/1.1
+Accept: */*
+Referer: http://ad.yieldmanager.com/iframe3?BQIAAOEpHABsn5kAAAAAAM7cIwAAAAAAAAAMAAEAAAAAAAsAAQAFDG8WLgAAAAAAsmYxAAAAAAB6DS8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgwxEAAAAAAAIAAwAAAAAAAAAAAAAAAAAAAGqou5B5PwAAAAAAAAAAAAADt.FNhT8AAAAAAAAAAACAghj0wJE.AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABeP4nyYIiMClFbKjUM7udCfNiHbr3N21Xrtc9nAAAAAA==,,http%3A%2F%2Fwww.accesshollywood.com%2F,B%3D10%26Z%3D120x600%26_salt%3D2470190065%26r%3D0%26s%3D1845729,24703c30-c3fe-11e0-9271-2fd1b84b837b
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: tags.mathtag.com
+Connection: Keep-Alive
+Cookie: uuid=4e43959c-840e-4f9c-80bc-a436ea1cba50; ts=1313055679; mt_mop=13:1313055679
+
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2011 09:42:02 GMT
+Server: MMBD/3.5.13.2
+Content-Type: application/x-javascript
+Content-Length: 1582
+x-mm-host: ewr-bidder-x6
+Connection: keep-alive
+
+document.write("<SCRIPT language='JavaScript1.1' SRC=\"http://ad.doubleclick.net/adj/N6010.133090.MEDIAMATH/B4632508.4;sz=120x600;click1=http://pixel.mathtag.com/click/img?mt_aid=423730026849396970&mt_id=103157&mt_adid=76&mt_uuid=4e43959c-840e-4f9c-80bc-a436ea1cba50&redirect=;ord=423730026849396970?\"><\/SCRIPT><NOSCRIPT><A HREF=\"http://pixel.mathtag.com/click/img?mt_aid=423730026849396970&mt_id=103157&mt_adid=76&mt_uuid=4e43959c-840e-4f9c-80bc-a436ea1cba50&redirect=http://ad.doubleclick.net/jump/N6010.133090.MEDIAMATH/B4632508.4;sz=120x600;ord=423730026849396970?\" target=\"_blank\"><IMG SRC=\"http://ad.doubleclick.net/ad/N6010.133090.MEDIAMATH/B4632508.4;sz=120x600;ord=423730026849396970?\" BORDER=0 WIDTH=120 HEIGHT=600 ALT=\"Click Here\"><\/A><\/NOSCRIPT><script language=\"JavaScript\">var el = document.createElement('img');el.src = 'http://action.mathtag.com/mm/rtb/LOYD/1006A0_RTBXX/imp?ci=&li=&pe=&pt=&pi=&sc=&ct=&vi=&px=&su=';<\/script>\r\n<script language=\"JavaScript\">\r\nvar theSupply = \"\";\r\nvar supplySource = theSupply.toLowercase();\r\nif( (supplySource == \"adm\") || (supplySource == \"pub\") || (supplySource == \"opx\") || (supplySource == \"ecn\") || (supplySource == \"rmx\") || (supplySource == \"rmp\") || (supplySource == \"ruc\") || (supplySource == \"ctw\") || (supplySource == \"cas\") )\r\n{\r\n\tdocument.write(\"<div width='1' height='1' style='visibility:hidden; overflow:hidden'><img style='margin-left:-10px; margin-top:-10px' src='http://pixel.mathtag.com/event/img?autosync' height='1' width='1'><\/div>\");\r\n}\r\n<\/script>");

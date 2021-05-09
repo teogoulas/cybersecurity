@@ -1,0 +1,15 @@
+GET /installer.gif?action=started&browser=ie8&ver=1_18_149_149&bic=5711114C88F4452CAB319AE07E7C0D99IE&app=4995&appver=0&verifier=e070de45f051af0a83fec8697c4ce3b7&srcid=0&subid=0&zdata=0&ff=0_81&ch=1_17_45&default=X&os=V7&admin=1&type=12289 HTTP/1.1
+User-Agent: NSIS_Inetc (Mozilla)
+Host: stats.crossrider.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+GET /installer.gif?action=started&browser=ie8&ver=1_18_149_149&bic=5711114C88F4452CAB319AE07E7C0D99IE&app=4995&appver=0&verifier=e070de45f051af0a83fec8697c4ce3b7&srcid=0&subid=0&zdata=0&ff=0_81&ch=1_17_45&default=X&os=V7&admin=1&type=12289 HTTP/1.1
+User-Agent: NSIS_Inetc (Mozilla)
+Host: stats.crossrider.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Server: nginx/1.0.13
+Date: Tue, 29 May 2

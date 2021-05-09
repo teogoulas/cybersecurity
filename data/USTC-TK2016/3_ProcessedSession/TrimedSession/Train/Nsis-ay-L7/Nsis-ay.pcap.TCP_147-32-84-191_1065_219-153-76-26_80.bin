@@ -1,0 +1,27 @@
+GET /hk/?id=eg&ams=0tuQPLPoJgY%3d HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.bj-hjw.net
+Connection: Keep-Alive
+
+GET /hk/?id=eg&ams=0tuQPLPoJgY%3d HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.bj-hjw.net
+Connection: Keep-Alive
+
+HTTP/1.0 200 OK
+Content-Length: 27492
+Content-Type: text/html
+Content-Location: http://www.bj-hjw.net/hk/index.html
+Last-Modified: Wed, 10 Aug 2011 07:44:55 GMT
+Accept-Ranges: bytes
+ETag: "f2d657653157cc1:5ae"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Fri, 19 Aug 2011 08:48:50 GMT
+X-Cache: MISS from C

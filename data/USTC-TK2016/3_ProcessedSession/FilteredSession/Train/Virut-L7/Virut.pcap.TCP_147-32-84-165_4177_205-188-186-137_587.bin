@@ -1,0 +1,99 @@
+220-mtaout-da01.r1000.mx.aol.com ESMTP MUA/Third Party Client Interface
+220-AOL and its affiliated companies do not
+220-authorize the use of its proprietary computers and computer
+220-networks to accept, transmit, or distribute unsolicited bulk
+220-e-mail sent from the internet.
+220-Effective immediately:
+220-AOL may no longer accept connections from IP addresses
+220 which no reverse-DNS (PTR record) assigned.
+EHLO paul_ross15
+EHLO paul_ross15
+250-mtaout-da01.r1000.mx.aol.com
+250-PIPELINING
+250-SIZE 36700160
+250-ETRN
+250-STARTTLS
+250-AUTH LOGIN XAOL-UAS-MB PLAIN
+250-AUTH=LOGIN XAOL-UAS-MB PLAIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+cGF1bF9yb3NzMTU=
+cGF1bF9yb3NzMTU=
+334 UGFzc3dvcmQ6
+S0JxRG9RWFNm
+S0JxRG9RWFNm
+235 2.7.0 Authentication successful
+MAIL FROM: <paul_ross15@aol.com>
+MAIL FROM: <paul_ross15@aol.com>
+250 2.1.0 Ok
+RCPT TO: <gainiraju@gmail.com>
+RCPT TO: <gainiraju@gmail.com>
+250 2.1.5 Ok
+RCPT TO: <shanmartin24@yahoo.com>
+RCPT TO: <shanmartin24@yahoo.com>
+250 2.1.5 Ok
+RCPT TO: <rosens78@web.de>
+RCPT TO: <rosens78@web.de>
+250 2.1.5 Ok
+RCPT TO: <hurricanepolimar@teletu.it>
+RCPT TO: <hurricanepolimar@teletu.it>
+250 2.1.5 Ok
+DATA
+DATA
+354 End data with <CR><LF>.<CR><LF>
+Message-ID: <818564751$1712469810$267458123@paul_ross15>
+From: "Franck Accaira" <paul_ross15@aol.com>
+To: <gainiraju@gmail.com>
+Subject: RE:CuteAnd FirmB odiedGra nnyOnHer Sid eT akin gInR od
+Date: Mon, 15 Aug 2011 16:52:13 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<br>'YMou sa&id oHn th2e pho(ne thaGt hUe'd cXalled yoju ijn Ngew Yorqk. Whagt e%xactly dBid hse sa.y?' <br>o$uld n!eed tzo fi9nd som0eone t+o tXend thIe bbirds untiol th2e Cit(adel seAnt a ma7n tOo repl&ace Pyce0lle. <br><a href="http://cCiMessage-ID: <818564751$1712469810$267458123@paul_ross15>
+From: "Franck Accaira" <paul_ross15@aol.com>
+To: <gainiraju@gmail.com>
+Subject: RE:CuteAnd FirmB odiedGra nnyOnHer Sid eT akin gInR od
+Date: Mon, 15 Aug 2011 16:52:13 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<br>'YMou sa&id oHn th2e pho(ne thaGt hUe'd cXalled yoju ijn Ngew Yorqk. Whagt e%xactly dBid hse sa.y?' <br>o$uld n!eed tzo fi9nd som0eone t+o tXend thIe bbirds untiol th2e Cit(adel seAnt a ma7n tOo repl&ace Pyce0lle. <br><a href="http://cCivpXvD9aywco8wjB.hardcorewowoc.com?xjBrTNrPRqiVmSFRVHu">http://xjBrTNrPRqiVmSFRVHu.h92972907ardcorewowoc.com?FCNcOpTaUzNdg</a> "Ho_w's that2?" <br> rws wh/o gavoe th4e Pilgrimts permiss&ion t/o lmand. AndX, eTxcepting mayb)e PaVul Ge{tty, he'Us tPhe richhest oUil mVan ien thce Unitejd StatesO."</BODY></HTML>
+.
+vpXvD9aywco8wjB.hardcorewowoc.com?xjBrTNrPRqiVmSFRVHu">http://xjBrTNrPRqiVmSFRVHu.h92972907ardcorewowoc.com?FCNcOpTaUzNdg</a> "Ho_w's that2?" <br> rws wh/o gavoe th4e Pilgrimts permiss&ion t/o lmand. AndX, eTxcepting mayb)e PaVul Ge{tty, he'Us tPhe richhest oUil mVan ien thce Unitejd StatesO."</BODY></HTML>
+.
+250 2.0.0 Ok: queued as C0602E0000F5
+421 4.4.2 mtaout-da01.r1000.mx.aol.com Error: timeout exceeded

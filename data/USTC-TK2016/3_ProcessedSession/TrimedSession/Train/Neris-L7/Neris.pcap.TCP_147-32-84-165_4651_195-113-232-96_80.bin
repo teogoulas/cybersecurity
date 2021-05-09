@@ -1,0 +1,13 @@
+GET /atoms/90/e3/88/d9/90e388d9ebfe84079d77ae493ea783.swf?clickTag=http%3A%2F%2Fad%2Eyieldmanager%2Ecom%2Fclk%3F3%2CeAGdjFsLgkAUhP%2DQ5VnvtPSwXtFcY8GwekvLTCsl3DB%2EfZEWPXcehm%2DYOYNkvN%2ErBw0yXU3RTk8lFSMZpQbsFKTmAmCMJWQosgQSIMFtTJ2EJfeYuea1Qt4XaBCwAQfdjCYjhBHX6u4TOuabpOp%2Dm%2E%2Dz6Wnm59sn5DiwBc6C2843IbYP1Ft1kc0gTGi%2ELbOWxu6ZWqAuk%2DAUxsWFJm4V9U4flayj485rbS4IRds2M1F81PyW8%2Dv10fL0MM3qi%2EgEm2dX%2EQ%3D%3D%2C HTTP/1.1
+Accept: */*
+Referer: http://yourfunnytube.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: content.yieldmanager.edgesuite.net
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: Apache
+ETag: "90e388d9ebfe84079d77ae493ea783ff:1304856055"
+Last-Modified: Sun, 08 May 2011 12

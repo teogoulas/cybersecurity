@@ -1,0 +1,18 @@
+GET / HTTP/1.1
+Host: adultyum.info
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+Referer: http://objava-oglasa.bolha.com/oglas_completed.php?id=1297575281
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: __cfduid=d3bd4b7133520b058434c1a1f9bff46ba1424908401; hexatrade=r4M8pREq6kzG5Y9aCARj47USG44O2I2V; __atuvc=43%7C8%2C225%7C9; __atuvs=54f72cd8ddd03a27015
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Date: Wed, 04 Mar 2015 16:35:13 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.9-1ubuntu4.5
+Vary: Accept-Encoding
+Se

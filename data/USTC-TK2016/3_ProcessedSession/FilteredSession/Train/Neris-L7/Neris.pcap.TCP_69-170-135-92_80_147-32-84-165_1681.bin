@@ -1,0 +1,38 @@
+GET / HTTP/1.0
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: fallleague.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2011 10:24:47 GMT
+Server: Apache/2.2.3 (Red Hat)
+X-Powered-By: PHP/5.2.14
+Content-Length: 1293
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>fallleague.com [7]</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="pragma" content="no-cache">
+<style>
+body { margin:0; padding:0; }
+</style>
+<script type="text/JavaScript" src="http://as.casalemedia.com/sd?s=84893&f=1"></script>
+
+</head>
+<body scroll="no">
+<div style="position:absolute; margin: 0px 0px 0px 0px; bottom:0px; left:0px; width:100%; height:24px; background: #003366; z-index: 100; overflow: hidden"> 
+	<div style="position:absolute; margin: 0px 0px 0px 0px; bottom:0px; left:0px; width:100%; height:23px; background: #ddeeff; z-index: 100; overflow: hidden"> 
+		<p align="center" style="margin-top: 1px; font-family: arial; font-size: medium">&nbsp;&nbsp;<a href="http://parklogic.com/login/sales/viewNegotiation.jsp?domain=fallleague.com" style="color: #003366" target="_blank">fallleague.com may be for sale</a></p> 
+	</div> 
+</div>
+
+<div style="position:absolute; top:0px; left:0px; width:100%; height:100%;">
+	<iframe src="http://www.searchnut.com/?domain=fallleague.com" style="height:100%; width:100%; border:none;" frameborder="0" scrolling="yes" id="park" />
+</div>
+</body>
+</html>

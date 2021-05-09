@@ -1,0 +1,30 @@
+GET /imp?Z=160x600&s=1921381&_salt=3463382897&B=10&u=http%3A%2F%2Fads.creafi-online-media.com%2F&r=0 HTTP/1.1
+Accept: */*
+Referer: http://ads.creafi-online-media.com/st?ad_type=iframe&ad_size=160x600&section=1921381
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Cookie: BX=cn9i1ih74757k&b=4&s=oq&t=222; uid=uid=3f91c0a0-c3f5-11e0-a9d4-e79782f4b120&_hmacv=1&_salt=2056837655&_keyid=k1&_hmac=3a94e5a46225bd4c8c48743ed955a5aedb674f31; bh="b!!!!#!$(7j!!!!#=0*<?"; ih="b!!!!$!2b03!!!!#=0*<@!41rf!!!!#=0*<?"; vuday1=3IvP]o(iq>!/^/!arK8G; liday1=FnLgjZq?FS!<=73!/^/!fc?/r
+Connection: Keep-Alive
+Host: ad.yieldmanager.com
+
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2011 08:38:19 GMT
+Server: YTS/1.18.4
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+X-RightMedia-Hostname: raptor0121.rm.ch1.yahoo.com
+Set-Cookie: BX=cn9i1ih74757k&b=4&s=oq&t=222; path=/; expires=Tue, 19-Jan-2038 03:14:07 GMT
+Cache-Control: no-store
+Last-Modified: Thu, 11 Aug 2011 08:38:19 GMT
+Pragma: no-cache
+Content-Length: 842
+Content-Type: application/x-javascript
+Age: 0
+Connection: close
+
+document.write('<iframe allowtransparency=\"true\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" frameborder=\"0\" height=\"600\" width=\"160\" src=\"http://ads.creafi-online-media.com/iframe3?41gtBGVRHQBF8qAAAAAAALWjJwAAAAAAAgAAAAoAAAAAAP8AAAAFC.o.KwAAAAAA-FokAAAAAAAA2jMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACMUhEAAAAAAAIAAwAAAAAACtejcD0Klz8K16NwPQqXPzMzMzMzM8M.MzMzMzMzwz8zMzMzMzPTPzMzMzMzM9M.AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADP7KZbe3mMCo8xE2gzUNXnDOJ1TjlQqEiAt2RiAAAAAA==,,http%3A%2F%2Fads.creafi-online-media.com%2F,B%3D10%26Z%3D160x600%26_salt%3D3463382897%26r%3D0%26s%3D1921381,441c4b04-c3f5-11e0-9476-c78aecc7411e\"></iframe>');
+var rm_data = new Object();
+rm_data.creative_id = 10547781;
+rm_data.offer_type = 3;
+rm_data.entity_id = 505237;
+if (window.rm_crex_data) {rm_crex_data.push(10547781);}

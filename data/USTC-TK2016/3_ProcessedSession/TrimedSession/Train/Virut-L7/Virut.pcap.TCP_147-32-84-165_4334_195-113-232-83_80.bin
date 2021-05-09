@@ -1,0 +1,23 @@
+GET /wrapper/aceUAC.js HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/526.9 (KHTML, like Gecko) Version/4.0dp1 Safari/526.8
+Accept-Encoding: gzip, deflate
+Host: uac.advertising.com
+Connection: Keep-Alive
+
+GET /wrapper/aceUAC.js HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/526.9 (KHTML, like Gecko) Version/4.0dp1 Safari/526.8
+Accept-Encoding: gzip, deflate
+Host: uac.advertising.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: Apache/2.2.4 (Unix) DAV/2
+Accept-Ranges: bytes
+Cache-Control: max-age=86400
+Expires: Tue, 16 Aug 2011 17:3

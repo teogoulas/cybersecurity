@@ -1,0 +1,25 @@
+GET /stat.php?id=2472838&web_id=2472838 HTTP/1.1
+Accept: */*
+Referer: http://www.bj-hjw.net/hk/?id=eg&ams=0tuQPLPoJgY%3d
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: s13.cnzz.com
+Connection: Keep-Alive
+
+GET /stat.php?id=2472838&web_id=2472838 HTTP/1.1
+Accept: */*
+Referer: http://www.bj-hjw.net/hk/?id=eg&ams=0tuQPLPoJgY%3d
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: s13.cnzz.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Date: Fri, 19 Aug 2011 07:52:22 GMT
+Server: Apache/2.2.19 (Unix)
+Last-Modified: Fri, 19 Aug 2011 07:52:22 GMT
+Expires: Fri, 19 Aug 2011 09:22:22 GMT
+Content-Length: 2393
+Co

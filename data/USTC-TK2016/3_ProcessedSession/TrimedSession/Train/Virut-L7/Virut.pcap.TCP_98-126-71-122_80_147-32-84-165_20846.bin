@@ -1,0 +1,24 @@
+GET /gen.php HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: www.generalamuse.com
+Connection: Keep-Alive
+
+GET /gen.php HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: www.generalamuse.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Date: Tue, 16 Aug 2011 06:21:06 GMT
+Server: Apache/2.0.63 (Win32) PHP/5.2.10
+X-Powered-By: PHP/5.2.10
+Content-Length: 2975
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Conte

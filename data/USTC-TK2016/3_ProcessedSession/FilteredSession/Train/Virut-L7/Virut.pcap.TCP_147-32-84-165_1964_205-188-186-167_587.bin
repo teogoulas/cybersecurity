@@ -1,0 +1,96 @@
+220-mtaout-db03.r1000.mx.aol.com ESMTP MUA/Third Party Client Interface
+220-AOL and its affiliated companies do not
+220-authorize the use of its proprietary computers and computer
+220-networks to accept, transmit, or distribute unsolicited bulk
+220-e-mail sent from the internet.
+220-Effective immediately:
+220-AOL may no longer accept connections from IP addresses
+220 which no reverse-DNS (PTR record) assigned.
+EHLO gregory_foster10
+EHLO gregory_foster10
+250-mtaout-db03.r1000.mx.aol.com
+250-PIPELINING
+250-SIZE 36700160
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN XAOL-UAS-MB LOGIN
+250-AUTH=PLAIN XAOL-UAS-MB LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+Z3JlZ29yeV9mb3N0ZXIxMA==
+Z3JlZ29yeV9mb3N0ZXIxMA==
+334 UGFzc3dvcmQ6
+a2F6eXJvamVsdTg0
+a2F6eXJvamVsdTg0
+235 2.7.0 Authentication successful
+MAIL FROM: <gregory_foster10@aol.com>
+MAIL FROM: <gregory_foster10@aol.com>
+250 2.1.0 Ok
+RCPT TO: <zamahani@yahoo.co.nz>
+RCPT TO: <zamahani@yahoo.co.nz>
+250 2.1.5 Ok
+RCPT TO: <broadbelt.v@ghc.org>
+RCPT TO: <broadbelt.v@ghc.org>
+250 2.1.5 Ok
+RCPT TO: <shigakee@gmail.com>
+RCPT TO: <shigakee@gmail.com>
+250 2.1.5 Ok
+DATA
+DATA
+354 End data with <CR><LF>.<CR><LF>
+Message-ID: <91623790$1124086444$687808888@gregory_foster10>
+From: "Logan bernier" <gregory_foster10@aol.com>
+To: <zamahani@yahoo.co.nz>
+Subject: SenseUThebTasteJOfwLifeWithfSoftViagra 
+Date: Mon, 15 Aug 2011 17:29:28 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<a href="http://YaO3Ukyaik28eZiv.hloholpills.com?NZDPsTVtQJkrNtvMDI">http://NZDPsTVtQJkrNtvMDI.h38330952loholpills.com?ijzxAaIoRIvAY</a> AllHerP ro blemsWer eOver ,HerEver yMuscl eRe laxed , AndSh eWasWh oleAgai n . HerBo dyWasSm ooth<br></BODY></Message-ID: <91623790$1124086444$687808888@gregory_foster10>
+From: "Logan bernier" <gregory_foster10@aol.com>
+To: <zamahani@yahoo.co.nz>
+Subject: SenseUThebTasteJOfwLifeWithfSoftViagra 
+Date: Mon, 15 Aug 2011 17:29:28 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<a href="http://YaO3Ukyaik28eZiv.hloholpills.com?NZDPsTVtQJkrNtvMDI">http://NZDPsTVtQJkrNtvMDI.h38330952loholpills.com?ijzxAaIoRIvAY</a> AllHerP ro blemsWer eOver ,HerEver yMuscl eRe laxed , AndSh eWasWh oleAgai n . HerBo dyWasSm ooth<br></BODY></HTML>HTML>
+.
+
+.
+250 2.0.0 Ok: queued as 1EDE4E000225
+421 4.4.2 mtaout-db03.r1000.mx.aol.com Error: timeout exceeded

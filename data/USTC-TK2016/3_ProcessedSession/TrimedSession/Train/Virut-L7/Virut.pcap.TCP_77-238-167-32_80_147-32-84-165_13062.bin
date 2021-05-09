@@ -1,0 +1,12 @@
+GET /v2/cexposer/SIG=16dmr2d3b/*http%3A//ad.yieldmanager.com/imp?Z=300x250&anmember=541&anprice=&referrer=http%3a%2f%2fwww.netygames.com%2fnetgame.html&s=2056437&_salt=1530565696&B=10&u=http%3A%2F%2Fwww.netygames.com%2Fnetgame.html&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: cookex.amp.yahoo.com
+
+GET /v2/cexposer/SIG=16dmr2d3b/*http%3A//ad.yieldmanager.com/imp?Z=300x250&anmember=541&anprice=&referrer=http%3a%2f%2fwww.netygames.com%2fnetgame.html&s=2056437&_salt=1530565696&B=10&u=http%3A%2F%2Fwww.netygames.com%2Fnetgame.html&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netga

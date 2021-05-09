@@ -1,0 +1,27 @@
+GET /fung.html HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Mon, 15 Aug 2011 04:30:05 GMT
+If-None-Match: "2f0026e-19a9-4aa83b7a00d40"
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.funglad.com
+Connection: Keep-Alive
+
+GET /fung.html HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Mon, 15 Aug 2011 04:30:05 GMT
+If-None-Match: "2f0026e-19a9-4aa83b7a00d40"
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.funglad.com
+Connection: Keep-Alive
+
+HTTP/1.1 304 Not Modified
+Date: Tue, 16 Aug 2011 00:01:39 GMT
+Server: Apache/2.2.19 (Unix) mod_ssl/2.2.19 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+ETag: "2f0026e-19a9-4aa83b7a00d40"
+

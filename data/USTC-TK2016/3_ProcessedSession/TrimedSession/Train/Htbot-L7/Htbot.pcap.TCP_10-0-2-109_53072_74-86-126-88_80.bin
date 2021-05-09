@@ -1,0 +1,25 @@
+GET /invar/js/newwin.js HTTP/1.1
+Host: loveme.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:18.0) Gecko/20100101 Firefox/18.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://loveme.com/women/info153020.htm
+Cookie: cslhVISITOR=67d72a4f0779563e060a9fba45a15558
+Connection: 
+
+HTTP/1.1 200 OK
+Server: nginx/0.7.62
+Date: Sat, 07 Mar 2015 08:24:35 GMT
+Content-Type: application/javascript
+Connection: keep-alive
+Last-Modified: Wed, 07 Sep 2011 15:38:00 GMT
+Accept-Ranges: bytes
+Content-Length: 855
+
+<!--
+function jscNewWin(w,h,name,action) 
+{
+ var w1=Math.min(w,window.screen.availWidth),h1=Math.min(h,window.screen.availHeight);
+
+ win=window.open(action,name,'resizable=no,toolbar=0,menubar=no,status=no,scrollbars=no,wi

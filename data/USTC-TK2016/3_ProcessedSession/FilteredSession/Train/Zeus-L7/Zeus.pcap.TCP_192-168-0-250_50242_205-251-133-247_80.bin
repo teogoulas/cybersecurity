@@ -1,0 +1,211 @@
+GET /fancybox/fancy_shadow_sw.png HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Host: www.claimfans.com
+Connection: Keep-Alive
+Cookie: PHPSESSID=6d3397c649c59e55ec9753a63042ca75; PlusREF=60934
+
+GET /fancybox/fancy_shadow_sw.png HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Host: www.claimfans.com
+Connection: Keep-Alive
+Cookie: PHPSESSID=6d3397c649c59e55ec9753a63042ca75; PlusREF=60934
+
+HTTP/1.1 404 Not Found
+Date: Tue, 29 May 2012 08:31:28 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.10
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+22de
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><title>Free Facebook Fans and Free Twitter Followers and Pinterest Pin Exchange</title>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+  <meta name="description" content="Free twitter followers, free facebook fans, website hits, digg followers, twit re-tweets, pinterest pin exchange" />
+  <meta name="keywords" content="claim fans, free facebook fans, facebook share, twitter followers, youtube views, pinterest exchange, website hits, free fans, viral fanpage, fanpage promotion, twitter re-tweets, linkedin friends, digg followers, stumbleupon follow, youlikehits alternative, claim followers, digg exchange" />
+  
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+  <link rel="stylesheet" href="js/uniform/css/uniform.default.css" type="text/css" media="screen" charset="utf-8" />
+  <link rel="stylesheet" href="js/jdpicker/jdpicker.css" type="text/css" />
+  <link rel="stylesheet" href="js/visualize/css/visualize.css" type="text/css" />
+  <link rel="stylesheet" href="js/fancybox/jquery.fancybox-1.3.4.css" type="text/css" />
+  <link rel="stylesheet" href="js/jwysiwyg/jquery.wysiwyg.css" type="text/css" />
+  <link rel="stylesheet" href="css/style.css" type="text/css" />
+  <link rel="stylesheet" href="css/themes/blue.css" type="text/css" />
+    <!--[if IE]>
+       <link rel="stylesheet" type="text/css" href="css/ie.css" />
+    <![endif]-->
+    <!--[if lte IE 8]>
+       <link rel="stylesheet" type="text/css" href="css/ltie8.css" />
+    <![endif]-->
+    <!--[if IE 7]>
+       <link rel="stylesheet" type="text/css" href="css/ie7.css" />
+    <![endif]-->
+	<script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
+	<script type="text/javascript" src="js/jquery-ui-1.8.14.custom.min.js"></script>
+	<script type="text/javascript" src="js/jdpicker/jquery.jdpicker.js"></script>
+	<script type="text/javascript" src="js/uniform/jquery.uniform.min.js"></script>
+	<script type="text/javascript" src="js/jquery.hotkeys.js"></script>
+	<script type="text/javascript" src="js/visualize/visualize.jQuery.js"></script>
+	<script type="text/javascript" src="js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+	<script type="text/javascript" src="js/jwysiwyg/jquery.wysiwyg.js"></script>
+    <script type="text/javascript" src="js/jquery.tables.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+    
+    
+    <script type="text/javascript">var switchTo5x=false;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'831b48ad-05cd-416f-b05b-dd2865a6a65c'});</script>
+ 
+ 
+</head>
+<body>
+   <div class="cont soft-blue fixed">
+     <div class="menu">
+        <div class="menu-wrap">
+           <div class="logo">
+              <a href="http://www.claimfans.com" ><img src="./img/logo_black.png" alt="Claim Fans logo"/></a>
+         </div>
+           <ul id="main_menu">
+              <li><a href="http://www.claimfans.com/index.php">Home</a></li>
+              <li><a href="register.php">Register</a></li>
+              <li><a href="aff.php" target="_blank">Affiliate Program</a></li>
+              <li><a href="sell.php" target="_blank">Buy This Site</a></li>
+                         </ul>
+		  
+		               
+        </div>
+     </div>
+
+     <div class="wrapper"><!-- START wrapper!-->
+        <div class="sidebar left"> <!-- START sidebar!-->
+         <div class="block">
+            <div class="top">
+               <h2>Login</h2>
+               <a href="#" class="toggle">&nbsp;</a>
+            </div>
+            <div class="content text">
+                    
+                    <form method="post" action="">
+					  <fieldset>		 
+						 <p>
+							 <label>Username</label><br/>
+							 <input class="text big" type="text" value="" name="login"/>
+						 </p>
+						 <p>
+							 <label>Password</label> <br/>
+							 <input class="password" type="password" value="" name="pass"/>
+						 </p>
+						  <p>
+						  	<input type="submit" class="button gray small" name="logare" value="Login" />     			
+						  	 <a href="recover.php"><img src="images/recover.png" alt="recover password" /></a>
+						  </p>
+					  </fieldset>
+					</form>
+                    
+            </div>
+         </div>
+         <div class="block">
+            <div class="top">
+             <h2>News</h2>
+               <a href="#" class="toggle">&nbsp;</a>
+            </div>
+            <div class="content text">
+                    - <a href="http://www.claimfans.com/register.php" title="Register">Registration</a> is FREE<br />
+                    - Get 25 Free Coins Registering This Week<br />
+              - <strong>Members:</strong> 75,198 <br />
+                    - <strong>Fans/Followers Exchanged:</strong> 14,065,070                    
+            </div>
+         </div>
+         
+                 </div>
+        
+        
+
+        <div class="block medium right">			<div class="top" align="center">
+                  <h1>Free Fans and Followers</h1>
+            </div>
+			<div class="content" align="center">
+<h2 style="margin-bottom: 0px; font-size: 15px;">This is a FREE exchange system that will help you grow your social networks.</h2><br />
+
+<table width="100%">
+<tr>
+<td colspan="7" align="center"><font size="3" color="blue"><b>INCREASE YOUR SOCIAL PRESENCE ON THE FOLLOWING FOR FREE</b></font></td>
+</tr>
+<tr>
+<td align="center" width="22%" valign="top"><img src="images/twitter.png" alt="Free Twitter Followers" /><br /><b>Twitter Followers</b></td>
+<td align="center" width="20%" valign="top"><img src="images/facebook.png" alt="Free Facebook Likes" /><br /><b>Facebook Likes</b></td>
+<td align="center" width="20%" valign="top"><img src="images/youtube.png" alt="Free YouTube Views" /><br /><b>YouTube Views</b></td>
+<td align="center" width="20%" valign="top"><img src="images/google.png" alt="Free Google +1" /><br /><b>Google +1</b></td>
+<td align="center" width="20%" valign="top"><img src="images/website.png" alt="Free Website Hits" /><br /><b>Website Hits</b></td>
+</tr>
+</table>
+<table width="100%">
+
+<tr>
+<td align="center" width="25%" valign="top"><img src="images/digg.png" alt="Free Digg Followers" /><br /><b>Digg Followers</b></td>
+<td align="center" width="25%" valign="top"><img src="images/stumbleupon.png" alt="Free StumbleUpon Followers" /><br /><b>StumbleUpon Followers</b></td>
+<td align="center" width="25%" valign="top"><img src="images/retweet.png" alt="Free Twitter Re-Tweets" /><br /><b>Twitter Re-Tweets</b></td>
+<td align="center" width="25%" valign="top"><img src="images/linkedin.png" alt="Free LinkedIn Friends" /><br /><b>LinkedIn Friends</b></td>
+
+</tr>
+</table>
+<table width="100%">
+
+<tr>
+<td align="center" width="22%" valign="top"><img src="images/subs.png" alt="Free Youtube Subscribers" /><br /><b>Youtube Subscribers</b></td>
+<td align="center" width="20%" valign="top"><img src="images/pins.png" alt="Free Pinterest Pins" /><br /><b>Pinterest Pins</b></td>
+<td align="center" width="20%" valign="top"><img src="images/myspace.png" alt="Free Myspace Friends" /><br /><b>Myspace Friends</b></td>
+<td align="center" width="20%" valign="top"><img src="images/soundcloud.png" alt="Free Soundcloud Fans" /><br /><b>Soundcloud Fans</b></td>
+
+</tr>
+</table>
+<br />
+
+<font size="2"><b><a href="register.php" title="Register">REGISTER</a> TODAY TO JOIN OUR AFFILIATE PROGRAM AND START EARNING <strong><font color="#FF0000">CASH</font></strong>!!</b></font><br />
+ 
+</div>
+    
+        </div> 
+        
+
+	
+<div class="clear">&nbsp;</div>
+		  <div class="footer">
+			  <div class="left">
+				 <a href="blog.php">Blog</a> - <a href="faq.php">FAQ</a> - <a href="contact.php">Contact</a> - <a href="tos.php">TOS</a> - <img src="http://www.claimfans.com/usersonline.php" alt="users online" />
+			  
+              </div>
+            
+			  <div class="right">
+               
+<!-- Begin TranslateThis Button -->
+
+<div id="translate-this"><a style="width:180px;height:18px;display:block;" class="translate-this-button" href="http://www.translatecompany.com/languages/french/">Facebook Fans</a></div>
+
+<script type="text/javascript" src="http://x.translateth.is/translate-this.js"></script>
+<script type="text/javascript">
+TranslateThis();
+</script>
+
+<!-- End TranslateThis Button -->
+			  </div>
+		  </div>
+      </div>
+   </div>
+    <div style="display:none">  
+  <a href="http://www.alexa.com/siteinfo/www.claimfans.com"><script type='text/javascript' language='javascript' src='http://xslt.alexa.com/site_stats/js/s/a?url=www.claimfans.com'></script></a>
+  </div>
+    </body>
+</html>	
+0
+

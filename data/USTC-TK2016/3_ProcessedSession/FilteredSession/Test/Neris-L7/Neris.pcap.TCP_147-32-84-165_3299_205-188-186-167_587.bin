@@ -1,0 +1,90 @@
+220-mtaout-db02.r1000.mx.aol.com ESMTP MUA/Third Party Client Interface
+220-AOL and its affiliated companies do not
+220-authorize the use of its proprietary computers and computer
+220-networks to accept, transmit, or distribute unsolicited bulk
+220-e-mail sent from the internet.
+220-Effective immediately:
+220-AOL may no longer accept connections from IP addresses
+220 which no reverse-DNS (PTR record) assigned.
+EHLO johnsonp85patrick
+EHLO johnsonp85patrick
+250-mtaout-db02.r1000.mx.aol.com
+250-PIPELINING
+250-SIZE 36700160
+250-ETRN
+250-STARTTLS
+250-AUTH LOGIN PLAIN XAOL-UAS-MB
+250-AUTH=LOGIN PLAIN XAOL-UAS-MB
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+am9obnNvbnA4NXBhdHJpY2s=
+am9obnNvbnA4NXBhdHJpY2s=
+334 UGFzc3dvcmQ6
+cnl6dWR5d2VjYTk0
+cnl6dWR5d2VjYTk0
+235 2.7.0 Authentication successful
+MAIL FROM: <johnsonp85patrick@aol.com>
+MAIL FROM: <johnsonp85patrick@aol.com>
+250 2.1.0 Ok
+RCPT TO: <desertrat0263@yahoo.com>
+RCPT TO: <desertrat0263@yahoo.com>
+250 2.1.5 Ok
+DATA
+DATA
+354 End data with <CR><LF>.<CR><LF>
+Message-ID: <980940358$825555977$376859767@johnsonp85patrick>
+From: "Mael Frier" <johnsonp85patrick@aol.com>
+To: <desertrat0263@yahoo.com>
+Subject: GetA BigBo n erOnceA gain WithAVia gra P resc ripti on
+Date: Wed, 10 Aug 2011 11:40:07 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<br><br>ledi\ng hoem ow.n thte stQirs tPo thZe posbten gt,e ounc moue, d&id hiojn r8ela, puliCng thUe</BODY></HTML>Message-ID: <980940358$825555977$376859767@johnsonp85patrick>
+From: "Mael Frier" <johnsonp85patrick@aol.com>
+To: <desertrat0263@yahoo.com>
+Subject: GetA BigBo n erOnceA gain WithAVia gra P resc ripti on
+Date: Wed, 10 Aug 2011 11:40:07 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<br><br>ledi\ng hoem ow.n thte stQirs tPo thZe posbten gt,e ounc moue, d&id hiojn r8ela, puliCng thUe</BODY></HTML>
+.
+
+.
+250 2.0.0 Ok: queued as 63ECCE000088
+421 4.4.2 mtaout-db02.r1000.mx.aol.com Error: timeout exceeded

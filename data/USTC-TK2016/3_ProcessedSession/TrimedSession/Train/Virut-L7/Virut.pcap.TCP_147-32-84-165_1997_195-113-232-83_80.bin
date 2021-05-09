@@ -1,0 +1,19 @@
+GET /CDN/186258/hp_blackvoices-160x600.gif HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=rb880013134326530043; ASCID=rb880013134326530043; F1=B0EZJ5kAAAAA0bCDAEAAgEABAAAABAAAAEAAgEA
+
+GET /CDN/186258/hp_blackvoices-160x600.gif HTTP/1.1
+Accept: */*
+Referer: http://www.generalamuse.com/gen.php
+Accept-Language: en-us
+User-Agent: Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
+Accept-Encoding: gzip, deflate
+Host: bannerfarm.ace.advertising.com
+Connection: Keep-Alive
+Cookie: ACID=rb880013134326530043; ASCID=rb880013134326530043; F1=B0EZJ5kAAAAA0bCDAEAAgEABAAAABAA

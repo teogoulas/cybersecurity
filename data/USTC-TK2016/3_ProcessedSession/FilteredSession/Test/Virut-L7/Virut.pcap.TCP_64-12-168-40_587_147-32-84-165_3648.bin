@@ -1,0 +1,99 @@
+220-mtaout-ma05.r1000.mx.aol.com ESMTP MUA/Third Party Client Interface
+220-AOL and its affiliated companies do not
+220-authorize the use of its proprietary computers and computer
+220-networks to accept, transmit, or distribute unsolicited bulk
+220-e-mail sent from the internet.
+220-Effective immediately:
+220-AOL may no longer accept connections from IP addresses
+220 which no reverse-DNS (PTR record) assigned.
+EHLO g_webb15
+EHLO g_webb15
+250-mtaout-ma05.r1000.mx.aol.com
+250-PIPELINING
+250-SIZE 36700160
+250-ETRN
+250-STARTTLS
+250-AUTH XAOL-UAS-MB LOGIN PLAIN
+250-AUTH=XAOL-UAS-MB LOGIN PLAIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+Z193ZWJiMTU=
+Z193ZWJiMTU=
+334 UGFzc3dvcmQ6
+WHNtSkFyNjU=
+WHNtSkFyNjU=
+235 2.7.0 Authentication successful
+MAIL FROM: <g_webb15@aol.com>
+MAIL FROM: <g_webb15@aol.com>
+250 2.1.0 Ok
+RCPT TO: <luckylady4d@aol.com>
+RCPT TO: <luckylady4d@aol.com>
+250 2.1.5 Ok
+RCPT TO: <tmpark081@gmail.com>
+RCPT TO: <tmpark081@gmail.com>
+250 2.1.5 Ok
+RCPT TO: <jeffborrer@yahoo.co.uk>
+RCPT TO: <jeffborrer@yahoo.co.uk>
+250 2.1.5 Ok
+RCPT TO: <conquer98031@yahoo.com>
+RCPT TO: <conquer98031@yahoo.com>
+250 2.1.5 Ok
+DATA
+DATA
+354 End data with <CR><LF>.<CR><LF>
+Message-ID: <606901393$367257848$1765017932@g_webb15>
+From: "Hatto Utan" <g_webb15@aol.com>
+To: <luckylady4d@aol.com>
+Subject: HeGives HisS hemale L overAGo odAn alPoundi ngOnT heBe d
+Date: Mon, 15 Aug 2011 16:45:36 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<br>sute, I ran nto creras seior. He was smokng a cigr and had tht  <a href="http://cjtJnJRzvB4FmrsU.hardcorewowoc.com?ZytjJJzKSbTjxVS">http://ZytjJJzKSbTjxVS.hardcor89151825ewowoc.com?YJmQMCXwctPZvd</a> <br>and poined to the floo of the cratr.</BODMessage-ID: <606901393$367257848$1765017932@g_webb15>
+From: "Hatto Utan" <g_webb15@aol.com>
+To: <luckylady4d@aol.com>
+Subject: HeGives HisS hemale L overAGo odAn alPoundi ngOnT heBe d
+Date: Mon, 15 Aug 2011 16:45:36 GMT
+MIME-Version: 1.0
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<br>sute, I ran nto creras seior. He was smokng a cigr and had tht  <a href="http://cjtJnJRzvB4FmrsU.hardcorewowoc.com?ZytjJJzKSbTjxVS">http://ZytjJJzKSbTjxVS.hardcor89151825ewowoc.com?YJmQMCXwctPZvd</a> <br>and poined to the floo of the cratr.</BODY></HTML>
+.
+Y></HTML>
+.
+250 2.0.0 Ok: queued as CB0CEE0000F0
+421 4.4.2 mtaout-ma05.r1000.mx.aol.com Error: timeout exceeded

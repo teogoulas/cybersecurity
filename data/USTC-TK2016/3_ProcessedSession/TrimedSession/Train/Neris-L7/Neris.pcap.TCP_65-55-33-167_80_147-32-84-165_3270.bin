@@ -1,0 +1,10 @@
+GET /default.aspx HTTP/1.1
+Host: co105w.col105.mail.live.com
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Charset: utf-8;q=0.7,*;q=0.7
+Accept-Encoding: gzip, identity, *;q=0
+Connection: Close
+Referer: http://mail.live.com/default.aspx
+Cookie: PPLState=1; RPSTAuth=EwDoARAnAAAUWkziSC7RbDJKS1VkhugDegv7L0eAAPFUVaOXkje0yB8iDxb04iA2Vt7ZO2gpPO3ioFgNNO0xlpUirzFLFr7XK14PR1pdWqrgAYF2+Sn34wzWAnI/lOyPtuUMexMYnHlgleG3JrfhoWemPbH8uoKPW2EjHJV8cnPof7jCxHCBL2oE1XTvsDFFk/tAU/UmQzLJcw5BcY+KA2YAAAjm3JXL0Z5oLjgBztOAOePsfoyKzNY0xAKatpLPzY7j/mmxF/yJ/rqd9XBbx2UAxEzXRXIAk0erIrVgcF/aUqwprwsfdHIyF+PbgqDTguCeqSJmX2olc80PHQhPn

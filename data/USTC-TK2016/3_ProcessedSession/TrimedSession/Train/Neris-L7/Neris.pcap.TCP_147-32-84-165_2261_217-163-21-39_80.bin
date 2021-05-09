@@ -1,0 +1,13 @@
+GET /imp?Z=160x600&anmember=541&anprice=&referrer=http%3a%2f%2fwww.newcarus.com%2fnewcar.html&s=2180005&_salt=1821438126&B=10&u=http%3A%2F%2Fwww.newcarus.com%2Fnewcar.html&r=1&SIG=10v5n9i1s;x-cookie=6e8irb9744fqp&o=4&f=1n HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/newcar.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: ad.yieldmanager.com
+
+GET /imp?Z=160x600&anmember=541&anprice=&referrer=http%3a%2f%2fwww.newcarus.com%2fnewcar.html&s=2180005&_salt=1821438126&B=10&u=http%3A%2F%2Fwww.newcarus.com%2Fnewcar.html&r=1&SIG=10v5n9i1s;x-cookie=6e8irb9744fqp&o=4&f=1n HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/newcar.html
+Accept-Language: en-us

@@ -1,0 +1,18 @@
+GET /infjew HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.9.1.4)  Gecko/20091007 Firefox/3.5.4
+Host: 77.79.4.96:41422
+
+GET /infjew HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.9.1.4)  Gecko/20091007 Firefox/3.5.4
+Host: 77.79.4.96:41422
+
+HTTP/1.1 200 OK
+Date: Wed, 10 Aug 2011 11:09:18 GMT
+Server: Apache/2.2.3 (CentOS)
+Last-Modified: Wed, 27 Jul 2011 12:15:18 GMT
+ETag: "a720132-a600-4a90c00628180"
+Accept-Ranges: bytes
+Content-Length: 42496
+Content-Type: text/plain; charset=UTF-8
+
+хЄи88иииииииииииииииииииииииииииииииииииииииииииииииииииииииHиииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииии°эи

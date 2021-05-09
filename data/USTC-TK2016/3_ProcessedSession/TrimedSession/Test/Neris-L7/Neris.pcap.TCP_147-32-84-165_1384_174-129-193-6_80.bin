@@ -1,0 +1,25 @@
+GET /stylesheets/screen3.css?1312473630 HTTP/1.0
+Accept: */*
+Referer: http://www.carpet-tiles.com/
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.carpet-tiles.com
+Connection: Keep-Alive
+Cookie: _domain_producer_session=BAh7BjoPc2Vzc2lvbl9pZCIlNjVkMzk4YWY3ODBmMGUxODRkN2I0ZjhkZjA4ZWI5OWM%3D--26adc9e26b4853ce543cf41683e6950f2f0b4886
+
+HTTP/1.1 200 OK
+Server: nginx/0.7.65
+Date: Thu, 11 Aug 2011 10:19:11 GMT
+Content-Type: text/css
+Content-Length: 49729
+Last-Modified: Thu, 04 Aug 2011 16:00:30 GMT
+Connection: close
+Expires: Sun, 08 Aug 2021 10:19:11 GMT
+Cache-Control: max-age=315360000
+Accept-Ranges: bytes
+
+/********** Appointement CSS **********/
+/** By  O2a , Eshbeata **/
+
+
+/**** reset *********/
+*{margin:0;padding:0;border: 0 no

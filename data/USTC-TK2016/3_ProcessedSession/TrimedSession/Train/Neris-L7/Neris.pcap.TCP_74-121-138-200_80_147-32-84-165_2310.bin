@@ -1,0 +1,19 @@
+GET /sync/img?mt_exid=13&mt_exuid=7828826173434890453 HTTP/1.1
+Accept: */*
+Referer: http://myanimalclips.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: sync.mathtag.com
+Connection: Keep-Alive
+Cookie: uuid=4e43959c-840e-4f9c-80bc-a436ea1cba50; ts=1313053634
+
+HTTP/1.1 200 OK
+Server: mt2/2.0.18.1573 Apr 18 2011 16:09:07 cdg-pixel-x5 pid 0x26b7 9911
+Cache-Control: no-cache
+Content-Type: image/gif
+P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+Date: Thu, 11 Aug 2011 09:41:19 GMT
+Connection: Keep-Alive
+Set-Cookie: ts=1313055679; domain=.mathtag.com; path=/; expires=Fri, 10-Aug-2012 09:41:19 GMT
+Set-Cookie: mt_mop=13:1313055679; domain=.mathtag.co

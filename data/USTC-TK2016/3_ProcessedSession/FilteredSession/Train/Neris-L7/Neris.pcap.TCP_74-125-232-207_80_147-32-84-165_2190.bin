@@ -1,0 +1,26 @@
+GET /ga.js HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/newcar.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Fri, 05 Aug 2011 20:32:24 GMT; length=31256
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.google-analytics.com
+Connection: Keep-Alive
+
+GET /ga.js HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/newcar.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Fri, 05 Aug 2011 20:32:24 GMT; length=31256
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.google-analytics.com
+Connection: Keep-Alive
+
+HTTP/1.1 304 Not Modified
+Date: Wed, 10 Aug 2011 11:01:53 GMT
+Expires: Wed, 10 Aug 2011 13:01:53 GMT
+Age: 3103
+Server: GFE/2.0
+

@@ -1,0 +1,23 @@
+GET /AI/Api/v1/UserRest.svc/Provider/1AC1C520-232B-4E3D-B0CC-A52AC15EB7D4/User/7828826173434890453/gif?meta=appNexus HTTP/1.1
+Accept: */*
+Referer: http://m1.mediasrv.net/www/delivery/afr.php?zoneid=1361&ad_size=160x600&section=116990
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: aidps.atdmt.com
+Connection: Keep-Alive
+Cookie: AA002=1313052291-3739208; MUID=6F81259133904682972497CE1B0DA23B
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+ntCoent-Length: 42
+Content-Type: image/gif
+Expires: 3:10:59 AM
+Server: Microsoft-IIS/7.5
+TrackingId: 8456ab31-e29c-48c9-83cf-15425f4e8a8c
+X-Powered-By: ASP.NET
+Date: Thu, 11 Aug 2011 10:11:04 GMT
+Content-Encoding: gzip
+Content-Length:         54
+
+

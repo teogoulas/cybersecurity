@@ -1,0 +1,6 @@
+GET / HTTP/1.0
+Host: 72.20.15.61
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; U; FreeBSD i386; en-US; rv:1.7.8) Gecko/20050609 Firefox/1.0.4
+

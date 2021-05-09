@@ -1,0 +1,12 @@
+GET /atoms/04/ce/3f/3c/04ce3f3c17b534e467388bad49650661.swf?clickTag=http%3A%2F%2Fad%2Eyieldmanager%2Ecom%2Fclk%3F3%2CeAGljd0KgkAQhV9Icte%2EpKWLtbRSVxGMyDv%2ENZQ1VFZ9%2DqQWX6C5mDnDnPMNlFGh5bqkZHuQxVBNYoCgDBNdyuOkyASAEIK6rGoq0CQoGMENY9%2EsrvhkNJ2Cv%2DVMxC5%2Ecu2rgfJlnQG2zhf94fK7U6fz5vxLGCWbTE5YX3L%2D2%2DnH8WwaG%2Epym%2E3QrqMwYO6DLFFLBhJaDTnB2nsR4IbP5bmYk7fYbfS6Kx7bkkdBqIahO4giY2wXp2ne9xVtmplRmu1S2oofLuJcxQ%3D%3D%2C HTTP/1.1
+Accept: */*
+Referer: http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=160x600&section=1845729
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: content.yieldmanager.edgesuite.net
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: Apache
+ETag: "04ce3f3c17b534e467388ba

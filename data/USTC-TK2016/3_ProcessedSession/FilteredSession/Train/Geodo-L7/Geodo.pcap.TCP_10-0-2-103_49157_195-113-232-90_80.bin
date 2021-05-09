@@ -1,0 +1,13 @@
+GET /ncsi.txt HTTP/1.1
+Connection: Close
+User-Agent: Microsoft NCSI
+Host: www.msftncsi.com
+
+HTTP/1.1 200 OK
+Content-Length: 14
+Date: Wed, 22 Apr 2015 09:26:01 GMT
+Connection: close
+Content-Type: text/plain
+Cache-Control: max-age=30, must-revalidate
+
+Microsoft NCSI

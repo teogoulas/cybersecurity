@@ -1,0 +1,65 @@
+220 smtp112.mail.ne1.yahoo.com ESMTP
+EHLO johannahcarilkv
+EHLO johannahcarilkv
+250-smtp112.mail.ne1.yahoo.com
+250-AUTH LOGIN PLAIN XYMCOOKIE
+250-PIPELINING
+250 8BITMIME
+AUTH LOGIN
+AUTH LOGIN
+334 VXNlcm5hbWU6
+am9oYW5uYWhjYXJpbGt2
+am9oYW5uYWhjYXJpbGt2
+334 UGFzc3dvcmQ6
+N2dtdHJ0a3FrcXQ=
+N2dtdHJ0a3FrcXQ=
+235 OK, go ahead
+MAIL FROM: <johannahcarilkv@yahoo.com>
+MAIL FROM: <johannahcarilkv@yahoo.com>
+250 OK , completed
+RCPT TO: <homerandmarge2000@yahoo.com>
+RCPT TO: <homerandmarge2000@yahoo.com>
+250 OK , completed
+RCPT TO: <waltersj22@yahoo.com>
+RCPT TO: <waltersj22@yahoo.com>
+250 OK , completed
+DATA
+DATA
+354 Start Mail. End with CRLF.CRLF
+Message-ID: <1660742579$118030145$631974136@johannahcarilkv>
+From: "Keyvan cherian" <johannahcarilkv@yahoo.com>
+To: <homerandmarge2000@yahoo.com>
+Subject: GetYourMedicineForAlmostNothing
+Date: Mon, 15 Aug 2011 17:28:38 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+RzvISWKQbWK http://jeffbsison05.tux.nu?memadobolu.coniwowezur gfRNkxzuzQNfwFzMessage-ID: <1660742579$118030145$631974136@johannahcarilkv>
+From: "Keyvan cherian" <johannahcarilkv@yahoo.com>
+To: <homerandmarge2000@yahoo.com>
+Subject: GetYourMedicineForAlmostNothing
+Date: Mon, 15 Aug 2011 17:28:38 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft.Outlook.Express.6.00.2900.2180
+X-MimeOLE: Produced.By.Microsoft.MimeOLE.V6.00.2900.2180
+
+RzvISWKQbWK http://jeffbsison05.tux.nu?memadobolu.coniwowezur gfRNkxzuzQNfwFz
+.
+
+.
+554 Transaction failed : Cannot send message due to possible abuse; please visit http://postmaster.yahoo.com/abuse_smtp.html for more information

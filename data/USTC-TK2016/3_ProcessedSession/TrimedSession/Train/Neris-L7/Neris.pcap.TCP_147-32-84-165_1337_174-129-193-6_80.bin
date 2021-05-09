@@ -1,0 +1,18 @@
+GET / HTTP/1.0
+Accept: */*
+Referer: http://www.google.ca/url?sa=t&source=web&ct=res&cd=8&url=http://carpet-tiles.com&ei=TFKmSv_ZE8KJ8QbI49XmDw&rct=j&q=carpet-tiles&usg=AFQjCNEy91KeXd8I_CBpP158_PXD5IcHiw
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: www.carpet-tiles.com
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Connection: close
+Status: 200
+X-Powered-By: Phusion Passenger (mod_rails/mod_rack) 2.2.10
+ETag: "a6634a6ff5c5f9eb9464050010b65399"
+X-Runtime: 2
+Content-Length: 40369
+Set-Cookie: _domain_producer_session=BAh7BjoPc2Vzc2lvbl9pZCIlNjVkMzk4YWY3ODBmMGUxODRkN2I0ZjhkZjA4ZWI5OWM%3D--26adc9e26b4853ce543cf41683e6950f2f0b4886; path=/; HttpOnly
+Cache-Control: private, max-age=0, must-revalidate
+Serve

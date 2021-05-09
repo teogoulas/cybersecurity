@@ -1,0 +1,4 @@
+USER anonymous
+331 Password required for anonymous
+PASS jobs@server.com
+230 User anonymous logged in.

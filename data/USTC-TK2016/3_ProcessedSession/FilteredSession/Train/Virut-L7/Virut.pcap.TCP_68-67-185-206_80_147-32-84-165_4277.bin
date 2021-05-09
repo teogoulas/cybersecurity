@@ -1,0 +1,159 @@
+GET /ptj?member=541&size=300x250&inv_code=2056437&referrer=http://www.netygames.com/netgame.html&redir=http%3A%2F%2Fad.yieldmanager.com%2Fst%3Fanmember%3D541%26anprice%3D%7BPRICEBUCKET%7D%26ad_type%3Dad%26ad_size%3D300x250%26section%3D2056437%26referrer%3Dhttp%3A%2F%2Fwww.netygames.com%2Fnetgame.html HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ib.adnxs.com
+Connection: Keep-Alive
+
+GET /ptj?member=541&size=300x250&inv_code=2056437&referrer=http://www.netygames.com/netgame.html&redir=http%3A%2F%2Fad.yieldmanager.com%2Fst%3Fanmember%3D541%26anprice%3D%7BPRICEBUCKET%7D%26ad_type%3Dad%26ad_size%3D300x250%26section%3D2056437%26referrer%3Dhttp%3A%2F%2Fwww.netygames.com%2Fnetgame.html HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ib.adnxs.com
+Connection: Keep-Alive
+
+HTTP/1.1 302 Found
+Cache-Control: no-store, no-cache, private
+Pragma: no-cache
+Expires: Sat, 15 Nov 2008 16:00:00 GMT
+P3P: CP="OTI DSP COR ADMo TAIo PSAo PSDo CONo OUR SAMo OTRo STP UNI PUR COM NAV INT DEM STA PRE LOC"
+Set-Cookie: sess=1; path=/; expires=Tue, 16-Aug-2011 19:06:08 GMT; domain=.adnxs.com; HttpOnly
+Set-Cookie: uuid2=5367432877838783736; path=/; expires=Sun, 13-Nov-2011 19:06:08 GMT; domain=.adnxs.com; HttpOnly
+Location: http://ad.yieldmanager.com/st?anmember=541&anprice=&ad_type=ad&ad_size=300x250&section=2056437&referrer=http://www.netygames.com/netgame.html
+Date: Mon, 15 Aug 2011 19:06:08 GMT
+Content-Length: 0
+
+GET /ptj?member=541&size=468x60&inv_code=2056437&referrer=http://www.netygames.com/netgame.html&redir=http%3A%2F%2Fad.yieldmanager.com%2Fst%3Fanmember%3D541%26anprice%3D%7BPRICEBUCKET%7D%26ad_type%3Dad%26ad_size%3D468x60%26section%3D2056437%26referrer%3Dhttp%3A%2F%2Fwww.netygames.com%2Fnetgame.html HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ib.adnxs.com
+Connection: Keep-Alive
+Cookie: sess=1; uuid2=5367432877838783736
+
+GET /ptj?member=541&size=468x60&inv_code=2056437&referrer=http://www.netygames.com/netgame.html&redir=http%3A%2F%2Fad.yieldmanager.com%2Fst%3Fanmember%3D541%26anprice%3D%7BPRICEBUCKET%7D%26ad_type%3Dad%26ad_size%3D468x60%26section%3D2056437%26referrer%3Dhttp%3A%2F%2Fwww.netygames.com%2Fnetgame.html HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ib.adnxs.com
+Connection: Keep-Alive
+Cookie: sess=1; uuid2=5367432877838783736
+
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, private
+Pragma: no-cache
+Expires: Sat, 15 Nov 2008 16:00:00 GMT
+P3P: CP="OTI DSP COR ADMo TAIo PSAo PSDo CONo OUR SAMo OTRo STP UNI PUR COM NAV INT DEM STA PRE LOC"
+Set-Cookie: sess=1; path=/; expires=Tue, 16-Aug-2011 19:06:09 GMT; domain=.adnxs.com; HttpOnly
+Set-Cookie: uuid2=5367432877838783736; path=/; expires=Sun, 13-Nov-2011 19:06:09 GMT; domain=.adnxs.com; HttpOnly
+Set-Cookie: icu=ChII3I4BEAoYASABKAEwodyl8gQQodyl8gQYAA..; path=/; expires=Sun, 13-Nov-2011 19:06:09 GMT; domain=.adnxs.com; HttpOnly
+Set-Cookie: anj=Kfu=8fG5EfCxrx)0s]#%2L_'x%SEV/hnKD-=@s>MdWhK)Gc?_t; path=/; expires=Sun, 13-Nov-2011 19:06:09 GMT; domain=.adnxs.com; HttpOnly
+Content-Type: text/javascript
+Date: Mon, 15 Aug 2011 19:06:09 GMT
+Content-Length: 211
+
+document.write('<scr'+'ipt type="text/javascript"src="http://ad.yieldmanager.com/st?anmember=541&anprice=&ad_type=ad&ad_size=468x60&section=2056437&referrer=http://www.netygames.com/netgame.html"></scr'+'ipt>');GET /ptj?member=541&size=728x90&inv_code=2056437&referrer=http://www.netygames.com/netgame.html&redir=http%3A%2F%2Fad.yieldmanager.com%2Fst%3Fanmember%3D541%26anprice%3D%7BPRICEBUCKET%7D%26ad_type%3Dad%26ad_size%3D728x90%26section%3D2056437%26referrer%3Dhttp%3A%2F%2Fwww.netygames.com%2Fnetgame.html HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ib.adnxs.com
+Connection: Keep-Alive
+Cookie: sess=1; uuid2=5367432877838783736; icu=ChII3I4BEAoYASABKAEwodyl8gQQodyl8gQYAA..; anj=Kfu=8fG5EfCxrx)0s]#%2L_'x%SEV/hnKD-=@s>MdWhK)Gc?_t
+
+GET /ptj?member=541&size=728x90&inv_code=2056437&referrer=http://www.netygames.com/netgame.html&redir=http%3A%2F%2Fad.yieldmanager.com%2Fst%3Fanmember%3D541%26anprice%3D%7BPRICEBUCKET%7D%26ad_type%3Dad%26ad_size%3D728x90%26section%3D2056437%26referrer%3Dhttp%3A%2F%2Fwww.netygames.com%2Fnetgame.html HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ib.adnxs.com
+Connection: Keep-Alive
+Cookie: sess=1; uuid2=5367432877838783736; icu=ChII3I4BEAoYASABKAEwodyl8gQQodyl8gQYAA..; anj=Kfu=8fG5EfCxrx)0s]#%2L_'x%SEV/hnKD-=@s>MdWhK)Gc?_t
+
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, private
+Pragma: no-cache
+Expires: Sat, 15 Nov 2008 16:00:00 GMT
+P3P: CP="OTI DSP COR ADMo TAIo PSAo PSDo CONo OUR SAMo OTRo STP UNI PUR COM NAV INT DEM STA PRE LOC"
+Set-Cookie: sess=1; path=/; expires=Tue, 16-Aug-2011 19:06:10 GMT; domain=.adnxs.com; HttpOnly
+Set-Cookie: uuid2=5367432877838783736; path=/; expires=Sun, 13-Nov-2011 19:06:10 GMT; domain=.adnxs.com; HttpOnly
+Set-Cookie: icu=ChII3I4BEAoYAiACKAIwotyl8gQQotyl8gQYAQ..; path=/; expires=Sun, 13-Nov-2011 19:06:10 GMT; domain=.adnxs.com; HttpOnly
+Set-Cookie: anj=Kfu=8fG5EfCxrx)0s]#%2L_'x%SEV/hnKD-=@s>MdWhK)Gc?_t; path=/; expires=Sun, 13-Nov-2011 19:06:10 GMT; domain=.adnxs.com; HttpOnly
+Content-Type: text/javascript
+Date: Mon, 15 Aug 2011 19:06:10 GMT
+Content-Length: 211
+
+document.write('<scr'+'ipt type="text/javascript"src="http://ad.yieldmanager.com/st?anmember=541&anprice=&ad_type=ad&ad_size=728x90&section=2056437&referrer=http://www.netygames.com/netgame.html"></scr'+'ipt>');GET /ptj?member=541&size=160x600&inv_code=2056437&referrer=http://www.netygames.com/netgame.html&redir=http%3A%2F%2Fad.yieldmanager.com%2Fst%3Fanmember%3D541%26anprice%3D%7BPRICEBUCKET%7D%26ad_type%3Dad%26ad_size%3D160x600%26section%3D2056437%26referrer%3Dhttp%3A%2F%2Fwww.netygames.com%2Fnetgame.html HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ib.adnxs.com
+Connection: Keep-Alive
+Cookie: sess=1; uuid2=5367432877838783736; icu=ChII3I4BEAoYAiACKAIwotyl8gQQotyl8gQYAQ..; anj=Kfu=8fG5EfCxrx)0s]#%2L_'x%SEV/hnKD-=@s>MdWhK)Gc?_t
+
+GET /ptj?member=541&size=160x600&inv_code=2056437&referrer=http://www.netygames.com/netgame.html&redir=http%3A%2F%2Fad.yieldmanager.com%2Fst%3Fanmember%3D541%26anprice%3D%7BPRICEBUCKET%7D%26ad_type%3Dad%26ad_size%3D160x600%26section%3D2056437%26referrer%3Dhttp%3A%2F%2Fwww.netygames.com%2Fnetgame.html HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ib.adnxs.com
+Connection: Keep-Alive
+Cookie: sess=1; uuid2=5367432877838783736; icu=ChII3I4BEAoYAiACKAIwotyl8gQQotyl8gQYAQ..; anj=Kfu=8fG5EfCxrx)0s]#%2L_'x%SEV/hnKD-=@s>MdWhK)Gc?_t
+
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, private
+Pragma: no-cache
+Expires: Sat, 15 Nov 2008 16:00:00 GMT
+P3P: CP="OTI DSP COR ADMo TAIo PSAo PSDo CONo OUR SAMo OTRo STP UNI PUR COM NAV INT DEM STA PRE LOC"
+Set-Cookie: sess=1; path=/; expires=Tue, 16-Aug-2011 19:06:10 GMT; domain=.adnxs.com; HttpOnly
+Set-Cookie: uuid2=5367432877838783736; path=/; expires=Sun, 13-Nov-2011 19:06:10 GMT; domain=.adnxs.com; HttpOnly
+Set-Cookie: icu=ChII3I4BEAoYAyADKAMwotyl8gQQotyl8gQYAg..; path=/; expires=Sun, 13-Nov-2011 19:06:10 GMT; domain=.adnxs.com; HttpOnly
+Set-Cookie: anj=Kfu=8fG5EfCxrx)0s]#%2L_'x%SEV/hnKD-=@s>MdWhK)Gc?_t; path=/; expires=Sun, 13-Nov-2011 19:06:10 GMT; domain=.adnxs.com; HttpOnly
+Content-Type: text/javascript
+Date: Mon, 15 Aug 2011 19:06:10 GMT
+Content-Length: 212
+
+document.write('<scr'+'ipt type="text/javascript"src="http://ad.yieldmanager.com/st?anmember=541&anprice=&ad_type=ad&ad_size=160x600&section=2056437&referrer=http://www.netygames.com/netgame.html"></scr'+'ipt>');GET /ptj?member=541&inv_code=2056437&media_subtypes=popunder&pop_freq_times=1&pop_freq_duration=86400&referrer=http://www.netygames.com/netgame.html&redir=http%3A%2F%2Fad.yieldmanager.com%2Fst%3Fanmember%3D541%26anprice%3D%7BPRICEBUCKET%7D%26ad_type%3Dpop%26ad_size%3D0x0%26section%3D2056437%26banned_pop_types%3D29%26pop_times%3D1%26pop_frequency%3D86400 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ib.adnxs.com
+Connection: Keep-Alive
+Cookie: sess=1; uuid2=5367432877838783736; icu=ChII3I4BEAoYAyADKAMwotyl8gQQotyl8gQYAg..; anj=Kfu=8fG5EfCxrx)0s]#%2L_'x%SEV/hnKD-=@s>MdWhK)Gc?_t
+
+GET /ptj?member=541&inv_code=2056437&media_subtypes=popunder&pop_freq_times=1&pop_freq_duration=86400&referrer=http://www.netygames.com/netgame.html&redir=http%3A%2F%2Fad.yieldmanager.com%2Fst%3Fanmember%3D541%26anprice%3D%7BPRICEBUCKET%7D%26ad_type%3Dpop%26ad_size%3D0x0%26section%3D2056437%26banned_pop_types%3D29%26pop_times%3D1%26pop_frequency%3D86400 HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ib.adnxs.com
+Connection: Keep-Alive
+Cookie: sess=1; uuid2=5367432877838783736; icu=ChII3I4BEAoYAyADKAMwotyl8gQQotyl8gQYAg..; anj=Kfu=8fG5EfCxrx)0s]#%2L_'x%SEV/hnKD-=@s>MdWhK)Gc?_t
+
+HTTP/1.1 302 Found
+Cache-Control: no-store, no-cache, private
+Pragma: no-cache
+Expires: Sat, 15 Nov 2008 16:00:00 GMT
+P3P: CP="OTI DSP COR ADMo TAIo PSAo PSDo CONo OUR SAMo OTRo STP UNI PUR COM NAV INT DEM STA PRE LOC"
+Set-Cookie: sess=1; path=/; expires=Tue, 16-Aug-2011 19:06:11 GMT; domain=.adnxs.com; HttpOnly
+Set-Cookie: uuid2=5367432877838783736; path=/; expires=Sun, 13-Nov-2011 19:06:11 GMT; domain=.adnxs.com; HttpOnly
+Location: http://ad.yieldmanager.com/st?anmember=541&anprice=&ad_type=pop&ad_size=0x0&section=2056437&banned_pop_types=29&pop_times=1&pop_frequency=86400
+Date: Mon, 15 Aug 2011 19:06:11 GMT
+Content-Length: 0
+

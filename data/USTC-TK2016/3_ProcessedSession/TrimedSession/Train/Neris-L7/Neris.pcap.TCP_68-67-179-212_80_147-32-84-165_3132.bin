@@ -1,0 +1,10 @@
+GET /ptj?member=541&size=300x250&inv_code=2056437&referrer=http://www.netygames.com/netgame.html&redir=http%3A%2F%2Fad.yieldmanager.com%2Fst%3Fanmember%3D541%26anprice%3D%7BPRICEBUCKET%7D%26ad_type%3Dad%26ad_size%3D300x250%26section%3D2056437%26referrer%3Dhttp%3A%2F%2Fwww.netygames.com%2Fnetgame.html HTTP/1.1
+Accept: */*
+Referer: http://www.netygames.com/netgame.html
+Accept-Language: en-us
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.14) Gecko/2009090217 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Accept-Encoding: gzip, deflate
+Host: ib.adnxs.com
+Connection: Keep-Alive
+
+GET /ptj?member=541&size=300x250&inv_code=2056437&referrer=http://www.netygames.com/netgame.html&redir=http%3A%2F%2Fad.yieldmanager.com%2Fst%3Fanmember%3D541%26anprice%3D%7BPRICEBUCKET%7D%

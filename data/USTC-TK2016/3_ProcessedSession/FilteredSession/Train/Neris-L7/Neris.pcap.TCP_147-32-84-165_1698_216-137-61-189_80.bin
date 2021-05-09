@@ -1,0 +1,251 @@
+GET /160x600.html?t=Have%20you%20tried%20Smowtion%3F&d=Create%20an%20account%20and%20try%20a%20new%20alternative%20to%20monetize%20your%20website%21&c=Create%20account&u=http%3A//ad.yieldmanager.com/clk%3F3%2CeAGdjt2OgjAQhV-IlZZOabPNXpTfdGPJkpgYvVtARAUxG6qBp18U8QGci5mT72RmDiYCZ2VJc.glgAhFORWY4Iw7kEFOLCSEwC7DgClwbkUXj8nl0cSpz3x1k49SNZul3IdKynbiP.w-o8C7fuh0QqnDk0n5h6qHSb7Vvdj15sXx5TPKjaUnE4QvRwaKJM13pY9FvVzrYduoTq-iWvsI9FBUIxv9jZPEG7ptwmHOOV7-sqyq6y6ftt235q8053PfmWy3yNvGvh6KXWuD46J.MxNbNw%3D%3D%2C HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://ad.yieldmanager.com/iframe3?FpB7ALjuGQC7CIwAAAAAAIl7IwAAAAAAAgEIAAoAAAAAAP8AAAAFDBv-MQAAAAAAQ28NAAAAAACihy4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABG6BAAAAAAAAIAAwAAAAAArdhfdk8ehj-t2F92Tx6GPzvfT42XbpI.O99PjZdukj-4HoXrUbieP7gehetRuJ4.AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADR2LLmXIOMCkOJw8DQYeDn.0iKu0KgYPrY6CYyAAAAAA==,,http%3A%2F%2Fyourfunnytube.com%2Fvideo%2F4260,B%3D10%26Z%3D160x600%26_salt%3D3354865614%26r%3D1%26s%3D1699512,276ba27e-c3fb-11e0-837a-c76f64f9fa31
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cdnads.smowtion.com
+Connection: Keep-Alive
+
+HTTP/1.0 200 OK
+x-amz-id-2: 0/wQIwOx5+TAO0iGC6Dh7S5Ep6aWqJsxgO1Egd9h7VYS0mjjiqCpmyVxyfDtU4w3
+x-amz-request-id: 01F8A4F5309D7705
+Date: Sun, 01 May 2011 20:39:22 GMT
+x-amz-meta-md5-hash: f76e355562f3da8f0b3e39d3c7a11d7c
+Last-Modified: Tue, 26 Apr 2011 00:00:22 GMT
+ETag: "f76e355562f3da8f0b3e39d3c7a11d7c"
+Accept-Ranges: bytes
+Content-Type: text/html
+Content-Length: 9734
+Server: AmazonS3
+Age: 44150
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Id: 573931700a7a4d29fca004d3d74988267f217b2dedbc9a01705ef3c8640816b1278246ca4b03a5ae
+Via: 1.0 cb0cff4df213b2726dcd221a0eb7666c.cloudfront.net:11180 (CloudFront), 1.0 6e761598d9637d0090f3661d0d27be14.cloudfront.net:11180 (CloudFront)
+Connection: keep-alive
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Banner</title>
+		<style type="text/css" media="screen">
+			* { margin:0;padding:0;border:0; }
+			html { font:13px helvetica, "Lucida Sans Unicode","Lucida Grande",Garuda,sans-serif; } 
+			#bannerContent { margin:10px; }
+		</style>
+		<!--[if IE 7]>
+		<style type="text/css" media="screen">
+			h1 { font-size:22px;margin-top:-5px; }
+			p { margin:0;padding:0; }
+		</style>
+		<![endif]-->
+	</head>
+	<body>
+		
+		<!-- Banner Content -->
+		<div id="bannerContent">
+			<h1 id="title"></h1>
+			<p id="description"></p>
+			<span id="cta"></span>
+		</div>	
+		
+		<!-- Script -->
+		<script type="text/javascript" charset="utf-8">
+		
+			// PNG
+			var imgBg = 'iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMRJREFUeNrM18sNwCAMA9DASuw/'+
+						'QmeipQckxB/ysQewnpxTHBEFYkyM8eHs88g451zwyDi2BaVwLEBJ3DVQGncF1MAdA7VwR0BN3DZQG7cFtMAtA61wS0BL3BRojRsCEXBdIAquCUTCVUA0XAFExGUg'+
+						'Ku7v+nCEimP/Sbhx6bIeGce2oBSOBSiJuwZK466AGrhjoBbuCKiJ2wZq47aAFrhloBVuCWiJmwKtcUMgAq4LRME1gUi4CoiGK4CIuAxExaW8AgwAlZyffzWySoEAAAAASUVORK5CYII=';
+		
+		
+			var adSmow = {};
+			adSmow = (function(){
+				var config, def, blocks, banner, get, run; // Variables
+				
+				// Obtener elementos
+				get = {
+					byId: function(n){
+						return document.getElementById(n)
+					},
+					byName: function(n,e){
+						if(!e) e = document;
+						return e.getElementsByTagName(n)
+					},
+					body: function(){
+						return document.getElementsByTagName('body')[0];
+					},
+					param: function(a,v) {
+					    var b = location.search.substring(1, location.search.length), c;
+					    var d = b.split('&');
+					    for (i = 0; i < d.length; i++) {
+					        paramName = d[i].substring(0, d[i].indexOf('='));
+					        if (paramName == a) {
+					            c = d[i].substring(d[i].indexOf('=') + 1)
+					        }
+					    }
+					    if(c){ return c }
+						else { return v }
+					}	
+				};
+				
+				def = {
+					bgColor: 'a00',
+					ctaColor: '000',
+					ctaBgColor: 'E7B93A',
+					ctaBg: 'iVBORw0KGgoAAAANSUhEUgAAAAEAAABGCAYAAAANSP5dAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADJJREFUeNpi+P//PwMIMDKhEAxMmGJgggmXBE4lOLn4JZiIlMDGxSmGX4JixegEQIABAKwgA/KIxDjJAAAAAElFTkSuQmCC',
+					fontColor: 'fff',
+					sizeDefault: '160x600',
+					sizeList: ['300x250','728x90','160x600','120x600','468x60','234x60'],
+					clickUrl: '{{CLICKURL}}'
+				};
+				
+				// Configuración de bloques
+				blocks = {
+					'300x250': {
+						h1: 'font-size:35px;',
+						p: 'font-size:15px;line-height:17px;margin-top:15px;',
+						span: 'background-color:#'+ (get.param('ctaBgColor',def.ctaBgColor)) +';border:1px solid #333;bottom:5px;color:#'+ (get.param('ctaColor',def.ctaColor)) +';font-size:14px;font-weight:800;position:absolute;left:50%;margin-left:-100px;text-align:center;width:200px;border-radius:5px;-moz-border-radius:5px;background-image:url("data:image/png;base64,'+ def.ctaBg +'");'
+					}, 
+					'728x90': {
+						h1: 'margin-top:-3px;',
+						p: 'width:550px;margin-top:5px;font-size:17px;',
+						span: 'background-color:#'+ (get.param('ctaBgColor',def.ctaBgColor)) +';border:1px solid #333;bottom:20px;color:#'+ (get.param('ctaColor',def.ctaColor)) +';font-size:14px;font-weight:800;position:absolute;right:10px;text-align:center;width:150px;border-radius:5px;-moz-border-radius:5px;background-image:url("data:image/png;base64,'+ def.ctaBg +'");'
+					},
+					'160x600': {
+						h1: 'font-size:26px;',
+						p: 'width:140px;font-size:16px;line-height:18px;margin-top:80px;',
+						span: 'background-color:#'+ (get.param('ctaBgColor',def.ctaBgColor)) +';border:1px solid #333;bottom:80px;color:#'+ (get.param('ctaColor',def.ctaColor)) +';font-size:14px;font-weight:800;position:absolute;right:10px;text-align:center;width:140px;border-radius:5px;-moz-border-radius:5px;background-image:url("data:image/png;base64,'+ def.ctaBg +'");'
+					},
+					'120x600': {
+						h1: 'font-size:19px;',
+						p: 'width:100px;font-size:16px;line-height:18px;margin-top:80px;',
+						span: 'background-color:#'+ (get.param('ctaBgColor',def.ctaBgColor)) +';border:1px solid #333;bottom:80px;color:#'+ (get.param('ctaColor',def.ctaColor)) +';font-size:14px;font-weight:800;position:absolute;right:10px;text-align:center;width:100px;border-radius:5px;-moz-border-radius:5px;background-image:url("data:image/png;base64,'+ def.ctaBg +'");'
+					},					
+					'468x60': { 
+						h1: 'font-size:22px;margin-top:-7px;padding:0;', 
+						p: 'width:350px;font-size:12px;line-height:13px',
+						span: 'background-color:#'+ (get.param('ctaBgColor',def.ctaBgColor)) +';border:1px solid #333;bottom:5px;color:#'+ (get.param('ctaColor',def.ctaColor)) +';font-size:14px;font-weight:800;position:absolute;right:5px;text-align:center;width:100px;border-radius:5px;-moz-border-radius:5px;background-image:url("data:image/png;base64,'+ def.ctaBg +'");'
+					},
+					'234x60': {
+						h1: 'font-size:12px;margin-top:-8px;padding:0;margin-left:-5px;', 
+						p: 'width:135px;font-size:9px;line-height:10px;margin-left:-5px;',
+						span: 'background-color:#'+ (get.param('ctaBgColor',def.ctaBgColor)) +';border:1px solid #333;bottom:5px;color:#'+ (get.param('ctaColor',def.ctaColor)) +';font-size:14px;font-weight:800;position:absolute;right:5px;text-align:center;width:80px;border-radius:5px;-moz-border-radius:5px;background-image:url("data:image/png;base64,'+ def.ctaBg +'");'
+					}
+				};
+				
+				// Preparo configuración
+				config = {
+					size: function(s,x){
+						in_array = function(b,c){var a=false;for(var i=0;i<c.length;i++){if(b==c[i]){a=true;break}}return a}
+						var z = null; z = get.param('size');
+						s = !s ? s = 0 : s;
+						z = (z && in_array(z,def.sizeList)) ? z : def.sizeDefault;
+						return (parseInt(z.split('x')[x]) + s) + 'px'
+					},
+					width: function(s){
+						return config.size(s,0)
+					},
+					height: function(s){
+						return config.size(s,1)
+					},
+					bgColor: function(){
+						return '#'+ get.param('bgColor', def.bgColor);
+					},
+					imgBg: function(){
+						return 'url(data:image/png;base64,' + imgBg  +')'
+					}
+				};
+				
+				// Obtener configuración del banner
+				banner = {
+					animation: function(e){
+						var i = 0;
+						(move = function(){
+						    e.style.left = i + 'px';
+							e.style.top = i + 'px';
+						    if (i > -10) { i = -29 }
+						    i += 1;
+						    m = setTimeout('move()', 60);
+						})();
+					},
+					bg: function(){
+						var e = document.createElement('div');
+						e.id = 'mobile';
+						e.style.width = config.width(50);
+						e.style.height = config.height(50);
+						e.style.backgroundColor = config.bgColor();
+						e.style.backgroundImage = config.imgBg();
+						e.style.position = 'absolute';
+						e.style.top = '-10px';
+						e.style.left = '-10px';
+						e.style.textIndent = '-9999px';
+						e.style.zIndex = '-9020';
+						var t = document.createTextNode('B');
+						e.appendChild(t);
+						banner.animation(e);
+						return e;
+					},
+					prepare: function(){
+						var e = document.createElement('div');
+						e.id = 'banner';
+						e.style.width = config.width();
+						e.style.height = config.height();
+						e.style.position = 'relative';
+						e.style.overflow = 'hidden';
+						e.style.border = '0';
+						e.style.margin = '0';
+						e.style.cursor = 'pointer';
+						e.style.cursor = 'hand';
+						e.appendChild(banner.bg());
+						e.appendChild(banner.content());
+						get.body().onclick = function(){
+							var u = unescape(get.param('u',def.clickurl));
+							var o = window.open(u,"smowtion");
+							if(!o) window.location.href = u;
+						}
+						return e;
+					},
+					elementSize: function(){
+						var e = get.byId('bannerContent');
+						try{
+							get.byName('h1',e)[0].setAttribute('style',blocks[get.param('size',def.sizeDefault)].h1);
+							get.byName('p',e)[0].setAttribute('style',blocks[get.param('size',def.sizeDefault)].p);
+							get.byName('span',e)[0].setAttribute('style',blocks[get.param('size',def.sizeDefault)].span);
+							var x = (get.byName('span',e)[0].clientHeight < 32 ? 15 : 7);
+							get.byName('span',e)[0].style.padding = x +'px 0';
+							
+							var IE7 = (navigator.appVersion.indexOf("MSIE 7.")==-1) ? false : true;
+							if(IE7) {
+								function rzCC(s){for(var a=/-([a-z])/;a.test(s);s=s.replace(a,RegExp.$1.toUpperCase()));return s}
+								function _setStyle(element, declaration){if(declaration.charAt(declaration.length-1)==';'){declaration=declaration.slice(0,-1)}var k,v;var splitted=declaration.split(';');for(var i=0,len=splitted.length;i<len;i++){k=rzCC(splitted[i].split(':')[0]);v=splitted[i].split(':')[1];eval("element.style."+k+"='"+v+"'")}}
+								_setStyle(get.byName('h1',e)[0], blocks[get.param('size',def.sizeDefault)].h1);
+								_setStyle(get.byName('p',e)[0], blocks[get.param('size',def.sizeDefault)].p);
+								var y = (get.param('size') == '468x60' || get.param('size') == '234x60') ? 'padding:7px 0;' : '';
+								_setStyle(get.byName('span',e)[0], y + blocks[get.param('size',def.sizeDefault)].span);
+							}
+						}
+						catch(err) {  }
+					},
+					content: function(){
+						get.byId('title').innerHTML = unescape(get.param('t'));
+						get.byId('description').innerHTML = unescape(get.param('d'));
+						get.byId('cta').innerHTML = unescape(get.param('c'));
+						
+						banner.elementSize();
+						get.byId('bannerContent').style.color = '#'+ get.param('fontColor',def.fontColor);
+						return get.byId('bannerContent');
+					},
+					create: function(){
+						get.body().appendChild(banner.prepare())
+					}
+				};
+				
+				return run = {
+					init: banner.create()
+				}
+			})();
+		</script>
+		
+	</body>
+</html>

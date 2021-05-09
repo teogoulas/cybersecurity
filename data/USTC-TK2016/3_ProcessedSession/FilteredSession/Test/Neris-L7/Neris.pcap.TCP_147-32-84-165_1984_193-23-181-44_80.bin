@@ -1,0 +1,16 @@
+GET / HTTP/1.0
+Host: 193.23.181.44
+Keep-Alive: 300
+Connection: keep-alive
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Symbian OS; Nokia 6600/5.27.0; 6936) Opera 8.50 [ru]
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 11 Aug 2011 10:47:47 GMT
+Content-Type: text/html
+Content-Length: 8
+Last-Modified: Thu, 18 Mar 2010 11:48:18 GMT
+Connection: close
+Accept-Ranges: bytes
+
+BLOCKED

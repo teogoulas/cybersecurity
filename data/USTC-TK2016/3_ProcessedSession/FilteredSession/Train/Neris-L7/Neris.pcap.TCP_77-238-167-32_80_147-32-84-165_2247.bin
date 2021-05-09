@@ -1,0 +1,34 @@
+GET /v2/cexposer/SIG=169t48blp/*http%3A//ad.yieldmanager.com/imp?Z=160x600&anmember=541&anprice=&referrer=http%3a%2f%2fwww.newcarus.com%2fnewcar.html&s=2180005&_salt=1821438126&B=10&u=http%3A%2F%2Fwww.newcarus.com%2Fnewcar.html&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/newcar.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: cookex.amp.yahoo.com
+
+GET /v2/cexposer/SIG=169t48blp/*http%3A//ad.yieldmanager.com/imp?Z=160x600&anmember=541&anprice=&referrer=http%3a%2f%2fwww.newcarus.com%2fnewcar.html&s=2180005&_salt=1821438126&B=10&u=http%3A%2F%2Fwww.newcarus.com%2Fnewcar.html&r=1 HTTP/1.1
+Accept: */*
+Referer: http://www.newcarus.com/newcar.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Connection: Keep-Alive
+Host: cookex.amp.yahoo.com
+
+HTTP/1.1 302 Found
+Date: Wed, 10 Aug 2011 11:55:24 GMT
+Set-Cookie: B=6r8veo9744sdc&b=3&s=39; expires=Tue, 10-Aug-2013 20:00:00 GMT; path=/; domain=.yahoo.com
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Location: http://ad.yieldmanager.com/imp?Z=160x600&anmember=541&anprice=&referrer=http%3a%2f%2fwww.newcarus.com%2fnewcar.html&s=2180005&_salt=1821438126&B=10&u=http%3A%2F%2Fwww.newcarus.com%2Fnewcar.html&r=1&SIG=10v5n9i1s;x-cookie=6e8irb9744fqp&o=4&f=1n
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Cache-Control: private
+
+59     
+<!-- cookex3.ads.adx.ch1.yahoo.com uncompressed/chunked Wed Aug 10 04:55:24 PDT 2011 -->
+
+0
+
