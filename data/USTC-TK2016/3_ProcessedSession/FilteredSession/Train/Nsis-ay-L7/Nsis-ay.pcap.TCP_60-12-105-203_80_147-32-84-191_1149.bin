@@ -1,351 +1,0 @@
-GET /kefu/js/120/82120.js HTTP/1.1
-Accept: */*
-Referer: http://www.bj-hjw.net/hk/?id=eg&ams=0tuQPLPoJgY%3d
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: www.54kefu.net
-Connection: Keep-Alive
-
-GET /kefu/js/120/82120.js HTTP/1.1
-Accept: */*
-Referer: http://www.bj-hjw.net/hk/?id=eg&ams=0tuQPLPoJgY%3d
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: www.54kefu.net
-Connection: Keep-Alive
-
-HTTP/1.1 200 OK
-Server: nginx/0.8.53
-Date: Fri, 19 Aug 2011 08:47:59 GMT
-Content-Type: application/x-javascript
-Content-Length: 362
-Last-Modified: Thu, 11 Aug 2011 08:14:57 GMT
-Connection: keep-alive
-Accept-Ranges: bytes
-
-var online=new Array();
-document.write("<script language=\"javascript\" src=\"http://webpresence.qq.com/getonline?Type=1&1728988685:2587553029:\" charset=\"utf-8\" type=\"text/javascript\"></script>");
-document.write("<script language=\"javascript\" src=\"http://www.54kefu.net/kefu/js/120/82120_code.js\" charset=\"utf-8\" type=\"text/javascript\"></script>");
-GET /kefu/js/120/82120_code.js HTTP/1.1
-Accept: */*
-Referer: http://www.bj-hjw.net/hk/?id=eg&ams=0tuQPLPoJgY%3d
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: www.54kefu.net
-Connection: Keep-Alive
-
-GET /kefu/js/120/82120_code.js HTTP/1.1
-Accept: */*
-Referer: http://www.bj-hjw.net/hk/?id=eg&ams=0tuQPLPoJgY%3d
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: www.54kefu.net
-Connection: Keep-Alive
-
-HTTP/1.1 200 OK
-Server: nginx/0.8.53
-Date: Fri, 19 Aug 2011 08:48:01 GMT
-Content-Type: application/x-javascript
-Content-Length: 2733
-Last-Modified: Thu, 11 Aug 2011 08:14:57 GMT
-Connection: keep-alive
-Accept-Ranges: bytes
-
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('9.1G("<1H B=\\"5://c.d.e/E/1I.E\\" 1F=\\"1E\\" 1A=\\"Q/E\\"><r 1C=\\"u\\" g=\\"Z-1D: 1J;1K: 1Q; 1R: V; 1S: 1P; 1O:1L; 1M:1N;\\"><m 10=\\"0\\" 11=\\"0\\" X=\\"1z%\\" b=\\"1r\\"><i><6><8 b=\\"O\\" g=\\"C-1p: 1o(5://c.d.e/t/21/S.j); C-W: 1q-W; C-Y: T K;\\"><r g=\\"X:1x; N:1s; Y:V; A:U; R:U; 1w:1v; 1t: 1u;Q-k:R;\\" 20=\\"1i();\\">&z;&z;&z;&z;</r><y x=\\"5://c.d.e/t/21/A.j\\" 1U=\\"0\\" G=\\"0\\" l=\\"0\\" /></8></6><6><8 b=\\"2c\\" C=\\"5://c.d.e/t/21/S.j\\"><m b=\\"2f\\" k=\\"T\\" 10=\\"0\\" 11=\\"0\\"><i><6><8 19=\\"2\\" b=\\"1a\\"><a I=\\"H\\" B=\\"5://s.o.q/17?v=3&f;16=18&f;12=æ¸¯ç‰ˆè‹¹æœ&f;P=14\\"><y x=\\"5://s.o.q/15?p=1:18:7\\" G=\\"4\\" l=\\"0\\" k=\\"M\\" 1c=\\"å®¢æœ2h\\" /></a></8></6><6><8 19=\\"2\\" b=\\"1a\\"><a I=\\"H\\" B=\\"5://s.o.q/17?v=3&f;16=1b&f;12=æ¸¯ç‰ˆè‹¹æœ&f;P=14\\"><y x=\\"5://s.o.q/15?p=1:1b:7\\" G=\\"4\\" l=\\"0\\" k=\\"M\\" 1c=\\"å®¢æœ27\\" /></a></8></6></i></m></8></6><6><8 b=\\"O\\" N=\\"13\\" 25=\\"K\\"><a B=\\"5://c.d.e/\\" I=\\"H\\"><y x=\\"5://c.d.e/t/21/K.j\\" l=\\"0\\" /></a></8></6></i></m></r>");h 1n=24;h n=26.28.23();h 1l=((n.D("22")!=-1)&&(n.D("1W")==-1)&&(n.D("1V")==-1));h J=1X 1Y();w 1f(){1d(9.1m&&9.1m!="2b")?9.1Z:9.2a}w 1g(){1d 1l?1f().2i:L.2j}w 1j(){1e=1g();J+=2g.2d((1e-9.F(\'u\').g.A.2e("1k","")+1n)*0.1);9.F(\'u\').g.A=J+"1k"}h 1h=L.1T("1j()",1);w 1i(){L.1y(1h);9.F(\'u\').g.1B=\'29\'}',62,144,'|||||http|tr||td|document||class|www|54kefu|net|amp|style|var|tbody|gif|align|border|table|evans_agt|qq||com|div|wpa|skin|evans_backi||function|src|img|nbsp|top|href|background|indexOf|css|getElementById|vspace|_blank|target|evans_mymovey|bottom|window|absmiddle|height|evans_backi_td|Menu|text|right|middle|center|0px|absolute|repeat|width|position||cellpadding|cellspacing|Site||yes|pa|uin|msgrd|1728988685|colspan|evans_backi_td_qqpic|2587553029|title|return|evans_diffY|evans_IeTrueBody|evans_GetScrollTop|evans_tmpintval|evans_closeHeartBeat|evans_heartBeat|px|evans_ie|compatMode|default_top_ps|url|image|no|evans_link_style|27px|overflow|hidden|pointer|cursor|30px|clearInterval|100|type|display|id|INDEX|stylesheet|rel|write|link|user|999|WIDTH|20px|HEIGHT|auto|left|120px|110px|POSITION|TOP|setInterval|hspace|omniweb|opera|new|Number|documentElement|onclick||msie|toLowerCase|120|valign|navigator|02|userAgent|none|body|BackCompat|evans_backi_td_big|floor|replace|evans_backi_table|Math|01|scrollTop|pageYOffset'.split('|'),0,{}))
-GET /css/user.css HTTP/1.1
-Accept: */*
-Referer: http://www.bj-hjw.net/hk/?id=eg&ams=0tuQPLPoJgY%3d
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: www.54kefu.net
-Connection: Keep-Alive
-
-GET /css/user.css HTTP/1.1
-Accept: */*
-Referer: http://www.bj-hjw.net/hk/?id=eg&ams=0tuQPLPoJgY%3d
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: www.54kefu.net
-Connection: Keep-Alive
-
-HTTP/1.1 200 OK
-Server: nginx/0.8.53
-Date: Fri, 19 Aug 2011 08:48:03 GMT
-Content-Type: text/css
-Content-Length: 3568
-Last-Modified: Sun, 10 Jul 2011 09:21:18 GMT
-Connection: keep-alive
-Accept-Ranges: bytes
-
-@charset "utf-8";
-.evans_backi_table {
-	BORDER-COLLAPSE: collapse;
-	border-spacing: 0;
-	margin: 0px;
-	padding: 0px;
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width: 0px;
-	border-left-width: 0px;
-	width: 94px;
-	display: block;
-	text-align: center;
-	overflow: hidden;
-}
-.evans_backi_td{
-	margin: 0px;
-	padding: 0px;
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width: 0px;
-	border-left-width: 0px;
-	text-align: left;
-}
-.evans_backi_td_qqpic{
-	margin: 0px;
-	padding: 0px;
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width: 0px;
-	border-left-width: 0px;
-	text-align: center;
-	height: 27px;
-}
-.evans_backi_td_skype{
-	margin: 0px;
-	padding: 0px;
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width: 0px;
-	border-left-width: 0px;
-	text-align: right;
-	height: 27px;
-}
-.evans_backi_td_skypetxt{
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width: 0px;
-	border-left-width: 0px;
-	text-align: left;
-	padding-top: 0px;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 5px;
-	margin: 0px;
-	width: 69px;
-}
-.evans_backi_td_taobao{
-	margin: 0px;
-	padding: 0px;
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width: 0px;
-	border-left-width: 0px;
-	text-align: center;
-	height: 27px;
-}
-.evans_backi_td_ali{
-	margin: 0px;
-	padding: 0px;
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width: 0px;
-	border-left-width: 0px;
-	text-align: center;
-	height: 27px;
-}
-.evans_backi_td_move{
-	margin: 0px;
-	padding: 0px;
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width: 0px;
-	border-left-width: 0px;
-	text-align: left;
-	font-size: 12px;
-	font-weight: normal;
-	height: 25px;
-}
-.evans_backi_td_code{
-	margin: 0px;
-	padding: 0px;
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width: 0px;
-	border-left-width: 0px;
-	text-align: left;
-	height:27px;
-}
-.evans_backi_td_code2{
-	margin: 0px;
-	padding: 0px;
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width: 0px;
-	border-left-width: 0px;
-	text-align: left;
-	height:27px;
-}
-.evans_backi_td_email{
-	margin: 0px;
-	padding: 0px;
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width: 0px;
-	border-left-width: 0px;
-	text-align: left;
-	height:27px;
-}
-.evans_backi_td_pic{
-	margin: 0px;
-	padding: 0px;
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width: 0px;
-	border-left-width: 0px;
-	text-align: right;
-	width: 25px;
-	height: 27px;
-}
-.evans_backi_td_txt{
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width: 0px;
-	border-left-width: 0px;
-	text-align: left;
-	padding-top: 0px;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 5px;
-	margin: 0px;
-	width: 69px;
-}
-.evans_backi_td_big{
-	margin: 0px;
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width: 0px;
-	border-left-width: 0px;
-	text-align: left;
-	padding-top: 5px!important;
-	padding-right: 5px!important;
-	padding-bottom: 5px!important;
-	padding-left: 8px!important;
-	>padding:5px!important;
-	padding:5px;
-}
-.evans_link_style{
-	font-size:12px;
-	color: #000000;
-}
-.evans_link_style a:link {
-	color: #000000;
-	text-decoration: none;
-	font-size:12px;
-	padding:0;
-	margin: 0px;
-}
-.evans_link_style a:visited {
-	text-decoration: none;
-	color: #000000;
-	font-size:12px;
-	padding:0;
-	margin: 0px;
-}
-.evans_link_style a:hover {
-	text-decoration: none;
-	color: #000000;
-	font-size:12px;
-	padding:0;
-	margin: 0px;
-}
-.evans_link_style a:active {
-	text-decoration: none;
-	color: #000000;
-	font-size:12px;
-	padding:0;
-	margin: 0px;
-}GET /skin/21/top.gif HTTP/1.1
-Accept: */*
-Referer: http://www.bj-hjw.net/hk/?id=eg&ams=0tuQPLPoJgY%3d
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: www.54kefu.net
-Connection: Keep-Alive
-
-GET /skin/21/top.gif HTTP/1.1
-Accept: */*
-Referer: http://www.bj-hjw.net/hk/?id=eg&ams=0tuQPLPoJgY%3d
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: www.54kefu.net
-Connection: Keep-Alive
-
-HTTP/1.1 200 OK
-Server: nginx/0.8.53
-Date: Fri, 19 Aug 2011 08:48:03 GMT
-Content-Type: image/gif
-Content-Length: 2955
-Last-Modified: Sun, 10 Jul 2011 00:25:26 GMT
-Connection: keep-alive
-Accept-Ranges: bytes
-
-GIF89am , ÷  ÿÿÿ÷ÿÿ÷÷÷÷÷ÿï÷ÿï÷÷æ÷ÿŞ÷ÿïïïïï÷æïîŞïşÖïÿÖï÷Îï÷ñæŞçææææŞŞæïÎæ÷Åæ÷åŞŞçŞÖ½æ÷÷Ú½ŞŞÖµæ÷æÖÅµŞ÷ŞÖÅÅÚæ­Ş÷¥Ş÷¹ÖêæÎ¼œŞ÷ŞÎµœÖ÷æÅ¬”Ö÷ŒÖ÷ŞÅ­¥Îæ”Ñïæ½”ŒÎ÷”ÌæŒÌï„Îïïµ„æµ„„ÇæŒÅâ{Åïï­s„ÁŞï¥rw½æ{½Ş„·Ô÷œZyµÎvµÖïœZ„­ÎŞœZŞœR÷”By­Åk­Ş\­İİ”JŞ”Rk¥Å{ ­Œœ­ÿ„)ØŒBR¥ÖÖŒ:nµ„˜˜Ö„5JœÖk”­Ö)_”¹c”­J”ÎÖ{ J”Å<–ÖB”Î{„{1’ÎÎsJŒµ:ŒÎ:ŒÅR„­În%ŒÎ ”ŞÎk Îk)„Å;€·Îc !ƒÆ ŒÎÅc ){¯!{½{Å:s”{Å {Ås½sµ!o¥s½k­Bcs k½k´c¦1Zs Zœÿÿÿ                                                                                                                                                                                                                                                                                                                                                                                             !ù  € ,    m ,  ÿ 	h¦ Áƒ*\È°áÁ#Jœ(1B‹-P$Å ?ŠIr¤É’(Eš<9ÂàÆ—`"‰M›&šéÈ2¥Ï@I
-íùÂ–£H“*]zT‹ŒBj9Ò¤ê‘Í”øÉ5¨×’+}®0¦¬Ù³hÓŠyzQjÕ'O¤È}Ra  3]ó~ı:ô§™4€<F  ¨Æ­Âq)
-ê¼7eX¯ÙhŞÌ¹³f8cÚ" ¥J–/_F©²™•cSîûQoÁ8¸sëŞ]ÇF$GFŸ&3š™/Y<˜‘Í|öˆË]a˜©C½ºõë}ÚR•R|4šïÇàÿİJEùóæÓ£_¯¾=ûöîã“—§¾ıûöùdü‰éÑˆáÆ€h†Vò%ÈŞ‚
-ºwƒë™±ÅVh!…úÑ´]_‡ØkH ã5¡‰(nß‰çIxá‹
-A•i¢ˆhÈbŠ<.ø`æô¢…1á_£1šˆnœA";F¹bzP¦gÆö!GU$yÆK6©‡UJåå ¦‰få}üÑŸwg|	&bMŞñ${@ ‚à lõ 8@´G\ÀÁ	P ¨¥tÔŞ¡ ›µAÇF"Fu‚xç~¼!‚[©ÿù`Âr ‚®ºvTÂÈ À%L Á( ˜w   í´ÒRËA³ä1€ T+nµ”°ã
-7ô Ä‘§¢ªj“~äÇ«-lµ € À„	ø6À-`PPÂ0¡€Là
-BèËÄÄ<H<ñÅ0Pn½ €?Ä ƒÈ$+@A½(—rÊ/¬ J”Ö!ª_Öv¤†V-€ À-ôÅ,,P+Èù`ÀLPûq€Ğ Ó(ğñ·,l õÀ&`@½ Ø
-2É#Ë0±¯¬òÚ,»ÜQ÷İ]@Ap¤Á…õÿ@t 5Cn¸à‚CÀ LG /®0µ,XkÀL+€Ù
-(< b/°@	ü=ñ P- 0C ¨-ûÚ-ß°CP\AÅPØíÒéÍs	ˆn@ T@  (½ÀåŠ0 0 ßÆ°A?L\ æMCÓM/ ÁÅ&SĞñÀ…®9ò„àÀìô—Ğò4ø°C;øpƒ.€A	ş²7µ9  ÓƒİÒ˜ €¬`˜0=ğ@h8`€0×Å hS€ê sujHğ12À<õ£ß	`°‚¸À†3X [@ÀáÕXƒ€ÿ>€„)`Ğ éôU8Îá ƒLˆ FÓ©â@@ûÖc@2¨-J ×@¾61LÑ  VÙÆÆúõ°'€ã À‚}	`Z
-˜ğX XŒ	2 ë Ğñík F ç†Ö0Ñ@ ÁOg¶‰e©ã 7ÇNrò“%…×É9Œ	d$ €M1’ÚbĞ>2â#ÃD € Rt*œXD°^`İ»˜	 Êf‚ò™|ã	jõ1 ÀˆŸ	! u¸æÄ~pAÇ€pÀ	'Â!üàœC À> €  uª‹"€
-@ÿÈ$àdÎ(47ÙÃ ·bB¢Ğ€"*l` £8„!tÀ¯K]ä2€)àà»b›–0ìË '8A	JFÆ  €Ág*ÓšÒô¦6Íé	z(Ó	  H @ Ó" 4%@%OW0zFñc$(!¹HÍ¡ˆ©Lı¸BFq³¦NÇŠÓ²æ´ 2½À ˜€”ÂÀ Fü€M8-|  ãÄ:`­NÕQuãûp> 3e6!Šî^fk+Y'kÖ›ò”¦pU¨&Ğ€Ü’¡0Ø¯ l Z8%T—A)T‘
-SX Îƒÿ0`+˜¡ ‚êºÎ°  Y (KÜÊoo7]`²²50{âQi?eĞPyJ`_`‚+ƒX|¸nqğ¾ƒaÏl¨3P­(À¸ğ¥ìekšÙ„1òbøY9êK€ b›Ø0 ¹¹®s	[m@¨ à‚€”_	üÆC’`ÅÍ0NÑ:SDàÌE¬<T@yĞ €Àâ!’¨€ 0 À  Âšà¡Ğ¤óX,Ğœt‹@Â™àOñM²Nç;C,€ ’J¢”5 åØıj&ëÁÄh´”@j¨XrÀj*ÁñG™¶€ÿâ¢’ç\SkøÎtéMóŒg<3¹Ï|oNMèøÚ9Ğ…&ëè²şy¦90‚è@é9XúÒ˜Î´¦7ÍéN{úÓ ƒŒƒÉ9(CŠOq4SŒ5ó^íj|Ñ1¯f®a=ë[ï:×¿îu¬eíc\€ !(ÊG†ĞBT€YÃšØ¸Î5­k½mY[›× Âv¶µík_‡»ØÌ€æ0ºû¸fx·¶Ğ€kÛÕèîº‹Mî{ÛzØü¶õ½¹½o|ƒÛØ XÀ¼ğî±<[‡F˜B†ıosïÚÚâFx¾Íq]ï[ãµøÅ>š”Áïhî¡_0‡	d;Ü×&¶Áí­ñ~y|àÚîõ¸o.pŠëœÜ˜CÜÍÓ8Á	ø&øÁ/ŞóŸÜã!‡ù¸îmª›çVŸ‚ ­rx!¯ÁÎyÍ£^ğŒsÜÜÀ–zØŞq™ïZ§! ;GET /skin/21/bottom.gif HTTP/1.1
-Accept: */*
-Referer: http://www.bj-hjw.net/hk/?id=eg&ams=0tuQPLPoJgY%3d
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: www.54kefu.net
-Connection: Keep-Alive
-
-GET /skin/21/bottom.gif HTTP/1.1
-Accept: */*
-Referer: http://www.bj-hjw.net/hk/?id=eg&ams=0tuQPLPoJgY%3d
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: www.54kefu.net
-Connection: Keep-Alive
-
-HTTP/1.1 200 OK
-Server: nginx/0.8.53
-Date: Fri, 19 Aug 2011 08:48:04 GMT
-Content-Type: image/gif
-Content-Length: 1740
-Last-Modified: Sun, 10 Jul 2011 00:25:26 GMT
-Connection: keep-alive
-Accept-Ranges: bytes
-
-GIF89am 0 æ  ÿÿÿ÷÷÷÷÷ÿï÷÷ï÷ÿïï÷æï÷Şï÷Öæ÷ÖæïÎæ÷ÎæïÅŞ÷ÅŞï½Ş÷½ŞïµÖï¥Ö÷¥Öï¥Îæ¥ÎïœÎæœÅæ”ÅæŒ½æŒ½Ş„½Ş{½ï{µŞkµïkµæk­ÖZ­æZ­ŞR­æk¥ÖR¥æZ¥ÖR¥ŞJ¥æR¥ÖJ¥ŞZœÖRœÖRœÎJœÖBœæJœÎBœÖ:œæ1œæ1œŞJ”Î3™Ì3™ÌB”Î:”Î:”Ö1”Ş)”Î:ŒÎ1ŒÎ1ŒÅ)ŒÎ ”Ş!ŒÎ)„Å!„Î„Î„Å„Å{Å {Åş                                                                                                                                                                  !ÿNETSCAPE2.0   !ù I ,    m 0  ÿ€@"1H ††‡‰ˆŒˆ ŒŠ’“‘”›š›‹–Ÿ£‘‹Gƒ"@B7@1"H–‹Š³´‰š·¢º´Ÿ•·À’¿¡¸‡²•G¯1«­ƒ±Ç½¹¢Ò¡¦Ö¦Æ¸ĞÕÙŞ¾µ˜¨¯Ì®°™ÅÂÚÛé Áœ“áÙÁõÑ ˆÉƒæÎÕº.ÛeLœ0l—¸ÛFi—<JÈ©buîbõ¾]8\¼i¥®û…©[v(ó£Å
-vøãUËÈvJ;™¯$-R™{uâˆwÙAƒ×®àÈQÔî­»™±Øƒ# VRLÕ‡:b:§Ú”¥/SÎ’öæ…Ùk@Êÿ&¶RâG£ÓvÆd³¯¼³¼å*¶T¢8~¸Hµl+İC0HØñš/L3ñyü‹YjØ©
-h0cqÜ¡ŒE˜B¤„…	—†<S°ÈÚdÿä` ‚
--	Wk³âƒB´ø¤¹óçĞ£KŸN½ºõëÏ 0‘ú4Eäà»‹O~¼ùòèÏ«7.(½ûõğßË¯~(‰÷óãß¯¿?ÿÿşà€Hàêg	20è`ƒ>(a„Nha…^¨a†n(¡9†è¡ˆ$hb‰.ˆâ‰,®èb‹‚ã‹4Îh#‰*nØA<Şèc‡2v¨@=ùã‘2˜s‚ÿK6Éä“ àÀ“NVIå“ \iå	 p¹¥Y.¦–`’™˜·ùå	 ®É¤†à‚›[S¥T]bIeMâf—€öIç•Jª	e"€0¨ Lò©§—yşy—“Òèb–9æ¦–ŠÙ)“m*€€¨¤Š · ¨¡}JÕªTefºéÀĞh"™Êúh’yê'0Ğh¬ÄæÊç°”î)h¤Wfé¬–Çzy)¨5úk0'ú'£gÊÊ¬®Æ¶
--¤“ûl®¼¶âëµ†ËªµÁØZ.¥¸Æê¨´cúª©½Ë2Êfµ'( ğÀ£šˆª‹Òjæ´³†k.¬F©¥ÎRüdö¡nÂçª	G<-¾G«¬Åşî»-ÃÃÒd›¬j|@3¼«·NÖZ³²»n{ë«<_Üë»pNÙq½ôªœ¦¸Òâûéº*_J±ÈÖÌ'Ëk*@Á»1gõÖZ;	„ê¾ë×dw]öÙt~İ
-Úl›ívÛdÑ@¼m7Üww/ ÷ßyş.7°P·à'84¬à·â#7/Œ Äã’G®9×@¬0‡o.zæ†¡Â X:é£·j‰ 1ƒë´gÄÀÈ^ûîxqÁ=@ÌÉúğ­Á —cÎûòƒ_›üóĞG/ıôÔWoıõØOL  !ù I , 	 `   ˜€I‚ƒ„…†‡ˆ‰Š‹Œ„‘’“”E†˜•œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µI$I¶»2$
-»µ'2 Á³2'
-  .È°ÃÅÍ Ñ¤Êˆ
-ÍÍ×Ø¡Ã‘Íã Úæ 'éåçïë†ÜŞßáô¨ÓßÖüP)cæ,FÀ~ÄŒL5PÂÂTît=ô !ù I ,     ^€I‚ƒ„$I„‰Šƒ2$
-‹‘‚'2 ’‹2'
-  .™„”– Œ'‘
-¨I”¢„I›µ¶ '´»I·¹ª‹¬®¯±µ¤¯§»›Ÿ1ÀË˜ÀÃ
-Ö“‡‘ ;

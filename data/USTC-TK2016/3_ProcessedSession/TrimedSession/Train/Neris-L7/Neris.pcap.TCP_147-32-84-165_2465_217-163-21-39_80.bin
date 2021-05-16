@@ -1,9 +1,0 @@
-GET /st?ad_type=ad&ad_size=120x600&section=1699512 HTTP/1.1
-Accept: */*
-Referer: http://yourfunnytube.com/
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: ad.yieldmanager.com
-Connection: Keep-Alive
-Cookie: BX=cn9i1ih74757k&b=4&s=oq&t=222; uid=uid=3f91c0a0-c3f5-11e0-a9d4-e79782f4b120&_hmacv=1&_salt=2056837655&_keyid=k1&_hmac=3a94e5a46225bd4c8c48743ed955a5aedb674f31; bh="b!!!!.!#/a/!!!!$=0*jD!#bA]!!!!/=0*hb!#dA)!!!!0=0*mH!#dNf!!!!-=0*kH!#eOU!!!!5=0*iE!#eu?!!!!<=0*nT!$(7i!!!!9=0*ld!$(7j!!!!8=0*n(!$(7l!!!!:=0*n>!$(7n!!!!+=0*m_!$(7y!!!!2=0*k_"; ih="b!!!!G!$`u>!!!!$=0*PS!)9aI!!!!#=0*@P!)9ac!!!!%=0*YH!.DXy!!!!#=0*=G!/0H`!!!!#=0*kH!0E)=!!!!#=0*@j!1>9=!!!!#=0*j0!1V$X!!!!$=0*F!!1u4u!!!!#=0*Z:!2(<+

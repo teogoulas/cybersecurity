@@ -1,9 +1,0 @@
-GET /bmiddle/4jJ2SMb94oOrHGr9NeEHhpSHYney8TFU.jpg HTTP/1.1
-Host: ww4.sinaimg.cn
-Connection: keep-alive
-Accept: image/webp,*/*;q=0.8
-User-Agent: Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-Referer: http://www.weibo.com/u/9231713023/home?wvr=5
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-

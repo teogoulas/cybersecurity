@@ -1,4 +1,0 @@
-220 default
-USER anonymous
-331 Password required for anonymous
-PASS jobs@server.com

@@ -1,8 +1,0 @@
-GET /js/jquery.metadata.js HTTP/1.1
-Host: objava-oglasa.bolha.com
-Accept: */*
-User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
-Referer: http://objava-oglasa.bolha.com/oddaj.php?katid=8
-Accept-Encoding: gzip, deflate, sdch
-Accept-Language: en-US,en;q=0.8
-Cookie: _btcid=e07db2115d3c44e9b48d5637a6ab9e27f713a2eb; xtvrn=$413864$; bolha:allow_cookies=all; bolha:user_dedicated=2015-03-03T18%3A08%3A00Z; __utmt=1; BOLHA_SSID=jjb44d5op5lq7beo3hkmi8pg85; __utma=55484472.1732593393.1424736125.1425472905.1425485476.12; __utmb=55484472.8.10.1425485476; __utmc=55484472; __utmz=55484472.1425406116.10.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=227899075.667043496.1425343627.1425343627.1425486366.2; 

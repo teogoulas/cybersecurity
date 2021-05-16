@@ -1,6 +1,0 @@
-GET / HTTP/1.0
-Host: 174.128.246.102
-Keep-Alive: 300
-Connection: keep-alive
-User-Agent: Microsoft Internet Explorer/4.0b1 (Windows 95)
-

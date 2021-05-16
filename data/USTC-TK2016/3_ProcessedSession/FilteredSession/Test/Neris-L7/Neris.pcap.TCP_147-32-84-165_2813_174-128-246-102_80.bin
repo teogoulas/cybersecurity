@@ -1,6 +1,0 @@
-GET / HTTP/1.0
-Host: 174.128.246.102
-Keep-Alive: 300
-Connection: keep-alive
-User-Agent: Opera/7.23 (Windows 98; U) [en]
-

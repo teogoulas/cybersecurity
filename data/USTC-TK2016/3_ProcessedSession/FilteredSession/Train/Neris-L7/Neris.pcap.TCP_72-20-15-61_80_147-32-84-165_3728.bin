@@ -1,6 +1,0 @@
-GET / HTTP/1.0
-Host: 72.20.15.61
-Keep-Alive: 300
-Connection: keep-alive
-User-Agent: Mozilla/4.0 (compatible; MSIE 5.0; SunOS 5.9 sun4u; X11)
-

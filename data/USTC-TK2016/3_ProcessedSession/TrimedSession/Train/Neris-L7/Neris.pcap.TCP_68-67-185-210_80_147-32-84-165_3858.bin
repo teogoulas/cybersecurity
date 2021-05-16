@@ -1,9 +1,0 @@
-GET /ptj?member=88&size=160x600&inv_code=1787313&referrer=http://m1.mediasrv.net/www/delivery/afr.php%3Fzoneid=1361%26ad_size=160x600%26section=116990&redir=http%3A%2F%2Fad.yieldmanager.com%2Fst%3Fanmember%3D88%26anprice%3D%7BPRICEBUCKET%7D%26ad_type%3Dad%26ad_size%3D160x600%26section%3D1787313 HTTP/1.1
-Accept: */*
-Referer: http://m1.mediasrv.net/www/delivery/afr.php?zoneid=1361&ad_size=160x600&section=116990
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: ib.adnxs.com
-Connection: Keep-Alive
-Cookie: sess=1; uuid2=7828826173434890453; icu=ChII38cCEAoYBCAEKAQwlLaO8gQKEgjioAMQChgBIAEoATCLrY7yBBCUto7yBBgE; anj=Kfu=8fG4S]cvjr/?0P(*AuB-u**g1:XIFC`EhzW9a'`jX3pm]7$$h]t[jdf!=P#svd'y/Pg:-C9>1JD(VI

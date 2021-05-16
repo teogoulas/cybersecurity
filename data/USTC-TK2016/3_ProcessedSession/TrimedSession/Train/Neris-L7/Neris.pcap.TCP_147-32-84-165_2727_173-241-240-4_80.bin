@@ -1,7 +1,0 @@
-GET /afr.php?zoneid=828&cb=1313053609 HTTP/1.1
-Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
-Referer: http://ad.yieldmanager.com/iframe3?41gtBFZRHQBBJY0AAAAAAD2VIwAAAAAAAAAAAAYAAAAAAAEABwAFDPo.KwAAAAAAtK4uAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACMUhEAAAAAAAIAAgAAAAAA..-.PiYc2T7..78-JhzZPgAAAAAAAAAA..-ficrsBD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhLgKbDoCMCq6E20js0zGS0w87MnTDuuDMYNZCAAAAAA==,,http%3A%2F%2Fads.creafi-online-media.com%2F,B%3D10%26Z%3D728x90%26_salt%3D1216783199%26r%3D0%26s%3D1921366,2ecff864-c3f9-11e0-badd-ab80790c1d69
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: ads.c

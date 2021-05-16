@@ -1,6 +1,0 @@
-GET / HTTP/1.0
-Host: 72.20.15.61
-Keep-Alive: 300
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/0.4.154.25 Safari/525.19
-

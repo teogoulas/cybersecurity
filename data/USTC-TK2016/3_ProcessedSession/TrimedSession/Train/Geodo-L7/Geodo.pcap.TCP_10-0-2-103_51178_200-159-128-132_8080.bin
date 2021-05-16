@@ -1,24 +1,0 @@
-POST /83736aa6/806782973/ HTTP/1.1
-Accept: */*
-User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
-Host: 200.159.128.132:8080
-Content-Length: 198
-Connection: Keep-Alive
-Cache-Control: no-cache
-
-‹ø˜:×‹KŞö5ƒTÓ3Ğª¤>4BWFĞpÊt·…n—–>$JÑvq'GÂ† Aı§•Tı@
-ŠøÖ”&t8-–ÖÕĞVfów¢”ÍYøÍšı,÷ë›ªJ…©&Ë‹Óñ­Õég5€Iˆğ.µU‰HŠìiDÖäw§ ×Xàü1Ş‚ÁlÀ?;m´o‰ïÚxsá-ÃEñËKµKÏ:LPİTòt•ÂW£ñØ ˜?]ä6(X¤±”EHTTP/1.1 504 Gateway Time-out
-Server: nginx
-Date: Sun, 10 May 2015 15:22:06 GMT
-Content-Type: text/html
-Content-Length: 578
-Connection: keep-alive
-
-<html>
-<head><title>504 Gateway Time-out</title></head>
-<body bgcolor="white">
-<center><h1>504 Gateway Time-out</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
-<!-- a padding to disable MSI

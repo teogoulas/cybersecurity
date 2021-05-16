@@ -1,960 +1,0 @@
-GET /inter/new_sxd/sxd_14/reg.aspx?uid=614&data=1%7c2011-08-19+16%3a51%3a18%7c614%7c1%7c4923c29f-74f2-410b-84da-9c1a92b1717d%7c147.32.84.192%7c%7c%7c HTTP/1.1
-Accept: */*
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: up5.kuwan8.com
-Connection: Keep-Alive
-Cookie: sdliwercosdfwer=1|2011-08-19 16:51:18|614|1|4923c29f-74f2-410b-84da-9c1a92b1717d|147.32.84.192|||
-
-GET /inter/new_sxd/sxd_14/reg.aspx?uid=614&data=1%7c2011-08-19+16%3a51%3a18%7c614%7c1%7c4923c29f-74f2-410b-84da-9c1a92b1717d%7c147.32.84.192%7c%7c%7c HTTP/1.1
-Accept: */*
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: up5.kuwan8.com
-Connection: Keep-Alive
-Cookie: sdliwercosdfwer=1|2011-08-19 16:51:18|614|1|4923c29f-74f2-410b-84da-9c1a92b1717d|147.32.84.192|||
-
-HTTP/1.0 200 OK
-Date: Fri, 19 Aug 2011 08:51:26 GMT
-Server: Microsoft-IIS/6.0
-X-Powered-By: ASP.NET
-X-AspNet-Version: 2.0.50727
-Cache-Control: private
-Content-Type: text/html; charset=utf-8
-Content-Length: 11579
-Node: MISS from CNTC-ZJ-29.196
-Via: 1.0 CNTC-ZJ-29.196:80 (CUWEBCACHE/1.4.0.3)
-Connection: keep-alive
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html  xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>è€å©†ä¸åœ¨å®¶ç©çš„æ¿€æƒ…æ¸¸æˆ è®©ä½ æ¬²ç½¢ä¸èƒ½ï¼</title>
-<meta  http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<meta name="Keywords" content="ç¥ä»™é“å®˜æ–¹ç½‘ç«™_é…·ç©å§_é…·ç©æœ€æ–°æ¬¾RPGç½‘é¡µæ¸¸æˆ"> 
-<META NAME="Description" CONTENT="ç¥ä»™é“,ç¥ä»™é“å®˜ç½‘,ã€Šç¥ä»™é“ã€‹æ˜¯é…·ç©çš„æ–°æ¬¾RPGç½‘é¡µæ¸¸æˆã€‚æ¸¸æˆæ‰“ç ´äº†æ—§æœ‰RPGæ¸¸æˆç¹ççš„æ‰“æ€ªå‡çº§æ¨¡å¼ï¼Œé‡‡ç”¨äº†å…¨æ–°çš„è®¾è®¡ç†å¿µï¼Œæåº¦ç®€åŒ–ç©å®¶çš„æ“ä½œæ–¹å¼ã€‚æ¸¸æˆä¸­å§‹ç»ˆè´¯ç©¿ç€å¤§æ°”ç£…ç¤´çš„å‰§æƒ…ä¸»çº¿ï¼Œå…¶ä¸­çš„å‘½æ ¼ç³»ç»Ÿæ›´æ˜¯è®©ç©å®¶è€³ç›®ä¸€æ–°ã€‚">
-<style type="text/css">
-DIV .hiddenReg {DISPLAY: none;}
-DIV .hiddenReg_1 {DISPLAY: none;}
-DIV .showWaitReg{float:left;width:1000px; background:url(img/showwait.jpg) no-repeat center; position:absolute; top:158px; margin:0 auto; z-index:5; height:300px;display:block}
-body {background-color: #000;margin:0px; font-size:12px; color:#ff0000;}
-.a { padding:0 0 0 16px;}
-.mine{ margin:0 auto; width:900px; }
-a img {filter:Alpha(opacity=90);-moz-opacity:0.5;opacity:0.5;  }
-a:hover img {filter:Alpha(opacity=100);-moz-opacity:0.8;opacity:0.8;}
-</style>
-<script src="../../Scripts/swfobject_modified.js" type="text/javascript"></script>
-</head>
-<script src="../../js/common.js" type="text/javascript"></script>
-<script src="../../js/ajax_bbs.js" type="text/javascript"></script>
-    <script type="text/javascript" language="javascript">
-	var profile_username_toolong = '<img src=\'../img/no.png\'/>ç”¨æˆ·åè¿‡é•¿ã€‚';
-	var profile_username_tooshort = '<img src=\'../img/no.png\'/>ç”¨æˆ·åè¿‡çŸ­ã€‚';
-	var profile_username_pass = "<img src='../img/yes.png'/>";
-	var ok_UserName  = false;
-	var ok_UserPass  = false;
-	var ok_Email  = false;
-	
-	function checkusername(username)
-	{
-		var unlen = username.replace(/[^\x00-\xff]/g, "**").length;
-		if(unlen < 6 || unlen > 20) {
-			$("check_user_ret").innerHTML =(unlen < 6 ? profile_username_tooshort : profile_username_toolong);
-			ok_UserName = false;
-			return;
-		}
-		ajaxRead("../../tools/ajax.ashx?act=checkusername&username=" + escape(username), "showcheckresult(obj,'" + username + "');");
-	}
-	function showcheckresult(obj, username)
-	{
-		var res = obj.getElementsByTagName('result');
-		var resContainer = $("check_user_ret");
-		var result = "";
-		if (res[0] != null && res[0] != undefined)
-		{
-			if (res[0].childNodes.length > 1) {
-				result = res[0].childNodes[1].nodeValue;
-			} else {
-				result = res[0].firstChild.nodeValue;
-			}
-		}
-		if (result == "1")
-		{
-			resContainer.innerHTML = "<img src=\'../img/no.png\'/><font color='red'>å·²ç»è¢«äººä½¿ç”¨ã€‚</font>";
-			ok_UserName = false;
-		}
-		else if (result == "2")
-		{
-			resContainer.innerHTML = "<img src=\'../img/no.png\'/><font color='red'>åªèƒ½ä¸º6~20å­—ç¬¦ï¼Œä¸èƒ½ä»¥æ•°å­—å¼€å¤´ã€‚</font>";
-			ok_UserName = false;
-		}
-		else
-		{
-			resContainer.innerHTML = profile_username_pass;
-			ok_UserName = true;
-		}
-	}
-	
-	function checkpasswd(o)
-	{
-		var pshowmsg;
-		if(o.value.length<6)  {
-		   pshowmsg="<img src='../img/no.png'/><span>å°‘äº6ä¸ªå­—</span>";
-		   ok_UserPass = false;
-		} else {
-		   pshowmsg="<img src='../img/yes.png'/>";		   
-		}
-		$('check_pass_ret').innerHTML = pshowmsg;
-	}
-	function checkSetting()
-	{
-		if ($('receiveuser').checked)
-		{
-			$('showhint').disabled = false;
-		}
-		else
-		{			
-			$('showhint').checked = false;
-			$('showhint').disabled = true;
-		}
-	}
-    function checkdoublepassword()
-    {
-        var pw1=$('t_UserPass').value;
-        var pw2=$('t_RePass').value;
-        if(pw1=='' &&  pw2=='')
-        {
-            return;
-        }
-        var str;
-        if(pw1!=pw2)
-        {
-            str ="<img src='../img/no.png'/>å¯†ç ä¸ä¸€è‡´";
-            ok_UserPass = false;
-        }
-        else
-        {
-            str="<img src='../img/yes.png'/>";
-            ok_UserPass = true;
-        }
-        $('check_repass_ret').innerHTML=str;
-    }
-    
-	function checkemail(strMail)
-	{
-        if(CheckMail(strMail)) 
-         {
-            str="<img src='../img/yes.png'/>"
-            ok_Email = true;
-         }
-		 else
-		 {
-		    str="<img src='../img/no.png'/>E-mail åœ°å€ã€‚";
-            ok_Email = false;
-         }
-      $('check_email_ret').innerHTML=str;
-	}
-	
-	function OnSubmit()
-	{
-	    if (!ok_UserName)
-	    {
-	        alert("è¯·å¡«å†™æ­£ç¡®çš„ç”¨æˆ·åï¼");
-	        return;
-	    }
-	    if (!ok_UserPass)
-	    {
-	        alert("è¯·æ­£ç¡®å¡«å†™å¯†ç ï¼");
-	        return;
-	    }
-//	    if ($('t_CheckCode').value == '')
-//	    {
-//	        alert("éªŒè¯ç ä¸èƒ½ä¸ºç©ºï¼");
-//	        return;
-//	    }
-	document.getElementById('wait').className = "showWaitReg";
-        $('form1').submit();
-	}
-	
-    function ctlent(evt)
-    {
-        var  k=window.event?evt.keyCode:evt.which;
-	    if(k==13)
-	    {
-	        OnSubmit();
-	    }
-    }
-    </script>
-    
-
-        
-<body>
-<div style="margin:0px auto; width:1000px;" >
-<div id="wait" class="hiddenReg_1"></div>
-<div id="regWindows" class="hiddenReg"  style="float:left;width:1000px; position:absolute; top:158px; margin:0 auto; z-index:4; background:url(img/regWindow.jpg) no-repeat center;height:300px">
-
-	<div style="width:342px; margin:0px 0 0 360px; +margin-top:-20px">
-                <TABLE border=0 cellSpacing=0 cellPadding=0 width="342" align="center" height="294">
-                <form name="form1" method="post" action="reg.aspx?uid=614&amp;data=1%7c2011-08-19+16%3a51%3a18%7c614%7c1%7c4923c29f-74f2-410b-84da-9c1a92b1717d%7c147.32.84.192%7c%7c%7c" id="form1" onkeypress="ctlent(event);">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTc1MDQxNzg0M2Rk8iTIYPpOLKQa2HF+JxVtvWj5S1M=" />
-</div>
-
-                  <TBODY>
-                  <TR>
-                    <TD height=30 width=133>&nbsp;</TD>
-                    <TD height="25" colspan="2">&nbsp;</TD>
-                    </TR>
-                  <TR>
-                    <TD height=30 colspan="3">&nbsp;</TD>
-                    </TR>
-                  <TR>
-                    <TD height=25 align="right" style="color:#000000; font-size:12px;"><strong>ç”¨&nbsp;&nbsp;æˆ·&nbsp;&nbsp; åï¼š</strong></TD>
-                    <TD colSpan=2><SPAN style="DISPLAY: none" id=username_tip>ç”¨æˆ·å</SPAN> 
-                    <input name="t_UserName" type="text" id="t_UserName" maxlength="20" size="14" onblur="checkusername(this.value);" />            <span id="check_user_ret" style="color:#ff0000; font-size:12px;" ></span>
-                    </TD>
-                  </TR>
-                  <TR>
-                    <TD height=20 colspan="2" align="center" style="color: #CCC; font-size:12px;">&nbsp;</TD>
-                    <TD width="218" height=20 align="left" style="color: #CCC; font-size:12px;"><font color="#ff0000">* 6~20ä¸ªå­—ç¬¦,è‹±æ–‡æˆ–æ•°å­—</font></TD>
-                    </TR>
-                  <TR>
-                    <TD height=25 align="right" style="color:#000000; font-size:12px;"><strong>è®¾ ç½® å¯† ç ï¼š</strong></TD>
-                    <TD colSpan=2><SPAN style="DISPLAY: none" id=pwd_tip>å¯†ç </SPAN>
-                    <input type="password" class="input" id="t_UserPass" name="t_UserPass" maxlength="20" onblur="return checkpasswd(this);" size=16 /><span id="check_pass_ret" style="color:#ff0000; font-size:12px;" ></span>            </TD>
-                  </TR>
-                  <TR>
-                    <TD height=15 colspan="2" align="center" style="color:#CCC; font-size:12px;">&nbsp;</TD>
-                    <TD height=15 align="left" style="color:#ccc; font-size:12px;"><font color="#ff0000">* 6~12ä½ï¼Œå­—æ¯åŒºåˆ†å¤§å°å†™</font></TD>
-                    </TR>
-                  <TR>
-                    <TD height=25 align="right" style="color:#000000; font-size:12px;"><strong>ç¡® è®¤ å¯† ç ï¼š</strong></TD>
-                    <TD colSpan=2><SPAN style="DISPLAY: none" id=checkPwd_tip>ç¡®è®¤å¯†ç </SPAN> 
-                    <input type="password" class="input" id="t_RePass" name="t_RePass" maxlength="20"
-                        onblur="checkdoublepassword();" size=16 /><span id="check_repass_ret" style="color:#ff0000; font-size:12px;" ></span></TD></TR>
-                 
-                  
-                  <TR>
-                    <TD height=15 align="right" style="color:#000000; font-size:12px;"></TD>
-                    <TD height=15 colspan="2" align="left" style="color:#ccc; font-size:12px;"><font color="#ff0000">* è¯·å†æ¬¡ç¡®è®¤æ‚¨çš„å¯†ç ï¼</font></font></TD>
-                    </TR>
-               <!--   <TR>
-                    <TD height=25 align="right" style="color:#000000; font-size:12px;"><strong>éªŒ&nbsp;&nbsp;è¯&nbsp;&nbsp; ç ï¼š</strong></TD>
-                    <TD height=20 colspan="2">
-                    <input name="t_CheckCode" class="input_cs5" id="t_CheckCode" type="text" maxlength="4"size="8" />
-                    <img src="../../../comm/Image.aspx?" width="70" onClick="this.src+=Math.random()" alt="å›¾ç‰‡çœ‹ä¸æ¸…ï¼Ÿç‚¹å‡»é‡æ–°å¾—åˆ°éªŒè¯ç " 
-                    style="cursor:pointer;" height="23" hspace="4" />
-                    </TD>
-                    </TR>-->
-                  <TR valign="middle">    
-                    <TD colSpan=3 align="center" valign="middle">
-                    <a href="#"><img border="0" src="img/reg_btn_r1_c2.gif" width="150" height="35" onclick="javascript:OnSubmit();" /></a><!--<a href="http://www.yolong.com/" style="color:#000; text-decoration:none; margin-left:20px;" target="_blank"><b>è¿›å…¥å®˜ç½‘</b></a>--></TD>
-                  </TR>
-                  
-<div>
-
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKFiNrwCwL1j8e9AUc1q2WZZVTI3BoxhpqQXMM7ceiP" />
-</div></form>
-                </TBODY></TABLE>
-         </div>
-         
-  </div>
-    <div style="width:1000px; height:600px; z-index:1;">
-<div class="mine">
-<div align="fl"></div>
-</div>
-</div>
-
-  <div style="width:1000px; position:absolute; top:0px; z-index:2;">
-
-
-
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="1000" height="600" id="flash_contant" name="flash_contant">
-        <param name="movie" value="index.swf" />
-        <param name="quality" value="high" />
-        <param name="wmode" value="transparent" />
-        <param name="wmode" value="opaque" />
-        <param name="menu" value="false" />
-        <param name="AllowScriptAccess" value="always" />
-        <param name="FlashVars" value="act=adsreg.php&sendparam=%26gameid%3D8&swfpath=/astd/52/images/" />
-        <embed src="index.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="1000" height="600" wmode="transparent" name="flash_contant"></embed>
-      </object>
-
-  </div>
-    
-</div>
-<script type="text/javascript" language="javascript"> 
-function showRegWindows(){
-						document.getElementById('regWindows').className = "showReg";
-					}
-
-</script>
-
-<script language='javascript' src='http://www.naqigs.com/API/Track.aspx?TrackID=104&TrackStep=1'></script>
-
-</body>
-</html>
-GET /inter/js/common.js HTTP/1.1
-Accept: */*
-Referer: http://up5.kuwan8.com/inter/new_sxd/sxd_14/reg.aspx?uid=614&data=1%7c2011-08-19+16%3a51%3a18%7c614%7c1%7c4923c29f-74f2-410b-84da-9c1a92b1717d%7c147.32.84.192%7c%7c%7c
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: up5.kuwan8.com
-Connection: Keep-Alive
-Cookie: sdliwercosdfwer=1|2011-08-19 16:51:18|614|1|4923c29f-74f2-410b-84da-9c1a92b1717d|147.32.84.192|||
-
-GET /inter/js/common.js HTTP/1.1
-Accept: */*
-Referer: http://up5.kuwan8.com/inter/new_sxd/sxd_14/reg.aspx?uid=614&data=1%7c2011-08-19+16%3a51%3a18%7c614%7c1%7c4923c29f-74f2-410b-84da-9c1a92b1717d%7c147.32.84.192%7c%7c%7c
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: up5.kuwan8.com
-Connection: Keep-Alive
-Cookie: sdliwercosdfwer=1|2011-08-19 16:51:18|614|1|4923c29f-74f2-410b-84da-9c1a92b1717d|147.32.84.192|||
-
-HTTP/1.0 200 OK
-Content-Length: 4429
-Content-Type: application/x-javascript
-Last-Modified: Tue, 11 Aug 2009 04:47:20 GMT
-Accept-Ranges: bytes
-ETag: "f4b84cf3e1aca1:855"
-Server: Microsoft-IIS/6.0
-X-Powered-By: ASP.NET
-Date: Tue, 09 Aug 2011 13:41:50 GMT
-Age: 2
-Node: HIT from CNTC-ZJ-29.196
-Via: 1.0 CNTC-ZJ-29.196:80 (CUWEBCACHE/1.4.0.3)
-Connection: keep-alive
-
-function $(id) {
-	return document.getElementById(id);
-}
-
-function htmlEncode(source, display, tabs)
-{
-    function special(source)
-    {
-	    var result = '';
-	    for (var i = 0; i < source.length; i++)
-	    {
-		    var c = source.charAt(i);
-		    if (c < ' ' || c > '~')
-		    {
-			    c = '&#' + c.charCodeAt() + ';';
-		    }
-		    result += c;
-	    }
-	    return result;
-    }
-    function format(source)
-    {
-	    // Use only integer part of tabs, and default to 4
-	    tabs = (tabs >= 0) ? Math.floor(tabs) : 4;
-	    // split along line breaks
-	    var lines = source.split(/\r\n|\r|\n/);
-	    // expand tabs
-	    for (var i = 0; i < lines.length; i++)
-	    {
-		    var line = lines[i];
-		    var newLine = '';
-		    for (var p = 0; p < line.length; p++)
-		    {
-			    var c = line.charAt(p);
-			    if (c === '\t')
-			    {
-				    var spaces = tabs - (newLine.length % tabs);
-				    for (var s = 0; s < spaces; s++)
-				    {
-					    newLine += ' ';
-				    }
-			    }
-			    else
-			    {
-				    newLine += c;
-			    }
-		    }
-		    // If a line starts or ends with a space, it evaporates in html
-		    // unless it's an nbsp.
-		    newLine = newLine.replace(/(^ )|( $)/g, '&nbsp;');
-		    lines[i] = newLine;
-	    }
-	    // re-join lines
-	    var result = lines.join('<br />');
-	    // break up contiguous blocks of spaces with non-breaking spaces
-	    result = result.replace(/  /g, ' &nbsp;');
-	    // tada!
-	    return result;
-    }
-    var result = source;
-    // ampersands (&)
-    result = result.replace(/\&/g,'&amp;');
-    // less-thans (<)
-    result = result.replace(/\</g,'&lt;');
-    // greater-thans (>)
-    result = result.replace(/\>/g,'&gt;');
-    if (display)
-    {
-	    // format for display
-	    result = format(result);
-    }
-    else
-    {
-	    // Replace quotes if it isn't for display,
-	    // since it's probably going in an html attribute.
-	    result = result.replace(new RegExp('"','g'), '&quot;');
-    }
-    // special characters
-    result = special(result);
-    // tada!
-    return result;
-}
-
-function CheckMail(strMail)
-{
-    var str;
-	if(strMail.length==0) return false; 
-	var objReg = new RegExp("[A-Za-z0-9-_]+@[A-Za-z0-9-_]+[\.][A-Za-z0-9-_]") 
-	var IsRightFmt = objReg.test(strMail) 
-	var objRegErrChar = new RegExp("[^a-z0-9-._@]","ig") 
-	var IsRightChar = (strMail.search(objRegErrChar)==-1) 
-	var IsRightLength = strMail.length <= 60 
-	var IsRightPos = (strMail.indexOf("@",0) != 0 && strMail.indexOf(".",0) != 0 && strMail.lastIndexOf("@")+1 != strMail.length && strMail.lastIndexOf(".")+1 != strMail.length) 
-	var IsNoDupChar = (strMail.indexOf("@",0) == strMail.lastIndexOf("@")) 
-    if(IsRightFmt && IsRightChar && IsRightLength && IsRightPos && IsNoDupChar) 
-     {
-        return true;
-     }
-	 else
-	 {
-        return false;
-     }
-}
-
-function ShowCheckCodeImg()
-{
-    var numkey = Math.random();
-    numkey = Math.round(numkey*10000);
-    document.write("<img src=\"/comm/Image.aspx?k="+ numkey +"\" width=\"70\" onClick=\"this.src+=Math.random()\" alt=\"å›¾ç‰‡çœ‹ä¸æ¸…ï¼Ÿç‚¹å‡»é‡æ–°å¾—åˆ°éªŒè¯ç \" style=\"cursor:pointer;\" height=\"23\" hspace=\"4\"");
-}
-
-function addFavorite()
-{
- if (document.all)
-    {
-       window.external.addFavorite('http://www.kuwan8.com','é…·ç©å§,ç½‘é¡µæ¸¸æˆ,æ¸¸æˆ,ç½‘é¡µæ¸¸æˆå¹³å°,æ¸¸æˆè¿è¥å¹³å°');
-    }
-    else if (window.sidebar)
-    {
-       window.sidebar.addPanel('é…·ç©å§-ç½‘é¡µæ¸¸æˆ', 'http://www.kuwan8.com', "");
- }
-}
-
-function setKuwanHomepage()
-{
- if (document.all)
-    {
-        document.body.style.behavior='url(#default#homepage)';
-        document.body.setHomePage('http://www.kuwan8.com');
-    }
-    else if (window.sidebar)
-    {
-        if(window.netscape)
-        {
-         try
-         {  
-            netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");  
-         }  
-         catch (e)  
-         {  
-            alert( "è¯¥æ“ä½œè¢«æµè§ˆå™¨æ‹’ç»ï¼Œå¦‚æœæƒ³å¯ç”¨è¯¥åŠŸèƒ½ï¼Œè¯·åœ¨åœ°å€æ å†…è¾“å…¥ about:config,ç„¶åå°†é¡¹ signed.applets.codebase_principal_support å€¼è¯¥ä¸ºtrue" );  
-         }
-        }
-        var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
-        prefs.setCharPref('browser.startup.homepage','http://www.kuwan8.com');
-    }
-}
-GET /inter/js/ajax_bbs.js HTTP/1.1
-Accept: */*
-Referer: http://up5.kuwan8.com/inter/new_sxd/sxd_14/reg.aspx?uid=614&data=1%7c2011-08-19+16%3a51%3a18%7c614%7c1%7c4923c29f-74f2-410b-84da-9c1a92b1717d%7c147.32.84.192%7c%7c%7c
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: up5.kuwan8.com
-Connection: Keep-Alive
-Cookie: sdliwercosdfwer=1|2011-08-19 16:51:18|614|1|4923c29f-74f2-410b-84da-9c1a92b1717d|147.32.84.192|||
-
-GET /inter/js/ajax_bbs.js HTTP/1.1
-Accept: */*
-Referer: http://up5.kuwan8.com/inter/new_sxd/sxd_14/reg.aspx?uid=614&data=1%7c2011-08-19+16%3a51%3a18%7c614%7c1%7c4923c29f-74f2-410b-84da-9c1a92b1717d%7c147.32.84.192%7c%7c%7c
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: up5.kuwan8.com
-Connection: Keep-Alive
-Cookie: sdliwercosdfwer=1|2011-08-19 16:51:18|614|1|4923c29f-74f2-410b-84da-9c1a92b1717d|147.32.84.192|||
-
-HTTP/1.0 200 OK
-Content-Length: 9858
-Content-Type: application/x-javascript
-Last-Modified: Tue, 16 Nov 2010 07:08:19 GMT
-Accept-Ranges: bytes
-ETag: "3e1e8dc5d85cb1:855"
-Server: Microsoft-IIS/6.0
-X-Powered-By: ASP.NET
-Date: Tue, 09 Aug 2011 13:41:50 GMT
-Age: 3
-Node: HIT from CNTC-ZJ-29.196
-Via: 1.0 CNTC-ZJ-29.196:80 (CUWEBCACHE/1.4.0.3)
-Connection: keep-alive
-
-ï»¿var Ajaxs = new Array();
-var AjaxStacks = new Array(0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-var attackevasive = 1;
-function Ajax(recvType, waitId) {
-	for(var stackId = 0; stackId < AjaxStacks.length && AjaxStacks[stackId] != 0; stackId++);
-	AjaxStacks[stackId] = 1;
-
-	var aj = new Object();
-	aj.loading = 'Loading...';//public
-	aj.recvType = recvType ? recvType : 'XML';//public
-	aj.waitId = waitId ? $(waitId) : null;//public
-	aj.resultHandle = null;//private
-	aj.sendString = '';//private
-	aj.targetUrl = '';//private
-	aj.stackId = 0;
-	aj.stackId = stackId;
-	aj.setLoading = function(loading) {
-		if(typeof loading !== 'undefined' && loading !== null) aj.loading = loading;
-	}
-	aj.setRecvType = function(recvtype) {
-		aj.recvType = recvtype;
-	}
-	aj.setWaitId = function(waitid) {
-		aj.waitId = typeof waitid == 'object' ? waitid : $(waitid);
-	}
-	aj.createXMLHttpRequest = function() {
-		var request = false;
-		if(window.XMLHttpRequest) {
-			request = new XMLHttpRequest();
-			if(request.overrideMimeType) {
-				request.overrideMimeType('text/xml');
-			}
-		} else if(window.ActiveXObject) {
-			var versions = ['Microsoft.XMLHTTP', 'MSXML.XMLHTTP', 'Microsoft.XMLHTTP', 'Msxml2.XMLHTTP.7.0', 'Msxml2.XMLHTTP.6.0', 'Msxml2.XMLHTTP.5.0', 'Msxml2.XMLHTTP.4.0', 'MSXML2.XMLHTTP.3.0', 'MSXML2.XMLHTTP'];
-			for(var i=0; i<versions.length; i++) {
-				try {
-					request = new ActiveXObject(versions[i]);
-					if(request) {
-						return request;
-					}
-				} catch(e) {}
-			}
-		}
-		return request;
-	}
-	aj.XMLHttpRequest = aj.createXMLHttpRequest();
-	aj.showLoading = function() {
-		if(aj.waitId && (aj.XMLHttpRequest.readyState != 4 || aj.XMLHttpRequest.status != 200)) {
-			changedisplay(aj.waitId, '');
-			aj.waitId.innerHTML = '<span><img src="' + IMGDIR + '/loading.gif"> ' + aj.loading + '</span>';
-		}
-	}
-	aj.processHandle = function() {
-		if(aj.XMLHttpRequest.readyState == 4 && aj.XMLHttpRequest.status == 200) {
-			for(k in Ajaxs) {
-				if(Ajaxs[k] == aj.targetUrl) {
-					Ajaxs[k] = null;
-				}
-			}
-			if(aj.waitId) changedisplay(aj.waitId, 'none');
-			if(aj.recvType == 'HTML') {
-				aj.resultHandle(aj.XMLHttpRequest.responseText, aj);
-			} else if(aj.recvType == 'XML') {
-				aj.resultHandle(aj.XMLHttpRequest.responseXML.lastChild.firstChild.nodeValue, aj);
-			}
-			AjaxStacks[aj.stackId] = 0;
-		}
-	}
-	aj.get = function(targetUrl, resultHandle) {
-		setTimeout(function(){aj.showLoading()}, 500);
-		if(in_array(targetUrl, Ajaxs)) {
-			return false;
-		} else {
-			Ajaxs.push(targetUrl);
-		}
-		aj.targetUrl = targetUrl;
-		aj.XMLHttpRequest.onreadystatechange = aj.processHandle;
-		aj.resultHandle = resultHandle;
-		var delay = attackevasive & 1 ? (aj.stackId + 1) * 1001 : 100;
-		if(window.XMLHttpRequest) {
-			setTimeout(function(){
-			aj.XMLHttpRequest.open('GET', aj.targetUrl);
-			aj.XMLHttpRequest.send(null);}, delay);
-		} else {
-			setTimeout(function(){
-			aj.XMLHttpRequest.open("GET", targetUrl, true);
-			aj.XMLHttpRequest.send();}, delay);
-		}
-	}
-	aj.post = function(targetUrl, sendString, resultHandle) {
-		setTimeout(function(){aj.showLoading()}, 500);
-		if(in_array(targetUrl, Ajaxs)) {
-			return false;
-		} else {
-			Ajaxs.push(targetUrl);
-		}
-		aj.targetUrl = targetUrl;
-		aj.sendString = sendString;
-		aj.XMLHttpRequest.onreadystatechange = aj.processHandle;
-		aj.resultHandle = resultHandle;
-		aj.XMLHttpRequest.open('POST', targetUrl);
-		aj.XMLHttpRequest.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-		aj.XMLHttpRequest.send(aj.sendString);
-	}
-	return aj;
-}
-
-function createXMLHttp() {
-	if(window.XMLHttpRequest){
-		return new XMLHttpRequest();
-	} else if(window.ActiveXObject){
-		return new ActiveXObject("Microsoft.XMLHTTP");
-	} 
-	throw new Error("XMLHttp object could be created.");
-}
-
-function _sendRequest(url,func,isxml,postdata)
-{
-	var xhr=createXMLHttp();
-	if(!postdata)postdata=null;
-	xhr.open(postdata?"POST":"GET",url,true);
-	if (postdata)
-	{
-		xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-	}
-	if(func){
-		xhr.onreadystatechange=function(){
-			if(xhr.readyState==4){
-				func(isxml&&xhr.responseXML?xhr.responseXML:xhr.responseText)
-			}
-		}
-	}
-	if (postdata === true)
-	{
-		postdata = '';
-	}
-	xhr.send(postdata)
-}
-function ajaxRead(file,fun){
-	var xmlObj = createXMLHttp();
-
-	xmlObj.onreadystatechange = function(){
-		if(xmlObj.readyState == 4){
-			if (xmlObj.status ==200){
-				obj = xmlObj.responseXML;
-				eval(fun);
-			}
-			else{
-				alert("è¯»å–æ–‡ä»¶å‡ºé”™,é”™è¯¯å·ä¸º [" + xmlObj.status  + "]");
-			}
-		}
-	}
-	xmlObj.open ('GET', file, true);
-	xmlObj.send (null);
-}
-
-function getRequestBody(oForm) {
-	var aParams = new Array();
-	for (var i=0 ; i < oForm.elements.length; i++) {
-		/*
-		if (oForm.elements[i].type == "checkbox" && oForm.elements[i].checked == false)
-		{
-			continue;
-		}
-		*/
-		var sParam = encodeURIComponent(oForm.elements[i].name);
-		sParam += "=";
-		sParam += encodeURIComponent(oForm.elements[i].value);
-		aParams.push(sParam);
-	}
-	return aParams.join("&");
-}
-
-
-function getSpecificNodeValue(doc, tagname, index)
-{
-	try{
-		var oNodes = doc.getElementsByTagName(tagname);
-		if (oNodes[index] != null && oNodes[index] != undefined)
-		{
-			if (oNodes[index].childNodes.length > 1) {
-				return oNodes[index].childNodes[1].nodeValue;
-			} else {
-				return oNodes[index].firstChild.nodeValue;    		
-			}
-		}
-	}
-	catch(e){}
-	return '';
-}
-
-function getSingleNodeValue(doc, tagname)
-{
-	try{
-		var oNodes = doc.getElementsByTagName(tagname);
-		if (oNodes[0] != null && oNodes[0] != undefined)
-		{
-			if (oNodes[0].childNodes.length > 1) {
-				return oNodes[0].childNodes[1].nodeValue;
-			} else {
-				return oNodes[0].firstChild.nodeValue;    		
-			}
-		}
-	}
-	catch(e){}
-	return '';
-}
-
-var evalscripts = new Array();
-function evalscript(s) {
-
-	if(s.indexOf('<script') == -1) return s;
-
-	var p = /<script[^\>]*src=\"([^\x00]+?)\"[^\>]*( reload=\"1\")?><\/script>/ig;
-
-	var arr = new Array();
-
-	while(arr = p.exec(s)) appendscript(arr[1], '', arr[2]);
-
-	p = /<script[^\>]*( reload=\"1\")?>([^\x00]+?)<\/script>/ig;
-
-	while(arr = p.exec(s)) appendscript('', arr[2], arr[1]);
-
-	return s;
-
-}
-
-function appendscript(src, text, reload) {
-	var id = hash(src + text);
-	if(!reload && in_array(id, evalscripts)) return;
-
-	if(reload && $(id)) {
-
-		$(id).parentNode.removeChild($(id));
-
-	}
-
-	evalscripts.push(id);
-
-	var scriptNode = document.createElement("script");
-
-	scriptNode.type = "text/javascript";
-
-	scriptNode.id = id;
-
-	try {
-
-		if(src) {
-
-			scriptNode.src = src;
-
-		} else if(text){
-
-			scriptNode.text = text;
-
-		}
-
-		$('append_parent').appendChild(scriptNode);
-
-	} catch(e) {}
-
-}
-
-function hash(string, length) {
-
-	var length = length ? length : 32;
-
-	var start = 0;
-
-	var i = 0;
-
-	var result = '';
-
-	filllen = length - string.length % length;
-
-	for(i = 0; i < filllen; i++){
-
-		string += "0";
-
-	}
-
-	while(start < string.length) {
-
-		result = stringxor(result, string.substr(start, length));
-
-		start += length;
-
-	}
-
-	return result;
-
-}
-
-function stringxor(s1, s2) {
-
-	var s = '';
-
-	var hash = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
-
-	var max = Math.max(s1.length, s2.length);
-
-	for(var i=0; i<max; i++) {
-
-		var k = s1.charCodeAt(i) ^ s2.charCodeAt(i);
-
-		s += hash.charAt(k % 52);
-
-	}
-
-	return s;
-
-}
-
-function ajaxmenu(e, ctrlid, timeout, func, cache, duration, ismenu, divclass, optionclass) {
-	showloading();
-
-	if(jsmenu['active'][0] && jsmenu['active'][0].ctrlkey == ctrlid) {
-		doane(e);
-		return;
-	} else if(is_ie && is_ie < 7 && document.readyState.toLowerCase() != 'complete') {
-		return;
-	}
-
-	if(isUndefined(timeout)) timeout = 3000;
-	if(isUndefined(func)) func = '';
-	if(isUndefined(cache)) cache = 1;
-	if(isUndefined(divclass)) divclass = 'popupmenu_popup';
-	if(isUndefined(optionclass)) optionclass = 'popupmenu_option';
-	if(isUndefined(ismenu)) ismenu = 1;
-	if(isUndefined(duration)) duration = timeout > 0 ? 0 : 3;
-	var div = $(ctrlid + '_menu');
-
-	if(cache && div) {
-		showMenu(ctrlid, e.type == 'click', 0, duration, timeout);
-		if(func) setTimeout(func + '(' + ctrlid + ')', timeout);
-		doane(e);
-	} else {
-		if(!div) {
-			div = document.createElement('div');
-			div.ctrlid = ctrlid;
-			div.id = ctrlid + '_menu';
-			div.style.display = 'none';
-			div.className = divclass;
-			$('append_parent').appendChild(div);
-		}
-
-		var x = new Ajax();
-		var href = !isUndefined($(ctrlid).href) ? $(ctrlid).href : $(ctrlid).attributes['href'].value;
-		x.div = div;
-		x.etype = e.type;
-		x.get(href + '&inajax=1&ajaxmenuid='+ctrlid+'_menu', function(s) {
-			evaled = false;
-			if(s.indexOf('ajaxerror') != -1) {
-				evalscript(s);
-				evaled = true;
-				if(!cache && duration != 3 && x.div.id) setTimeout('document.body.removeChild($(\'' + x.div.id + '\'))', timeout);
-			}
-
-			if(!evaled && (typeof ajaxerror == 'undefined' || !ajaxerror)) {
-				if(x.div) x.div.innerHTML = '<div class="' + optionclass + '">' + s + '</div>';
-				showMenu(ctrlid, x.etype == 'click', 0, duration, timeout);
-				if(func) setTimeout(func + '("' + ctrlid + '")', timeout);
-			}
-			if(!evaled) evalscript(s);
-			ajaxerror = null;
-			showloading('none');
-		});
-		doane(e);
-	}
-}
-
-function showloading(display, wating) {
-	var display = display ? display : 'block';
-	var wating = wating ? wating : 'Loading...';
-	$('ajaxwaitid').innerHTML = wating;
-	$('ajaxwaitid').style.display = display;
-	$('ajaxwaitid').style.left = ((document.documentElement.clientWidth - $('ajaxwaitid').offsetWidth)/ 2) + 'px';
-	$('ajaxwaitid').style.top = document.documentElement.scrollTop + 'px';
-}GET /inter/new_sxd/sxd_14/img/reg_btn_r1_c2.gif HTTP/1.1
-Accept: */*
-Referer: http://up5.kuwan8.com/inter/new_sxd/sxd_14/reg.aspx?uid=614&data=1%7c2011-08-19+16%3a51%3a18%7c614%7c1%7c4923c29f-74f2-410b-84da-9c1a92b1717d%7c147.32.84.192%7c%7c%7c
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: up5.kuwan8.com
-Connection: Keep-Alive
-Cookie: sdliwercosdfwer=1|2011-08-19 16:51:18|614|1|4923c29f-74f2-410b-84da-9c1a92b1717d|147.32.84.192|||
-
-GET /inter/new_sxd/sxd_14/img/reg_btn_r1_c2.gif HTTP/1.1
-Accept: */*
-Referer: http://up5.kuwan8.com/inter/new_sxd/sxd_14/reg.aspx?uid=614&data=1%7c2011-08-19+16%3a51%3a18%7c614%7c1%7c4923c29f-74f2-410b-84da-9c1a92b1717d%7c147.32.84.192%7c%7c%7c
-Accept-Language: en-us
-Accept-Encoding: gzip, deflate
-User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Host: up5.kuwan8.com
-Connection: Keep-Alive
-Cookie: sdliwercosdfwer=1|2011-08-19 16:51:18|614|1|4923c29f-74f2-410b-84da-9c1a92b1717d|147.32.84.192|||
-
-HTTP/1.0 200 OK
-Content-Length: 4081
-Content-Type: image/gif
-Last-Modified: Tue, 07 Dec 2010 09:30:36 GMT
-Accept-Ranges: bytes
-ETag: "062067f195cb1:855"
-Server: Microsoft-IIS/6.0
-X-Powered-By: ASP.NET
-Date: Tue, 16 Aug 2011 10:00:32 GMT
-Age: 2188
-Node: HIT from CNTC-ZJ-29.196
-Via: 1.0 CNTC-ZJ-29.196:80 (CUWEBCACHE/1.4.0.3)
-Connection: keep-alive
-
-GIF89a– # æ Ó—ˆüôŠşünµzjfOÌM şúìÕ¤•§™×ÑÌì±kÁŠxøÈ¸­:ËtZH·ƒo·E‰ÖŒ3ûô0¢N1ıúÙ‘fSq(
-ıú ĞÇ¿š+ıù\ŒUHŒG9µ¥4
-wüı´í½²àhíÒ–C üûHŸ2şùÅË¸¥ˆ"õÜzÓal>.×«qÓ{0Ã‘‚¡gXî×ÃşëŞ²l[Ğ“}pZ=·s`Êºa¤Z@ÔÓ-¾dIªbM~ÔÆJĞÊ‰¾´åµœ:üïbò™i„SoĞÀ˜(ãÍsúìH]ƒpº`6şè Ë²3¢qW°’<âÒHÉ‰p—„)´¤JÈÎ²üï´Ì‰{º¡kŸB!ùü ŸslU/ğöĞìtÉƒ8’‡rıãÏ‹!0gëèØ¤wEyíèBŸ0´mJo#ŒxU\	”3Q¹O&öå_¿<İ[ã¼O°‘lÒqîäÁ€ræí¿¼Ç-•ÿÿÿ!ù   ,    – #  ÿ€‚3†‡ˆ‰W‰	‡	‘’“”•–—˜™š›”‰ˆˆ*‡**‘‚*Q  ±B³BB#·#º»»¼#ÁÁÀÂÅÆÇÈÉÊËÌÍ¾¾¿¶¶±´¯6YyT{<ŞŞB©­TTYé¯1 °²ñòóôõö÷øùğñğûùæ½`#Æµ,{¶u«áÍ‰9[†°a€yœKg# CŠh£$I‚MìX²%Ê0_¦ƒfÊ–8sšt‰sfKlcxôØ³æÏƒY¨p[êí¡:PD`Ã
-‡6aì9G%O5Š-itçÇ,×®Ìƒ­ë‚tTÿbœó:·ë9sxÌq½» oß½€¹fãš.]ßÂˆ¦¢÷­_sŠ“&Üö­éCè4hPa6.â€0 áãÓ`S§>ŒÀš`]P6oŒ=YúâN£/„Ã	"ÔfnA6 (‡°Õ´ï¼»³Ô|2Â=~ÿğ¶tîßL'0 t=tè¨À~KD6Èy†ıÉX¾<¯_ğÅ0@:¸pÁd@fxÑÁ xá wû•æ]¸Ğ…€¸Y5Ş’A.€ƒ.¸ Ã€`‚	€\i	ápİ=¸à…Èâƒ8„§ŸŒúé‡Cçñ ^ÿ{ï¡àÇ¼À†èõÀlXU$y2ŠÈŸrØ ¤&\àBo1¸0‚
-b¨¨Â]xĞyù!Ù†:–VÃ¢õ™_Š)vá Xš0x&’Gœ¹¦]|àGZEŸH"‰N¬W{k”aª¨ÒQNt zlğÀ’]ø‰Ã ·rÉs&fƒ1Ğ@C1Æ ÅÑEE¸Ğƒ2ìÙƒUg’b´Óâg«cĞ ¡	Ñ BqTd€,:¢f˜ğ­»˜1²kÀh›e¦V©¨îm‚©e¬€ªCÁ†ÿR‰Ğvªm‘_*W›ÿX`
-^tÑ|q…b òŒ]\ 2:¸pA
-BCÅÍ8k¯&h€Ê.Ü`À€`´»g2Š!*\€ñĞB=F™7×‡F}5°!Czÿì©+¼‚wøÑ€”rT j×=>m›â°¨£Êáƒ6|pÁ)„,¡. r…XğÅ.tP¦Êôaá1« £4«|éF¡#²g Æ¨h †
-£"µ‹*T³ÈŠaèÜPò±ß€]]%×ÿ2iÄCˆ=¶eñ°çA®v]eo/z«rÄ,&tk€©‡ŒÊ†ƒoÿ Ü°wå:~®ÒíûQÈĞ…‡†|ø_ä¾÷c€à…c0€á8,¨ |^xÜ`& 	W8xVz. ƒ°‡=C€CÁ¶‚¤Áw¸ƒñ¶¼åuÀ‚jûz¢u$ıü¦&×ƒ 7ƒxAÚ™Æğg€ hè@opƒ×!kfÀÀ	—h¹˜A/ºá4FÅŠ AKàL @»€CöÌ€u4 €zp„@O=ô€·à8ØQx” E(¥!l»à ¹…‡8áq–ÒÔ F‹$º à†ˆ bB
-R <ˆÿp€KQÈä¤ @0äÈJ9bÀ"àCA ÁEµp,š@Ì@*ù,\á¹Læ&…ğ 9ê	˜4#"<2ÜÁi@Bp‡5(luü#Ò‚#!e°£ÉN8$pØ€`3< €àÖÑ°  €@)ø‚"ù 0áoˆCğ€äò.@è
-…2Ÿ_àÃKòò”XÀB
-ø‚©1Ôè¨øù„€&³£@ ‚ğ &¼	f
-¶Ó®kêV0Onúà¨ 7ÙĞ€-Ášo0g$Ô$alOÿ]’8u!ğR~Š@
-»l‚2 X!°Â.½ÀP„¾á®q A	D ¸–€‹½ë‘¦€\p}?eª1,Àu  ˜¨:ÒSÂ•,(¦¼`C..4dğAVĞS®J€§•Ài¹º°nóÜÜfÂØ¼4˜“	Gğ¼zÔršó·G•@†š[;2á1åg.Ë×b®5±XxAEz„7´!.pl Dm¸«MÃ” yİîb™.³^PèB …S¦€­.ªD°Y><eÂS·¹!´VÛLğ6} wúÁ·
-ö&ÿ6`ÛßNuIØ WFTßJ•Aíi}PĞ*Àu¹Ûåîv3  à	P@dû3€ }-Á¸;/Dö
-nÃ`†f¶
-}m/L€*p§f`”àb  ¯e¬Àİ x 8-jÖ@‡•Á~XA|6 T°J¶	ãÁ
-Ş|c˜«@jüĞÛ#P•ÌÄ$–W+T¡
-?ànªƒ/º
-F¬`Ğîb¡	Mè²ZÎ¢ÚS
-Oˆhæ€däà9`w•pjX7ÊH@š P/¨ø	Ü•Bd“ˆZ?U›a½ÃV…ŠáøÀ‡ÌVjxÿ0OØ†u«!27ïpZ¡¢JO26fîp])¨º
-Fëƒ¬oĞEp e¨Bà…)˜›F+A‹Ğ„‡w° J€ Ö}ÈÀ–`nì¸ÍkÌíoƒ`X2 À2A«cÖ°ıÀÕ#XÁ§µæ›Öƒ¢AØdS°ÊCÈñb³¹§ÚT¨~›üCƒ€‹hÀ¹#YŠ2¡ÑævÑ s(!¢÷>¥ç  4 @8°ƒä@'À~`W+Ô`8„ÀE<øÛè\ŒìÌ°Ut|Ìkà³h[g“mømœ›=m©šùÍnùOİÂÿ#8L sh BÓÆĞŠÍ
- B ¤P×äü'XÔ½Ğ€ŞRH¼ÔO„»˜ jÏ«	Ô ïH~	 @8@{"K(° õõ;“Ğa[ğ!,gâ,gßœÎ>İ•VÕªöÁ'¯qB¿å'˜»È&@Ãæ€î¼Î×86·L°ĞŠš`
- ×|¤Š œ`&(Á	ô ‚ÜŸ¡™F°WWègnsğ~´Gp°x/ğBàj°U6zÔg¦|Îæ[ÉgË¦GÑöA¦r
-dÒ6}iÀ& @‡ M‹ç"€ ¹ç»TQí¦ÿ\°?`OÅPĞx\À öD@.¸K0D Fƒ K  £`TÈ„ŠC P°}' š·‚A°‚'€Q&‚h˜†H5wqÆg˜×´†ÁmtH‡ØäoÀsp‰wæz%€zu`( %ÀPJ@Cˆ•P7U^j0„' fHˆM °P †D`FàAy _L  x‘%~Xw3È‡DÈ‚RöÜD<uX‹vT!\ÁµË¶Ö§G¿8<Øf}~ğ‹ÄHTÀv JàFˆD°‚ÒÈ‚}ˆ{5U,ÀvpPfpSLãÅ ÿ…v0zfĞ, h zRPÇM€ ŠÈDŒkwSaÀLLà,°+ˆn/bş˜xH ÉˆTÆŒ	i}c#c½¨U¨rU¨ÒAiv0™‘ÖAL`,@ 	d/ˆ$Y’&‰M€SL@ ağ"öt‚i“mĞRæ.¸vL`ƒM`€€¹g°C&pSõdRÆiğ e ;’Eæ"ˆGz nã”w‘i0dàO–iÖAd)ËÖ kÆfk–aiÙ–Ú¶ff30âxY9X€%iøÆÙÔ|´É¨•&(°[KÉ” …TuSâ%e<`ÿÉ(âˆd†NIô ãTS!eQÆ:àRfÙ”mj¹fğá–kVmi–Ğ ;µ S>ÕS²9›²¹t°e<p•i`†9	eõ”Q†f¸UaZÄ‰[¥–p@ÉÉ›d ZfšmDÉø^ eÉYi ãœÄ	šÁy‚›)eeÀe /G›ì9›À³SC`–{ ›QŸöyŸ÷ø©Ÿú	<e00DœZ9Nà—ª•aC0SO²S¬¹­¹g+a¨ÙZÂ“D–š /—–`#6*6º¡ÿ‰Ÿ&jŸšš0  B0PA0J£1zÿ£8š£0º°™›ƒ
-¤Á<DªSC°1J£šÁš=U¤=¤P
-<MÅŸGZ¤wdGş© ( ¥:Ú¥P 4úPQNğÀ-P jº¦lÚ¦nú¦Pkú¥9*vÊŸ1:§mš¦qÚ¦tÊ¦tê¥8
-§ ¨ü)_J¨Šº§a
-3 u©’:©”Z©“J˜š©-©œJ-°©Ú©$ £
-¤jª¨šª¦*ª¬ú©®úª®Z¬Ê©®J«°Z-`©º:©Ÿ©`  
-g a0p¬È:Êº¬Ê
-à¬Ì­Ò­a0ÕZ¬ÖZ­Óº­ÜÚ­Êz­ŞN®ÅZ¬È
-­áÊ¬ÈZĞ9ª°
-3PB  òZE ¯
-P¯÷j¯úº¯üÚ¯şú¯
- ò*°°{°«¯/à¯øÚ°óú°òZ¤
-  ;

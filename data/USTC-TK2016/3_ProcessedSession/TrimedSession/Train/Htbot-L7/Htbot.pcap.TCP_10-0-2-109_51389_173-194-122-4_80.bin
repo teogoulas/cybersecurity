@@ -1,9 +1,0 @@
-GET /gen204?nca=te_li&client=te_lib&logld=v26 HTTP/1.1
-Host: translate.google.com
-Accept: image/webp,*/*;q=0.8
-User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
-X-Client-Data: CKW1yQEIibbJAQiitskBCKm2yQEIxLbJAQjsiMoBCNGUygEYq4nKAQ==
-Referer: http://objava-oglasa.bolha.com/oglas_upsell.php?id=1297575467
-Accept-Encoding: gzip, deflate, sdch
-Accept-Language: en-US,en;q=0.8
-Cookie: PREF=ID=fba9623200cb1b1a:U=ce5469d1ac40853f:FF=0:LD=en:TM=1421620137:LM=1421710884:GM=1:S=8O6A6_VNFBPCtagi; SID=DQAAAAkBAABMFkad_xzR_O5SBrxqj7fQ3YZMaqPAlTjigw15OxVrv6-4m7EJRBi41JDElmZ0wyn5-K-yB19kJh9tIImxAYXEgZA5bmzAWkeTbLgHNMmyP2SViKt6DbXTBUOroWfhjfe39DOLlzU1jc47onK-cIwi-R_ZL1CfwT8CtFCELBJE2_wWH3zoAMl78BBnuQ-GjHVnTcrBFp_

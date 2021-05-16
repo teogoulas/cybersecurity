@@ -1,6 +1,0 @@
-GET / HTTP/1.0
-Host: 193.23.181.44:179
-Keep-Alive: 300
-Connection: keep-alive
-User-Agent: Mozilla/1.22 (compatible; MSIE 2.0; Windows 95)
-

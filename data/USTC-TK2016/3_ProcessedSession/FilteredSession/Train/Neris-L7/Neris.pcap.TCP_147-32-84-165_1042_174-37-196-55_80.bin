@@ -1,6 +1,0 @@
-GET / HTTP/1.0
-Host: 174.37.196.55
-Keep-Alive: 300
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.0.7) Gecko/20060909 Firefox/1.5.0.7
-

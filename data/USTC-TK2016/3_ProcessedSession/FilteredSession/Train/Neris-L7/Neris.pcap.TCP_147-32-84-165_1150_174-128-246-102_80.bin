@@ -1,6 +1,0 @@
-GET / HTTP/1.0
-Host: 174.128.246.102
-Keep-Alive: 300
-Connection: keep-alive
-User-Agent: Mozilla/4.1 (compatible; MSIE 5.0; Symbian OS; Nokia 6600;452) Opera 6.20 [ru]
-

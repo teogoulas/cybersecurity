@@ -1,5 +1,0 @@
-220 jin.felk.cvut.cz NO UCE NO UBE NO RELAY PROBES ESMTP
-EHLO User
-250 jin.felk.cvut.cz Hello 147.32.83.56, nice to meet you
-AUTH LOGIN
-504 Unrecognized authentication type
